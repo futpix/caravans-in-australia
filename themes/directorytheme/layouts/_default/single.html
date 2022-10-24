@@ -1,0 +1,278 @@
+ 
+ {{ define "main" }}
+
+ 
+
+
+
+
+{{ if in .Params.categories "Latest"  }}
+
+
+ <div class="bgImageElementWhite">
+ </div>
+ <div class="clearfix"></div>
+ <div class="container subTopMarginHeader singlePost">
+ 	<div class="row">
+ 		<div class="col-lg-8">
+ 			<div class="spFeature articleContent">
+ 				<h2 class="articleHeader">{{ .Title }}</h2>
+ 				<div class="row">
+ 					<div class="col-sm-12">{{ range .Params.tags | first 1 }}
+ 						<strong>  
+ 						<a href="/tags/{{ . | urlize }}/" class="">{{ . }}</a> 
+ 						</strong>
+ 						 {{ end }}
+ 					</div>
+ 					<div class="col-sm-12">
+ 						<span class="blogAuthor">beachesinaustralia.com</a></span>
+ 					</div>
+ 					<div class="col-sm-12 tagsBlog">
+ 						{{ range .Params.tags }}
+ 						<a href="/tags/{{ . | urlize }}/" class="btn btn-outline-dark">#{{ . }}</a> 
+ 						{{ end }}
+ 					</div>
+ 					<div class="col-sm-12 socialsCol">
+							<a href="#" class="btn btn-sm btn-primary facebook"><span><i class="fa fa-facebook"></i></span>Facebook</a>
+	  						<a href="#" class="btn btn-sm btn-primary twitter"><span><i class="fa fa-twitter"></i></span>Twitter</a>
+	  						<a href="#" class="btn btn-sm btn-primary linkedin"><span><i class="fa fa-linkedin"></i></span>Linkedin</a>
+ 					</div>
+ 					
+ 				</div>
+ 				<hr />
+ 				<div class="articleWrapper">	
+ 					<p class="introPara">{{ .Params.intro }}</p>
+ 					<div class="articleFeatureImage">
+ 						<img src="/images/places/spinner ({{ .Params.id }}).jpg" class="img-fluid" height="800" width="800" alt="Article Image" />
+ 					</div>
+ 					{{ .Content }}
+ 						<!-- THIS PUTS A SEE ALSO LINK AFTER EVERY 2nd H2 IN POST-->
+ 					{{ $var := .Params.seealsolinks }}
+ 					<div id="images" class="middleRelated">
+
+ 				{{ $related := .Site.RegularPages.Related . | shuffle | first 2 }}
+ 				{{ $related4 := shuffle (where (.Site.RegularPages.RelatedIndices . "categories" ) "CurrentSection.Title" .CurrentSection.Title ) | first 3}}
+
+
+
+ 				{{ with $related }}
+ 				{{ range . }}
+ 						<div class='col-xs-12 midArticle alert alert-light'>
+ 							<div class="row">
+
+ 							<div class="col-2 col-md-1">
+ 								<img src="/images/brandIcon.svg" class="brandIcon" alt="Brand Icon" width="45" height="45" />
+ 							</div>
+ 							<div class="col-10 col-md-11"><Strong>See also:</strong> <a href="{{ .RelPermalink }}">{{ .Title }}</a>     
+ 							</div>        
+
+ 								</div>
+
+ 							</div>
+ 							{{ end }}
+ 							{{ end }}
+ 						</div>
+ 						<!--SEE Also-->
+ 					</div>
+ 					<br />
+ 					<hr />
+ 					<div class="row">
+ 						<div class="col-sm-12">
+ 							<span class="blogAuthor">Produced by beachesinaustralia.com</a></span>
+ 						</div>
+ 						<div class="col-sm-12 socialsCol">
+							<a href="#" class="btn btn-sm btn-primary facebook"><span><i class="fa fa-facebook"></i></span>Facebook</a>
+	  						<a href="#" class="btn btn-sm btn-primary twitter"><span><i class="fa fa-twitter"></i></span>Twitter</a>
+	  						<a href="#" class="btn btn-sm btn-primary linkedin"><span><i class="fa fa-linkedin"></i></span>Linkedin</a>
+ 					</div>
+ 					</div>
+ 					{{- partial "blog-list-text-2-horiz" . -}}
+ 				</div>
+ 			</div>
+ 			<div class="col-lg-4 articleRight">
+ 				<div class="col-sm-12">
+ 					{{- partial "callout-text-blog-right" . -}}
+ 					{{- partial "blog-list-text-vert" . -}}
+ 					{{- partial "blog-tags-right" . -}}
+ 					{{- partial "1-col-blog-thumb-hot" . -}}
+ 					<div id="sticky" class="d-none d-sm-block">
+ 						{{- partial "callout-text-blog-right-sticky" . -}}
+ 					</div>
+ 					<div class="extra">
+ 					</div>
+ 				</div>
+ 			</div>
+ 		</div>
+ 	</div>
+ 	{{- partial "callout-text-subscribe" . -}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{ else }}
+
+
+
+ <div class="bgImageElementWhite">
+ </div>
+ <div class="clearfix"></div>
+ <div class="container subTopMarginHeader singlePost">
+ 	<div class="row">
+ 		<div class="col-lg-8">
+ 			<div class="spFeature articleContent">
+ 				<h2 class="articleHeader">{{ .Title }}</h2>
+ 				<div class="row">
+ 					<div class="col-sm-12">{{ range .Params.tags | first 1 }}
+ 						<strong>Study in   
+ 						<a href="/tags/{{ . | urlize }}/" class="">{{ . }}</a> 
+ 						</strong>
+ 						 {{ end }}
+ 					</div>
+ 					<div class="col-sm-12">
+ 						<span class="blogAuthor">beachesinaustralia.com</a></span>
+ 					</div>
+ 					<div class="col-sm-12 tagsBlog">
+ 						{{ range .Params.tags }}
+ 						<a href="/tags/{{ . | urlize }}/" class="btn btn-outline-dark">#{{ . }}</a> 
+ 						{{ end }}
+ 					</div>
+ 					<div class="col-sm-12 socialsCol">
+							<a href="#" class="btn btn-sm btn-primary facebook"><span><i class="fa fa-facebook"></i></span>Facebook</a>
+	  						<a href="#" class="btn btn-sm btn-primary twitter"><span><i class="fa fa-twitter"></i></span>Twitter</a>
+	  						<a href="#" class="btn btn-sm btn-primary linkedin"><span><i class="fa fa-linkedin"></i></span>Linkedin</a>
+ 					</div>
+ 					
+ 				</div>
+ 				<hr />
+ 				<div class="articleWrapper">
+		<p class="introPara">{{ .Title }} is located in a place called {{ range .Params.tags | after 1 | first 1 }}
+ 						<a href="/tags/{{ . | urlize }}/" class="">{{ . }}{{ end }}</a>, 
+ 						which is located in {{ range .Params.tags | first 1 }}
+ 						<a href="/tags/{{ . | urlize }}/" class="">{{ . }}</a>{{ end }}, a country that lies in the region of {{ range .Params.categories }}
+ 						<a href="/categories/{{ . | urlize }}/" class="">{{ . }}</a>. 
+ 						 
+ 						{{ end }}
+ 					</p>
+
+
+
+ 					<div class="google-maps" style="margin-top: 30px;">
+ 						<div class="map-responsive">
+<iframe title="Maps" width="700" height="450"  id="gmap_canvas" src="https://maps.google.com/maps?q={{ .Title }}%20{{ range .Params.tags | after 1 | first 1 }}{{ . }}{{ end }}%20{{ range .Params.tags | first 1 }}{{ . }}{{ end }}&t=&z=7&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></div>
+</div>
+
+ 				
+
+ 					<hr />
+
+<h3>Turing Scheme Eligibility</h3>
+{{ if in .Params.turing "3"  }}
+<p>The Turing Scheme is <strong>not available</strong> at {{ .Title }} at this point of time. This could mean that {{ .Title }} is currently filing an application to accept students on the Turing Scheme, or that they have not yet applied.</p>
+{{ end }}
+
+<h3>Admissions</h3>
+<p>{{ .Title }} accepts both male and female students from all countries. International students are welcome to apply. Acceptance at {{ .Title }} is <Strong>based on several factors</Strong>, including past academic performance and grades, financial viability, reciprocal exchange with your home university and sometimes on compassionate grounds.</p>
+
+
+ 					<h3>Studying at {{ .Title }}</h3>
+<p>{{ .Title }} is a registered education institution and is currently accepting new international student <strong>enrolments for 2021</strong>.			</p>
+<p>For more information about applying to {{ .Title }}, please visit their website by clicking the apply button at the bottom of this page (if eligible).</p>
+
+
+ 					<div class="articleFeatureImage">
+ 						<img src="/images/places/place ({{ .Params.id }}).jpg" class="img-fluid" width="730" height="502" alt="Image" />
+ 					</div>			 					
+
+
+{{ if in .Params.tags "QLD"  }}
+<h3>Student life in {{ range .Params.tags | after 1 | first 1 }}{{ . }}{{ end }}</h3>
+<p>{{ range .Params.tags | first 1 }}{{ . }}{{ end }} is a country that is very isolated from the rest of the world, being primarily a large land mass island. If you plan to study at {{ .Title }} then a grasp on basic english is highly recommended. Also, the cost of living in a place such as {{ range .Params.tags | after 1 | first 1 }}{{ . }}{{ end }} will require you to have significant savings.
+ 						</p>
+{{ end }}
+
+{{ if in .Params.tags "NSW"  }}
+<h3>Student life in {{ range .Params.tags | after 1 | first 1 }}{{ . }}{{ end }}</h3>
+<p>{{ range .Params.tags | first 1 }}{{ . }}{{ end }} is a country that is very isolated from the rest of the world, being primarily a large land mass island. If you plan to study at {{ .Title }} then a grasp on basic english is highly recommended. Also, the cost of living in a place such as {{ range .Params.tags | after 1 | first 1 }}{{ . }}{{ end }} will require you to have significant savings.
+ 						</p>
+{{ end }}
+
+
+
+
+<!-- <p><a href="{{ .Params.website }}" class="btn btn-brand btn-lg">Apply</a></p> -->
+
+
+				 
+
+ 						
+ 					
+ 			
+ 					
+ 					
+ 			
+ 					{{ .Content }}
+ 					<!-- THIS PUTS A SEE ALSO LINK AFTER EVERY 2nd H2 IN POST-->
+ 					{{ $var := .Params.seealsolinks }}
+ 					<div id="images" class="middleRelated">
+
+ 				{{ $related := .Site.RegularPages.Related . | first 2 }}
+ 				{{ with $related }}
+ 				{{ range . }}
+ 						<div class='col-xs-12 midArticle alert alert-light'>
+ 							<div class="">
+ 								<Strong><img src="/images/brandIcon.svg" height="30" width="30" alt="Brand Icon" class="brandIcon" /> See also:</strong> <a href="{{ .RelPermalink }}">{{ .Title }}</a>                
+ 								</div>
+ 							</div>
+ 							{{ end }}
+ 							{{ end }}
+ 						</div>
+ 					</div>
+ 					<br />
+ 					<hr />
+ 					<div class="row">
+ 						<div class="col-sm-12">
+ 							<span class="blogAuthor">Produced by beachesinaustralia.com</a></span>
+ 						</div>
+ 						<div class="col-sm-12 socialsCol">
+							<a href="#" class="btn btn-sm btn-primary facebook"><span><i class="fa fa-facebook"></i></span>Facebook</a>
+	  						<a href="#" class="btn btn-sm btn-primary twitter"><span><i class="fa fa-twitter"></i></span>Twitter</a>
+	  						<a href="#" class="btn btn-sm btn-primary linkedin"><span><i class="fa fa-linkedin"></i></span>Linkedin</a>
+ 					</div>
+ 					</div>
+ 					{{- partial "blog-list-text-2-horiz" . -}}
+ 				</div>
+ 			</div>
+ 			<div class="col-lg-4 articleRight">
+ 				<div class="col-sm-12">
+ 					{{- partial "callout-text-blog-right" . -}}
+ 					{{- partial "blog-list-text-vert" . -}}
+ 					{{- partial "blog-tags-right" . -}}
+ 					{{- partial "1-col-blog-thumb-hot" . -}}
+ 					<div id="sticky" class="d-none d-sm-block">
+ 						{{- partial "callout-text-blog-right-sticky" . -}}
+ 					</div>
+ 					<div class="extra">
+ 					</div>
+ 				</div>
+ 			</div>
+ 		</div>
+ 	</div>
+ 	{{- partial "callout-text-subscribe" . -}}
+
+ 	{{ end }}	</div>	{{ end }}	
+ 	 

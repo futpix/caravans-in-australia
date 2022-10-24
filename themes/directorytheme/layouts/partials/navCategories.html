@@ -1,0 +1,86 @@
+
+ <div class="container-fluid blogNavFluid">
+  <div class="container mobileNoPad">
+<nav class="navbar navbar-expand-lg navbar-light subnavbar">
+  <button class="navbar-toggler navbar-toggler-right theTogglerSub text-right" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    In this Section &nbsp; <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-chevron-down" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/>
+</svg>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+   {{ $currentPage := . }}
+       <ul class="navbar-nav nav justify-content-end subNav ml-auto">
+
+
+        <!--<li class="nav-item"><a class="nav-link" href="/categories/latest/">Latest</a></li>-->
+        {{ range $key, $value := .Site.Taxonomies.categories }}
+
+
+
+{{ if eq $key "nsw"}}
+{{ $theTitle := "New South Wales"}}
+
+        <li class="nav-item"><a class="nav-link {{ $key | urlize  }}" href="/categories/{{ $key | urlize  }}/">{{ $theTitle | humanize }}</a></li>
+
+{{ else if eq $key "qld"}}
+{{ $theTitle := "Queensland"}}
+        <li class="nav-item"><a class="nav-link {{ $key | urlize  }}" href="/categories/{{ $key | urlize  }}/">{{ $theTitle | humanize }}</a></li>
+{{ else if eq $key "vic"}}
+{{ $theTitle := "Victoria"}}
+        <li class="nav-item"><a class="nav-link {{ $key | urlize  }}" href="/categories/{{ $key | urlize  }}/">{{ $theTitle | humanize }}</a></li>
+
+{{ else if eq $key "tas"}}
+{{ $theTitle := "Tasmania"}}
+        <li class="nav-item"><a class="nav-link {{ $key | urlize  }}" href="/categories/{{ $key | urlize  }}/">{{ $theTitle | humanize }}</a></li>
+
+{{ else if eq $key "sa"}}
+{{ $theTitle := "South Australia"}}
+        <li class="nav-item"><a class="nav-link {{ $key | urlize  }}" href="/categories/{{ $key | urlize  }}/">{{ $theTitle | humanize }}</a></li>
+
+
+{{ else if eq $key "wa"}}
+{{ $theTitle := "WA"}}
+        <li class="nav-item"><a class="nav-link {{ $key | urlize  }}" href="/categories/{{ $key | urlize  }}/">{{ $theTitle }}</a></li>
+
+{{ else if eq $key "nt"}}
+{{ $theTitle := "NT"}}
+        <li class="nav-item"><a class="nav-link {{ $key | urlize  }}" href="/categories/{{ $key | urlize  }}/">{{ $theTitle }}</a></li>
+
+{{ else if eq $key "act"}}
+{{ $theTitle := "ACT"}}
+        <li class="nav-item"><a class="nav-link {{ $key | urlize  }}" href="/categories/{{ $key | urlize  }}/">{{ $theTitle }}</a></li>
+
+{{ else }}
+{{ $theTitle := "nothing" }}
+
+{{ end }}
+
+
+
+
+
+        {{ end }}
+      </ul>
+  </div>
+</nav>
+
+</div>
+</div>
+
+
+ <!-- SUBNAV 
+ <div class="container-fluid bgWhite">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+       {{ $currentPage := . }}
+       <ul class="nav justify-content-end subNav">
+        {{ range $key, $value := .Site.Taxonomies.categories }}
+        <li class="nav-item"><a class="nav-link" href="/categories/{{ $key | urlize  }}/">{{ $key | humanize }} ({{ len $value }})</a></li>
+        {{ end }}
+      </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- SUBNAV -->

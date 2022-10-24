@@ -1,0 +1,270 @@
+ {{ define "main" }}
+ {{- partial "navProduct.html" . -}}
+ <div class="bgImageElementWhite">
+ </div>
+ <div class="clearfix"></div>
+ <div class="container subTopMarginHeader">
+   {{- partial "2-col-text-graphic.html" . -}}
+
+   {{ if eq .Title "Content Types" }}
+
+ <div class="" style="margin-top: -70px;">
+  <h5 class="text-center" style="display: block; margin: 0px auto;padding-bottom: 5px; border-bottom: 2px solid #eb2678; width: 250px;">Create For Your <strong>Website:</strong></h5>
+   <div class="row">
+    <div class="col-sm-12">
+      <div class="card-deck appsDeck contentTypesDeck">
+
+
+
+
+
+
+                       {{ $getstarted := site.GetPage "/product/content-types/" }}
+                      {{ with $getstarted }}
+                      {{ range .Pages }}
+                      <div class="col-sm-3 noMargins">
+     <div class="card aos-item text-center" data-aos="fade-in">
+            <a href="/product/content-types/{{ .Slug }}/" class="contentTypeLink">
+<div class="card-body">
+            
+           <img src="{{ .Params.contentIcon }}/" class="brandIconMedium" />
+            <h5 class="card-title" >{{ .Title }}</h5>
+            <p class="card-text">{{ .Params.cardText}}</p>
+             <span>See Example</span>
+
+           
+          </div>
+        </a>
+
+        </div></div>
+
+        
+
+
+
+                      {{ end }}
+                      {{ end }}     
+
+
+
+                 
+                    </div>
+
+                  </div>
+
+                </div>
+
+              </div>
+        
+{{- partial "content-types-grid-2.html" . -}}
+{{- partial "content-types-grid-3.html" . -}}
+
+
+                      {{- partial "pinkTitleBanner" . -}}
+</div></div>
+     {{ end }}
+
+
+
+   
+
+   {{ if eq .Title "Features" }}
+   {{ end }}
+   {{ if eq .Title "Overview" }}
+   {{- partial "2-col-image-text.html" . -}}
+   {{- partial "2-col-text-image.html" . -}}
+   <div class="">
+     <div class="row hpFeature">
+      <div class="col-lg-6 aos-item" data-aos="fade-up">
+        <!-- IMAGE SVG TEXT ELEMENT -->
+        <div class="blockImageTextSvg">
+          <div class="blockImageSvgSize blockImageSvgID-1"></div>
+          <div class="blockImageSvgWrapID-1">
+            <h4>Content Marketing Weapon</h4>
+            <p>Unleash a wave of content on your competition that they can't keep up with.</p>
+            <p><a href="" class="btn btn-outline-light btn-lg">Learn More</a></p>
+          </div>
+        </div>
+        <!-- IMAGE END -->    
+      </div>
+      <div class="col-lg-6 aos-item paddingFeatureTextLeft" data-aos="fade-up">
+       <img src="/images/brandIcon.svg" class="brandIcon" />
+       <span class="iconTitle">GROW</span>
+       <br /><br />
+       <h3>Outgrow The Competition</h3>
+       <p>Take the time, <a href="">cost and stress</a> out of content creation, while supercharging your digital strategy with all the content you will ever need.<br />Create engaging content, <i>more often</i>, with <strong>less effort</strong>.
+       </p>
+       <div class="row">
+        <div class="col-sm-6">
+          <ul>
+            <li>Bloggers</li>
+            <li>Digital Marketers</li>
+            <li>SEO Agencies</li>
+            <li>Content Creators</li>
+            <li>Social Media Managers</li>
+          </ul>
+        </div>
+        <div class="col-sm-6">
+         <ul>
+           <li>Start Ups</li>
+           <li>Freelance Writers</li>
+           <li>Copywriters</li>
+           <li>English Second Language</li>
+           <li>...and many more!</li>
+         </ul>
+       </div>
+     </div>
+     <hr />
+     <p><a href="/product/trusted-by/" class="btn btn-lg btn-outline-dark" href="">Who uses this app?</a></p>
+   </div>
+ </div>
+</div>
+{{ end }}
+{{ if eq .Title "Features" }}
+<div class="">
+	<div class="row">
+		<div class="col-sm-12">
+      <div class="card-deck appsDeck">
+        {{ $getstarted := site.GetPage "/product/features/" }}
+        {{ with $getstarted }}
+        {{ range .Pages }}
+        <div class="aos-item text-center col-sm-3" data-aos="fade-in">
+          <div class="card-body">
+            <img src="/images/brandIcon.svg" class="brandIcon" />
+            <h6 class="card-title">{{ .Title }}</h6>
+            <a href="/product/features/{{ .Slug }}/" class="btn btn-sm btn-outline-dark">Learn More</a>
+          </div>
+        </div>
+        {{ end }}
+        {{ end }}
+                   </div>
+                  </div>
+                </div>
+              </div>
+        {{ end }}
+
+
+        {{ if eq .Title "Integrations" }}
+        <div class="">
+          <div class="row">
+            <div class="col-sm-12">
+              <div class="card-deck appsDeck appsDeckCmsIcons">
+                {{ $getstarted := site.GetPage "/product/integrations/" }}
+                {{ with $getstarted }}
+                {{ range .Pages }}
+                <div class="aos-item text-center col-sm-3" data-aos="fade-in">
+                  <div class="card-body">
+                   <img src="/images/{{ .Params.icon }}" class="brandIcon" />
+                   <h6 class="card-title">{{ .Title }}</h6>
+                   <a href="/product/integrations/{{ .Slug }}/" class="btn btn-sm btn-outline-dark">Learn More</a>
+                 </div>
+               </div>
+               {{ end }}
+               {{ end }}
+               </div>
+</div>
+</div>
+</div>  
+               {{ end }}
+             
+               {{ if eq .Title "Trusted By" }}
+               <div class="">
+                 <div class="row">
+                  <div class="col-sm-12">
+                    <div class="card-deck appsDeck">
+                      {{ $getstarted := site.GetPage "/product/trusted-by/" }}
+                      {{ with $getstarted }}
+                      {{ range .Pages }}
+                      <div class="aos-item text-center col-sm-3" data-aos="fade-in">
+                        <div class="card-body">
+                          <img src="/images/brandIcon.svg" class="brandIcon" />
+                          <h6 class="card-title">{{ .Title }}</h6>
+                          <a href="/product/trusted-by/{{ .Slug }}/" class="btn btn-sm btn-outline-dark">Learn More</a>
+                        </div>
+                      </div>
+                      {{ end }}
+                      {{ end }}
+                                 </div>
+                  </div>
+                </div>
+              </div>
+                      {{ end }}
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            {{- partial "callout-text-buttons-vertical.html" . -}}
+            {{ end }}

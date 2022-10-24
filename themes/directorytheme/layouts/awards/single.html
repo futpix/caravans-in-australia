@@ -1,0 +1,338 @@
+ 
+ {{ define "main" }}
+ {{- partial "navCategories.html" . -}}
+ 
+
+
+
+
+ <div class="bgImageElementWhite">
+ </div>
+ <div class="clearfix"></div>
+ <div class="container subTopMarginHeader singlePost">
+ 	<div class="row">
+ 		<div class="col-lg-8">
+ 			<div class="spFeature articleContent">
+ 				<h2 class="articleHeader">{{ .Title }}</h2>
+ 				<div class="row">
+ 			
+ 				
+
+ 					<div class="col-sm-12 socialsCol">
+							<a href="#" class="btn btn-sm btn-primary facebook"><span><i class="fa fa-facebook"></i></span>Facebook</a>
+	  						<a href="#" class="btn btn-sm btn-primary twitter"><span><i class="fa fa-twitter"></i></span>Twitter</a>
+	  						<a href="#" class="btn btn-sm btn-primary linkedin"><span><i class="fa fa-linkedin"></i></span>Linkedin</a>
+ 					</div>
+ 					
+ 				</div>
+ 				<hr />
+ 				<div class="articleWrapper">	
+ 					<p class="introPara">{{ .Params.intro }}</p>
+ 					<div class="articleFeatureImage">
+ 						<img src="/images/{{ .Params.imageFeat }}" class="img-fluid" height="800" width="800" alt="Article Image" />
+ 					</div>
+ 					{{ .Content }}
+ 						<!-- THIS PUTS A SEE ALSO LINK AFTER EVERY 2nd H2 IN POST-->
+
+
+
+
+{{ if eq .Title "10 Best Camping Beaches in Australia" }}
+
+ <div class="clearfix"></div>
+ <div class="container">
+ 	<div class="row">
+ 		<div class="col-lg-12">
+ 			<div class=" articleContent">
+ 				<h4 class="articleHeader mb-3 mt-5">The Winners:</h4>
+
+{{ $counter := 0 }}
+{{ range (.Site.Pages.GroupByParam "camping")  | first 50 }}
+   {{ range sort .Pages "Params.camping" }}
+       {{ $counter = add $counter 1 }}
+ <!-- IMAGE SVG TEXT ELEMENT -->
+						
+				<div class="container"> <div class="row">
+					<div class="threeBlogGrid taxonomyList ">
+					
+						<!-- IMAGE SVG TEXT ELEMENT -->
+						<div class="blockImageTextSvg taxonomyListTabledLessMargin">
+							<div class="blockImageSvgWrapID-hite taxonomyListTabled">
+								<div class="row">
+
+									
+									
+									<div class="col-6" style="padding-top: 15px;">
+										<h5 class="pl-3"><A href="{{ .RelPermalink }}">{{ .Title }}</A>
+										</h5>
+									</div>
+										<div class="col-3" style="padding-top: 15px;">
+							
+	 									
+	 								</div>
+	 									
+							
+									<div class="col-2" style="padding-top: 15px;">
+	 									<h6 class="badge badge-md badge-warning" style="color: #fff;">WINNER<span style="color: #fff;"></span></h6> 
+	 										
+	 									</div>
+								</div> </div>
+								</div>	</div>	</div>	</div>	
+
+   {{ end }}
+{{ end }}
+<br />
+
+</div></div>
+</div></div>
+
+
+
+
+
+
+
+
+
+{{ else if eq .Title "10 Best Fishing Beaches in Australia" }}
+
+ <div class="clearfix"></div>
+ <div class="container">
+ 	<div class="row">
+ 		<div class="col-lg-12">
+ 			<div class=" articleContent">
+ 				<h4 class="articleHeader mb-3 mt-5">The Winners:</h4>
+
+{{ $counter := 0 }}
+{{ range (.Site.Pages.GroupByParam "fishing")  | first 50 }}
+   {{ range sort .Pages "Params.fishing" }}
+       {{ $counter = add $counter 1 }}
+ <!-- IMAGE SVG TEXT ELEMENT -->
+						
+				<div class="container"> <div class="row">
+					<div class="threeBlogGrid taxonomyList ">
+					
+						<!-- IMAGE SVG TEXT ELEMENT -->
+						<div class="blockImageTextSvg taxonomyListTabledLessMargin">
+							<div class="blockImageSvgWrapID-hite taxonomyListTabled">
+								<div class="row">
+
+									
+									
+									<div class="col-6" style="padding-top: 15px;">
+										<h5 class="pl-3"><A href="{{ .RelPermalink }}">{{ .Title }}</A>
+										</h5>
+									</div>
+										<div class="col-3" style="padding-top: 15px;">
+							
+	 									
+	 								</div>
+	 									
+							
+									<div class="col-2" style="padding-top: 15px;">
+	 										<h6 class="badge badge-md badge-warning" style="color: #fff;">WINNER<span style="color: #fff;"></span></h6> 
+	 										
+	 									</div>
+								</div> </div>
+								</div>	</div>	</div>	</div>	
+
+   {{ end }}
+{{ end }}
+<br />
+
+</div></div>
+</div></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{ else if eq .Title "10 Best Surfing Beaches In Australia" }}
+
+ <div class="clearfix"></div>
+ <div class="container">
+ 	<div class="row">
+ 		<div class="col-lg-12">
+ 			<div class=" articleContent">
+ 				<h4 class="articleHeader mb-3 mt-5">The Winners:</h4>
+
+{{ $counter := 0 }}
+{{ range (.Site.Pages.GroupByParam "surfing")  | first 50 }}
+   {{ range sort .Pages "Params.surfing" }}
+       {{ $counter = add $counter 1 }}
+ <!-- IMAGE SVG TEXT ELEMENT -->
+						
+				<div class="container"> <div class="row">
+					<div class="threeBlogGrid taxonomyList ">
+					
+						<!-- IMAGE SVG TEXT ELEMENT -->
+						<div class="blockImageTextSvg taxonomyListTabledLessMargin">
+							<div class="blockImageSvgWrapID-hite taxonomyListTabled">
+								<div class="row">
+
+									
+									
+									<div class="col-6" style="padding-top: 15px;">
+										<h5 class="pl-3"><A href="{{ .RelPermalink }}">{{ .Title }}</A>
+										</h5>
+									</div>
+										<div class="col-3" style="padding-top: 15px;">
+							
+	 									
+	 								</div>
+	 									
+							
+									<div class="col-2" style="padding-top: 15px;">
+	 										<h6 class="badge badge-md badge-warning" style="color: #fff;">WINNER<span style="color: #fff;"></span></h6> 
+	 										
+	 									</div>
+								</div> </div>
+								</div>	</div>	</div>	</div>	
+
+   {{ end }}
+{{ end }}
+<br />
+
+</div></div>
+</div></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{ else if eq .Title "10 Best Swimming Beaches in Australia" }}
+
+ <div class="clearfix"></div>
+ <div class="container">
+ 	<div class="row">
+ 		<div class="col-lg-12">
+ 			<div class=" articleContent">
+ 				<h4 class="articleHeader mb-3 mt-5">The Winners:</h4>
+
+{{ $counter := 0 }}
+{{ range (.Site.Pages.GroupByParam "swim")  | shuffle | first 50 }}
+   {{ range sort .Pages "Params.swim" }}
+       {{ $counter = add $counter 1 }}
+ <!-- IMAGE SVG TEXT ELEMENT -->
+						
+				<div class="container"> <div class="row">
+					<div class="threeBlogGrid taxonomyList ">
+					
+						<!-- IMAGE SVG TEXT ELEMENT -->
+						<div class="blockImageTextSvg taxonomyListTabledLessMargin">
+							<div class="blockImageSvgWrapID-hite taxonomyListTabled">
+								<div class="row">
+
+									
+									
+									<div class="col-6" style="padding-top: 15px;">
+										<h5 class="pl-3"><A href="{{ .RelPermalink }}">{{ .Title }}</A>
+										</h5>
+									</div>
+										<div class="col-3" style="padding-top: 15px;">
+							
+	 									
+	 								</div>
+	 									
+							
+									<div class="col-2" style="padding-top: 15px;">
+	 										<h6 class="badge badge-md badge-warning" style="color: #fff;">WINNER<span style="color: #fff;"></span></h6> 
+	 										
+	 									</div>
+								</div> </div>
+								</div>	</div>	</div>	</div>	
+
+   {{ end }}
+{{ end }}
+<br />
+
+</div></div>
+</div></div>
+
+
+
+
+
+
+
+
+
+{{ end }}
+
+
+ 				
+ 		
+ 						<!--SEE Also-->
+ 					</div>
+ 					<br />
+ 					<hr />
+ 					<div class="row">
+ 					
+ 						<div class="col-sm-12 socialsCol">
+							<a href="#" class="btn btn-sm btn-primary facebook"><span><i class="fa fa-facebook"></i></span>Facebook</a>
+	  						<a href="#" class="btn btn-sm btn-primary twitter"><span><i class="fa fa-twitter"></i></span>Twitter</a>
+	  						<a href="#" class="btn btn-sm btn-primary linkedin"><span><i class="fa fa-linkedin"></i></span>Linkedin</a>
+ 					</div>
+ 					</div>
+ 					{{- partial "blog-list-text-2-horiz" . -}}
+ 				</div>
+ 			</div>
+ 			<div class="col-lg-4 articleRight">
+ 				<div class="col-sm-12">
+ 					{{- partial "callout-text-blog-right" . -}}
+ 					{{- partial "1-col-blog-thumb-hot-latest-blog-post" . -}}
+ 
+ 					<div class="extra">
+ 					</div>
+ 				</div>
+ 			</div>
+ 		</div>
+ 	</div>
+ 	{{- partial "callout-text-subscribe" . -}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 	</div>
+
+ 	{{ end }}	
+
+
+ 	 

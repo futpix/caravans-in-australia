@@ -1,0 +1,19 @@
+
+
+
+ <div class="invitationGreyBox">
+       <div class="row">
+          <div class="col-md-8 mb-3">
+            <form id="search"
+        action='{{ with .GetPage "/search" }}{{.Permalink}}{{end}}' method="get">
+        <label hidden for="search-input">Search Caravans in Australia</label>
+        <input type="text" id="search-input" name="query"
+        placeholder="Type Caravan Brand / or Campsite Location..." class="form-control" autofocus>
+          </div>
+
+        <div class="col-12 col-md-4 text-center">
+            <input type="submit" value="Show Review" class="btn btn-primary btn-lg" style="padding: 13px 40px; font-size: 100%; background: #fbc834; color: #00535e; font-weight: bold;">
+        </form>
+             </div>  
+     </div>
+  </div>

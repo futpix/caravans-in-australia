@@ -1,0 +1,117 @@
+ <div class="container">
+   <div class="row hpFeature" style="margin-top: 50px;">
+
+    </div>
+      </div>
+
+
+
+  <div class="row hpTickBoxes">
+       <div class="col-xs-12 col-lg-4">
+  
+      <h4>Types</h4>
+   {{ $counter := 0 }}
+{{ range (.Site.Pages.GroupByParam "trending") | shuffle }}
+   {{ range .Pages | shuffle | first 5 }}
+       {{ $counter = add $counter 1 }}
+ <!-- IMAGE SVG TEXT ELEMENT -->
+            
+        <div class="container"> <div class="row">
+          <div class="threeBlogGrid taxonomyList " style="margin-bottom: 10px;">
+          
+            <!-- IMAGE SVG TEXT ELEMENT -->
+            <div class="blockImageTextSvg taxonomyListTabledLessMargin">
+              <div class="blockImageSvgWrapID-hite taxonomyListTabled">
+                <div class="row">
+                  <div class="col-10" style="padding-top: 15px;">
+                    <h6 style="color: #999;  padding-left: 15px;"><A href="{{ .RelPermalink }}">Off Road</A>
+                    {{ range .Params.categories }} (<a href="/categories/{{ . | urlize }}/">{{ . }}</a>{{ end }})</h6>
+                  </div>
+                </div> </div>
+                </div>  </div>  </div>  </div>  
+
+   {{ end }}
+{{ end }}
+
+
+
+<br />
+<a class="btn btn-outline btn-brand" href="/awards">See More</a>
+  <hr />
+</div>
+
+       <div class="col-xs-12 col-lg-4">
+  
+      <h4>Brands</h4>
+   {{ $counter := 0 }}
+{{ range (.Site.Pages.GroupByParam "trending") | shuffle }}
+   {{ range .Pages | shuffle | first 5 }}
+       {{ $counter = add $counter 1 }}
+ <!-- IMAGE SVG TEXT ELEMENT -->
+            
+        <div class="container"> <div class="row">
+          <div class="threeBlogGrid taxonomyList " style="margin-bottom: 10px;">
+          
+            <!-- IMAGE SVG TEXT ELEMENT -->
+            <div class="blockImageTextSvg taxonomyListTabledLessMargin">
+              <div class="blockImageSvgWrapID-hite taxonomyListTabled">
+                <div class="row">
+                  <div class="col-10" style="padding-top: 15px;">
+                    <h6 style="color: #999;  padding-left: 15px;"><A href="{{ .RelPermalink }}">Off Road</A>
+                    {{ range .Params.categories }} (<a href="/categories/{{ . | urlize }}/">{{ . }}</a>{{ end }})</h6>
+                  </div>
+                </div> </div>
+                </div>  </div>  </div>  </div>  
+
+   {{ end }}
+{{ end }}
+
+
+
+<br />
+<a class="btn btn-outline btn-brand" href="/awards">See More</a>
+  <hr />
+</div>
+
+
+
+       <div class="col-xs-12 col-lg-4">
+  
+      <h4>Style</h4>
+   {{ $counter := 0 }}
+{{ range (.Site.Pages.GroupByParam "trending") | shuffle }}
+   {{ range .Pages | shuffle | first 5 }}
+       {{ $counter = add $counter 1 }}
+ <!-- IMAGE SVG TEXT ELEMENT -->
+            
+        <div class="container"> <div class="row">
+          <div class="threeBlogGrid taxonomyList " style="margin-bottom: 10px;">
+          
+            <!-- IMAGE SVG TEXT ELEMENT -->
+            <div class="blockImageTextSvg taxonomyListTabledLessMargin">
+              <div class="blockImageSvgWrapID-hite taxonomyListTabled">
+                <div class="row">
+                  <div class="col-10" style="padding-top: 15px;">
+                    <h6 style="color: #999;  padding-left: 15px;"><A href="{{ .RelPermalink }}">Off Road</A>
+                    {{ range .Params.categories }} (<a href="/categories/{{ . | urlize }}/">{{ . }}</a>{{ end }})</h6>
+                  </div>
+                </div> </div>
+                </div>  </div>  </div>  </div>  
+
+   {{ end }}
+{{ end }}
+
+
+
+<br />
+<a class="btn btn-outline btn-brand" href="/awards">See More</a>
+  <hr />
+</div>
+
+
+
+
+
+    </div>
+  </div>
+

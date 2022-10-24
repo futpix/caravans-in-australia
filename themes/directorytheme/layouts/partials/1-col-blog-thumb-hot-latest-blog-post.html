@@ -1,0 +1,17 @@
+ {{ range where .Site.RegularPages "Section" "posts" | first 1}}
+ {{ if in .Params.categories "Latest" }}
+ <div class="threeBlogGrid">
+  <!-- IMAGE SVG TEXT ELEMENT -->
+  <span class="badge badge-brand">Featured</span>
+  <div class="blockImageTextSvg">
+    <div class="blockImageSvgSize blockImageSvgID-3" style="background-image: url('/images/places/spinner ({{ .Params.id }}).jpg ')">
+    </div>
+    <div class="blockImageSvgWrapID-White">
+     <span class="dateLineFeatured">{{ .Date.Format "2" }}{{ if in (slice 1 21 31) .Date.Day}}st{{ else if in (slice 2 22) .Date.Day}}nd{{ else if in (slice 3 23) .Date.Day}}rd{{ else }}th{{ end }} {{ .Date.Format "January, 2006" }}</span>
+     <h2><A href="{{ .RelPermalink }}">{{ .Title }}</A></h2>
+     <p class="d-sm-none d-md-block">{{ .Params.intro | safeHTML | truncate 120 }}</p>
+   </div>
+ </div>
+ <!-- IMAGE END -->
+</div>
+{{ end }}{{ end }}

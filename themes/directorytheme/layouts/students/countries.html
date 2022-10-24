@@ -1,0 +1,50 @@
+{{ define "main" }}
+{{- partial "navProduct.html" . -}}
+<div class="bgImageElementWhite">
+</div>
+<div class="clearfix"></div>
+<div class="container subTopMarginHeader">
+	<div class="row">
+		<div class="col-lg-8">
+			<div class="spFeature articleContent">
+				<h2 class="articleHeader">{{ .Title }}</h2>
+				<p class="introPara">{{ .Params.definePost }}</p>
+				<p><a href="#Example" class="btn btn-outline-dark">Skip to Example</a></p>
+				<br />
+				<hr />
+				<h3>Why it works?</h3>
+				<p>{{ .Params.whyItWorks }}</p>
+
+				<br />
+				<h6 class="text-center fluid-width">Structure</h6>
+				<img src="{{ .Params.structureImage }}" class="fluid-image img-fluid" />
+
+
+				<h6 class="text-center fluid-width"><A name="Example">Example</A></h6>
+
+				<div class="card cardExample">
+					<div class="col-sm-12">
+						{{ .Content }}
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="col-lg-4 articleRight">
+			<div class="contentTypeRight">
+				<h5>Content Types</h5>
+				{{- partial "contentType-rightnav.html" . -}}
+			</div>
+			<div id="sticky" class="d-none d-sm-block">
+ 						{{- partial "callout-text-blog-right-sticky" . -}}
+ 			</div>
+		</div>
+	</div>
+		<div class="row">
+			<div class="col-sm-12"> 
+				
+			</div>
+		</div>
+	</div>
+</div>	
+{{- partial "callout-text-buttons-vertical.html" . -}}
+{{ end }}

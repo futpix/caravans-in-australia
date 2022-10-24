@@ -1,0 +1,16 @@
+ {{ range where .Site.RegularPages "Section" "ratings" | after 42 | first 1 }}
+ <div class="threeBlogGrid">
+  <!-- IMAGE SVG TEXT ELEMENT -->
+  <div class="blockImageTextSvg">
+    <div class="blockImageSvgSize blockImageSvgID-3" style="background-image: url('/images/home.jpg')">
+      
+    </div>
+    <div class="blockImageSvgWrapID-Light">
+    
+     <h2><A href="{{ .RelPermalink }}">{{ .Title }}</A></h2>
+     <p class="d-sm-none d-md-block">Find out why {{ .Title | safeHTML | truncate 120 }} could be your ideal beach destination. See why {{ .Title }} is making waves when it comes to...</p>
+   </div>
+ </div>
+ <!-- IMAGE END -->
+</div>
+{{ end }}

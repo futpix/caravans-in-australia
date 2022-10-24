@@ -1,0 +1,92 @@
+ 
+ <div class="container-fluid bgWhite">
+  <div class="container mobileNoPad">
+<nav class="navbar navbar-expand-lg navbar-light subnavbar">
+  <button class="navbar-toggler navbar-toggler-right theTogglerSub text-right" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    In this Section &nbsp; <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-chevron-down" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/>
+</svg>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+
+
+
+       {{ $currentPage := . }}
+        <ul class="navbar-nav nav justify-content-end ml-auto subNav">
+          {{ range .Site.Menus.productNav }}
+          {{ if .HasChildren }}
+          <li class="nav-item">
+            <a class="nav-link dropdown-toggle  {{ if or ($currentPage.IsMenuCurrent "productNav" .) ($currentPage.HasMenuCurrent "productNav" .) }}active{{ end }}" href="{{.URL}}" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true"
+            aria-expanded="false">
+            {{ .Pre }}
+          {{ .Name }}
+          </a>  
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            {{ range .Children }}
+            <a class="dropdown-item" href="{{.URL}}">{{.Name}}</a>
+            {{ end }}
+          </div>
+        </li>
+        {{else}}
+        <li class="nav-item">
+          <a class="nav-link {{ if or ($currentPage.IsMenuCurrent "productNav" .) ($currentPage.HasMenuCurrent "productNav" .) }}active{{ end }}" href="{{.URL}}">
+            {{ .Pre }}
+          {{ .Name }}
+          </a>
+        </li>
+        {{end}}
+        {{end}}
+      </ul>
+
+
+
+  </div>
+</nav>
+
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+ <!-- SUBNAV -
+ <div class="container-fluid bgWhite">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+        {{ $currentPage := . }}
+        <ul class="nav justify-content-end subNav">
+          {{ range .Site.Menus.productNav }}
+          {{ if .HasChildren }}
+          <li class="nav-item">
+            <a class="nav-link dropdown-toggle  {{ if or ($currentPage.IsMenuCurrent "productNav" .) ($currentPage.HasMenuCurrent "productNav" .) }}active{{ end }}" href="{{.URL}}" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true"
+            aria-expanded="false">
+            {{ .Pre }}
+            <span>{{ .Name }}</span>
+          </a>  
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            {{ range .Children }}
+            <a class="dropdown-item" href="{{.URL}}">{{.Name}}</a>
+            {{ end }}
+          </div>
+        </li>
+        {{else}}
+        <li class="nav-item">
+          <a class="nav-link {{ if or ($currentPage.IsMenuCurrent "productNav" .) ($currentPage.HasMenuCurrent "productNav" .) }}active{{ end }}" href="{{.URL}}">
+            {{ .Pre }}
+            <span>{{ .Name }}</span>
+          </a>
+        </li>
+        {{end}}
+        {{end}}
+      </ul>
+    </div>
+  </div>
+</div>
+</div>
+<!-- SUBNAV -->

@@ -1,0 +1,12 @@
+{{- partial "head.html" . -}}
+{{- partial "nav.html" . -}}
+{{- partial "navProduct.html" . -}}
+{{ $baseurl := .Site.BaseURL }}
+<h1>{{ .Title }}</h1>
+{{ .Content }}
+{{ $plural := .Data.Plural }}
+{{ range $key, $value := .Data.Terms }}
+<a href="{{ $baseurl }}/{{ $plural }}/{{ $key }}">{{ $key }}</a>
+{{ end }}
+{{- partial "footerBottom.html" . -}}
+{{- partial "footer.html" . -}}

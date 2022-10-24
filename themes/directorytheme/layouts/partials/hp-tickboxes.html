@@ -1,0 +1,115 @@
+ <div class="container">
+   <div class="row hpFeature" style="margin-top: 50px;">
+     <div class="col-lg-12">
+       <h3 class="featureHeader text-center">Where do you want to go?</h3>
+      </div>
+    </div>
+      </div>
+
+
+
+  <div class="row hpTickBoxes">
+       <div class="col-xs-12 col-lg-4">
+  
+      <h4>Best Australian Beaches</h4>
+   {{ $counter := 0 }}
+{{ range first 3 (.Site.Pages.GroupByParam "realScore").Reverse }}
+   {{ range .Pages }}
+       {{ $counter = add $counter 1 }}
+ <!-- IMAGE SVG TEXT ELEMENT -->
+            
+        <div class="container"> <div class="row">
+          <div class="threeBlogGrid taxonomyList " style="margin-bottom: 10px;">
+          
+            <!-- IMAGE SVG TEXT ELEMENT -->
+            <div class="blockImageTextSvg taxonomyListTabledLessMargin">
+              <div class="blockImageSvgWrapID-hite taxonomyListTabled">
+                <div class="row">
+
+                  <div class="col-1 text-center">
+                  <h4 style="padding-top: 20px;">{{ $counter }}</h4>
+                  </div>
+                  
+                  <div class="col-7" style="padding-top: 15px;">
+                    <h6 style="color: #999;"><A href="{{ .RelPermalink }}">{{ .Title }}</A>
+                    {{ range .Params.categories }} (<a href="/categories/{{ . | urlize }}/">{{ . }}</a>{{ end }})</h6>
+                  </div>
+                 
+                    
+                  
+                
+                  <div class="col-4" style="padding-top: 15px;">
+                      <h5>{{ .Params.realScore }}<span style="color: #999;"><span style="font-size: 70%;"> / 100</span></span></h5> 
+                      
+                    </div>
+                </div> </div>
+                </div>  </div>  </div>  </div>  
+
+   {{ end }}
+{{ end }}
+
+
+
+<br />
+<a class="btn btn-outline btn-brand" href="/rankings/">See Top 100</a>
+  <hr />
+</div>
+
+   <div class="col-xs-12 col-lg-4">
+
+     <h4>Best Secret Beaches</h4>
+
+
+   {{ $counter := 0 }}
+{{ range (.Site.Pages.GroupByParam "secret").Reverse }}
+   {{ range .Pages | first 6}}
+       {{ $counter = add $counter 1 }}
+ <!-- IMAGE SVG TEXT ELEMENT -->
+            
+        <div class="container"> <div class="row">
+          <div class="threeBlogGrid taxonomyList " style="margin-bottom: 10px;">
+          
+            <!-- IMAGE SVG TEXT ELEMENT -->
+            <div class="blockImageTextSvg taxonomyListTabledLessMargin">
+              <div class="blockImageSvgWrapID-hite taxonomyListTabled">
+                <div class="row">
+
+                  <div class="col-1 text-center">
+                  <h4 style="padding-top: 20px;">{{ $counter }}</h4>
+                  </div>
+                  
+                  <div class="col-7" style="padding-top: 15px;">
+                    <h6 style="color: #999;"><A href="{{ .RelPermalink }}">{{ .Title }}</A>
+                    {{ range .Params.categories }} (<a href="/categories/{{ . | urlize }}/">{{ . }}</a>{{ end }})</h6>
+                  </div>
+                 
+                    
+                  
+                
+                  <div class="col-4" style="padding-top: 15px;">
+                      <h5>{{ .Params.realScore }}<span style="color: #999;"><span style="font-size: 70%;"> / 100</span></span></h5> 
+                      
+                    </div>
+                </div> </div>
+                </div>  </div>  </div>  </div>  
+
+   {{ end }}
+{{ end }}
+
+
+<br />
+<a class="btn btn-outline btn-brand" href="/trending/">More Trending</a>
+  <hr />
+</div>
+
+
+
+
+   <div class="col-xs-12 col-lg-4">
+    <h4>Featured</h4>
+   {{- partial "1-col-blog-thumb-pink-ratings" . -}}
+      </div>
+
+    </div>
+  </div>
+

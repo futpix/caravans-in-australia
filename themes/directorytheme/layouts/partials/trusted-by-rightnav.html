@@ -1,0 +1,10 @@
+<div class="aos-item aos-init aos-animate " data-aos="fade-in">
+	<ul class="rightNavList">
+		{{ $getstarted := site.GetPage "/product/trusted-by/" }}
+		{{ with $getstarted }}
+		{{ range .Pages }}
+		<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+		{{ end }}
+		{{ end }}
+	</ul>
+</div>

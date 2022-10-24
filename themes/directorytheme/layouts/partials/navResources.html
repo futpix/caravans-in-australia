@@ -1,0 +1,36 @@
+ <!-- SUBNAV -->
+ <div class="container-fluid bgWhite">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+        {{ $currentPage := . }}
+        <ul class="nav justify-content-end subNav">
+          {{ range .Site.Menus.resourcesNav }}
+          {{ if .HasChildren }}
+          <li class="nav-item">
+            <a class="nav-link dropdown-toggle  {{ if or ($currentPage.IsMenuCurrent "resourcesNav" .) ($currentPage.HasMenuCurrent "resourcesNav" .) }}active{{ end }}" href="{{.URL}}" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true"
+            aria-expanded="false">
+            {{ .Pre }}
+            <span>{{ .Name }}</span>
+          </a>  
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            {{ range .Children }}
+            <a class="dropdown-item" href="{{.URL}}">{{.Name}}</a>
+            {{ end }}
+          </div>
+        </li>
+        {{else}}
+        <li class="nav-item">
+          <a class="nav-link {{ if or ($currentPage.IsMenuCurrent "resourcesNav" .) ($currentPage.HasMenuCurrent "resourcesNav" .) }}active{{ end }}" href="{{.URL}}">
+            {{ .Pre }}
+            <span>{{ .Name }}</span>
+          </a>
+        </li>
+        {{end}}
+        {{end}}
+      </ul>
+    </div>
+  </div>
+</div>
+</div>
+<!-- SUBNAV -->

@@ -1,0 +1,51 @@
+baseURL = "https://caravansinaustralia.com/"
+languageCode = "en-us"
+title = "Best Caravans In Australia"
+theme = "directorytheme"
+publishdir = "public"
+paginate =  150
+
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+
+[menu]
+	[[menu.main]]
+		identifier = "Caravan-Ratings"
+		name = "Popular Caravans"
+		url = "/trending/"
+		weight = 7
+	[[menu.main]]
+		identifier = "Rankings"
+		name = "Top 50 Caravans"
+		url = "/rankings/"
+		weight = 2
+	[[menu.main]]
+		identifier = "Posts"
+		name = "2023 Caravan Guide"
+		url = "/posts/"
+		weight = 2
+	[[menu.main]]
+		identifier = "Secret"
+		name = "Caravan Reviews"
+		url = "/secret/"
+		weight = 8
+
+[related]
+  includeNewer = true
+  threshold = 80
+  toLower = false
+
+[[related.indices]]
+  name = "categories"
+  weight = 100
+
+[params]
+  copyrighthtml = "* NOTE: This website not affiliated with Caravans Australia or any governing body."
+  tagslimit = 10
+  GAnalytics = "UA-XXXXXXXX-XX"
+  GTag = "UA-XXXXXXXX-XX"
+  GoogleSiteVerify = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+  MailChimpLink = "https://ukturingscheme.us7.list-manage.com/subscribe/post?u=076448fea24ee29988369fe2c&amp;id=700d18fbb4"
+  MailChimpBot = "b_076448fea24ee29988369fe2c_700d18fbb4"	
+  MetaDescription = "Find the best caravans in Melbourne, best caravans in Sydney, best caravans in Brisbane, best caravans in Adelaide, best caravans in Hobart, best caravans in Darwin, best caravans in Perth all rated in one place!"

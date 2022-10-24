@@ -1,0 +1,12 @@
+<div class="aos-item aos-init aos-animate " data-aos="fade-in">
+	{{ $currentPage := .Title }}
+	<ul class="rightNavList">
+		{{ $getstarted := site.GetPage "/product/features/" }}
+		{{ with $getstarted }}
+		{{ range .Pages }}
+		<li><a href="{{ .RelPermalink }}" class="{{ if eq $currentPage .Title }}active{{ end }} classNothing">{{ .Title }}</a></li>
+		{{ end }}
+		{{ end }}
+	</ul>
+	<a  class="btn btn-sm btn-outline-dark backToLink" href="/product/features/">Back to Features</a>
+</div>

@@ -1,0 +1,16 @@
+<div class="">
+	<div class="row spFeature text-center tagsBlog">
+		<div class="col-sm-12">
+			<div class="">
+				<h4 class="brandColor text-left">Trending Locations</h4 >
+				{{- $.Scratch.Set "myLimit" 0 }}
+{{- range $item := .Site.Taxonomies.tags.ByCount }}
+  {{- $.Scratch.Set "myLimit" (add ($.Scratch.Get "myLimit") 1) }}
+  {{- if le ($.Scratch.Get "myLimit") ($.Site.Param `tagsLimit`) }}
+      <a class="btn btn-outline-dark" href="/tags/{{ $item.Term | urlize}}/">#{{ $item.Term }}</a>
+  {{- end }}
+{{- end }}
+			</div>
+		</div>
+	</div>
+</div>

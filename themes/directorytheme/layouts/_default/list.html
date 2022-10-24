@@ -1,0 +1,928 @@
+ {{ define "main" }}
+ {{- partial "navCategories.html" . -}}
+ {{ if eq .Section "tags" }}
+ <div class="bgImageElementWhite">
+ </div>
+ <div class="clearfix"></div>
+ <div class="container subTopMarginHeader">
+ 	<div class="row">
+ 		<div class="col-lg-8">
+ 			<div class="spFeature articleContent">
+ 				<h2 class="articleHeader">Best Beaches in {{ .Title }}</h2>
+ 				<hr />
+
+						<p>{{ $postCount := len .Pages }}<Strong>{{ $postCount }}</Strong> results - {{ range .Pages | first 1 }}
+						{{ range .Params.categories }}<a href="/categories/{{ . | urlize }}/"> Back to {{ . }}{{ end }}{{ end }}</a>
+						 </p>
+
+
+
+
+
+				<div class="container"> <div class="row">
+					<div class="threeBlogGrid taxonomyList">
+
+
+						{{ range .Paginator.Pages }}
+
+
+
+						 {{ if eq .Section "ratings" }}
+
+						
+						<!-- IMAGE SVG TEXT ELEMENT -->
+						<div class="blockImageTextSvg">
+							<div class="blockImageSvgWrapID-White">
+								<div class="row">
+									<div class="col-sm-9">
+										<h4><A href="{{ .RelPermalink }}">{{ .Title }}</A></h4>
+										<p>{{ range .Params.tags }}
+	 										<a href="/tags/{{ . | urlize }}/" class="btn btn-outline-dark">#{{ . }}</a> 
+	 										{{ end }}
+	 									</p>
+									</div>
+						
+								</div> </div>
+							</div>
+							{{ end }}
+							{{ if eq .Section "posts" }}
+
+						
+						<!-- IMAGE SVG TEXT ELEMENT -->
+						<div class="blockImageTextSvg">
+							<div class="blockImageSvgWrapID-White">
+								<div class="row">
+									<div class="col-sm-9">
+										<h4><A href="{{ .RelPermalink }}">{{ .Title }}</A></h4>
+										<p>{{ range .Params.tags }}
+	 										<a href="/tags/{{ . | urlize }}/" class="btn btn-outline-dark">#{{ . }}</a> 
+	 										{{ end }}
+	 									</p>
+									</div>
+									<div class="col-sm-3">
+										<img class="img-fluid" src="/images/places/spinner ({{ .Params.id }}).jpg" width="140" height="96" alt="Listing Image"  />
+									</div>
+								</div> </div>
+							</div>
+							{{ end }}
+							{{ end }}
+							{{- partial "pagination" . -}}
+							<div class="bg-brand mt-5 pl-3 pt-3">
+ 	{{- partial "search-form.html" . -}}
+ 	</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="col-lg-4" style="margin-top: 175px;">
+			<div class="col-sm-12"><div class="col-sm-12">
+				{{- partial "callout-text-blog-right" . -}}
+				{{- partial "blog-tags-right" . -}}
+			</div>
+		</div>
+	</div>
+</div></div>
+
+
+
+
+
+
+
+
+
+{{ else if eq .Section "rankings" }}
+ <div class="bgImageElementWhite">
+ </div>
+ <div class="clearfix"></div>
+ <div class="container subTopMarginHeader">
+ 	<div class="row">
+ 		<div class="col-lg-12">
+ 			<div class="spFeature articleContent">
+ 				<h2 class="articleHeader">Top 100 Beaches In Australia</h2>
+ 				<hr />
+
+ 				<p class="introPara mb-3">Below are the current Top 100 Beaches in Australia based on several data points and factors that have been calculated through a complex algorithm. Some of these datapoints include Student Academic Performance, Teacher Insights, Beach Facilities, Sense of Community, Social Media Feedback, Online Reviews and Brand Reputation.</p>
+ 				
+	<hr />
+
+{{ $counter := 0 }}
+{{ range (.Site.Pages.GroupByParam "realScore").Reverse  | first 17 }}
+   {{ range sort .Pages "Params.realScore" }}
+       {{ $counter = add $counter 1 }}
+ <!-- IMAGE SVG TEXT ELEMENT -->
+						
+				<div class="container"> <div class="row">
+					<div class="threeBlogGrid taxonomyList ">
+					
+						<!-- IMAGE SVG TEXT ELEMENT -->
+						<div class="blockImageTextSvg taxonomyListTabledLessMargin">
+							<div class="blockImageSvgWrapID-hite taxonomyListTabled">
+								<div class="row">
+
+									<div class="col-xs-2 col-md-1 text-center">
+									<h2>{{ $counter }}</h2>
+									</div>
+									
+									<div class="col-xs-10 col-md-6 text-center text-md-left" style="padding-top: 15px;">
+										<h5><A href="{{ .RelPermalink }}">{{ .Title }}</A>
+										{{ range .Params.categories }} <span class="d-none d-md-inline-block">(
+	 										<a href="/categories/{{ . | urlize }}/">{{ . }}</a> 
+	 										{{ end }})</span></h5>
+									</div>
+										<div class="d-none d-md-block col-md-3" style="padding-top: 15px;">
+										{{ range .Params.tags }}
+	 										<a href="/tags/{{ . | urlize }}/" class="btn btn-sm">#{{ . }}</a> 
+	 										{{ end }}
+	 									
+	 								</div>
+	 									
+							
+									<div class="col-xs-12 col-md-2 text-center text-md-left" style="padding-top: 15px;">
+	 										<h4>{{ .Params.realScore }}<span style="color: #999;"> / 100</span></h4> 
+	 										
+	 									</div>
+								</div> </div>
+								</div>	</div>	</div>	</div>	
+
+   {{ end }}
+{{ end }}
+<br />
+<hr />
+</div></div>
+</div></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{ else if eq .Section "awards" }}
+ <div class="bgImageElementWhite">
+ </div>
+ <div class="clearfix"></div>
+ <div class="container subTopMarginHeader">
+ 	<div class="row">
+ 		<div class="col-lg-12">
+ 			<div class="spFeature articleContent">
+ 				<h2 class="articleHeader">Best Beach Awards Australia 2023</h2>
+ 				<hr />
+
+ 				<p class="introPara mb-1">Find all the winners of the best beaches in Australia awards based on their category. Check back regularly as we add more categories, and also, these winners change over time!</p>
+ 				
+<h5 class="mb-3 mt-5 text-center"><Strong>Our Award Categories:</Strong></h5>
+
+<div class="row">
+
+{{ $counter := 0 }}
+{{ range (.Site.Pages.GroupByParam "grouping").Reverse  | first 17 }}
+   {{ range sort .Pages "Params.grouping" }}
+       {{ $counter = add $counter 1 }}
+ <!-- IMAGE SVG TEXT ELEMENT -->
+							<div class="col-6 col-lg-3 mb-3">
+				<div class="container"> <div class="row">
+					<div class="threeBlogGrid taxonomyList ">
+					
+						<!-- IMAGE SVG TEXT ELEMENT -->
+						<div class="blockImageTextSvg taxonomyListTabledLessMargin">
+							<div class="blockImageSvgWrapID-hite taxonomyListTabled">
+								<div class="row">
+
+									
+									
+									<div class="col-12 text-center" style="padding-top: 15px;">
+										<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" fill="#fbc834" class="bi bi-trophy" viewBox="0 0 16 16">
+  <path d="M2.5.5A.5.5 0 0 1 3 0h10a.5.5 0 0 1 .5.5c0 .538-.012 1.05-.034 1.536a3 3 0 1 1-1.133 5.89c-.79 1.865-1.878 2.777-2.833 3.011v2.173l1.425.356c.194.048.377.135.537.255L13.3 15.1a.5.5 0 0 1-.3.9H3a.5.5 0 0 1-.3-.9l1.838-1.379c.16-.12.343-.207.537-.255L6.5 13.11v-2.173c-.955-.234-2.043-1.146-2.833-3.012a3 3 0 1 1-1.132-5.89A33.076 33.076 0 0 1 2.5.5zm.099 2.54a2 2 0 0 0 .72 3.935c-.333-1.05-.588-2.346-.72-3.935zm10.083 3.935a2 2 0 0 0 .72-3.935c-.133 1.59-.388 2.885-.72 3.935zM3.504 1c.007.517.026 1.006.056 1.469.13 2.028.457 3.546.87 4.667C5.294 9.48 6.484 10 7 10a.5.5 0 0 1 .5.5v2.61a1 1 0 0 1-.757.97l-1.426.356a.5.5 0 0 0-.179.085L4.5 15h7l-.638-.479a.501.501 0 0 0-.18-.085l-1.425-.356a1 1 0 0 1-.757-.97V10.5A.5.5 0 0 1 9 10c.516 0 1.706-.52 2.57-2.864.413-1.12.74-2.64.87-4.667.03-.463.049-.952.056-1.469H3.504z"/>
+</svg>
+										<h5 class="p-2"><A href="{{ .RelPermalink }}">{{ .Title }}</A>
+										</h5>
+									</div>
+						
+	 									
+							
+								
+								</div> </div>
+								</div>	</div>	</div>	</div>	
+</div>	
+   {{ end }}
+{{ end }}
+<br />
+
+</div></div>
+</div></div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{ else if eq .Section "trending" }}
+ <div class="bgImageElementWhite">
+ </div>
+ <div class="clearfix"></div>
+ <div class="container subTopMarginHeader">
+ 	<div class="row">
+ 		<div class="col-lg-12">
+ 			<div class="spFeature articleContent">
+ 				<h2 class="articleHeader">Trending Beaches in Australia 2023</h2>
+ 				<hr />
+
+ 				<p class="introPara mb-3">Here are the Beaches that are currently the most sought after when it comes to people seeking more information. This reflects how many people are intentionally researching the Beach via search engine / our website traffic.</p>
+ 				
+	<hr />
+
+{{ $counter := 0 }}
+{{ range (.Site.Pages.GroupByParam "trending").Reverse  | first 50 }}
+   {{ range sort .Pages "Params.trending" | shuffle }}
+       {{ $counter = add $counter 1 }}
+ <!-- IMAGE SVG TEXT ELEMENT -->
+						
+				<div class="container"> <div class="row">
+					<div class="threeBlogGrid taxonomyList ">
+					
+						<!-- IMAGE SVG TEXT ELEMENT -->
+						<div class="blockImageTextSvg taxonomyListTabledLessMargin">
+							<div class="blockImageSvgWrapID-hite taxonomyListTabled">
+								<div class="row">
+
+									<div class="col-xs-2 col-md-1 text-center">
+									<h2>{{ $counter }}</h2>
+									</div>
+									
+									<div class="col-xs-10 col-md-6 text-center text-md-left" style="padding-top: 15px;">
+										<h5><A href="{{ .RelPermalink }}">{{ .Title }}</A>
+										{{ range .Params.categories }} <span class="d-none d-md-inline-block">(
+	 										<a href="/categories/{{ . | urlize }}/">{{ . }}</a> 
+	 										{{ end }})</span></h5>
+									</div>
+										<div class="d-none d-md-block col-md-3" style="padding-top: 15px;">
+										{{ range .Params.tags }}
+	 										<a href="/tags/{{ . | urlize }}/" class="btn btn-sm">#{{ . }}</a> 
+	 										{{ end }}
+	 									
+	 								</div>
+	 									
+							
+									<div class="col-xs-12 col-md-2 text-center text-md-left" style="padding-top: 15px;">
+	 										<h4>{{ .Params.realScore }}<span style="color: #999;"> / 100</span></h4> 
+	 										
+	 									</div>
+								</div> </div>
+								</div>	</div>	</div>	</div>	
+
+   {{ end }}
+{{ end }}
+<br />
+<hr />
+</div></div>
+</div></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{ else if eq .Section "secret" }}
+ <div class="bgImageElementWhite">
+ </div>
+ <div class="clearfix"></div>
+ <div class="container subTopMarginHeader">
+ 	<div class="row">
+ 		<div class="col-lg-12">
+ 			<div class="spFeature articleContent">
+ 				<h2 class="articleHeader">Top Secret Beaches In Australia</h2>
+ 				<hr />
+ 				<p class="introPara mb-3">The best hidden gems on the Australian coast where you will escape the crowds and potentially experience an amazing beach all to yourself. Remember, don't tell anyone or they will no longer be a secret :P</p>
+
+ 				<hr />
+
+{{ $counter := 0 }}
+{{ range (.Site.Pages.GroupByParam "secret").Reverse }}
+   {{ range sort .Pages "Params.realScore" }}
+       {{ $counter = add $counter 1 }}
+ <!-- IMAGE SVG TEXT ELEMENT -->
+						
+				<div class="container"> <div class="row">
+					<div class="threeBlogGrid taxonomyList ">
+					
+						<!-- IMAGE SVG TEXT ELEMENT -->
+						<div class="blockImageTextSvg taxonomyListTabledLessMargin">
+							<div class="blockImageSvgWrapID-hite taxonomyListTabled">
+								<div class="row">
+
+									<div class="col-xs-2 col-md-1 text-center">
+									<h2>{{ $counter }}</h2>
+									</div>
+									
+									<div class="col-xs-10 col-md-6 text-center text-md-left" style="padding-top: 15px;">
+										<h5><A href="{{ .RelPermalink }}">{{ .Title }}</A>
+										{{ range .Params.categories }} <span class="d-none d-md-inline-block">(
+	 										<a href="/categories/{{ . | urlize }}/">{{ . }}</a> 
+	 										{{ end }})</span></h5>
+									</div>
+										<div class="d-none d-md-block col-md-3" style="padding-top: 15px;">
+										{{ range .Params.tags }}
+	 										<a href="/tags/{{ . | urlize }}/" class="btn btn-sm">#{{ . }}</a> 
+	 										{{ end }}
+	 									
+	 								</div>
+	 									
+							
+									<div class="col-xs-12 col-md-2 text-center text-md-left" style="padding-top: 15px;">
+	 										<h4>{{ .Params.realScore }}<span style="color: #999;"> / 100</span></h4> 
+	 										
+	 									</div>
+								</div> </div>
+								</div>	</div>	</div>	</div>	
+
+   {{ end }}
+{{ end }}
+
+
+<br />
+	<hr />
+
+
+ 			
+		</div></div>
+
+</div></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{ else if eq .Section "categories" }}
+
+
+ <div class="bgImageElementWhite">
+ </div>
+ <div class="clearfix"></div>
+ <div class="container subTopMarginHeader">
+	<div class="row">
+		<div class="col-lg-8">
+			<div class="spFeature articleContent">
+				<h2 class="articleHeader">
+{{ if eq .Title "Categories"  }}
+{{ $theTitle := "Best Australian Beaches "}}
+{{ $theTitle }}
+{{ else }}
+{{ $theTitle := .Title }}
+{{ $theTitle }}
+{{ end }}	
+				</h2>
+				<hr />
+					{{ $postCount := len .Pages }}
+						<p><Strong>{{ $postCount }}</Strong> results</p>		
+
+{{ range .Pages | first 1}}
+
+{{ if in .Params.categories "VIC"  }}
+
+{{ $blog := .Site.GetPage "/categories/vic/"}}
+{{ $slice := slice }}
+{{ range $page := $blog.Data.Pages }}
+    {{ range $tag := $page.Params.tags | first 1 }}
+        {{ $slice = $slice | append $tag }}
+    {{ end }}
+{{ end }}
+
+<div class="module">
+	<div class="alert alert-light listPlacesWrap">
+        <div class="collapse" id="collapseExample" aria-expanded="false">
+
+	<h6>Places</h6>
+{{ range $uniqueTags := $slice | uniq }}
+    <a class="btn btn-outline-dark" href="/tags/{{ $uniqueTags | urlize }}/">{{ $uniqueTags }}</a>
+{{ end }}
+</div>
+<a role="button" id="theShowMoreButton" class="collapsed" data-toggle="collapse" href="#collapseExample" 
+         aria-expanded="false" aria-controls="collapseExample"></a>
+     </div>
+</div>
+
+
+{{ end }}
+
+
+
+{{ if in .Params.categories "NSW"  }}
+
+{{ $blog := .Site.GetPage "/categories/nsw/"}}
+{{ $slice := slice }}
+{{ range $page := $blog.Data.Pages }}
+    {{ range $tag := $page.Params.tags | first 1 }}
+        {{ $slice = $slice | append $tag }}
+    {{ end }}
+{{ end }}
+
+<div class="module">
+	<div class="alert alert-light listPlacesWrap">
+        <div class="collapse" id="collapseExample" aria-expanded="false">
+
+	<h6>Places</h6>
+{{ range $uniqueTags := $slice | uniq }}
+    <a class="btn btn-outline-dark" href="/tags/{{ $uniqueTags | urlize }}/">{{ $uniqueTags }}</a>
+{{ end }}
+</div>
+<a role="button" id="theShowMoreButton" class="collapsed" data-toggle="collapse" href="#collapseExample" 
+         aria-expanded="false" aria-controls="collapseExample"></a>
+     </div>
+</div>
+
+
+{{ end }}
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{ if in .Params.categories "QLD"  }}
+
+{{ $blog := .Site.GetPage "/categories/qld/"}}
+{{ $slice := slice }}
+{{ range $page := $blog.Data.Pages }}
+    {{ range $tag := $page.Params.tags | first 1 }}
+        {{ $slice = $slice | append $tag }}
+    {{ end }}
+{{ end }}
+
+<div class="module">
+	<div class="alert alert-light listPlacesWrap">
+        <div class="collapse" id="collapseExample" aria-expanded="false">
+
+	<h6>Places</h6>
+{{ range $uniqueTags := $slice | uniq }}
+    <a class="btn btn-outline-dark" href="/tags/{{ $uniqueTags | urlize }}/">{{ $uniqueTags }}</a>
+{{ end }}
+</div>
+<a role="button" id="theShowMoreButton" class="collapsed" data-toggle="collapse" href="#collapseExample" 
+         aria-expanded="false" aria-controls="collapseExample"></a>
+     </div>
+</div>
+
+
+{{ end }}
+
+
+
+
+
+
+
+
+
+
+
+{{ if in .Params.categories "TAS"  }}
+
+{{ $blog := .Site.GetPage "/categories/tas/"}}
+{{ $slice := slice }}
+{{ range $page := $blog.Data.Pages }}
+    {{ range $tag := $page.Params.tags | first 1 }}
+        {{ $slice = $slice | append $tag }}
+    {{ end }}
+{{ end }}
+
+<div class="module">
+	<div class="alert alert-light listPlacesWrap">
+        <div class="collapse" id="collapseExample" aria-expanded="false">
+
+	<h6>Places</h6>
+{{ range $uniqueTags := $slice | uniq }}
+    <a class="btn btn-outline-dark" href="/tags/{{ $uniqueTags | urlize }}/">{{ $uniqueTags }}</a>
+{{ end }}
+</div>
+<a role="button" id="theShowMoreButton" class="collapsed" data-toggle="collapse" href="#collapseExample" 
+         aria-expanded="false" aria-controls="collapseExample"></a>
+     </div>
+</div>
+
+
+{{ end }}
+
+
+
+
+
+
+
+
+
+
+
+{{ if in .Params.categories "NT"  }}
+
+{{ $blog := .Site.GetPage "/categories/nt/"}}
+{{ $slice := slice }}
+{{ range $page := $blog.Data.Pages }}
+    {{ range $tag := $page.Params.tags | first 1 }}
+        {{ $slice = $slice | append $tag }}
+    {{ end }}
+{{ end }}
+
+<div class="module">
+	<div class="alert alert-light listPlacesWrap">
+        <div class="collapse" id="collapseExample" aria-expanded="false">
+
+	<h6>Places</h6>
+{{ range $uniqueTags := $slice | uniq }}
+    <a class="btn btn-outline-dark" href="/tags/{{ $uniqueTags | urlize }}/">{{ $uniqueTags }}</a>
+{{ end }}
+</div>
+<a role="button" id="theShowMoreButton" class="collapsed" data-toggle="collapse" href="#collapseExample" 
+         aria-expanded="false" aria-controls="collapseExample"></a>
+     </div>
+</div>
+
+
+{{ end }}
+
+
+
+
+
+
+
+
+{{ if in .Params.categories "SA"  }}
+
+{{ $blog := .Site.GetPage "/categories/sa/"}}
+{{ $slice := slice }}
+{{ range $page := $blog.Data.Pages }}
+    {{ range $tag := $page.Params.tags | first 1 }}
+        {{ $slice = $slice | append $tag }}
+    {{ end }}
+{{ end }}
+
+<div class="module">
+	<div class="alert alert-light listPlacesWrap">
+        <div class="collapse" id="collapseExample" aria-expanded="false">
+
+	<h6>Places</h6>
+{{ range $uniqueTags := $slice | uniq }}
+    <a class="btn btn-outline-dark" href="/tags/{{ $uniqueTags | urlize }}/">{{ $uniqueTags }}</a>
+{{ end }}
+</div>
+<a role="button" id="theShowMoreButton" class="collapsed" data-toggle="collapse" href="#collapseExample" 
+         aria-expanded="false" aria-controls="collapseExample"></a>
+     </div>
+</div>
+
+
+{{ end }}
+
+
+
+
+
+
+
+{{ if in .Params.categories "WA"  }}
+
+{{ $blog := .Site.GetPage "/categories/wa/"}}
+{{ $slice := slice }}
+{{ range $page := $blog.Data.Pages }}
+    {{ range $tag := $page.Params.tags | first 1 }}
+        {{ $slice = $slice | append $tag }}
+    {{ end }}
+{{ end }}
+
+<div class="module">
+	<div class="alert alert-light listPlacesWrap">
+        <div class="collapse" id="collapseExample" aria-expanded="false">
+
+	<h6>Places</h6>
+{{ range $uniqueTags := $slice | uniq }}
+    <a class="btn btn-outline-dark" href="/tags/{{ $uniqueTags | urlize }}/">{{ $uniqueTags }}</a>
+{{ end }}
+</div>
+<a role="button" id="theShowMoreButton" class="collapsed" data-toggle="collapse" href="#collapseExample" 
+         aria-expanded="false" aria-controls="collapseExample"></a>
+     </div>
+</div>
+
+
+{{ end }}
+
+
+
+
+
+
+
+
+
+
+
+
+{{ if in .Params.categories "ACT"  }}
+
+{{ $blog := .Site.GetPage "/categories/act/"}}
+{{ $slice := slice }}
+{{ range $page := $blog.Data.Pages }}
+    {{ range $tag := $page.Params.tags | first 1 }}
+        {{ $slice = $slice | append $tag }}
+    {{ end }}
+{{ end }}
+
+<div class="module">
+	<div class="alert alert-light listPlacesWrap">
+        <div class="collapse" id="collapseExample" aria-expanded="false">
+
+	<h6>Places</h6>
+{{ range $uniqueTags := $slice | uniq }}
+    <a class="btn btn-outline-dark" href="/tags/{{ $uniqueTags | urlize }}/">{{ $uniqueTags }}</a>
+{{ end }}
+</div>
+<a role="button" id="theShowMoreButton" class="collapsed" data-toggle="collapse" href="#collapseExample" 
+         aria-expanded="false" aria-controls="collapseExample"></a>
+     </div>
+</div>
+
+
+{{ end }}
+
+
+
+
+
+
+
+
+{{ if in .Params.categories "Africa"  }}
+{{ $blog := .Site.GetPage "/categories/Africa/"}}
+{{ $slice := slice }}
+{{ range $page := $blog.Data.Pages }}
+    {{ range $tag := $page.Params.tags | first 1 }}
+        {{ $slice = $slice | append $tag }}
+    {{ end }}
+{{ end }}
+<div class="alert alert-light listPlacesWrap">
+	<h6>Places</h6>
+{{ range $uniqueTags := $slice | uniq }}
+    <a class="btn btn-outline-dark" href="/tags/{{ $uniqueTags | urlize }}/">{{ $uniqueTags }}</a>
+{{ end }}
+</div>
+{{ end }}
+
+
+{{ if in .Params.categories "Asia"  }}
+{{ $blog := .Site.GetPage "/categories/Asia/"}}
+{{ $slice := slice }}
+{{ range $page := $blog.Data.Pages }}
+    {{ range $tag := $page.Params.tags | first 1 }}
+        {{ $slice = $slice | append $tag }}
+    {{ end }}
+{{ end }}
+<div class="alert alert-light listPlacesWrap">
+	<h6>Places</h6>
+{{ range $uniqueTags := $slice | uniq }}
+    <a class="btn btn-outline-dark" href="/tags/{{ $uniqueTags | urlize }}/">{{ $uniqueTags }}</a>
+{{ end }}
+</div>
+{{ end }}
+
+
+
+{{ if in .Params.categories "North America"  }}
+{{ $blog := .Site.GetPage "/categories/North-America/"}}
+{{ $slice := slice }}
+{{ range $page := $blog.Data.Pages }}
+    {{ range $tag := $page.Params.tags | first 1 }}
+        {{ $slice = $slice | append $tag }}
+    {{ end }}
+{{ end }}
+<div class="alert alert-light listPlacesWrap">
+	<h6>Places</h6>
+{{ range $uniqueTags := $slice | uniq }}
+    <a class="btn btn-outline-dark" href="/tags/{{ $uniqueTags | urlize }}/">{{ $uniqueTags }}</a>
+{{ end }}
+</div>
+{{ end }}
+
+
+
+
+{{ if in .Params.categories "South America"  }}
+{{ $blog := .Site.GetPage "/categories/south-america/"}}
+{{ $slice := slice }}
+{{ range $page := $blog.Data.Pages }}
+    {{ range $tag := $page.Params.tags | first 1 }}
+        {{ $slice = $slice | append $tag }}
+    {{ end }}
+{{ end }}
+<div class="alert alert-light listPlacesWrap">
+	<h6>Places</h6>
+{{ range $uniqueTags := $slice | uniq }}
+    <a class="btn btn-outline-dark" href="/tags/{{ $uniqueTags | urlize }}/">{{ $uniqueTags }}</a>
+{{ end }}
+</div>
+{{ end }}
+
+
+
+
+
+
+
+
+
+
+
+
+{{ end }}
+
+
+
+
+
+				<div class="container"> <div class="row">
+					<div class="threeBlogGrid taxonomyList ">
+						{{ range .Paginator.Pages }}
+						<!-- IMAGE SVG TEXT ELEMENT -->
+						<div class="blockImageTextSvg taxonomyListTabledLessMargin">
+							<div class="blockImageSvgWrapID-hite taxonomyListTabled">
+								<div class="row">
+
+
+										{{ if eq .Title	"Africa"  }}
+										<div class="col-sm-4">
+										<h4><A href="{{ .RelPermalink }}">{{ .Title }}</A></h4>
+										</div>
+
+										{{ else if eq .Title	"Asia"  }}
+										<div class="col-sm-4">
+										<h4><A href="{{ .RelPermalink }}">{{ .Title }}</A></h4>
+										</div>
+										{{ else if eq .Title	"Oceania"  }}
+										<div class="col-sm-4">
+										<h4><A href="{{ .RelPermalink }}">{{ .Title }}</A></h4>
+										</div>
+										{{ else if eq .Title	"Europe"  }}
+										<div class="col-sm-12">
+										<h4><A href="{{ .RelPermalink }}">{{ .Title }}</A></h4>
+										</div>
+										{{ else if eq .Title	"North America"  }}
+										<div class="col-sm-12">
+										<h4><A href="{{ .RelPermalink }}">{{ .Title }}</A></h4>
+										</div>
+										{{ else if eq .Title	"South America"  }}
+										<div class="col-sm-12">
+										<h4><A href="{{ .RelPermalink }}">{{ .Title }}</A></h4>
+										</div>
+										{{ else if eq .Title	"Latest"  }}
+										<div class="col-sm-12">
+										<h4><A href="{{ .RelPermalink }}"></A></h4>
+										</div>
+
+										{{ else }}
+										<div class="col-sm-9">
+										<h6><A href="{{ .RelPermalink }}">{{ .Title }}</A></h6>
+									</div>
+										<div class="col-sm-3">
+										{{ range .Params.tags }}
+	 										<a href="/tags/{{ . | urlize }}/" class="btn btn-sm btn-outline-dark">#{{ . }}</a> 
+	 										{{ end }}
+	 									
+	 								</div>
+							
+									<!--<div class="col-sm-2">
+										<img class="img-fluid" src="/images/places/place ({{ .Params.id }}).jpg" width="140" height="96" alt="Listing Image"/>
+									</div>-->
+										
+										{{ end }}
+
+
+
+
+									
+								</div> </div>
+							</div>
+							{{ end }}
+							{{- partial "pagination" . -}}
+								<div class="bg-brand mt-5 pl-3 pt-3">
+ 	{{- partial "search-form.html" . -}}
+ 	</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="col-lg-4" style="margin-top: 175px;">
+			<div class="col-sm-12"><div class="col-sm-12">
+				{{- partial "callout-text-blog-right" . -}}
+				{{- partial "blog-tags-right" . -}}
+			</div>
+		</div>
+	</div>
+</div></div>
+{{ else }}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="clearfix"></div>
+<div class="blogHomeContainerBg"></div>
+<div class="container-fluid blogHomeContainer">
+	<div class="" style="">
+		{{- partial "1-col-blog-image-feat" . -}}
+	</div>
+</div>
+
+	<div class="container-fluid blogHomeSecondBlock">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-8">
+				<div class="row">
+					<div class="col-sm-6">
+						{{- partial "1-col-blog-thumb-hot" . -}}
+					</div>
+					<div class="col-sm-6">
+						{{- partial "1-col-blog-thumb-pink" . -}}
+					</div>
+				</div> 
+			</div>
+			<div class="col-lg-4">
+				<div class="col-sm-12">
+					{{- partial "blog-list-text-vert-blog-home" . -}}
+				</div>
+			</div>
+		</div>
+	</div>
+	{{- partial "callout-text-subscribe" . -}}
+</div>
+</div>
+{{ end }}
+{{ end }}

@@ -1,0 +1,21 @@
+
+
+{{ define "main" }}
+
+<div class="container mt-5 mb-5">
+	<div class="row">
+		<div class="col-12">
+			<h1>Search</h1>
+	{{ partial "search-form-autofocus.html" . }}
+<div id="results" class="mt-2">
+    <p>
+        Enter a keyword above to search this site.
+    </p>
+</div>
+</div>
+</div>
+</div></div>
+ {{- partial "search-index.html" . -}}
+
+{{ end }}
+
