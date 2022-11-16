@@ -2,8 +2,8 @@
  <div class="container-fluid blogNavFluid">
   <div class="container mobileNoPad">
 <nav class="navbar navbar-expand-lg navbar-light subnavbar">
-  <button class="navbar-toggler navbar-toggler-right theTogglerSub text-right" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-    In this Section &nbsp; <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-chevron-down" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+  <button class="navbar-toggler navbar-toggler-right theTogglerSub" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    Filter By: &nbsp; <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-chevron-down" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
   <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/>
 </svg>
   </button>
@@ -11,21 +11,17 @@
 
   <div class="collapse navbar-collapse" id="navbarNav">
    {{ $currentPage := . }}
-       <ul class="navbar-nav nav subNav ml-auto">
+       <ul class="navbar-nav nav subNav">
  
-        
-        <li class="nav-item">
+        <li class="text-white pr-3 pt-3">Popular:</li>
+          
               {{ $getstarted := site.GetPage "/best-caravans/" }}
         {{ with $getstarted }}
         {{ range .Pages }}
+              <li class="nav-item"><a href="/best-caravans/{{ .Slug }}/" class="btn btn-sm btn-outline-light ml-2 mt-2">{{ .Title }}</a> </li>
+        {{ end }}
+        {{ end }}
      
-    
-
-            <a href="/best-caravans/{{ .Slug }}/" class="btn btn-sm btn-outline-light">{{ .Title }}</a>
-
-        {{ end }}
-        {{ end }}
-      </li>
       </ul>
       </div>
 

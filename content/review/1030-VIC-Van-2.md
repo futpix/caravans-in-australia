@@ -10,7 +10,7 @@ date: "2022-10-10T22:00:09+11:00"
 featImage: "auswide-drfit.jpg"
 categories: ["Aussie Wide Caravans"]
 tags: ["Off Road"]
-totalLength: "5.94"
+totalLength: 5.94
 bodyLength: "0"
 totalHeight: "0"
 totalWidth: "0"

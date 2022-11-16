@@ -3,19 +3,45 @@
  {{- partial "navFilter.html" . -}}
 
 
+ <div class="bgImageElementWhite">
+ </div>
+ <div class="clearfix"></div>
+ <div class="container subTopMarginHeader">
+    <div class="row">
+        <div class="col-lg-8">
+            <div class="spFeature articleContent">
+                <h2 class="articleHeader">{{ .Title }}</h2>
+                <hr />
 
+                {{ .Content }}
+
+<h6>Popular</h6>
+{{ range where .Site.Pages "Params.sleeps" "6" }}
+{{- partial "listing-template-text.html" . -}}
+{{ end }}
+                
+<br />
+
+ <h4>Featured</h4>
+ {{ range where .Site.Pages "Params.sleeps" "4" }}
+{{- partial "listing-template.html" . -}}
+{{ end }}
+
+<!-- {{  where .Site.Pages "Params.sleeps" "!=" nil }} 
+-->
+
+
+
+
+
+            </div></div></div></div></div></div>
 
    
 
 
 
 
-
-
-
-
-
-                      {{ end }}
+    {{ end }}
          
 
 

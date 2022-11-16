@@ -38,6 +38,27 @@
 
 
 
+{{ if eq .Title "17ft Caravan"  }}
+{{ range where .Site.Pages ".Params.totalLength" "6.1" }}
+<div class="col-md-6 mb-4">			
+{{- partial "listing-template.html" . -}}
+</div> 
+{{end}}						
+{{end}}	
+
+
+{{ if eq .Title "15ft Caravan"  }}
+
+{{ range where .Site.Pages ".Params.totalLength" "5.94" }}
+<div class="col-md-6 mb-4">			
+{{- partial "listing-template.html" . -}}
+</div> 					
+{{end}}	
+{{end}}	
+
+
+
+
 </div>
 </div></div>
 </div></div>

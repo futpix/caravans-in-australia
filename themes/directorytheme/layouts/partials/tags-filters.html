@@ -1,0 +1,16 @@
+
+	<div class="row spFeature text-center tagsBlog">
+		<div class="col-sm-12">
+			<div class="">
+				<h4 class="brandColor text-left">Trending</h4 >
+              {{ $getstarted := site.GetPage "/best-caravans/" }}
+        {{ with $getstarted }}
+        {{ range .RegularPages }}
+              <a href="/best-caravans/{{ .Slug }}/" class="btn btn-sm btn-outline-dark ml-2 mt-2">{{ .Title }}</a>
+        {{ end }}
+        {{ end }}
+
+			</div>
+		</div>
+	</div>
+

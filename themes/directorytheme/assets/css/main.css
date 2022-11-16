@@ -680,7 +680,7 @@ body .subNav a.latest {display: none;}
     background: #003763;
     border-bottom: 3px solid #d4005b;
 }
- .subNav {  text-align: right; border-top: 0px solid #eee; padding-top: 10px; padding-bottom: 40px; margin-top: 5px;margin-bottom: 0px; text-transform: uppercase; font-weight: bolder; font-size: 75%;  border-radius: 10px;}
+ .subNav {  text-align: right; border-top: 0px solid #eee; padding-top: 10px; padding-bottom: 40px; margin-top: 5px;margin-bottom: 0px; text-transform: uppercase; font-weight: bolder; font-size: 75%;  border-radius: 0px;}
  
  body#Posts .subNav a.nav-link {color: #fff;
     font-weight: bold;
@@ -1220,7 +1220,7 @@ div.cardExample h6 {font-size: 140%; font-weight: normal; margin-bottom: 30px; l
  
 
 
- .navbar-brand img {width: 250px;}
+ .navbar-brand img {width: 173px;}
  .homeDarkOne {margin-top: -50px; overflow: hidden; height: 520px;}
  .homeDarkOneFeature {margin-top: -150px; display: block; margin-left: -100%; z-index: 5000; transform: rotate3d(.5,.866,0,15deg) rotateZ(-1deg);}
  a.globalCard:hover, div.globalCard:active, div.globalCard:hover {
@@ -1537,7 +1537,7 @@ button.navbar-toggler:focus {
 
 .theTogglerSub {padding: 10px 0px 10px; width: 100%; margin-top: 10px;}
 .subNav {text-align: left; }
-.subNav {    padding: 0px 0px 3px; margin-top: -10px; height: 250px; overflow: hidden;}
+.subNav {    padding: 0px 0px 3px; margin-top: 0px; height: 250px; overflow: hidden;}
 .mobileNoPad {padding: 0px 0px 0px 0px;}
 
 
@@ -1559,7 +1559,7 @@ div.cardExample h6 {font-size: 110%;}
 }
 
 
-.blogNavFluid {background: #222; padding-bottom: 0px; padding-top: 0px;}
+.blogNavFluid {background: #003763; padding-bottom: 0px; padding-top: 0px;}
 #Posts .blogNavFluid {background: #222; padding-bottom: 0px;}
 #Ratings_index .blogNavFluid {}
 
@@ -1773,7 +1773,7 @@ margin-top:0px;
 .navbar {display: none;}
 */
 
-.navbar-light .subNav .nav-link { padding: 0px 0px 0px 0px;     font-size: 220%; border-radius: 5px;}
+.navbar-light .subNav .nav-link { padding: 0px 0px 0px 0px;     font-size: 220%; border-radius: 0px;}
 .subNav a.nav-link {
     margin-left: 7px;
 
