@@ -1,0 +1,47 @@
+ {{ define "main" }}
+ {{- partial "navCategories.html" . -}}
+  {{- partial "navFilter.html" . -}}
+	
+ <div class="clearfix"></div>
+ <div class="container mb-5">
+ 	<div class="row">
+ 		<div class="col-lg-8">
+ 			<div class="articleContent">
+ 				<h2 class="articleHeader taxonomyHeader">Best {{ .Title }} Caravans</h2>
+ 				<hr />
+			<div class="row">	
+
+
+{{ if eq .Title "Sleeps 6"  }}
+{{ range where .Site.Pages "Params.sleeps" "6" }}
+<div class="col-md-6 mb-4">			
+{{- partial "listing-template.html" . -}}
+</div> 
+{{end}}						
+{{end}}		
+
+{{ if eq .Title "Sleeps 4"  }}
+{{ range where .Site.Pages "Params.sleeps" "4" }}
+<div class="col-md-6 mb-4">			
+{{- partial "listing-template.html" . -}}
+</div> 
+{{end}}						
+{{end}}		
+
+{{ if eq .Title "Sleeps 2"  }}
+{{ range where .Site.Pages "Params.sleeps" "2" }}
+<div class="col-md-6 mb-4">			
+{{- partial "listing-template.html" . -}}
+</div> 
+{{end}}						
+{{end}}	
+
+
+
+</div>
+</div></div>
+</div></div>
+
+
+
+{{ end }}

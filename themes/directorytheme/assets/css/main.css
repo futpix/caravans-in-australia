@@ -1,11 +1,10 @@
 
-/* Poppins
-Poppins
+/* Quicksand
+Quicksand
 
 Crimson Pro?
 
 */
-
 
 
 @font-face {
@@ -13,47 +12,68 @@ Crimson Pro?
   src: url(/fonts/BrandonText-Bold.otf);
 }
 
+.adLeaderBoardShorter {display: none; width: 100%; height: 200px; background: transparent; margin: 0px auto;}
+.adLeaderBoard {display: none; width: width: 100%; height: 90px; background: transparent; margin: 0px auto;}
+.adSideRectMed {display: none; width: width: 100%; height: 250px; background: transparent; margin: 0px auto;}
+.adSideRectLg {display: none; width: width: 100%; height: 280px; background: transparent; margin: 0px auto; }
+.adHalfPage {display: none; width: width: 100%; height: 600px; background: transparent; margin: 0px auto; }
+.adLargeWide {display: none; width: width: 100%; height: 200px; background: transparent; margin: 0px auto;}
+
+.bg-brand {background: #003763!important;}
+
+.form-control:focus {
+    color: #495057;
+    background-color: #fff;
+    border-color: #d2cfcb;
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem rgb(240 55 55 / 25%);
+}
+
+#showRatingBtn {padding: 13px 10px!important; font-size: 100%!important; font-weight: bold!important; float: left!important;}
  
-body {overflow-x: hidden; padding-top: 55px; top: 0px!important; }
+body {overflow-x: hidden; padding-top: 0px; top: 0px!important; }
 
+
+body {background: #f9f9f9!important;}
       body {
-        font-family: 'Poppins', serif; font-weight: normal;
+        font-family: 'Quicksand', serif; font-weight: normal;
               }
- h1,h2,h3,h4,h4  { font-family: 'Poppins', serif; font-weight: 700;}
+ h1,h2,h3,h4,h4  { font-family: 'Quicksand', serif; font-weight: 700;}
 
-h5,h6 { font-family: 'Poppins', serif; font-weight: 500;}
+h5,h6 { font-family: 'Quicksand', serif; font-weight: 500;}
 
-.navbar { font-family: 'Poppins', serif; font-weight: 500;}
+.navbar { font-family: 'Quicksand', serif; font-weight: 500;}
 
-   body {padding-top: 65px; }
+.fi- {display: none!important;}
 
+   .text-bold {font-weight: bold!important;}
+
+.googleAdsenseLargeTop {width: 780px; height: 200px; background: #eee; display: none; margin: -15px auto 0px;}   
+
+
+.erascode {padding: 5px 10px; text-align: center; background: #fff; border-radius: 10px; border: 5px dashed #999; font-weight: bold; letter-spacing: 2px; display: block; width: 200px; margin: 20px 0px;}
 
 .navbar-light .navbar-toggler {color: #fff!important;}
-
-.navbar-grey {background: #efefef;}
-.navbar-grey {display: flex; top: 20px; position: absolute; }
 
 .navbar-light .navbar-toggler-icon {
     background-image: url(/images/navBars.svg);
 }
 
-#Posts .navbar-light .navbar-toggler-icon {
-    color: #fff;
-    background-image: url(/images/navBarsLight.svg);
+.dark-alert:before {
+    display: block;
+    margin-top: -10px;
+    margin-left: -50px;
+    font-weight: bold;
+    font-size: 120px;
+    color: #003763;
+    font-family: "Times New Roman",georgia,serif;
+    position: absolute;
+    content: "“";
 }
-#Ratings_index .navbar-light .navbar-toggler-icon {
-    color: #fff;
-    background-image: url(/images/navBarsLight.svg);
-}
+.dark-alert {background: #333; color: #fff!important; width: 100%!important;}
+.goodoil {border: 3px solid #ddd!important;}
 
-.posts .navbar-light .navbar-toggler-icon, .tags .navbar-light .navbar-toggler-icon, .categories .navbar-light .navbar-toggler-icon {
-    color: #fff;
-    background-image: url(/images/navBarsLight.svg);https://www.google.com/search?q=Number+of+beaches+in+Australia&sa=X&ved=2ahUKEwiUpf-WgO_6AhU8_bsIHfLxCDAQ1QJ6BQjpAxAB
-}
-.ratings .navbar-light .navbar-toggler-icon, .tags .navbar-light .navbar-toggler-icon, .categories .navbar-light .navbar-toggler-icon {
-    color: #fff;
-    background-image: url(/images/navBarsLight.svg);
-}
+.pagination {margin-top: 20px;}
 
 .map-responsive{
     overflow:hidden;
@@ -69,7 +89,7 @@ h5,h6 { font-family: 'Poppins', serif; font-weight: 500;}
     position:absolute;
 }
 
-.bg-brand {background:#03254c;}
+.bg-brand {background:#eee;}
 
  .spFeature p a.endParaLink {font-size: 16pt;}
  .blockImageTextSvg {
@@ -119,7 +139,7 @@ h5,h6 { font-family: 'Poppins', serif; font-weight: 500;}
  .blockImageSvgWrapID-1 {
     position: relative;
     padding-top: 36px;
-    background: #03254c;
+    background: #003763;
         margin: 0;
     padding: 40px;
     position: relative;
@@ -161,7 +181,7 @@ h5,h6 { font-family: 'Poppins', serif; font-weight: 500;}
  .blockImageSvgWrapID-Light {
     position: relative;
     padding-top: 36px;
-    background: #03254c;
+    background: #003763;
         margin: 0;
     padding: 40px;
     position: relative;
@@ -224,14 +244,14 @@ h5,h6 { font-family: 'Poppins', serif; font-weight: 500;}
 }
  .horizBannerContent h2 {font-size: 185%; margin-bottom: 0px;}
 .horizBannerContent p {font-size: 115%; line-height: 150%; margin-top: 15px;}
- .iconTitle {font-size: 110%; margin-left: 10px; color: #03254c; font-weight: bold; letter-spacing: 1px;}
+ .iconTitle {font-size: 110%; margin-left: 10px; color: #003763; font-weight: bold; letter-spacing: 1px;}
  .brandIcon {width: 45px; height: 45px;}
  .appsDeckCmsIcons .brandIcon {width: 70px; height: 70px;}
  .horizBannerPink {padding-top: 40px;padding-bottom: 40px;}
  .horizBannerPink:before {
     content: "";
     display: block;
-    background: #03254c;
+    background: #003763;
     position: absolute;
     top: 0;
     bottom: 0;
@@ -316,16 +336,35 @@ h5,h6 { font-family: 'Poppins', serif; font-weight: 500;}
  .threeBlogGrid h2 {font-size: 15pt;}
  .threeBlogGrid .blockImageSvgWrapID-White h2 a {color: #000;}
 
+
+
+
+.blogIntroIndex {
+    background: #f7f7f7;
+    padding: 40px 30px;
+    border: 1px solid #e1e1e1;
+    font-size: 95%;
+    border-radius: 20px;
+}
+
+.blogIntroIndex h5 {padding: 10px 0px;}
+
+.blogIntroIndex ul li {font-size: 110%; line-height: 150%; margin-bottom: 10px; font-weight: bold;  }
+
 .hpSteps {margin-top: 40px;}
 .hpSteps h2 {font-size: 20pt;}
 
 
-.taxonomyListTabled {background: #fff; padding: 10px; margin-bottom: 0px;}
+.taxonomyListTabled {background: #fff; padding: 0px 10px; margin-bottom: 0px;}
 .taxonomyListTabled .btn {font-size: 70%; float: right; }
 
 .taxonomyListTabledLessMargin {margin-bottom: 0px;}
 
+.taxonomyListTabled a {font-weight: bold;}
+
 .invitationGreyBox .SubscribeInput {width: 100%;}
+
+#theHomePage .invitationGreyBox .text-dark {color: #fff!important;}
 
 #the-basics {width: 100%;}
 .tt-menu {    width: 100%;
@@ -477,41 +516,50 @@ margin-top: 20px;
 
  .bgWhite {background-color: #fff;
 }
- .cardPricePopular  {margin-top: 0px; border: 5px solid #03254c; border-radius: 10px;}
- .pricePopular {color: #fff; background: #03254c; padding: 5px 55px; position: absolute; font-weight: normal; margin-top: -16px; margin-left: 25%; border-radius: 5px; }
+ .cardPricePopular  {margin-top: 0px; border: 5px solid #003763; border-radius: 10px;}
+ .pricePopular {color: #fff; background: #003763; padding: 5px 55px; position: absolute; font-weight: normal; margin-top: -16px; margin-left: 25%; border-radius: 5px; }
  .appsDeck .card-title {margin-top: 10px;}
 .appsDeck p {font-size: 90%;}
  .appsDeck.appsDeckCmsIcons .card-body {margin-bottom: 50px;}
-  .jumboBg {background-image:url(/images/hp-bg.jpg); background-repeat: no-repeat; background-size: cover;background-position: center -30px;}
  /* Hover Effects on Card */
  @media (min-width: 992px) {
+
+  .adLeaderBoardShorter {width: 720px; height: 200px;  margin: 0px auto;}
+.adLeaderBoard { width: 768px; height: 90px;  margin: 0px auto;}
+.adSideRectMed { width: 300px; height: 250px; margin: 0px auto;}
+.adSideRectLg { width: 336px; height: 280px; margin: 0px auto;}
+.adHalfPage { width: 300px; height: 600px; margin: 0px auto;}
+.adLargeWide { width: 1140px; height: 200px;  margin: 0px auto;}
+
+
+   .subNav { height: 100px!important; overflow: hidden;}
   .pricing .card:hover {
     margin-top: -.25rem;
     margin-bottom: .25rem;
     box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.3);
   }
-     .jumboBg {background-image:url(/images/hp-bg.jpg); background-repeat: no-repeat; background-size: cover;background-position: center -200px;}
   .pricing .card:hover .btn {
     opacity: 1;
   }
 }
 
- @media (min-width: 1200px) {
 
-     .jumboBg {background-image:url(/images/hp-bg.jpg); background-repeat: no-repeat; background-size: cover;background-position: center -390px;}
+
+ @media (min-width: 1200px) {
+ .subNav { height: 50px!important; overflow: hidden;}
 
 }
  span.pageSectionTitle {color: #666; display: block; position: absolute; font-weight: bold; margin-top: 55px; font-size: 180%; text-transform: uppercase;}
  span.pageSectionTitle svg {margin-top: -6px; margin-right: 5px;}
- .brandColor {color: #03254c;}
+ .brandColor {color: #003763;}
  .btn-outline-primary {
-    color: #03254c;
-    border-color: #03254c;
+    color: #003763;
+    border-color: #003763;
 }
  .paddingLeftBlock  {padding: 0px 50px; width: 100%;}
    .jumbotron {padding-top: 100px;padding-bottom: 100px; padding-left: 0px; background: transparent;}
 .jumbotron h1 {font-size: 350%; font-weight: bold;}
-.jumbotron .lead {font-size: 200%; font-weight: normal; font-family: 'Poppins';}
+.jumbotron .lead {font-size: 200%; font-weight: normal; font-family: 'Quicksand';}
    .jumbotronSubPage {padding-top: 100px;padding-bottom: 220px; padding-left: 0px; background: #fff;}
 .jumbotronSubPage h1 {font-size: 280%; font-weight: bold;}
 .jumbotronSubPage .lead {font-size: 170%; font-weight: normal;}
@@ -532,7 +580,7 @@ margin-top: 20px;
 }
 
 .invitationGreyBox {
-padding: 25px 0px 25px;
+padding: 5px 0px 25px;
 border-radius: 10px;
 display: block;
 margin-bottom: 0px;
@@ -564,9 +612,9 @@ margin-bottom: 0px;
  .jumboContent {width: 760px;}
 .bgGrey {background: #eee;}
 .bgDark {background: #2b2727; color: #fff; padding: 1px 0px;}
-.bgBrand {background: #03254c; color: #fff; padding: 20px 0px;}
+.bgBrand {background: #003763; color: #fff; padding: 20px 0px;}
  .navbar-nav .nav-link {font-size: medium;}
- .navbar-light .navbar-nav .nav-link {color: #03254c;}
+ .navbar-light .navbar-nav .nav-link {color: #222;}
 
 .navbar-light .subNav .nav-link {
     color: #fff;
@@ -584,8 +632,8 @@ nav.CFpaginate {width: 320px;}
 .page-item.active .page-link {
     z-index: 3;
     color: #fff;
-    background-color: #03254c;
-    border-color: #03254c;
+    background-color: #003763;
+    border-color: #003763;
 }
 
 .page-item:first-child .page-link {
@@ -599,62 +647,95 @@ nav.CFpaginate {width: 320px;}
     padding: 0.5rem 0.75rem;
     margin-left: -1px;
     line-height: 1.25;
-    color: #03254c;
+    color: #003763;
     background-color: #fff;
-    border: 1px solid #03254c;
+    border: 1px solid #003763;
 }
 .page-link:hover {
     z-index: 2;
-    color: #03254c;
+    color: #003763;
     text-decoration: none;
-    background-color: #03254c;
-    border-color: #03254c;
+    background-color: #003763;
+    border-color: #003763;
 }
 
 body .subNav a.latest {display: none;}
 
- .subNav a.nav-link {color: #03254c;
+ .subNav a.nav-link {color: #003763;
     font-weight: bold;
     background: transparent;
     /*background: #eee;*/
-    border-radius: 5px;margin-right: 0px;
+    border-radius: 5px;margin-right: 0px!important;
     margin-left: 0px;
     border-bottom: 0px solid #ddd;}
      .subNav a.nav-link.active {
     color: #fff;
-    background: #03254c;
+    background: #003763;
     border-bottom: 3px solid #fff;
 }
 }
 }
  .subNav li.active a.nav-link {
     color: #fff;
-    background: #03254c;
+    background: #003763;
     border-bottom: 3px solid #d4005b;
 }
- .subNav { text-align: right; border-top: 0px solid #eee; padding-top: 10px; padding-bottom: 40px; margin-top: 5px;margin-bottom: 0px; text-transform: uppercase; font-weight: bolder; font-size: 75%;  border-radius: 10px;}
+ .subNav {  text-align: right; border-top: 0px solid #eee; padding-top: 10px; padding-bottom: 40px; margin-top: 5px;margin-bottom: 0px; text-transform: uppercase; font-weight: bolder; font-size: 75%;  border-radius: 10px;}
  
  body#Posts .subNav a.nav-link {color: #fff;
     font-weight: bold;
     background: transparent;
-    border-radius: 5px;margin-right: 0px;margin-left: 0px;
+    border-radius: 5px;margin-right: 0px;
     border-bottom: 0px solid #333;}
- body#Posts .subNav a.nav-link:hover {color: #03254c;
+ body#Posts .subNav a.nav-link:hover {color: #003763;
     font-weight: bold;
     background: #fbc834;
-    border-radius: 5px;margin-right: 0px;margin-left: 0px;
+    border-radius: 5px;margin-right: 0px;
     border-bottom: 0px solid #111;}
  body#Ratings_index .subNav a.nav-link {color: #ddd;
     font-weight: bold;
     background: #333;
-    border-radius: 5px;margin-right: 0px;margin-left: 0px;
+    border-radius: 5px;margin-right: 0px;
     border-bottom: 3px solid #333;}
  body#Ratings_index .subNav a.nav-link:hover {color: #ddd;
     font-weight: bold;
     background: #222;
-    border-radius: 5px;margin-right: 0px;margin-left: 0px;
+    border-radius: 5px;margin-right: 0px;
     border-bottom: 3px solid #111;}
 
+.shortIconStat {
+display: block;
+width: auto;
+text-align: center;
+border: 1px solid #eee;
+padding: 15px;
+float: left;
+min-height: 6px;
+
+}
+
+.shortIconStat strong {font-size: 130%; }
+
+
+.listingBlock .shortIconStat strong {font-size: 80%; }
+
+.listingBlock .shortIconStat {
+display: block;
+text-align: center;
+border: 0px solid #eee;
+padding: 0px;
+float: left;
+margin-top: 10px;
+
+}
+
+.listingBlock {min-height: 370px; background: #fff; border: 1px solid #eee; padding: 15px 15px 0px 15px; border-radius: 10px; box-shadow: 0px 0px 10px 2px rgba(0, 0, 0, 0.05);}
+
+.listingBlock p {margin-bottom: 0px;}
+
+.listingBlock h4.listingTitle {font-size: 110%;}
+
+h2.taxonomyHeader {font-size: 200%!important;}
 
 
 .module .collapse, .module .collapsing {
@@ -720,7 +801,7 @@ body#Ratings_index .subnavbar {padding-bottom: 0px;}
 
  .postElementMargin {margin-top: -490px;}
  body {background: #fff;}
- a {color: #03254c;}
+ a {color: #003763;}
  a:hover {text-decoration: underline; color: grey; }
  .card-deck {margin-bottom: 30px;}
  .btn-primary {
@@ -743,7 +824,7 @@ body#Ratings_index .subnavbar {padding-bottom: 0px;}
 .price {
     font-size: 3em;
 }
-.spFeature h3.svg {color:#03254c; }
+.spFeature h3.svg {color:#003763; }
  figure .card {
     position: relative;
      height: 360px;
@@ -759,26 +840,26 @@ body#Ratings_index .subnavbar {padding-bottom: 0px;}
  .jumboImage {width: 450px; overflow: show;}
 .fixed-top {
      background: #fff;}
-     .navbar.static-top {background: #fcf2de; border-bottom: 1px solid #eee; padding-bottom: 10px; z-index: 10000000;}
+     .navbar.static-top {background: #f7f7f7; border-bottom: 1px solid #eee; padding-bottom: 10px; z-index: 10000000;}
 
- .posts .navbar.static-top, .categories .navbar.static-top, .tags .navbar.static-top {background: #fcf2de; color: #03254c; padding-bottom: 10px; margin-top: 0px; border-bottom: 1px solid #393939;}
- .posts .navbar.static-top .nav-link, .categories .navbar.static-top .nav-link, .tags .navbar.static-top .nav-link {color: #03254c;}
+ .posts .navbar.static-top, .categories .navbar.static-top, .tags .navbar.static-top {background: #f7f7f7; color: #003763; padding-bottom: 10px; margin-top: 0px; border-bottom: 1px solid #393939;}
+ .posts .navbar.static-top .nav-link, .categories .navbar.static-top .nav-link, .tags .navbar.static-top .nav-link {color: #222;}
 
- .ratings .navbar.static-top, .categories .navbar.static-top, .tags .navbar.static-top {background: #fcf2de; color: #03254c; padding-bottom: 10px; margin-top: 0px; border-bottom: 1px solid #393939;}
- .ratings .navbar.static-top .nav-link, .categories .navbar.static-top .nav-link, .tags .navbar.static-top .nav-link {color: #03254c;}
-
-
+ .ratings .navbar.static-top, .categories .navbar.static-top, .tags .navbar.static-top {background: #f7f7f7; color: #003763; padding-bottom: 10px; margin-top: 0px; border-bottom: 1px solid #393939;}
+ .ratings .navbar.static-top .nav-link, .categories .navbar.static-top .nav-link, .tags .navbar.static-top .nav-link {color: #222;}
 
 
 
 
- #Posts .navbar.static-top {background: #fcf2de; color: #03254c; padding-bottom: 10px; margin-top: 0px; border-bottom: 1px solid #393939;}
- #Posts .navbar .nav-link {color: #03254c;}
+
+
+ #Posts .navbar.static-top {background: #f7f7f7; color: #003763; padding-bottom: 10px; margin-top: 0px; border-bottom: 1px solid #393939;}
+ #Posts .navbar .nav-link {color: #222;}
  *, *:before, *:after{ 
     box-sizing: border-box; 
 } 
- #Ratings_index .navbar.static-top {background: #fcf2de; color: #03254c; padding-bottom: 10px; margin-top: 0px; border-bottom: 1px solid #393939;}
- #Ratings_index .navbar .nav-link {color: #03254c;}
+ #Ratings_index .navbar.static-top {background: #f7f7f7; color: #003763; padding-bottom: 10px; margin-top: 0px; border-bottom: 1px solid #393939;}
+ #Ratings_index .navbar .nav-link {color: #222;}
  *, *:before, *:after{ 
     box-sizing: border-box; 
 } 
@@ -787,8 +868,8 @@ body#Ratings_index .subnavbar {padding-bottom: 0px;}
 
 
 
-.Must .navbar .nav-link {color: #03254c;}
-.Must .navbar.static-top {background: #fcf2de; color: #03254c; padding-bottom: 20px; margin-top: 0px; border-bottom: 1px solid #393939;}
+.Must .navbar .nav-link {color: #003763;}
+.Must .navbar.static-top {background: #fcf2de; color: #003763; padding-bottom: 20px; margin-top: 0px; border-bottom: 1px solid #393939;}
 
 
 
@@ -798,7 +879,7 @@ body#Ratings_index .subnavbar {padding-bottom: 0px;}
     position: relative; 
     height: 45px; 
     width: 155px; 
-    background-color: #03254c; 
+    background-color: #003763; 
     border-radius: 150px; 
     z-index: -5000;
  }
@@ -887,7 +968,8 @@ a.card-subscriptions img {
     -ms-flex-pack: center;
     justify-content: center;
     overflow: hidden;
-    padding: 40px 40px 40px 40px;
+    padding: 20px 40px 15px 40px;
+        font-weight: bold;
     background-color: #fff;
     border-radius: 8px;
     -webkit-box-shadow: 0 13px 27px -5px rgba(50,50,93,.25), 0 8px 16px -8px rgba(0,0,0,.3), 0 -6px 16px -6px rgba(0,0,0,.025);
@@ -906,7 +988,7 @@ a.card-subscriptions img {
      top: calc(50% - 35px);
 }
     a.blogListSmallCard h3 {
-font-size: 90%;font-family: 'Poppins'; font-weight: 500;
+font-size: 90%;font-family: 'Quicksand'; font-weight: 500;
    }
    .blogListSmallCardTop {margin-top: 0px; }
    .dateLineFeatured {font-size: 90%; color: #999;}
@@ -1138,7 +1220,7 @@ div.cardExample h6 {font-size: 140%; font-weight: normal; margin-bottom: 30px; l
  
 
 
- .navbar-brand img {width: 133px;}
+ .navbar-brand img {width: 250px;}
  .homeDarkOne {margin-top: -50px; overflow: hidden; height: 520px;}
  .homeDarkOneFeature {margin-top: -150px; display: block; margin-left: -100%; z-index: 5000; transform: rotate3d(.5,.866,0,15deg) rotateZ(-1deg);}
  a.globalCard:hover, div.globalCard:active, div.globalCard:hover {
@@ -1155,7 +1237,7 @@ div.cardExample h6 {font-size: 140%; font-weight: normal; margin-bottom: 30px; l
  .threeBlogGrid span.dateLineFeatured {font-size: 90%; color: #555; padding-bottom: 15px; display: block;}
  .blockImageSvgWrapID-Light span.dateLineFeatured {font-size: 90%; color: #eee; padding-bottom: 15px; display: block;}
  .blockImageSvgWrapID-Light h2 a {color: white;}
-.blogFeature h3 a {color: white;}
+.blogFeature h3 a {color: #333;}
 .blogFeature h3 a:hover {color: #ccc;}
  #Posts .navbar li.active .nav-link {font-weight: bold; color: #fff;}
  #Ratings_index .navbar li.active .nav-link {font-weight: bold; color: #fff;}
@@ -1169,10 +1251,10 @@ div.cardExample h6 {font-size: 140%; font-weight: normal; margin-bottom: 30px; l
 
 .articleContent img {width: 100%;}
 
- .articleContent hr {color: #03254c; clear: both; background: #03254c; display: block; width: 30%; height: 5px; margin-right: 70%; margin-bottom: 30px;  }
+ .articleContent hr {color: #ddd; clear: both; background: #ddd; display: block; width: 30%; height: 5px; margin-right: 70%; margin-bottom: 30px;  }
  .hpFeature hr {border: 0px; color: #eee; clear: both; background: #eee; display: block; width: 70%; height: 2px; margin-right: 70%; margin-bottom: 25px; margin-top: 25px;  }
- .articleContent p {font-size: 100%; line-height: 165%; margin: 20px 0px 15px; color: #555;}
-.articleFeatureImage {width: 100%; height: 200px; overflow: hidden; margin: 30px 0px; display: block; }
+ .articleContent p {font-size: 100%; line-height: 185%; margin: 20px 0px 15px; color: #333;}
+.articleFeatureImage {width: 100%; height: 400px; overflow: hidden; margin: 30px 0px; display: block; }
 .articleFeatureImage img { display: block;object-fit: scale-down; clear: both;}
  .articleContent .introPara {font-size: 115%; padding-bottom: 20px; font-weight: 500;line-height: 180%; color: #222;}
  .articleRight {margin-top: 50px;}
@@ -1208,19 +1290,20 @@ div.cardExample h6 {font-size: 140%; font-weight: normal; margin-bottom: 30px; l
     transition-duration: .15s;}
  .articleContent h3 {font-size: 180%; margin: 40px 0px 0px;color: #333;}
  .articleContent h2 {font-size: 220%; margin: 35px 0px 15px; color: #333;}
+ .infoContent h3 {font-size: 240%; margin: 40px 0px 0px;color: #111; padding-bottom: 20px; border-bottom: 3px dashed #ffc0c6; width: auto;}
 a.blogListSmallCardTop .taxonomyList h2 {font-size: 220%; margin: 5px 0px 15px;}
 .taxonomyList h2 {font-size: 220%; margin: 5px 0px 15px;}
 .taxonomyList {width: 100%;}
- .articleContent h2.articleHeader {font-size: 300%; font-weight: bold; margin-bottom: 30px; background: transparent; padding: 0px;}
+ .articleContent h2.articleHeader {font-size: 300%; font-weight: bold; margin-bottom: 30px; background: transparent; padding: 0px; margin-top: 50px;}
 }
 h2.articleHeader {font-size: 300%; font-weight: bold; margin-bottom: 30px; background: transparent; padding: 0px;}
  .blogAdRight {border: 1px solid #eee; padding: 50px 0px; background: rgb(255,255,255,0.5); margin-top: 30px;}
-    .blogAdRight h3 {font-family: 'Poppins'; font-weight: 600; font-size: 160%;}
-  .blogAdRight h4 {font-family: 'Poppins'; font-weight: normal; font-size: 130%;}
+    .blogAdRight h3 {font-family: 'Quicksand'; font-weight: 600; font-size: 160%;}
+  .blogAdRight h4 {font-family: 'Quicksand'; font-weight: normal; font-size: 130%;}
  .stickyAd {background: #f7f7f7;}
  .stickyAd .navbar-brand img {width: 130px;}
  .stickyAd .navbar-brand {margin-top: 50px; margin-left: 15px;}
- .articleContent blockquote {background: #eee; font-style: italic; font-size: 100%; padding: 40px 50px; margin: 40px 0px 30px; border-bottom: 5px solid #03254c;}
+ .articleContent blockquote {background: #eee; font-style: italic; font-size: 100%; padding: 40px 50px; margin: 40px 0px 30px; border-bottom: 5px solid #003763;}
  .articleContent span.quotation-mark {
  }
  .articleContent blockquote:before {
@@ -1229,7 +1312,7 @@ h2.articleHeader {font-size: 300%; font-weight: bold; margin-bottom: 30px; backg
    margin-left: -80px;
     font-weight: bold;
     font-size: 160px;
-    color: #03254c;
+    color: #003763;
     font-family: "Times New Roman", Georgia, Serif;
     position: absolute;
     content: "“";
@@ -1241,7 +1324,7 @@ h2.articleHeader {font-size: 300%; font-weight: bold; margin-bottom: 30px; backg
  .tagsBlog a {margin: 5px; float: left; font-size: 80%; display: block; }
  .badge-brand {
     color: #fff;
-    background-color: #03254c;
+    background-color: #003763;
     font-size: 100%;
     font-weight: normal;
 }
@@ -1291,31 +1374,31 @@ font-size: 100%;
 }
  .btn-primary:hover {
     color: #fff;
-    background-color: #03254c;
-    border-color: #03254c;
+    background-color: #003763;
+    border-color: #003763;
 }
  .btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show>.btn-primary.dropdown-toggle {
     color: #fff;
-    background-color: #03254c;
-    border-color: #03254c;
+    background-color: #003763;
+    border-color: #003763;
 }
 .btn-primary:not(:disabled):not(.disabled).active:focus, .btn-primary:not(:disabled):not(.disabled):active:focus, .show>.btn-primary.dropdown-toggle:focus {
     box-shadow: none;
         color: #fff;
-    background-color: #03254c;
-    border-color: #03254c;
+    background-color: #003763;
+    border-color: #003763;
         outline: 0px;
 }
 .btn-primary.focus, .btn-primary:focus {
     color: #fff;
-    background-color: #03254c;
-    border-color: #03254c;
+    background-color: #003763;
+    border-color: #003763;
     box-shadow: 0 0 0 0rem rgba(38,143,255,0);
 }
  .btn-brand {
     color: #fff;
-    background-color: #03254c;
-    border-color: #03254c;
+    background-color: #003763;
+    border-color: #003763;
 }
  .btn-brand:hover {
     color: #fff;
@@ -1351,6 +1434,23 @@ font-size: 100%;
  .midArticle {margin: 15px 0px 15px; padding-top: 13px;}
 .midArticle img {width: 30px; height: 30px; margin-right: 10px;}
  .alert-light {border: 1px solid #eee; color: #333;}
+
+ 
+.scoreBoard {padding: 15px 25px 20px; background: #fff;font-size: 150%; font-weight: bold;border: 1px solid #999; margin: 0px 10px 20px 10px;border-radius: 10px; }
+  .scoreBoard span {font-size: 60%;}
+
+
+@media only screen and (min-width: 768px) {
+
+
+
+  .scoreBoard {display: block; float: right; background: #f7f7f7; padding: 0px 10px 20px; border-radius: 10px; width: 200px; text-align: center; border: 1px solid #999; margin: 0px 0px 0px 0px; position: absolute; margin-left: 200px; right: 50px; font-size: 200%; font-weight: bold; color: #666;}
+strong.colorgreen {color: green;} 
+
+  .scoreBoard span {font-size: 50%; color: #999;}
+  .scoreBoard strong.color {font-size: 150%; color: #111;}
+}
+
  
  .contentTypesDeck .card {
   position: relative;
@@ -1382,7 +1482,7 @@ a.contentTypeLink span {text-decoration: underline;}
 a.contentTypeLink {background: #fff; border: 1px solid #fff; border-radius: 8px; text-decoration: none;}
 
 a.contentTypeLink:hover {background: #f9f9f9; border: 1px solid #efefef; border-radius: 8px; text-decoration: none;}
-a.contentTypeLink:hover span {color: #03254c;}
+a.contentTypeLink:hover span {color: #003763;}
 
 
 
@@ -1437,7 +1537,7 @@ button.navbar-toggler:focus {
 
 .theTogglerSub {padding: 10px 0px 10px; width: 100%; margin-top: 10px;}
 .subNav {text-align: left; }
-
+.subNav {    padding: 0px 0px 3px; margin-top: -10px; height: 250px; overflow: hidden;}
 .mobileNoPad {padding: 0px 0px 0px 0px;}
 
 
@@ -1459,27 +1559,26 @@ div.cardExample h6 {font-size: 110%;}
 }
 
 
-.blogNavFluid {background: #03254c; padding-bottom: 0px; padding-top: 0px;}
-#Posts .blogNavFluid {background: #03254c; padding-bottom: 400px;}
-#Ratings_index .blogNavFluid {background: #03254c; padding-bottom: 400px;}
+.blogNavFluid {background: #222; padding-bottom: 0px; padding-top: 0px;}
+#Posts .blogNavFluid {background: #222; padding-bottom: 0px;}
+#Ratings_index .blogNavFluid {}
 
-.posts .blogNavFluid {background: #eee; padding-bottom: 450px;}
 .posts .bgImageElementWhite {}
 .posts .subTopMarginHeader {}
-.ratings .blogNavFluid {background: #eee; padding-bottom: 450px;}
+.ratings .blogNavFluid {}
 .ratings .bgImageElementWhite {margin-top: 50px;}
 .ratings .subTopMarginHeader {}
 
 .blogNavFluid .subNav {padding-bottom: 10px;}
-.blogNavFluid .subNav a.nav-link {border-bottom: 0px solid #03254c;}
-.blogNavFluid .subNav a.nav-link:hover {border-bottom: 0px solid #999; background: #fbc834;}
+.blogNavFluid .subNav a.nav-link {border-bottom: 0px solid #003763;}
+.blogNavFluid .subNav a.nav-link:hover {border-bottom: 0px solid #999;}
 
 #Posts .theTogglerSub, #Posts .navbar-toggler-icon  {color: #fff;}
 #Ratings_index .theTogglerSub, #Posts .navbar-toggler-icon  {color: #fff;}
 
  .blogHomeContainer {
   content: "";
-margin-top:-410px;
+margin-top:0px;
   left: 0;
   width: 100%;
   background-size: 100%;
@@ -1493,7 +1592,7 @@ margin-top:-410px;
   content: "";
 margin-top:0px;
   left: 0;
-  height: 500px;
+  height: 0px;
   width: 100%;
   background: url(/images/blackVert.svg) center center;
   background-size: 100%;
@@ -1516,9 +1615,9 @@ margin-top:0px;
 
 .hpJumbo p.leadSecond {margin-bottom: 30px; color: #fff;}
 
-.hpJumbo a {color: #fff; text-decoration: underline;}
+.hpJumbo a {text-decoration: underline;}
 
-.hpJumbo h5 {font-family: 'Poppins'; font-weight: 400;}
+.hpJumbo h5 {font-family: 'Quicksand'; font-weight: 400;}
 
 .hpJumbo h5 span {color: #fff; font-weight: bold;}
 
@@ -1555,7 +1654,7 @@ margin-top:0px;
 
 
 .btn.twitter {
-  background: #03254c;
+  background: #003763;
   color: #fff;
    border: 0px;
    font-size: 70%;
@@ -1577,8 +1676,11 @@ margin-top:0px;
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) { 
 
+#showRatingBtn {padding: 13px 40px!important; font-size: 100!important; font-weight: bold!important; float: left!important;}
+
+
   .invitationGreyBox {
-padding: 25px 25px 25px;
+padding: 5px 10px 25px;
 border-radius: 10px;
 display: block;
 margin-bottom: 0px;
@@ -1594,11 +1696,11 @@ margin-bottom: 0px;
 
    .articleContent blockquote {font-size: 160%;}
 
-  body {padding-top: 75px; }
+
 
 .hpJumbo .jumbotron {padding-top: 100px;padding-bottom: 100px;}
 
-.hpJumbo p.lead {font-size: 300%; }
+.hpJumbo p.lead {font-size: 280%; }
 
   .shapes {display: block;} 
 
@@ -1643,17 +1745,10 @@ div.cardExample h6 {font-size: 110%;}
 }
 .loginNavLi {border-left: 1px solid #eee;padding-left: 20px;}
  .blogHomeContainer {
-margin-top:-440px;
+margin-top:0px;
 }
 
- body#Posts .subNav a.nav-link {margin-left: 20px;
-}
- body#Posts .subNav a.nav-link:hover {margin-left: 20px;
-    }
-     body#Ratings_index .subNav a.nav-link {margin-left: 20px;
-}
- body#Ratings_index .subNav a.nav-link:hover {margin-left: 20px;
-    }
+
 
 }
 
@@ -1677,3 +1772,281 @@ margin-top:-440px;
 .spFeature  {display: none;}
 .navbar {display: none;}
 */
+
+.navbar-light .subNav .nav-link { padding: 0px 0px 0px 0px;     font-size: 220%; border-radius: 5px;}
+.subNav a.nav-link {
+    margin-left: 7px;
+
+}
+
+.tooltip {
+    z-index: 1000000000!important;
+    position: fixed!important;
+}
+
+
+ .slider {
+ 
+  height: 40px;
+  overflow: hidden;
+  font-weight: bold;
+  text-align: left;
+  margin-bottom: 5px;
+  display: block;
+  float: left;
+
+}
+.slider .slide {
+  height: 40px;
+  color: #333;
+  overflow: hidden;
+  background-color: transparent;
+  border: 0px solid #eee;
+}
+.slider .slide:nth-child(odd) {
+ 
+}
+
+.slider-2 .slide {
+  animation: slide-2 7s ease-in-out infinite;
+}
+
+@keyframes slide-2 {
+  100% {
+    transform: translateY(0);
+  }
+  50%, 95.4545454545% {
+    transform: translateY(-40px);
+  }
+  0%, 45.4545454545% {
+    transform: translateY(0);
+  }
+}
+.slider-3 .slide {
+  animation: slide-3 10.5s ease-in-out infinite;
+}
+
+@keyframes slide-3 {
+  100% {
+    transform: translateY(0);
+  }
+  66.6666666667%, 96.9696969697% {
+    transform: translateY(-80px);
+  }
+  33.3333333333%, 63.6363636364% {
+    transform: translateY(-40px);
+  }
+  0%, 30.303030303% {
+    transform: translateY(0);
+  }
+}
+.slider-4 .slide {
+  animation: slide-4 14s ease-in-out infinite;
+}
+
+@keyframes slide-4 {
+  100% {
+    transform: translateY(0);
+  }
+  75%, 97.7272727273% {
+    transform: translateY(-120px);
+  }
+  50%, 72.7272727273% {
+    transform: translateY(-80px);
+  }
+  25%, 47.7272727273% {
+    transform: translateY(-40px);
+  }
+  0%, 22.7272727273% {
+    transform: translateY(0);
+  }
+}
+.slider-5 .slide {
+  animation: slide-5 17.5s ease-in-out infinite;
+}
+
+@keyframes slide-5 {
+  100% {
+    transform: translateY(0);
+  }
+  80%, 98.1818181818% {
+    transform: translateY(-160px);
+  }
+  60%, 78.1818181818% {
+    transform: translateY(-120px);
+  }
+  40%, 58.1818181818% {
+    transform: translateY(-80px);
+  }
+  20%, 38.1818181818% {
+    transform: translateY(-40px);
+  }
+  0%, 18.1818181818% {
+    transform: translateY(0);
+  }
+}
+.slider-6 .slide {
+  animation: slide-6 21s ease-in-out infinite;
+}
+
+@keyframes slide-6 {
+  100% {
+    transform: translateY(0);
+  }
+  83.3333333333%, 98.4848484848% {
+    transform: translateY(-200px);
+  }
+  66.6666666667%, 81.8181818182% {
+    transform: translateY(-160px);
+  }
+  50%, 65.1515151515% {
+    transform: translateY(-120px);
+  }
+  33.3333333333%, 48.4848484848% {
+    transform: translateY(-80px);
+  }
+  16.6666666667%, 31.8181818182% {
+    transform: translateY(-40px);
+  }
+  0%, 15.1515151515% {
+    transform: translateY(0);
+  }
+}
+.slider-7 .slide {
+  animation: slide-7 24.5s ease-in-out infinite;
+}
+
+@keyframes slide-7 {
+  100% {
+    transform: translateY(0);
+  }
+  85.7142857143%, 98.7012987013% {
+    transform: translateY(-240px);
+  }
+  71.4285714286%, 84.4155844156% {
+    transform: translateY(-200px);
+  }
+  57.1428571429%, 70.1298701299% {
+    transform: translateY(-160px);
+  }
+  42.8571428571%, 55.8441558442% {
+    transform: translateY(-120px);
+  }
+  28.5714285714%, 41.5584415584% {
+    transform: translateY(-80px);
+  }
+  14.2857142857%, 27.2727272727% {
+    transform: translateY(-40px);
+  }
+  0%, 12.987012987% {
+    transform: translateY(0);
+  }
+}
+.slider-8 .slide {
+  animation: slide-8 28s ease-in-out infinite;
+}
+
+@keyframes slide-8 {
+  100% {
+    transform: translateY(0);
+  }
+  87.5%, 98.8636363636% {
+    transform: translateY(-280px);
+  }
+  75%, 86.3636363636% {
+    transform: translateY(-240px);
+  }
+  62.5%, 73.8636363636% {
+    transform: translateY(-200px);
+  }
+  50%, 61.3636363636% {
+    transform: translateY(-160px);
+  }
+  37.5%, 48.8636363636% {
+    transform: translateY(-120px);
+  }
+  25%, 36.3636363636% {
+    transform: translateY(-80px);
+  }
+  12.5%, 23.8636363636% {
+    transform: translateY(-40px);
+  }
+  0%, 11.3636363636% {
+    transform: translateY(0);
+  }
+}
+.slider-9 .slide {
+  animation: slide-9 31.5s ease-in-out infinite;
+}
+
+@keyframes slide-9 {
+  100% {
+    transform: translateY(0);
+  }
+  88.8888888889%, 98.9898989899% {
+    transform: translateY(-320px);
+  }
+  77.7777777778%, 87.8787878788% {
+    transform: translateY(-280px);
+  }
+  66.6666666667%, 76.7676767677% {
+    transform: translateY(-240px);
+  }
+  55.5555555556%, 65.6565656566% {
+    transform: translateY(-200px);
+  }
+  44.4444444444%, 54.5454545455% {
+    transform: translateY(-160px);
+  }
+  33.3333333333%, 43.4343434343% {
+    transform: translateY(-120px);
+  }
+  22.2222222222%, 32.3232323232% {
+    transform: translateY(-80px);
+  }
+  11.1111111111%, 21.2121212121% {
+    transform: translateY(-40px);
+  }
+  0%, 10.101010101% {
+    transform: translateY(0);
+  }
+}
+.slider-10 .slide {
+  animation: slide-10 35s ease-in-out infinite;
+}
+
+@keyframes slide-10 {
+  100% {
+    transform: translateY(0);
+  }
+  90%, 99.0909090909% {
+    transform: translateY(-360px);
+  }
+  80%, 89.0909090909% {
+    transform: translateY(-320px);
+  }
+  70%, 79.0909090909% {
+    transform: translateY(-280px);
+  }
+  60%, 69.0909090909% {
+    transform: translateY(-240px);
+  }
+  50%, 59.0909090909% {
+    transform: translateY(-200px);
+  }
+  40%, 49.0909090909% {
+    transform: translateY(-160px);
+  }
+  30%, 39.0909090909% {
+    transform: translateY(-120px);
+  }
+  20%, 29.0909090909% {
+    transform: translateY(-80px);
+  }
+  10%, 19.0909090909% {
+    transform: translateY(-40px);
+  }
+  0%, 9.0909090909% {
+    transform: translateY(0);
+  }
+}

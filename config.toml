@@ -11,25 +11,35 @@ paginate =  150
 
 [menu]
 	[[menu.main]]
-		identifier = "Caravan-Ratings"
-		name = "Popular Caravans"
-		url = "/trending/"
+		identifier = "Caravan-Gear"
+		name = "Caravan Gear"
+		url = "/gear-products-tools/"
 		weight = 7
 	[[menu.main]]
-		identifier = "Rankings"
-		name = "Top 50 Caravans"
-		url = "/rankings/"
+		identifier = "Best-Caravans"
+		name = "Best Caravans"
+		url = "/best-caravans/"
 		weight = 2
 	[[menu.main]]
-		identifier = "Posts"
+		identifier = "Guide"
 		name = "2023 Caravan Guide"
-		url = "/posts/"
-		weight = 2
+		url = "/ultimate-caravan-guide/"
+		weight = 1
 	[[menu.main]]
-		identifier = "Secret"
-		name = "Caravan Reviews"
-		url = "/secret/"
-		weight = 8
+		identifier = "Best-Caravan-Parks"
+		name = "Best Caravan Parks"
+		url = "/caravan-parks/"
+		weight = 4
+	[[menu.main]]
+		identifier = "Resources"
+		name = "Must Have Resources"
+		url = "/handy-resources-tips-and-tools/"
+		weight = 9
+	[[menu.main]]
+		identifier = "Blog"
+		name = "Blog"
+		url = "/blog/"
+		weight = 10
 
 [related]
   includeNewer = true

@@ -1,47 +1,89 @@
-  <style type="text/css"></style>
-  
+
 
   <!-- Page Content -->
-  <div class="container-fluid jumboBg hpJumbo">
+  <div class="container-fluid bg-light">
   <div class="container">
     <div class="jumbotron">
+      
       <div class="row">
-       <div class="offset-sm-1 col-sm-10 aos-item" data-aos="fade-in">
-      <!--<h1 class="display-4">Content Creation System</h1>-->
-      <p class="lead" style=" padding: 25px 15px; background: rgba(0,0,0,0.0); border-radius: 10px;text-shadow: 0px 0px 3px #777; font-weight: bold;">5,000+ Dream caravans & camp destinations reviewed & <a href="/rankings/">ranked</a>.</p>
-<br /></div>
+       <div class="col-sm-4">
+ <h4 class="pt-3">Trending</h4>
+
+   {{ $counter := 0 }}
+{{ range (.Site.Pages.GroupByParam "noteable").Reverse  }}
+   {{ range last 10 .Pages | shuffle}}
+
+ <!-- IMAGE SVG TEXT ELEMENT -->
+        <div class="container"> <div class="row">
+          <div class="threeBlogGrid taxonomyList " style="margin-bottom: 1px;">
+            <!-- IMAGE SVG TEXT ELEMENT -->
+            <div class="blockImageTextSvg taxonomyListTabledLessMargin">
+              <div class="blockImageSvgWrapID-hite taxonomyListTabled">
+                <div class="row">
+                  <div class="col-10 col-sm-9" style="padding-top: 7px;">
+                    <h6><A href="{{ .RelPermalink }}">{{ .Title }}</A></h6>
+                  </div>
+                </div> </div>
+                </div>  </div>  </div>  </div>  
+
+   {{ end }}
+{{ end }}
 </div>
 
-<div class="row">
-  <div class="offset-sm-1 col-sm-10">
-  {{- partial "search-form-autofocus.html" . -}}
+
+       <div class="col-sm-4">
+ <h4 class="pt-3">SC Royalty</h4>
+   {{ $counter := 0 }}
+{{ range (.Site.Pages.GroupByParam "royalty").Reverse  }}
+   {{ range first 10 .Pages | shuffle}}
+
+ <!-- IMAGE SVG TEXT ELEMENT -->
+        <div class="container"> <div class="row">
+          <div class="threeBlogGrid taxonomyList " style="margin-bottom: 1px;">
+            <!-- IMAGE SVG TEXT ELEMENT -->
+            <div class="blockImageTextSvg taxonomyListTabledLessMargin">
+              <div class="blockImageSvgWrapID-hite taxonomyListTabled">
+                <div class="row">
+                  <div class="col-10 col-sm-9" style="padding-top: 7px;">
+                    <h6><A href="{{ .RelPermalink }}">{{ .Title }}</A></h6>
+                  </div>
+                </div> </div>
+                </div>  </div>  </div>  </div>  
+
+   {{ end }}
+{{ end }}
 </div>
 
+
+       <div class="col-sm-4">
+ <h4 class="pt-3">Cash Cows</h4>
+   {{ $counter := 0 }}
+{{ range (.Site.Pages.GroupByParam "drafted").Reverse  }}
+   {{ range first 10 .Pages | shuffle }}
+
+ <!-- IMAGE SVG TEXT ELEMENT -->
+        <div class="container"> <div class="row">
+          <div class="threeBlogGrid taxonomyList " style="margin-bottom: 1px;">
+            <!-- IMAGE SVG TEXT ELEMENT -->
+            <div class="blockImageTextSvg taxonomyListTabledLessMargin">
+              <div class="blockImageSvgWrapID-hite taxonomyListTabled">
+                <div class="row">
+                  <div class="col-10 col-sm-9" style="padding-top: 7px;">
+                    <h6><A href="{{ .RelPermalink }}">{{ .Title }}</A></h6>
+                  </div>
+                </div> </div>
+                </div>  </div>  </div>  </div>  
+
+   {{ end }}
+{{ end }}
 </div>
 
 
-<!--
 
 
-  <div class="invitationGreyBox">
-       <div class="row">
-          <div class="col-md-2">
-            </div>
-           <div class="col-md-4">
-       <a class="btn btn-primary btn-lg btn-block " style="display: block; font-size: 120%; float: left; padding-left: 20px; padding-right: 20px;" href="/categories/" >Show All</a>     </div>
- <div class="col-md-4">
-       <a class="btn btn-primary btn-lg btn-block " style="display: block; font-size: 120%; float: left; padding-left: 20px; padding-right: 20px;" href="/categories/" >Show All</a>     
-      </div>
-     </div>  
-    </div>
--->
+</div>
 
-
-
-
-
-</div></div>
-
+{{- partial "ad-1140x200.html" . -}}
    </div>
 </div></div>
 </div>

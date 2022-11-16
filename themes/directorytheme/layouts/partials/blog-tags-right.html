@@ -1,8 +1,8 @@
-<div class="">
+
 	<div class="row spFeature text-center tagsBlog">
 		<div class="col-sm-12">
 			<div class="">
-				<h4 class="brandColor text-left">Trending Locations</h4 >
+				<h4 class="brandColor text-left">Trending</h4 >
 				{{- $.Scratch.Set "myLimit" 0 }}
 {{- range $item := .Site.Taxonomies.tags.ByCount }}
   {{- $.Scratch.Set "myLimit" (add ($.Scratch.Get "myLimit") 1) }}
@@ -13,4 +13,4 @@
 			</div>
 		</div>
 	</div>
-</div>
+

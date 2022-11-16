@@ -1,7 +1,7 @@
 <script>
 window.store = {
     // You can specify your blog section only:
-    {{ range where .Site.Pages "Section" "ratings" }}
+    {{ range where .Site.Pages "Section" "review" }}
     "{{ .Permalink }}": {"title": "{{ .Title  }}","url": "{{ .Permalink }}"},
     {{ end }}
     {{ range where .Site.Pages "Section" "posts" }}

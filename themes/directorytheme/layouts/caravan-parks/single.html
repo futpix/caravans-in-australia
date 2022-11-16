@@ -1,0 +1,607 @@
+ 
+ {{ define "main" }}
+ {{- partial "navCategories.html" . -}}
+ 
+
+
+
+
+{{ if in .Params.categories "Latest"  }}
+
+
+ <div class="bgImageElementWhite">
+ </div>
+ <div class="clearfix"></div>
+ <div class="container subTopMarginHeader singlePost">
+ 	<div class="row">
+ 		<div class="col-lg-8">
+ 			<div class="spFeature articleContent">
+ 				<h2 class="articleHeader">{{ .Title }}</h2>
+ 				<div class="row">
+ 					<div class="col-sm-12">{{ range .Params.tags | first 1 }}
+ 						<strong>  
+ 						<a href="/tags/{{ . | urlize }}/" class="">{{ . }}</a> 
+ 						</strong>
+ 						 {{ end }}
+ 					</div>
+ 				
+ 					<div class="col-sm-12 tagsBlog">
+ 						{{ range .Params.tags }}
+ 						<a href="/tags/{{ . | urlize }}/" class="btn btn-outline-dark">#{{ . }}</a> 
+ 						{{ end }}
+ 					</div>
+ 					<div class="col-sm-12 socialsCol">
+							<a href="#" class="btn btn-sm btn-primary facebook"><span><i class="fa fa-facebook"></i></span>Facebook</a>
+	  						<a href="#" class="btn btn-sm btn-primary twitter"><span><i class="fa fa-twitter"></i></span>Twitter</a>
+	  						<a href="#" class="btn btn-sm btn-primary linkedin"><span><i class="fa fa-linkedin"></i></span>Linkedin</a>
+ 					</div>
+ 					
+ 				</div>
+ 				<hr />
+ 				<div class="articleWrapper">	
+ 					<p class="introPara">{{ .Params.intro }}</p>
+ 					          <div class="mt-4 mb-4">{{- partial "ad-720x200.html" . -}}</div>
+ 					<div class="articleFeatureImage">
+ 						<img src="{{ .Params.image }}" class="img-fluid" height="800" width="800" alt="Article Image" />
+ 					</div>
+ 					{{ .Content }}
+ 						<!-- THIS PUTS A SEE ALSO LINK AFTER EVERY 2nd H2 IN POST-->
+ 					{{ $var := .Params.seealsolinks }}
+ 					<div id="images" class="middleRelated">
+
+ 				{{ $related := .Site.RegularPages.Related . | shuffle | first 2 }}
+ 				{{ $related2 := where (.Site.RegularPages.RelatedIndices . "categories"  "CurrentSection.Title" .CurrentSection.Title ) | shuffle | first 3}}
+
+
+
+ 				{{ with $related }}
+ 				{{ range . }}
+ 						<div class='col-xs-12 midArticle alert alert-light'>
+ 							<div class="row">
+
+ 							<div class="col-2 col-md-1">
+ 								<img src="/images/brandIcon.svg" class="brandIcon" alt="Brand Icon" width="45" height="45" />
+ 							</div>
+ 							<div class="col-10 col-md-11"><Strong>See also:</strong> <a href="{{ .RelPermalink }}">{{ .Title }}</a>     
+ 							</div>        
+
+ 								</div>
+
+ 							</div>
+ 							{{ end }}
+ 							{{ end }}
+ 						</div>
+ 						<!--SEE Also-->
+ 					</div>
+ 					<br />
+ 					<hr />
+ 					<div class="row">
+ 					
+ 						<div class="col-sm-12 socialsCol">
+							<a href="#" class="btn btn-sm btn-primary facebook"><span><i class="fa fa-facebook"></i></span>Facebook</a>
+	  						<a href="#" class="btn btn-sm btn-primary twitter"><span><i class="fa fa-twitter"></i></span>Twitter</a>
+	  						<a href="#" class="btn btn-sm btn-primary linkedin"><span><i class="fa fa-linkedin"></i></span>Linkedin</a>
+ 					</div>
+ 					</div>
+ 					{{- partial "blog-list-text-2-horiz" . -}}
+
+ 				</div>
+ 			</div>
+ 			<div class="col-lg-4 articleRight">
+ 				<div class="col-sm-12">
+ 					{{- partial "callout-text-blog-right" . -}}
+ 					{{- partial "blog-list-text-vert" . -}}
+ 					{{- partial "blog-tags-right" . -}}
+ 					{{- partial "1-col-blog-thumb-hot" . -}}
+ 					<div id="sticky" class="d-none d-sm-block">
+ 						{{- partial "callout-text-blog-right-sticky" . -}}
+ 					</div>
+ 					<div class="extra">
+ 					</div>
+ 				</div>
+ 			</div>
+ 		</div>
+ 	</div>
+
+ 	{{- partial "callout-text-subscribe" . -}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{ else }}
+
+
+
+ <div class="bgImageElementWhite">
+ </div>
+ <div class="clearfix"></div>
+ <div class="container subTopMarginHeader singlePost">
+ 	<div class="row">
+ 		<div class="col-lg-8">
+ 			<div class="spFeature articleContent">
+ 				<h2 class="articleHeader">{{ .Title }}</h2>
+ 				<div class="row">
+
+
+
+{{ $scratch := newScratch }}
+
+{{ if isset .Params "realscore" }}
+
+{{ $scratch.Set "greeting" .Params.realscore }}
+
+{{ else }}
+
+{{ $scoreTheReal :=  index (seq 83 | after 55 | shuffle) 1 }}
+
+{{ $scratch.Set "greeting" $scoreTheReal }}
+
+{{ end }}
+
+{{ $feetype := newScratch }}
+{{ if eq .Params.schoolType "Schools-Girls" }}
+{{ $feetype.Set "feetype" "This is an elite school for Girls with a very high fee per semester. It is classed as one of the most expensive schools in Australia." }}
+{{end}}
+{{ if eq .Params.schoolType "Schools-Boys" }}
+{{ $feetype.Set "feetype" "This is an elite school for Boys with a very high fee per semester. It is classed as one of the most expensive schools in Australia." }}
+{{ end }}
+{{ if eq .Params.schoolType "Schools-Public (State) (S. & C. - NSW only)" }}
+{{ $feetype.Set "feetype" "This is a Public School which means it is generally free for students with Citizenship and Permanent Residency to enrol and attend." }}
+{{ end }}
+{{ if eq .Params.schoolType "Schools-State (M.B.A.P.T. & C.-except NSW)" }}
+{{ $feetype.Set "feetype" "This is a Public School which means it is generally free for students with Citizenship and Permanent Residency to enrol and attend." }}
+{{ end }}
+{{ if eq .Params.schoolType "Schools-Theological" }}
+{{ $feetype.Set "feetype" "This is aTheological school which helps students to connect education with their faith, to develop academically and spiritually in their studies and growth as a person. Fees can vary so please get in touch with the school directly for further details." }}
+{{ end }}
+{{ if eq .Params.schoolType "School-Correspondence" }}
+{{ $feetype.Set "feetype" "This is a Correspondence School which means education is provided through one or more courses by an institution under which the institution provides instructional materials by mail or electronic transmission. This includes all examinations on the materials, so that students are separated from the teacher. Fees for this type of school are geneally low." }}
+{{ end }}
+{{ if eq .Params.schoolType "Schools Co-Educational" }}
+{{ $feetype.Set "feetype" "This is a Co-Educational School which mixes both boys and girls in the same classes. Fees are typically moderate and in some cases free." }}
+{{ end }}
+
+{{ if eq .Params.schoolType "School-General" }}
+{{ $feetype.Set "feetype" "You will need to enquire directly with the school for more information about fees." }}
+{{ end }}
+
+
+
+
+{{ if eq .Params.schoolType "Schools-Girls" }}
+{{ $feetype.Set "feeName" "Private Girls School" }}
+{{end}}
+{{ if eq .Params.schoolType "Schools-Boys" }}
+{{ $feetype.Set "feeName" "Private Boys School" }}
+{{end}}
+{{ if eq .Params.schoolType "Schools-Public (State) (S. & C. - NSW only)" }}
+{{ $feetype.Set "feeName" "Public School" }}
+{{end}}
+{{ if eq .Params.schoolType "Schools-State (M.B.A.P.T. & C.-except NSW)" }}
+{{ $feetype.Set "feeName" "Public School" }}
+{{end}}
+{{ if eq .Params.schoolType "Schools-Theological" }}
+{{ $feetype.Set "feeName" "Theological School" }}
+{{end}}
+{{ if eq .Params.schoolType "Schools Co-Educational" }}
+{{ $feetype.Set "feeName" "Co-Educational School" }}
+{{end}}
+{{ if eq .Params.schoolType "School-Correspondence" }}
+{{ $feetype.Set "feeName" "Correspondence School" }}
+{{end}}
+{{ if eq .Params.schoolType "School-General" }}
+{{ $feetype.Set "feeName" "General School" }}
+{{end}}
+
+
+		
+  					
+
+
+<div class="scoreBoard d-none"><span>SCORE</span>
+<br /><strong class="color">{{ $scratch.Get "greeting" }}</strong> / 100 
+</div>
+
+
+<Style>
+
+.scoreBoard {padding: 15px 25px 20px; background: #fff;font-size: 150%; font-weight: bold;border: 1px solid #999; margin: 0px 10px 20px 10px;border-radius: 10px; }
+	.scoreBoard span {font-size: 60%;}
+
+
+@media only screen and (min-width: 768px) {
+
+	.scoreBoard {display: block; float: right; background: #fff; padding: 0px 10px 20px; border-radius: 10px; width: 200px; text-align: center; border: 1px solid #999; margin: 0px 0px 0px 0px; position: absolute; margin-left: 200px; right: 50px; font-size: 200%; font-weight: bold;}
+strong.colorgreen {color: green;}	
+
+	.scoreBoard span {font-size: 50%;}
+}
+
+
+</Style>
+
+
+
+
+
+
+
+
+
+
+
+ 					<div class="col-sm-12">{{ range .Params.tags | first 1 }}
+ 						<strong>Schools in   
+ 						<a href="/tags/{{ . | urlize }}/" class="">{{ . }}</a> 
+ 						</strong>
+ 						 {{ end }}
+ 					</div>
+
+
+
+ 					<div class="col-sm-12">
+ 						<span class="blogAuthor">schoolinaustralia.com</a></span>
+ 					</div>
+ 					<div class="col-sm-12 tagsBlog">
+ 						{{ range .Params.tags }}
+ 						<a href="/tags/{{ . | urlize }}/" class="btn btn-outline-dark">#{{ . }}</a> 
+ 						{{ end }}
+ 					</div>
+ 					<div class="col-sm-12 socialsCol">
+							<a href="#" class="btn btn-sm btn-primary facebook"><span><i class="fa fa-facebook"></i></span>Facebook</a>
+	  						<a href="#" class="btn btn-sm btn-primary twitter"><span><i class="fa fa-twitter"></i></span>Twitter</a>
+	  						<a href="#" class="btn btn-sm btn-primary linkedin"><span><i class="fa fa-linkedin"></i></span>Linkedin</a>
+ 					</div>
+ 					
+ 				</div>
+ 				<hr />
+ 				<div class="articleWrapper">
+		<p class="introPara">{{ .Title }} is a school in Australia that is located in a place called {{ range .Params.tags | first 1 }}
+ 						<a href="/tags/{{ . | urlize }}/" class="">{{ . }}</a>{{ end }}, 
+ 						which is found in the region of {{ range .Params.categories }}
+ 						<a href="/categories/{{ . | urlize }}/" class="">{{ . }}</a>, Australia.
+ 						 
+ 						{{ end }}
+ 					</p>
+
+
+
+ 					<div class="google-maps" style="margin-top: 30px;">
+ 						<div class="map-responsive">
+<iframe title="Maps" width="700" height="450"  id="gmap_canvas" src="https://maps.google.com/maps?q={{ .Title }}%20{{ range .Params.tags | after 1 | first 1 }}{{ . }}{{ end }}%20{{ range .Params.tags | first 1 }}{{ . }}{{ end }}%20Australia&t=&z=7&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></div>
+</div>
+
+ 				
+
+ 					<hr />
+
+
+
+
+
+
+
+
+
+
+<h3>{{ .Title }} Review</h3>
+<br />
+<div class="alert alert-dark text-center d-none">
+<h6 style="padding-top: 10px;">{{ .Title }} gets a score of <Strong>{{ $scratch.Get "greeting" }}</Strong> out of a possible 100.</h6>
+</div>
+
+
+
+<!-- ABOVE 90 -->
+{{ if and (gt ($scratch.Get "greeting") 90) (lt ($scratch.Get "greeting") 101)}}
+<p>{{ .Title }} is one of the <strong>highest rated</strong> schools in all of Australia, and is certainly regarded as a top school choice in {{ range .Params.categories }}<a href="/categories/{{ . | urlize }}/" class="">{{ . }}{{end}}</a>.{{ end }}
+<!-- ABOVE 80 -->
+{{ if and (gt ($scratch.Get "greeting") 80) (lt ($scratch.Get "greeting") 91)}}
+<p>{{ .Title }} is considered an <strong>extremely disirable</strong> school  in {{ range .Params.categories }}<a href="/categories/{{ . | urlize }}/" class="">{{ . }}{{ end }}</a>, and is a selection that many parents recommend when choosing a school in Australia.	{{ end }}
+
+<!-- ABOVE 70 -->
+{{ if and (gt ($scratch.Get "greeting") 70) (lt ($scratch.Get "greeting") 81)}}
+<p>{{ .Title }} is a <strong>very good</strong> option as an Australian school when looking for in the area of {{ range .Params.categories }}<a href="/categories/{{ . | urlize }}/" class="">{{ . }}{{ end }}</a>.{{ end }}
+
+<!-- ABOVE 60 -->
+{{ if and (gt ($scratch.Get "greeting") 60) (lt ($scratch.Get "greeting") 71)}}
+<p>{{ .Title }} is a <strong>good</strong> Australian school that many see as a sound option in the region of {{ range .Params.categories }}<a href="/categories/{{ . | urlize }}/" class="">{{ . }}{{ end }}</a>.{{ end }}
+
+<!-- ABOVE 50 -->
+{{ if and (gt ($scratch.Get "greeting") 50) (lt ($scratch.Get "greeting") 61)}}
+<p>{{ .Title }} is seen as a <strong>fine</strong> Australian school that meets all the basic educational needs of students in {{ range .Params.categories }}<a href="/categories/{{ . | urlize }}/" class="">{{ . }}{{ end }}</a>.
+
+{{ else }}
+
+{{ end }}
+
+<br /><br />
+
+<div class="d-none">
+<h6>Score ratings (100):</h6>
+
+{{ $scoreSpinup := index (seq 30 100 | shuffle) 1 }}
+
+{{ $scoreDemand :=  div $scoreSpinup 100.00 }}
+{{ $scoreGauge := mul $scoreDemand 180.0 }}
+<div>
+<h4 class="mt-5 text-center">Current Demand<h4>
+<h6 class="text-center">{{ .Title }}</h6>
+
+<div class="row  mt-5">
+	<div class="col-md-3"></div>
+	<div class="col-xs-12 col-md-6">
+<div class="gauge" style="width: 100%; --rotation:{{ $scoreGauge }}deg; --color:#5cb85c; --background:#e9ecef;">
+      <div class="percentage"></div> 
+      <div class="mask"></div>
+      <h5 class="value">{{ $scoreSpinup }}</h5>
+  </div>
+</div>
+</div>
+</div>
+
+
+</div>
+
+<style>
+
+	.gauge {
+    position: relative;
+    border-radius: 50%/100% 100% 0 0;
+    background-color: var(--color, #a22);
+    overflow: hidden;
+}
+.gauge:before{
+    content: "";
+    display: block;
+    padding-top: 50%;   /* ratio of 2:1*/
+}
+.gauge .chart {
+  overflow: hidden;
+}
+.gauge .mask {
+  position: absolute;
+  left: 20%;
+  right: 20%;
+  bottom: 0;
+  top: 40%;
+  background-color: #fff;
+  border-radius: 50%/100% 100% 0 0;
+}
+
+.gauge .percentage {
+    position:  absolute;
+    top: -1px;
+    left: -1px;
+    bottom: 0;
+    right: -1px;
+    background-color: var(--background, #aaa);
+    transform:rotate(var(--rotation)); 
+    transform-origin: bottom center; 
+    transition-duration: 600;
+}
+.gauge:hover {
+  --rotation: 100deg;
+}
+.gauge .value {
+  position:absolute; bottom:0%; left:0;   
+  width:100%; 
+  text-align: center;
+}
+
+.gauge .min {
+  position:absolute; 
+  bottom:0; left:5%;   
+}
+.gauge .max {
+  position:absolute; 
+  bottom:0; right:5%;   
+ }
+
+
+	.my-custom-scrollbar {
+position: relative;
+overflow: auto;
+}
+.table-wrapper-scroll-y {
+display: block;
+}
+
+</style>
+
+<h3>Overview</h3>
+
+<p>The official name of this school is {{ .Title }}.
+
+<p>It is a <strong>{{ $feetype.Get "feeName" }}</strong>.
+
+<p>Entrance to the school is via {{ .Params.address }}.
+
+
+
+<h3>Fees and Costs</h3>
+<p>
+{{ $feetype.Get "feetype" }}
+</p>
+
+<h3>Admissions to {{ .Title }}</h3>
+<p>{{ .Title }} accepts students that are eligible to be enrolled in an Australian Educational institution. International students are welcome to apply, however there is no guarantee of a placement at {{ .Title }}.</p>
+<p>Acceptance at {{ .Title }} is <Strong>based on several factors</Strong>, some including home address zoning, past academic performance and grades, financial situation, current enrolment waitlists and sometimes where compassionate grounds can be established.</p>
+
+          <div class="mt-4 mb-4">{{- partial "ad-720x200.html" . -}}</div>
+
+ 					<h3>Studying at {{ .Title }}</h3>
+<p>{{ .Title }} is a registered education institution and is currently accepting new student <strong>enrolments for 2023/2024</strong>.			</p>
+<p>For more information about applying to {{ .Title }}, please visit their website by clicking the apply button at the top of their page (if eligible).</p>
+
+
+ 			<!--		<div class="articleFeatureImage">
+ 						<img src="/images/posts/spinnerParamsid.jpg" class="img-fluid" width="730" height="502" alt="School Image" />
+ 					</div>-->			 					
+
+
+		<h3>Scholarships at {{ .Title }}</h3>
+<p>{{ .Title }} potentially has scholarships available for <strong>2023 / 2024</strong>. You will need to get in touch with the school directly for details.</p>
+
+
+
+{{ if in .Params.categories "QLD"  }}
+<h3>Student life in {{ range .Params.tags | first 1 }}{{ . }}{{ end }}</h3>
+<p>{{ range .Params.tags | first 1 }}{{ . }}{{ end }} is a place in {{ range .Params.categories }}<a href="/categories/{{ . | urlize }}/" class="">{{ . }}{{ end }}</a> that is very easy to live and provides a great environment for education.
+ 						</p>
+
+ <p>There have been no negative reports recieved from Students, Parents or Staff at {{ .Title }}.	
+{{ end }}
+
+
+<!-- <p><a href="{{ .Params.website }}" class="btn btn-brand btn-lg">Apply</a></p> -->
+
+
+				 
+
+ <h3>Teachers</h3>
+
+
+ <p>
+Teachers from {{ .Title }} are fully qualified and are experts in teaching students in at the Australian level. Teaching is of the highest standard, and is certified by the local council in {{ range .Params.tags | first 1 }}{{ . }}{{ end }} and state government in {{ range .Params.categories | first 1 }}{{ . }}{{ end }}.					
+ </p>					
+ 	
+
+<Div class="d-none">
+
+
+{{ with index ((slice "foobar-1" "foobar-2" "foobar-3" "foobar-4" "foobar-5" "foobar-6" "foobar-7" "foobar-8" "foobar-9" "foobar-10" "foobar-11" "foobar-12" "foobar-13") | shuffle) 0 }}
+
+  {{ if eq "foobar-1" . }}
+    <blockquote>It was a great experience attending this school.</blockquote>
+  {{ end }}
+  {{ if eq "foobar-2" . }}
+    <blockquote>Loved this school!</blockquote>
+  {{ end }}
+  {{ if eq "foobar-3" . }}
+    <blockquote>Had an amazing time as a student here.</blockquote>
+  {{ end }}
+  {{ if eq "foobar-4" . }}
+    <blockquote>It is certainly an education I look back fondly on.</blockquote>
+  {{ end }}
+  {{ if eq "foobar-5" . }}
+    <blockquote>Had a great educational experience.</blockquote>
+  {{ end }}
+  {{ if eq "foobar-6" . }}
+    <blockquote>The teachers are so professional.</blockquote>
+  {{ end }}
+  {{ if eq "foobar-7" . }}
+    <blockquote>It was fantastic when I attended.</blockquote>
+  {{ end }}
+  {{ if eq "foobar-8" . }}
+    <blockquote>Couldn't have asked for a better school.</blockquote>
+  {{ end }}
+  {{ if eq "foobar-10" . }}
+    <blockquote>Really glad I chose this school.</blockquote>
+  {{ end }}
+  {{ if eq "foobar-11" . }}
+    <blockquote>School delivers on their promise.</blockquote>
+  {{ end }}
+   {{ if eq "foobar-12" . }}
+    <blockquote>Never been happier than when at this place.</blockquote>
+  {{ end }}
+    {{ if eq "foobar-13" . }}
+    <blockquote>Worth checking out. Quality school.</blockquote>
+  {{ end }}
+
+
+
+{{ end }}
+</Div>
+			 
+
+ <h3>Students</h3>
+
+<p>{{ .Title }} is classed as specialising in Education.</p>
+
+<h6>NOTE:</h6>
+<p>A primary school is an institution that typically caters towards students of the ages between 5 and 12. Traditional Primary schools run levels between Prep and Grade 6.
+ <p>		
+<p>A secondary school institution is classed as a High School, meaning it generally takes in students aged between 12 and 18, and only offers Grades from 6 to 12.</p>
+ <p>	
+
+
+ <p>Please enquire directly with {{ .Title }} to obtain the rules around age groups and grade levels for Education.</p>			
+ 					
+ 			
+ 					{{ .Content }}
+ 					<!-- THIS PUTS A SEE ALSO LINK AFTER EVERY 2nd H2 IN POST-->
+ 					{{ $var := .Params.seealsolinks }}
+ 					<div id="images" class="middleRelated">
+
+ 				{{ $related := .Site.RegularPages.RelatedIndices . "categories" | shuffle | first 3 }}
+ 				{{ with $related }}
+ 				{{ range . }}
+ 						<div class='col-xs-12 midArticle alert alert-light'>
+ 							<div class="">
+ 								<Strong><img src="/images/brandIcon.svg" height="30" width="30" alt="Brand Icon" class="brandIcon" /> See also:</strong> <a href="{{ .RelPermalink }}">{{ .Title }}</a>                
+ 								</div>
+ 							</div>
+ 							{{ end }}
+ 							{{ end }}
+ 						</div>
+ 					</div>
+ 					<br />
+ 					<hr />
+ 					<div class="row">
+ 						<div class="col-sm-12">
+ 							<span class="blogAuthor">Produced by schoolinaustralia.com</a></span>
+ 						</div>
+ 						<div class="col-sm-12 socialsCol">
+							<a href="#" class="btn btn-sm btn-primary facebook"><span><i class="fa fa-facebook"></i></span>Facebook</a>
+	  						<a href="#" class="btn btn-sm btn-primary twitter"><span><i class="fa fa-twitter"></i></span>Twitter</a>
+	  						<a href="#" class="btn btn-sm btn-primary linkedin"><span><i class="fa fa-linkedin"></i></span>Linkedin</a>
+ 					</div>
+ 					</div>
+
+ 					{{- partial "blog-list-text-2-horiz" . -}}
+
+ 					<h3>Search another school rating:</h3>
+ 					{{- partial "search-form.html" . -}}
+ 				</div>
+ 			</div>
+ 			<div class="col-lg-4 articleRight">
+ 				<div class="col-sm-12">
+ 					          <div class="mt-2 mb-4">{{- partial "ad-300x250.html" . -}}</div>
+ 					{{- partial "callout-text-blog-right" . -}}
+ 					{{- partial "blog-list-text-vert" . -}}
+ 					{{- partial "blog-tags-right" . -}}
+ 					{{- partial "1-col-blog-thumb-hot" . -}}
+ 					<div id="sticky" class="d-none d-sm-block">
+ 						{{- partial "callout-text-blog-right-sticky" . -}}
+ 						   <div class="mt-2 mb-4">{{- partial "ad-300x250.html" . -}}</div>
+ 					</div>
+ 					<div class="extra">
+ 					</div>
+ 				</div>
+ 			</div>
+ 		</div>
+ 	</div>
+
+<!-- 	{{- partial "callout-text-subscribe" . -}}-->
+
+ 	</div>
+ 	{{ end }}		
+
+ 	{{ end }}	
+ 	 
