@@ -1,0 +1,75 @@
+ 
+ {{ define "main" }}
+ {{- partial "navCategories.html" . -}}
+
+ <div class="clearfix"></div>
+ <div class="container singlePost">
+ 	<div class="row">
+ 		<div class="col-lg-8">
+ 			<div class=" articleContent">
+ 				<h2 class="articleHeader">{{ .Title }}</h2>
+ 			
+ 				<div class="articleWrapper">	
+ 					<p class="introPara text-bold mt-5">{{ .Params.intro }}</p>
+ 					<div class="articleFeatureImage">
+ 						<img src="/images/{{ .Params.imageFeat }}" class="img-fluid" height="800" width="800" alt="Article Image" />
+ 					</div>
+ 					{{ .Content }}
+ 						<!-- THIS PUTS A SEE ALSO LINK AFTER EVERY 2nd H2 IN POST-->
+
+
+
+
+
+ 				
+ 		
+ 						<!--SEE Also-->
+ 					</div>
+ 					<br />
+ 					<hr />
+ 					<div class="row">
+ 					
+ 						<div class="col-sm-12 socialsCol">
+							<a href="#" class="btn btn-sm btn-primary facebook"><span><i class="fa fa-facebook"></i></span>Facebook</a>
+	  						<a href="#" class="btn btn-sm btn-primary twitter"><span><i class="fa fa-twitter"></i></span>Twitter</a>
+	  						<a href="#" class="btn btn-sm btn-primary linkedin"><span><i class="fa fa-linkedin"></i></span>Linkedin</a>
+ 					</div>
+ 					</div>
+
+ 					{{- partial "blog-list-text-2-horiz" . -}}
+ 				</div>
+ 			</div>
+ 			<div class="offset-1 col-lg-3 articleRight">
+ 				<div class="col-sm-12">
+ 					{{- partial "sidenav-scholarships" . -}}
+ 					<!--{{- partial "callout-text-blog-right" . -}}
+ 					{{- partial "1-col-blog-thumb-hot-latest-blog-post" . -}}-->
+ 
+ 					<div class="extra">
+ 					</div>
+ 				</div>
+ 			</div>
+ 		</div>
+ 	</div>
+ 	{{- partial "callout-text-subscribe" . -}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 	</div>
+
+ 	{{ end }}	
+
+
+ 	 

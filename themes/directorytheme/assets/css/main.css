@@ -29,6 +29,13 @@ Crimson Pro?
     box-shadow: 0 0 0 0.2rem rgb(240 55 55 / 25%);
 }
 
+.badge-primary {background: #17a2b8!important;}
+
+.text-brand-secondary {color: #17a2b8!important;}
+
+.text-brand-secondary strong {color: #17a2b8!important;}
+
+
 #showRatingBtn {padding: 13px 10px!important; font-size: 100%!important; font-weight: bold!important; float: left!important;}
  
 body {overflow-x: hidden; padding-top: 0px; top: 0px!important; }
@@ -730,6 +737,8 @@ margin-top: 10px;
 }
 
 .listingBlock {min-height: 370px; background: #fff; border: 1px solid #eee; padding: 15px 15px 0px 15px; border-radius: 10px; box-shadow: 0px 0px 10px 2px rgba(0, 0, 0, 0.05);}
+.listingBlockNoImage {min-height: 100px; padding-bottom: 20px;}
+
 
 .listingBlock p {margin-bottom: 0px;}
 
@@ -737,9 +746,8 @@ margin-top: 10px;
 
 h2.taxonomyHeader {font-size: 200%!important;}
 
-
 .module .collapse, .module .collapsing {
-  height: 3rem;  /* [NUM_OF_LINES] x [LINE_HEIGHT] */
+    height: 40px;
 }
 
 .module .collapse {
@@ -1737,7 +1745,7 @@ div.cardExample h6 {font-size: 110%;}
 }
 .blogAdRight {margin-top: 30px;}
 .spFeature {
-    margin-bottom: 80px;
+    margin-bottom: 30px;
     margin-top: 20px;
 }
 .articleRight {

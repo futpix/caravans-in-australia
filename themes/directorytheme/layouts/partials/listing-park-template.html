@@ -1,0 +1,13 @@
+<div class="listingBlock listingBlockNoImage">
+<div class="row p-2">
+                  <div class="col-sm-12">
+                    <h4 class="listingTitle"><A href="{{ .RelPermalink }}">{{ .Title }}</A></h4>
+                    {{ range .Params.categories }}
+                      <a href="/categories/{{ . | urlize }}/" class="badge badge-sm badge-dark">{{ . }}</a> 
+                      {{ end }} {{ range .Params.tags }}
+                      <a href="/tags/{{ . | urlize }}/"  class="badge badge-sm badge-primary">{{ . }}</a> 
+                      {{ end }}
+                  
+</div>
+</div>
+</div> 

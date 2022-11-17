@@ -1,0 +1,41 @@
+ {{ define "main" }}
+ {{- partial "navCategories.html" . -}}
+  {{- partial "navFilter.html" . -}}
+
+ <div class="clearfix"></div>
+ <div class="container">
+  <div class="row">
+    <div class="col-lg-8">
+      <div class="articleContent infoContent">
+        <h2 class="articleHeader">{{ .Title }}</h2>
+        <hr />
+        <p class="introPara"><strong>{{ .Params.intro }}</strong></p>
+
+          <div class="mt-4 mb-4">{{- partial "ad-720x200.html" . -}}</div>
+                  {{ if .Params.tableOfContents }}
+          <div class="blogIntroIndex"> 
+            <h5>In this section:</h5>
+            {{ .TableOfContents }}
+          </div>
+          {{ end }}
+   {{ .Content }}
+</div>
+</div>
+      <div class="col-lg-4 articleRight">
+        <div class="col-sm-12">
+          <!--{{- partial "callout-text-blog-right" . -}}-->
+
+<h6>Featured</h4>
+ {{ range where .Site.Pages "Params.sleeps" "4" }}
+{{- partial "listing-template.html" . -}}
+{{ end }}  
+</div>    
+</div>
+</div>
+</div>
+<hr />
+</div>
+</div>
+</div>
+</div>
+{{ end }}

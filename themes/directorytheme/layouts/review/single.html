@@ -126,7 +126,7 @@
 <h3>{{ .Title }} Review</h3>
 <br />
 <div class="alert alert-dark text-center">
-<h6 style="padding-top: 10px;">{{ .Title }} is rated as {{ range .Params.tags | first 1 }}<Strong><a href="/tags/{{ . | urlize }}/" class="">{{ . }}</a>{{ end }}</Strong> in terms of ability.</h6>
+<h6 style="padding-top: 10px;">{{ .Title }} by {{ range .Params.categories | first 1 }}{{ . }}{{ end }} is rated as {{ range .Params.tags | first 1 }}<Strong><a href="/tags/{{ . | urlize }}/" class="">{{ . }}</a>{{ end }}</Strong> in terms of category.</h6>
 </div>
 
 
@@ -197,7 +197,7 @@
 <div class="row  mt-5">
 	<div class="col-md-3"></div>
 	<div class="col-xs-12 col-md-6">
-<div class="gauge" style="width: 100%; --rotation:{{ $scoreGauge }}deg; --color:#3db8e4; --background:#e9ecef;">
+<div class="gauge" style="width: 100%; --rotation:{{ $scoreGauge }}deg; --color:#17a2b8; --background:#e9ecef;">
       <div class="percentage"></div> 
       <div class="mask"></div>
       <h5 class="value">{{ $scoreSpinup }}kgs</h5>
@@ -324,8 +324,7 @@ Top 10 Caravans in Australia? Is it in the Top 20 Caravans in Australia? Well, t
 
  					{{- partial "blog-list-text-2-horiz" . -}}
 
- 					<h3>Search another rating:</h3>
- 					{{- partial "search-form.html" . -}}
+ 						
  				</div>
  			</div>
  			<div class="col-lg-4 articleRight">
