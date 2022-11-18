@@ -49,6 +49,8 @@ body {background: #f9f9f9!important;}
 
 h5,h6 { font-family: 'Quicksand', serif; font-weight: 500;}
 
+h4 {color: #999!important; font-size: 80%;}
+
 .navbar { font-family: 'Quicksand', serif; font-weight: 500;}
 
 .fi- {display: none!important;}
@@ -516,6 +518,10 @@ margin-top: 20px;
   background-size: 100%;
   display: block;
  }
+
+.threeListingsPerRow .listingBlock {
+    min-height: 300px;
+  }
 
 .posts .bgImageElementWhite {margin-top: 20px;}
 .ratings .bgImageElementWhite {margin-top: 20px;}
@@ -1258,6 +1264,8 @@ div.cardExample h6 {font-size: 140%; font-weight: normal; margin-bottom: 30px; l
 .invitationGreyBox .SubscribeInput {margin-bottom: 0px;}
 
 .articleContent img {width: 100%;}
+.articleContent .productTemplate img {width: auto;}
+
 
  .articleContent hr {color: #ddd; clear: both; background: #ddd; display: block; width: 30%; height: 5px; margin-right: 70%; margin-bottom: 30px;  }
  .hpFeature hr {border: 0px; color: #eee; clear: both; background: #eee; display: block; width: 70%; height: 2px; margin-right: 70%; margin-bottom: 25px; margin-top: 25px;  }
@@ -1718,7 +1726,7 @@ div.cardExample {    padding: 60px 40px 40px 40px;}
 div.cardExample h6 {font-size: 110%;}
 
   .singlePost .articleContent h2.articleHeader {
-    font-size: 300%;}
+    font-size: 200%;}
 .articleContent h2.articleHeader {
     font-size: 300%;
 }

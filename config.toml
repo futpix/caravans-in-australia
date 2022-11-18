@@ -11,11 +11,6 @@ paginate =  150
 
 [menu]
 	[[menu.main]]
-		identifier = "Caravan-Gear"
-		name = "Caravan Gear"
-		url = "/gear-products-tools/"
-		weight = 7
-	[[menu.main]]
 		identifier = "Best-Caravans"
 		name = "Best Caravans"
 		url = "/best-caravans/"

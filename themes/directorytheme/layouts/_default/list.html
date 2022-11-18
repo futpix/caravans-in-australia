@@ -1,6 +1,8 @@
  {{ define "main" }}
  {{- partial "navCategories.html" . -}}
 
+ {{- partial "navFilter.html" . -}}
+
  {{ if eq .Section "tags" }}
 
  <div class="clearfix"></div>
@@ -8,7 +10,7 @@
  	<div class="row">
  		<div class="col-lg-8">
  			<div class="articleContent">
- 				<h2 class="articleHeader taxonomyHeader">Best {{ .Title }} Caravans</h2>
+ 				<h2 class="articleHeader taxonomyHeader">{{ .Title }}</h2>
  				<hr />
 				<p>Currently we have {{ $postCount := len .Pages }}<Strong>{{ $postCount }}</Strong> results</a></p>
 			<div class="row">	
@@ -93,13 +95,6 @@
 
 </div></div></div>
 {{ end }}
-
-
-
-
-
-
-
 
 
 

@@ -1,0 +1,38 @@
+ {{ define "main" }}
+ {{- partial "navCategories.html" . -}}
+
+ {{- partial "navFilter.html" . -}}
+
+
+<div class="clearfix"></div>
+<div class="container">
+	<div class="" style="">
+		{{- partial "1-col-blog-image-feat" . -}}
+	</div>
+
+
+
+		<div class="row">
+			<div class="col-lg-8">
+				<div class="row">
+					<div class="col-sm-6">
+						{{- partial "1-col-blog-thumb-hot" . -}}
+					</div>
+					<div class="col-sm-6">
+						{{- partial "1-col-blog-thumb-pink" . -}}
+					</div>
+				</div> 
+			</div>
+			<div class="col-lg-4">
+				<div class="col-sm-12">
+					{{- partial "blog-list-text-vert-blog-home" . -}}
+				</div>
+			</div>
+		</div>
+			{{- partial "hp-tickboxes.html" . -}}
+	</div>
+
+
+</div>
+{{ end }}
+

@@ -1,4 +1,4 @@
- {{ range where .Site.RegularPages "Section" "posts" | after 2 | first 1 }}
+ {{ range where .Site.RegularPages "Section" "blog" | after 2 | first 1 }}
 
  <div class="threeBlogGrid">
   <!-- IMAGE SVG TEXT ELEMENT -->
@@ -9,7 +9,7 @@
     <div class="blockImageSvgWrapID-Light">
      <span class="dateLineFeatured">{{ .Date.Format "2" }}{{ if in (slice 1 21 31) .Date.Day}}st{{ else if in (slice 2 22) .Date.Day}}nd{{ else if in (slice 3 23) .Date.Day}}rd{{ else }}th{{ end }} {{ .Date.Format "January, 2006" }}</span>
      <h2><A href="{{ .RelPermalink }}">{{ .Title }}</A></h2>
-     <p class="d-sm-none d-md-block">Find out why {{ .Title | safeHTML | truncate 40 }} might be your dream study abroad destination. Located in this beautiful country, let you studies take flight as you have the intercultural...</p>
+    
    </div>
  </div>
  <!-- IMAGE END -->

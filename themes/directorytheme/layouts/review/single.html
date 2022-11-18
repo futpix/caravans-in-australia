@@ -12,6 +12,7 @@
 
 
 
+
 {{ $scratch := newScratch }}
 
 {{ if isset .Params "realscore" }}
@@ -28,7 +29,7 @@
 
 
 		<div class="col-sm-12">{{ range .Params.categories | first 1 }}
- 						<h3 class="badge badge-dark text-white pl-4	 pb-2 pt-2 pr-4 mb-4 mt-0" style="font-size: 120%;"><strong>    
+ 						<h3 class="badge badge-dark text-white pl-4	 pb-2 pt-2 pr-4 mb-4 mt-0" style="font-size: 100%;"><strong>    
  						<a href="/categories/{{ . | urlize }}/" class="text-white">{{ . }}</a> 
  						</strong>
  						 {{ end }}
@@ -40,11 +41,11 @@
  						<span class="blogAuthor">STOCK AVAILABLE</a></span>
  					</div>
  					<div class="col-sm-12">
- 						<h4>
+ 						<h5>
  						Range <strong> ${{ .Params.priceRangeMin }} - ${{ .Params.priceRangeMax }} 
  						
  						</strong>
- 					</h4>
+ 					</h5>
  					</div>
 
 
@@ -231,7 +232,7 @@
   right: 20%;
   bottom: 0;
   top: 40%;
-  background-color: #fff;
+  background-color: #f9f9f9;
   border-radius: 50%/100% 100% 0 0;
 }
 
@@ -274,6 +275,11 @@ display: block;
 }
 
 </style>
+
+
+<h4 class="mt-5 text-center">Recommended Accessories</h4>
+
+{{- partial "productx2-horiz.html" . -}}
 
 <h3>Is {{.Title }} a top ranked Caravans in Australia?</h3>
 
@@ -329,12 +335,18 @@ Top 10 Caravans in Australia? Is it in the Top 20 Caravans in Australia? Well, t
  			</div>
  			<div class="col-lg-4 articleRight">
  				<div class="col-sm-12">
- 					{{- partial "callout-text-blog-right" . -}}
+ 				
  					{{- partial "blog-list-text-vert" . -}}
  					{{- partial "blog-tags-right" . -}}
+ 					<h4 class="mb-4">Explore Brands</h4>
+{{- partial "explore-categories.html" . -}}
+</div>
  					{{- partial "1-col-blog-thumb-hot" . -}}
  					<div id="sticky" class="d-none d-sm-block">
- 						{{- partial "callout-text-blog-right-sticky" . -}}
+ 						 <h4>Featured</h4>
+ {{ range where .Site.Pages "Params.sleeps" "4" | shuffle | first 1 }}
+{{- partial "listing-template.html" . -}}
+{{ end }}
  					</div>
  					<div class="extra">
  					</div>

@@ -1,15 +1,13 @@
 <script>
 window.store = {
     // You can specify your blog section only:
-    {{ range where .Site.Pages "Section" "review" }}
-    "{{ .Permalink }}": {"title": "{{ .Title  }}","url": "{{ .Permalink }}"},
-    {{ end }}
-    {{ range where .Site.Pages "Section" "posts" }}
-    "{{ .Permalink }}": {"title": "{{ .Title  }}","url": "{{ .Permalink }}"},
-    {{ end }}
+    {{ range where .Site.Pages "Section" "review" }}"{{ .Permalink }}": {"title": "{{ .Title  }}","tags": "{{ range .Params.tags}}{{.}}{{end}}","categories": "{{ range .Params.categories}}{{.}}{{end}}","url": "{{ .Permalink }}"},{{ end }}
+    {{ range where .Site.Pages "Section" "caravan-parks" }}"{{ .Permalink }}": {"title": "{{ .Title  }}","tags": "{{ range .Params.tags}}{{.}}{{end}}","categories": "{{ range .Params.categories}}{{.}}{{end}}","url": "{{ .Permalink }}"},{{ end }}
 }
 </script>
 <!-- Include Lunr and code for your search function,
 which you'll write in the next section -->
 <script src="/js/lunr.js"></script>
 <script src="/js/search.js"></script>
+
+{{ range .Params.tags}}{{.}}{{end}}

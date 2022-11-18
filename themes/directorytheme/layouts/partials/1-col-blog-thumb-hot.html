@@ -1,4 +1,4 @@
- {{ range where .Site.RegularPages "Section" "posts" | after 1 | first 1}}
+ {{ range where .Site.RegularPages "Section" "blog" | after 1 | first 1}}
  {{ if in .Params.categories "Latest" }}
  <div class="threeBlogGrid">
   <!-- IMAGE SVG TEXT ELEMENT -->
@@ -9,7 +9,7 @@
     <div class="blockImageSvgWrapID-White">
      <span class="dateLineFeatured">{{ .Date.Format "2" }}{{ if in (slice 1 21 31) .Date.Day}}st{{ else if in (slice 2 22) .Date.Day}}nd{{ else if in (slice 3 23) .Date.Day}}rd{{ else }}th{{ end }} {{ .Date.Format "January, 2006" }}</span>
      <h2><A href="{{ .RelPermalink }}">{{ .Title }}</A></h2>
-     <p class="d-sm-none d-md-block">{{ .Params.intro | safeHTML | truncate 120 }}</p>
+   
    </div>
  </div>
  <!-- IMAGE END -->

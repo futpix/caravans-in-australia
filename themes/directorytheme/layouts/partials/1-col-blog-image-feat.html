@@ -1,5 +1,4 @@
- {{ range where .Site.RegularPages "Section" "posts" | first 1 }}
- {{ if in .Params.categories "Latest" }}
+ {{ $all := ($.Site.GetPage "section" .Section).Pages.ByPublishDate.Reverse }} {{ range first 1 $all }}
  <div class="container">
    <div class="row hpFeature blogFeature">
      <div class="col-lg-6 aos-item" data-aos="fade-up">
@@ -32,4 +31,3 @@
     </div>
   </div>
   {{ end }}
-{{ end }}
