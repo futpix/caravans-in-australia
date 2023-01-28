@@ -98,6 +98,17 @@ h4 {color: #999!important; font-size: 80%;}
     position:absolute;
 }
 
+.demo {
+  margin: 20px;
+}
+.accordion .fa {
+  margin-right: 0.5rem;
+}
+.accordion button, .accordion button:hover, .accordion button:focus{
+  text-decoration: none;
+}
+
+
 .bg-brand {background:#eee;}
 
  .spFeature p a.endParaLink {font-size: 16pt;}
@@ -359,6 +370,8 @@ h4 {color: #999!important; font-size: 80%;}
 .blogIntroIndex h5 {padding: 10px 0px;}
 
 .blogIntroIndex ul li {font-size: 110%; line-height: 150%; margin-bottom: 10px; font-weight: bold;  }
+.blogIntroIndex ul ul {margin-top: 10px; margin-bottom: 10px;} 
+.blogIntroIndex ul ul li {font-size: 100%;} 
 
 .hpSteps {margin-top: 40px;}
 .hpSteps h2 {font-size: 20pt;}
@@ -748,7 +761,21 @@ margin-top: 10px;
 
 .listingBlock p {margin-bottom: 0px;}
 
-.listingBlock h4.listingTitle {font-size: 110%;}
+.listingBlock h4.listingTitle {font-size: 110%; color: #17a2b8!important;}
+
+.listingTitle a {font-size: 110%; color: #17a2b8!important;}
+
+.nav-item .btn-sm {font-size: 80%;}
+
+.card.listingCard:hover {
+  box-shadow: 0px 0px 10px #aaa!important;}
+
+.btn-link {color: #17a2b8!important; font-weight: bold; font-size: 140%!important;}
+.btn-link h6 {color: #17a2b8!important; font-weight: bold; font-size: 100%!important;}
+.btn:focus, .btn.focus {
+  outline: 0;
+  box-shadow: 0 0 0 0rem rgb(0 0 0 / 0%);
+}
 
 h2.taxonomyHeader {font-size: 200%!important;}
 
@@ -1306,7 +1333,7 @@ div.cardExample h6 {font-size: 140%; font-weight: normal; margin-bottom: 30px; l
     transition-duration: .15s;}
  .articleContent h3 {font-size: 180%; margin: 40px 0px 0px;color: #333;}
  .articleContent h2 {font-size: 220%; margin: 35px 0px 15px; color: #333;}
- .infoContent h3 {font-size: 240%; margin: 40px 0px 0px;color: #111; padding-bottom: 20px; border-bottom: 3px dashed #ffc0c6; width: auto;}
+ .infoContent h3 {font-size: 200%; margin: 40px 0px 0px; color: #003763; padding-bottom: 10px; border-bottom: 0px dashed #ddd; width: auto;}
 a.blogListSmallCardTop .taxonomyList h2 {font-size: 220%; margin: 5px 0px 15px;}
 .taxonomyList h2 {font-size: 220%; margin: 5px 0px 15px;}
 .taxonomyList {width: 100%;}

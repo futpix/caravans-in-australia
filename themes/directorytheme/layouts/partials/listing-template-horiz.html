@@ -1,0 +1,17 @@
+<div class="card full-width mb-5 listingCard" style="width: 100%; box-shadow: 0px 0px 10px #ddd;">
+    <div class="card-header text-dark"><strong>{{ range .Params.categories }}{{ . }}{{end}}</strong></div>
+            <div class="row">
+                <div class="col-sm-5">
+                    <img class="card-img" src="/images/caravans/{{ .Params.id }}.jpg" alt="{{ .Title }} Picture">
+                </div>
+                <div class="col-sm-6">
+                    <div class="card-body">
+                         <div class="listingTitle"><A href="{{ .RelPermalink }}"><Strong>{{ .Title }}</Strong></A></div>
+                         <h5 class="mt-4">${{ .Params.priceRangeMin }}</h5>  
+                        <p class="card-text">{{ range .Params.tags | first 4 }}<span class="badge badge-small text-dark badge-light" href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">- {{ title (replace . "-" " " | strings.FirstUpper)  }}</a></span>{{end}}</p>
+                          
+                    </div>
+                </div><small><a href="{{ .RelPermalink }}" class="stretched-link text-center text-small text-muted">View</a></small>
+            </div>
+        </div>
+    

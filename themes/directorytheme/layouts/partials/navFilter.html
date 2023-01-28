@@ -13,12 +13,12 @@
    {{ $currentPage := . }}
        <ul class="navbar-nav nav subNav">
  
-        <li class="text-white pr-3 pt-3">Popular:</li>
+        <li class="text-white pr-3 pt-2">Popular:</li>
           
-              {{ $getstarted := site.GetPage "/best-caravans/" }}
+              {{ $getstarted := site.GetPage "/tags/" }}
         {{ with $getstarted }}
         {{ range .Pages }}
-              <li class="nav-item"><a href="/best-caravans/{{ .Slug }}/" class="btn btn-sm btn-outline-light ml-2 mt-2">{{ .Title }}</a> </li>
+              <li class="nav-item"><a href="/tags/{{ .Slug }}/" class="btn btn-sm btn-outline-light ml-2 mt-2">{{ .Title }}</a> </li>
         {{ end }}
         {{ end }}
      

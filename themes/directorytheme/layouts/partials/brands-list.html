@@ -1,0 +1,4 @@
+<ul>
+     {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
+      <li><a class="mb-1 img-fluid w-100 text-left" href="{{ "/categories/" | relLangURL }}{{ $name | urlize }}">{{ title (replace $name "-" " " | strings.FirstUpper)  }}</a>
+      </li> {{ end }}</ul>

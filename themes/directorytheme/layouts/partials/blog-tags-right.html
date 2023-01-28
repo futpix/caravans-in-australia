@@ -1,24 +1,5 @@
-
-	<div class="row spFeature text-center tagsBlog">
-		<div class="col-sm-12">
-			<div class="">
-				<h4 class="brandColor text-left">Trending</h4 >
-
-
-   {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
-   {{ range where .Pages "Section" "review"  }}
-
-    <a class="btn btn-outline-dark mb-1" href="{{ "/categories/" | relLangURL }}{{ $name | urlize }}">{{ title (replace $name "-" " " | strings.FirstUpper)  }}</a>
-  {{ end }}{{ end }}
-
-     {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
-   {{ range where .Pages "Section" "caravan-parks"  }}
-
-    <a class="btn btn-outline-dark mb-1" href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}">{{ title (replace $name "-" " " | strings.FirstUpper)  }}</a>
-  {{ end }}{{ end }}
-
-
-			</div>
-		</div>
-	</div>
-
+<div class="row spFeature text-center tagsBlog">
+  <div class="col-sm-12">
+    <div class="">{{- partial "brands-list.html" . -}}</div>
+  </div>
+</div>

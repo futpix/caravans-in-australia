@@ -1,657 +1,148 @@
- {{ define "main" }}
- {{- partial "navCategories.html" . -}}
- {{ if eq .Section "tags" }}
- <div class="bgImageElementWhite">
- </div>
- <div class="clearfix"></div>
- <div class="container subTopMarginHeader">
- 	<div class="row">
- 		<div class="col-lg-8">
- 			<div class="spFeature articleContent">
- 				<h2 class="articleHeader">{{ .Title }}</h2>
- 				<hr />
+{{ define "main" }} {{- partial "navCategories.html" . -}} {{ if eq .Section
+"tags" }}
+<div class="bgImageElementWhite"></div>
+<div class="clearfix"></div>
+<div class="container subTopMarginHeader">
+  <div class="row">
+    <div class="col-lg-8">
+      <div class="spFeature articleContent">
+        <h2 class="articleHeader">{{ .Title }}</h2>
+        <hr />
 
-						<p>{{ $postCount := len .Pages }}<Strong>{{ $postCount }}</Strong> results - {{ range .Pages | first 1 }}
-						{{ range .Params.categories }}<a href="/categories/{{ . | urlize }}/"> Back to {{ . }}{{ end }}{{ end }}</a>
-						 </p>
+        <p>
+          {{ $postCount := len .Pages }}<strong>{{ $postCount }}</strong>
+          results - {{ range .Pages | first 1 }} {{ range .Params.categories
+          }}<a href="/categories/{{ . | urlize }}/">
+            Back to {{ . }}{{ end }}{{ end }}</a
+          >
+        </p>
 
+        <div class="container">
+          <div class="row">
+            <div class="threeBlogGrid taxonomyList">
+              {{ range .Paginator.Pages }}
 
-<!-- The Bit -->
-{{ if eq .Title "United Kingdom"  }}
-{{ range .Pages | first 1}}	
-{{ $blog := .Site.GetPage "/tags/united-kingdom/"}}
-{{ $slice := slice }}
-{{ range $page := $blog.Data.Pages }}
-    {{ range $tag := $page.Params.tags | after 1 | first 1 }}
-        {{ $slice = $slice | append $tag }}
-    {{ end }}
-{{ end }}
-
-<div class="module">
-	<div class="alert alert-light listPlacesWrap">
-        <div class="collapse" id="collapseExample" aria-expanded="false">
-
-	<h6>Places</h6>
-{{ range $uniqueTags := $slice | uniq }}
-    <a class="btn btn-outline-dark" href="/tags/{{ $uniqueTags | urlize }}/">{{ $uniqueTags }}</a>
-{{ end }}
+              <!-- IMAGE SVG TEXT ELEMENT -->
+              <div class="blockImageTextSvg">
+                <div class="blockImageSvgWrapID-White">
+                  <div class="row">
+                    <div class="col-sm-9">
+                      <h4><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
+                      <p>
+                        {{ range .Params.tags }}
+                        <a
+                          href="/tags/{{ . | urlize }}/"
+                          class="btn btn-outline-dark"
+                          >#{{ . }}</a
+                        >
+                        {{ end }}
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              {{ end }} {{- partial "pagination" . -}}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-4" style="margin-top: 175px">
+      <div class="col-sm-12">
+        <div class="col-sm-12">
+          {{- partial "callout-text-blog-right" . -}} {{- partial
+          "blog-tags-right" . -}}
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
-<a role="button" id="theShowMoreButton" class="collapsed" data-toggle="collapse" href="#collapseExample" 
-         aria-expanded="false" aria-controls="collapseExample"></a>
-     </div>
-</div>
-
-{{ end }}
-{{ end }}
-
-<!-- End Bit -->
-
-
-<!-- The Bit -->
-{{ if eq .Title "Australia"  }}
-{{ range .Pages | first 1}}	
-{{ $blog := .Site.GetPage "/tags/australia/"}}
-{{ $slice := slice }}
-{{ range $page := $blog.Data.Pages }}
-    {{ range $tag := $page.Params.tags | after 1 | first 1 }}
-        {{ $slice = $slice | append $tag }}
-    {{ end }}
-{{ end }}
-
-<div class="module">
-	<div class="alert alert-light listPlacesWrap">
-        <div class="collapse" id="collapseExample" aria-expanded="false">
-
-	<h6>Places</h6>
-{{ range $uniqueTags := $slice | uniq }}
-    <a class="btn btn-outline-dark" href="/tags/{{ $uniqueTags | urlize }}/">{{ $uniqueTags }}</a>
-{{ end }}
-</div>
-<a role="button" id="theShowMoreButton" class="collapsed" data-toggle="collapse" href="#collapseExample" 
-         aria-expanded="false" aria-controls="collapseExample"></a>
-     </div>
-</div>
-
-{{ end }}
-{{ end }}
-
-<!-- End Bit -->
-
-
-
-
-
-
-<!-- The Bit -->
-{{ if eq .Title "United States"  }}
-{{ range .Pages | first 1}}	
-{{ $blog := .Site.GetPage "/tags/united-states/"}}
-{{ $slice := slice }}
-{{ range $page := $blog.Data.Pages }}
-    {{ range $tag := $page.Params.tags | after 1 | first 1 }}
-        {{ $slice = $slice | append $tag }}
-    {{ end }}
-{{ end }}
-
-<div class="module">
-	<div class="alert alert-light listPlacesWrap">
-        <div class="collapse" id="collapseExample" aria-expanded="false">
-
-	<h6>Places</h6>
-{{ range $uniqueTags := $slice | uniq }}
-    <a class="btn btn-outline-dark" href="/tags/{{ $uniqueTags | urlize }}/">{{ $uniqueTags }}</a>
-{{ end }}
-</div>
-<a role="button" id="theShowMoreButton" class="collapsed" data-toggle="collapse" href="#collapseExample" 
-         aria-expanded="false" aria-controls="collapseExample"></a>
-     </div>
-</div>
-
-{{ end }}
-{{ end }}
-
-<!-- End Bit -->
-
-
-
-<!-- The Bit -->
-{{ if eq .Title "Germany"  }}
-{{ range .Pages | first 1}}	
-{{ $blog := .Site.GetPage "/tags/germany/"}}
-{{ $slice := slice }}
-{{ range $page := $blog.Data.Pages }}
-    {{ range $tag := $page.Params.tags | after 1 | first 1 }}
-        {{ $slice = $slice | append $tag }}
-    {{ end }}
-{{ end }}
-
-<div class="module">
-	<div class="alert alert-light listPlacesWrap">
-        <div class="collapse" id="collapseExample" aria-expanded="false">
-
-	<h6>Places</h6>
-{{ range $uniqueTags := $slice | uniq }}
-    <a class="btn btn-outline-dark" href="/tags/{{ $uniqueTags | urlize }}/">{{ $uniqueTags }}</a>
-{{ end }}
-</div>
-<a role="button" id="theShowMoreButton" class="collapsed" data-toggle="collapse" href="#collapseExample" 
-         aria-expanded="false" aria-controls="collapseExample"></a>
-     </div>
-</div>
-
-{{ end }}
-{{ end }}
-
-<!-- End Bit -->
-
-
-
-
-<!-- The Bit -->
-{{ if eq .Title "Italy"  }}
-{{ range .Pages | first 1}}	
-{{ $blog := .Site.GetPage "/tags/italy/"}}
-{{ $slice := slice }}
-{{ range $page := $blog.Data.Pages }}
-    {{ range $tag := $page.Params.tags | after 1 | first 1 }}
-        {{ $slice = $slice | append $tag }}
-    {{ end }}
-{{ end }}
-
-<div class="module">
-	<div class="alert alert-light listPlacesWrap">
-        <div class="collapse" id="collapseExample" aria-expanded="false">
-
-	<h6>Places</h6>
-{{ range $uniqueTags := $slice | uniq }}
-    <a class="btn btn-outline-dark" href="/tags/{{ $uniqueTags | urlize }}/">{{ $uniqueTags }}</a>
-{{ end }}
-</div>
-<a role="button" id="theShowMoreButton" class="collapsed" data-toggle="collapse" href="#collapseExample" 
-         aria-expanded="false" aria-controls="collapseExample"></a>
-     </div>
-</div>
-
-{{ end }}
-{{ end }}
-
-<!-- End Bit -->
-
-
-<!-- The Bit -->
-{{ if eq .Title "France"  }}
-{{ range .Pages | first 1}}	
-{{ $blog := .Site.GetPage "/tags/france/"}}
-{{ $slice := slice }}
-{{ range $page := $blog.Data.Pages }}
-    {{ range $tag := $page.Params.tags | after 1 | first 1 }}
-        {{ $slice = $slice | append $tag }}
-    {{ end }}
-{{ end }}
-
-<div class="module">
-	<div class="alert alert-light listPlacesWrap">
-        <div class="collapse" id="collapseExample" aria-expanded="false">
-
-	<h6>Places</h6>
-{{ range $uniqueTags := $slice | uniq }}
-    <a class="btn btn-outline-dark" href="/tags/{{ $uniqueTags | urlize }}/">{{ $uniqueTags }}</a>
-{{ end }}
-</div>
-<a role="button" id="theShowMoreButton" class="collapsed" data-toggle="collapse" href="#collapseExample" 
-         aria-expanded="false" aria-controls="collapseExample"></a>
-     </div>
-</div>
-
-{{ end }}
-{{ end }}
-
-<!-- End Bit -->
-
-
-<!-- The Bit -->
-{{ if eq .Title "Spain"  }}
-{{ range .Pages | first 1}}	
-{{ $blog := .Site.GetPage "/tags/spain/"}}
-{{ $slice := slice }}
-{{ range $page := $blog.Data.Pages }}
-    {{ range $tag := $page.Params.tags | after 1 | first 1 }}
-        {{ $slice = $slice | append $tag }}
-    {{ end }}
-{{ end }}
-
-<div class="module">
-	<div class="alert alert-light listPlacesWrap">
-        <div class="collapse" id="collapseExample" aria-expanded="false">
-
-	<h6>Places</h6>
-{{ range $uniqueTags := $slice | uniq }}
-    <a class="btn btn-outline-dark" href="/tags/{{ $uniqueTags | urlize }}/">{{ $uniqueTags }}</a>
-{{ end }}
-</div>
-<a role="button" id="theShowMoreButton" class="collapsed" data-toggle="collapse" href="#collapseExample" 
-         aria-expanded="false" aria-controls="collapseExample"></a>
-     </div>
-</div>
-
-{{ end }}
-{{ end }}
-
-<!-- End Bit -->
-
-
-<!-- The Bit -->
-{{ if eq .Title "China"  }}
-{{ range .Pages | first 1}}	
-{{ $blog := .Site.GetPage "/tags/china/"}}
-{{ $slice := slice }}
-{{ range $page := $blog.Data.Pages }}
-    {{ range $tag := $page.Params.tags | after 1 | first 1 }}
-        {{ $slice = $slice | append $tag }}
-    {{ end }}
-{{ end }}
-
-<div class="module">
-	<div class="alert alert-light listPlacesWrap">
-        <div class="collapse" id="collapseExample" aria-expanded="false">
-
-	<h6>Places</h6>
-{{ range $uniqueTags := $slice | uniq }}
-    <a class="btn btn-outline-dark" href="/tags/{{ $uniqueTags | urlize }}/">{{ $uniqueTags }}</a>
-{{ end }}
-</div>
-<a role="button" id="theShowMoreButton" class="collapsed" data-toggle="collapse" href="#collapseExample" 
-         aria-expanded="false" aria-controls="collapseExample"></a>
-     </div>
-</div>
-
-{{ end }}
-{{ end }}
-
-<!-- End Bit -->
-
-
-
-
-<!-- The Bit -->
-{{ if eq .Title "Russia"  }}
-{{ range .Pages | first 1}}	
-{{ $blog := .Site.GetPage "/tags/russia/"}}
-{{ $slice := slice }}
-{{ range $page := $blog.Data.Pages }}
-    {{ range $tag := $page.Params.tags | after 1 | first 1 }}
-        {{ $slice = $slice | append $tag }}
-    {{ end }}
-{{ end }}
-
-<div class="module">
-	<div class="alert alert-light listPlacesWrap">
-        <div class="collapse" id="collapseExample" aria-expanded="false">
-
-	<h6>Places</h6>
-{{ range $uniqueTags := $slice | uniq }}
-    <a class="btn btn-outline-dark" href="/tags/{{ $uniqueTags | urlize }}/">{{ $uniqueTags }}</a>
-{{ end }}
-</div>
-<a role="button" id="theShowMoreButton" class="collapsed" data-toggle="collapse" href="#collapseExample" 
-         aria-expanded="false" aria-controls="collapseExample"></a>
-     </div>
-</div>
-
-{{ end }}
-{{ end }}
-
-<!-- End Bit -->
-
-
-
-
-				<div class="container"> <div class="row">
-					<div class="threeBlogGrid taxonomyList">
-
-
-						{{ range .Paginator.Pages }}
-						
-						<!-- IMAGE SVG TEXT ELEMENT -->
-						<div class="blockImageTextSvg">
-							<div class="blockImageSvgWrapID-White">
-								<div class="row">
-									<div class="col-sm-9">
-										<h4><A href="{{ .RelPermalink }}">{{ .Title }}</A></h4>
-										<p>{{ range .Params.tags }}
-	 										<a href="/tags/{{ . | urlize }}/" class="btn btn-outline-dark">#{{ . }}</a> 
-	 										{{ end }}
-	 									</p>
-									</div>
-						
-								</div> </div>
-							</div>
-							{{ end }}
-							{{- partial "pagination" . -}}
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="col-lg-4" style="margin-top: 175px;">
-			<div class="col-sm-12"><div class="col-sm-12">
-				{{- partial "callout-text-blog-right" . -}}
-				{{- partial "blog-tags-right" . -}}
-			</div>
-		</div>
-	</div>
-</div></div>
 {{ else if eq .Section "categories" }}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- <div class="bgImageElementWhite">
- </div>
- <div class="clearfix"></div>
- <div class="container subTopMarginHeader">
-	<div class="row">
-		<div class="col-lg-8">
-			<div class="spFeature articleContent">
-				<h2 class="articleHeader">
-{{ if eq .Title "Categories"  }}
-{{ $theTitle := "List of Australian Beaches "}}
-{{ $theTitle }}
-{{ else }}
-{{ $theTitle := .Title }}
-{{ $theTitle }}
-{{ end }}	
-				</h2>
-				<hr />
-					{{ $postCount := len .Pages }}
-						<p><Strong>{{ $postCount }}</Strong> results</p>		
-
-{{ range .Pages | first 1}}
-
-{{ if in .Params.categories "VIC"  }}
-
-{{ $blog := .Site.GetPage "/categories/vic/"}}
-{{ $slice := slice }}
-{{ range $page := $blog.Data.Pages }}
-    {{ range $tag := $page.Params.tags | first 1 }}
-        {{ $slice = $slice | append $tag }}
-    {{ end }}
-{{ end }}
-
-<div class="alert alert-light listPlacesWrap">
-	<h6>Places</h6>
-{{ range $uniqueTags := $slice | uniq }}
-    <a class="btn btn-outline-dark" href="/tags/{{ $uniqueTags | urlize }}/">{{ $uniqueTags }}</a>
-{{ end }}
-</div>
-
-
-{{ end }}
-
-
-
-{{ if in .Params.categories "NSW"  }}
-
-{{ $blog := .Site.GetPage "/categories/nsw/"}}
-{{ $slice := slice }}
-{{ range $page := $blog.Data.Pages }}
-    {{ range $tag := $page.Params.tags | first 1 }}
-        {{ $slice = $slice | append $tag }}
-    {{ end }}
-{{ end }}
-
-<div class="alert alert-light listPlacesWrap">
-	<h6>Places</h6>
-{{ range $uniqueTags := $slice | uniq }}
-    <a class="btn btn-outline-dark" href="/tags/{{ $uniqueTags | urlize }}/">{{ $uniqueTags }}</a>
-{{ end }}
-</div>
-
-<div class="module">
-	<div class="alert alert-light listPlacesWrap">
-        <div class="collapse" id="collapseExample" aria-expanded="false">
-
-	<h6>Places</h6>
-{{ range $uniqueTags := $slice | uniq }}
-    <a class="btn btn-outline-dark" href="/tags/{{ $uniqueTags | urlize }}/">{{ $uniqueTags }}</a>
-{{ end }}
-</div>
-<a role="button" id="theShowMoreButton" class="collapsed" data-toggle="collapse" href="#collapseExample" 
-         aria-expanded="false" aria-controls="collapseExample"></a>
-     </div>
-</div>
-
-
-{{ end }}
-
-
-
-
-
-{{ if in .Params.categories "Africa"  }}
-{{ $blog := .Site.GetPage "/categories/Africa/"}}
-{{ $slice := slice }}
-{{ range $page := $blog.Data.Pages }}
-    {{ range $tag := $page.Params.tags | first 1 }}
-        {{ $slice = $slice | append $tag }}
-    {{ end }}
-{{ end }}
-<div class="alert alert-light listPlacesWrap">
-	<h6>Places</h6>
-{{ range $uniqueTags := $slice | uniq }}
-    <a class="btn btn-outline-dark" href="/tags/{{ $uniqueTags | urlize }}/">{{ $uniqueTags }}</a>
-{{ end }}
-</div>
-{{ end }}
-
-
-{{ if in .Params.categories "Asia"  }}
-{{ $blog := .Site.GetPage "/categories/Asia/"}}
-{{ $slice := slice }}
-{{ range $page := $blog.Data.Pages }}
-    {{ range $tag := $page.Params.tags | first 1 }}
-        {{ $slice = $slice | append $tag }}
-    {{ end }}
-{{ end }}
-<div class="alert alert-light listPlacesWrap">
-	<h6>Places</h6>
-{{ range $uniqueTags := $slice | uniq }}
-    <a class="btn btn-outline-dark" href="/tags/{{ $uniqueTags | urlize }}/">{{ $uniqueTags }}</a>
-{{ end }}
-</div>
-{{ end }}
-
-
-
-{{ if in .Params.categories "North America"  }}
-{{ $blog := .Site.GetPage "/categories/North-America/"}}
-{{ $slice := slice }}
-{{ range $page := $blog.Data.Pages }}
-    {{ range $tag := $page.Params.tags | first 1 }}
-        {{ $slice = $slice | append $tag }}
-    {{ end }}
-{{ end }}
-<div class="alert alert-light listPlacesWrap">
-	<h6>Places</h6>
-{{ range $uniqueTags := $slice | uniq }}
-    <a class="btn btn-outline-dark" href="/tags/{{ $uniqueTags | urlize }}/">{{ $uniqueTags }}</a>
-{{ end }}
-</div>
-{{ end }}
-
-
-
-
-{{ if in .Params.categories "South America"  }}
-{{ $blog := .Site.GetPage "/categories/south-america/"}}
-{{ $slice := slice }}
-{{ range $page := $blog.Data.Pages }}
-    {{ range $tag := $page.Params.tags | first 1 }}
-        {{ $slice = $slice | append $tag }}
-    {{ end }}
-{{ end }}
-<div class="alert alert-light listPlacesWrap">
-	<h6>Places</h6>
-{{ range $uniqueTags := $slice | uniq }}
-    <a class="btn btn-outline-dark" href="/tags/{{ $uniqueTags | urlize }}/">{{ $uniqueTags }}</a>
-{{ end }}
-</div>
-{{ end }}
-
-
-
-
-
-
-
-
-
-
-
-
-{{ end }}
-
-
-
-
-
-				<div class="container"> <div class="row">
-					<div class="threeBlogGrid taxonomyList">
-						{{ range .Paginator.Pages }}
-						<!-- IMAGE SVG TEXT ELEMENT -->
-						<div class="blockImageTextSvg">
-							<div class="blockImageSvgWrapID-White">
-								<div class="row">
-
-
-										{{ if eq .Title	"Africa"  }}
-										<div class="col-sm-4">
-										<h4><A href="{{ .RelPermalink }}">{{ .Title }}</A></h4>
-										</div>
-
-										{{ else if eq .Title	"Asia"  }}
-										<div class="col-sm-4">
-										<h4><A href="{{ .RelPermalink }}">{{ .Title }}</A></h4>
-										</div>
-										{{ else if eq .Title	"Oceania"  }}
-										<div class="col-sm-4">
-										<h4><A href="{{ .RelPermalink }}">{{ .Title }}</A></h4>
-										</div>
-										{{ else if eq .Title	"Europe"  }}
-										<div class="col-sm-12">
-										<h4><A href="{{ .RelPermalink }}">{{ .Title }}</A></h4>
-										</div>
-										{{ else if eq .Title	"North America"  }}
-										<div class="col-sm-12">
-										<h4><A href="{{ .RelPermalink }}">{{ .Title }}</A></h4>
-										</div>
-										{{ else if eq .Title	"South America"  }}
-										<div class="col-sm-12">
-										<h4><A href="{{ .RelPermalink }}">{{ .Title }}</A></h4>
-										</div>
-										{{ else if eq .Title	"Latest"  }}
-										<div class="col-sm-12">
-										<h4><A href="{{ .RelPermalink }}"></A></h4>
-										</div>
-
-										{{ else }}
-										<div class="col-sm-9">
-										<h4><A href="{{ .RelPermalink }}">{{ .Title }}s</A></h4>
-										<p>{{ range .Params.tags }}
-	 										<a href="/tags/{{ . | urlize }}/" class="btn btn-outline-dark">#{{ . }}</a> 
-	 										{{ end }}
-	 									</p>
-									</div>
-								
-										
-										{{ end }}
-
-
-
-
-									
-								</div> </div>
-							</div>
-							{{ end }}
-							{{- partial "pagination" . -}}
-							 	<div class="bg-brand mt-5 pl-3 pt-3">
- 	{{- partial "search-form.html" . -}}
- 	</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="col-lg-4" style="margin-top: 175px;">
-			<div class="col-sm-12"><div class="col-sm-12">
-				{{- partial "callout-text-blog-right" . -}}
-				{{- partial "blog-tags-right" . -}}
-			</div>
-		</div>
-	</div>
-</div></div>
-{{ else }}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<div class="bgImageElementWhite"></div>
 <div class="clearfix"></div>
-<div class="blogHomeContainerBg"></div>
-<div class="container-fluid blogHomeContainer">
-	<div class="" style="">
-		{{- partial "1-col-blog-image-feat-ratings" . -}}
-	</div>
-</div>
+<div class="container subTopMarginHeader">
+  <div class="row">
+    <div class="col-lg-8">
+      <div class="spFeature articleContent">
+        <h2 class="articleHeader"></h2>
+        <hr />
+        {{ $postCount := len .Pages }}
+        <p><strong>{{ $postCount }}</strong> results</p>
 
-	<div class="container-fluid blogHomeSecondBlock">
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-8">
-				<div class="row">
-					<div class="col-sm-6">
-						{{- partial "1-col-blog-thumb-hot-ratings" . -}}
-					</div>
-					<div class="col-sm-6">
-						{{- partial "1-col-blog-thumb-pink-ratings" . -}}
-					</div>
-				</div> 
-			</div>
-			<div class="col-lg-4">
-				<div class="col-sm-12">
-					{{- partial "blog-list-text-vert-blog-home-ratings" . -}}
-				</div>
-			</div>
-		</div>
-	</div>
-	{{- partial "callout-text-subscribe" . -}}
+        <div class="container">
+          <div class="row">
+            <div class="threeBlogGrid taxonomyList">
+              {{ range .Paginator.Pages }}
+              <!-- IMAGE SVG TEXT ELEMENT -->
+              <div class="blockImageTextSvg">
+                <div class="blockImageSvgWrapID-White">
+                  <div class="row">
+                    {{ if eq .Title "Africa" }}
+                    <div class="col-sm-4">
+                      <h4><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
+                    </div>
+
+                    {{ else if eq .Title "Asia" }}
+                    <div class="col-sm-4">
+                      <h4><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
+                    </div>
+                    {{ else if eq .Title "Oceania" }}
+                    <div class="col-sm-4">
+                      <h4><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
+                    </div>
+                    {{ else if eq .Title "Europe" }}
+                    <div class="col-sm-12">
+                      <h4><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
+                    </div>
+                    {{ else if eq .Title "North America" }}
+                    <div class="col-sm-12">
+                      <h4><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
+                    </div>
+                    {{ else if eq .Title "South America" }}
+                    <div class="col-sm-12">
+                      <h4><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
+                    </div>
+                    {{ else if eq .Title "Latest" }}
+                    <div class="col-sm-12">
+                      <h4><a href="{{ .RelPermalink }}"></a></h4>
+                    </div>
+
+                    {{ else }}
+                    <div class="col-sm-9">
+                      <h4><a href="{{ .RelPermalink }}">{{ .Title }}s</a></h4>
+                      <p>
+                        {{ range .Params.tags }}
+                        <a
+                          href="/tags/{{ . | urlize }}/"
+                          class="btn btn-outline-dark"
+                          >#{{ . }}</a
+                        >
+                        {{ end }}
+                      </p>
+                    </div>
+
+                    {{ end }}
+                  </div>
+                </div>
+              </div>
+              {{ end }} {{- partial "pagination" . -}}
+              <div class="bg-brand mt-5 pl-3 pt-3">
+                {{- partial "search-form.html" . -}}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-4" style="margin-top: 175px">
+      <div class="col-sm-12">
+        <div class="col-sm-12">
+          {{- partial "callout-text-blog-right" . -}} {{- partial
+          "blog-tags-right" . -}}
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
-</div>
-{{ end }}
-{{ end }}
+{{ end }}{{ end }}

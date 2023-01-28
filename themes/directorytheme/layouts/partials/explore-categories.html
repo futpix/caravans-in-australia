@@ -1,15 +1,14 @@
 
-
 <div class="module">
   <div class="">
         <div class="collapse" id="collapseExample" aria-expanded="false">
-
+          {{ range where .Pages "Section" "review"  }}
    {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
-   {{ range where .Pages "Section" "review"  }}
+   
 
     <a class="btn btn-dark mb-1" href="{{ "/categories/" | relLangURL }}{{ $name | urlize }}">{{ title (replace $name "-" " " | strings.FirstUpper)  }}</a>
-  <a class="btn btn-xs btn-dark mb-1">Some cunt</a> <a class="btn btn-xs btn-dark mb-1">Some cunt</a> <a class="btn btn-xs btn-dark mb-1">Some cunt</a> <a class="btn btn-xs btn-dark mb-1">Some cunt</a> <a class="btn btn-xs btn-dark mb-1">Some cunt</a> <a class="btn btn-xs btn-dark mb-1">Some cunt</a> <a class="btn btn-xs btn-dark mb-1">Some cunt</a> 
-  {{ end }}{{ end }}
+
+  {{ end }}{{ end }} 
 
 </div>
 <a role="button" id="theShowMoreButton" class="collapsed" data-toggle="collapse" href="#collapseExample" 

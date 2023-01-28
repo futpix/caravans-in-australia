@@ -1,0 +1,185 @@
+<div class="demo">
+  <div class="accordion" id="accordionExample">
+    <div class="card">
+      <div class="card-header" id="headingOne">
+        <button
+          type="button"
+          class="btn btn-link"
+          data-toggle="collapse"
+          data-target="#collapseOne"
+        >
+          <h6 class="mb-0"><span class="fa fa-plus">+</span> Brands</h6>
+        </button>
+      </div>
+      <div
+        id="collapseOne"
+        class="collapse"
+        aria-labelledby="headingOne"
+        data-parent="#accordionExample"
+      >
+        <div class="card-body">{{- partial "brands-list" . -}}</div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-header" id="headingTwo">
+        <button
+          type="button"
+          class="btn btn-link"
+          data-toggle="collapse"
+          data-target="#collapseTwo"
+        >
+          <h6 class="mb-0"><span class="fa fa-plus">+</span> Sleeps</h6>
+        </button>
+      </div>
+      <div
+        id="collapseTwo"
+        class="collapse"
+        aria-labelledby="headingTwo"
+        data-parent="#accordionExample"
+      >
+        <div class="card-body">
+          <ul>
+            <li><a href="/tags/sleeps-2/">Sleeps 2</a></li>
+            <li><a href="/tags/sleeps-3/">Sleeps 3</a></li>
+            <li><a href="/tags/sleeps-4/">Sleeps 4</a></li>
+            <li><a href="/tags/sleeps-5/">Sleeps 5</a></li>
+            <li><a href="/tags/sleeps-6/">Sleeps 6</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-header" id="headingThree">
+        <button
+          type="button"
+          class="btn btn-link"
+          data-toggle="collapse"
+          data-target="#collapseThree"
+        >
+          <h6 class="mb-0"><span class="fa fa-plus">+</span> Size</h6>
+        </button>
+      </div>
+      <div
+        id="collapseThree"
+        class="collapse"
+        aria-labelledby="headingThree"
+        data-parent="#accordionExample"
+      >
+        <div class="card-body">
+          <ul>
+            <li><a href="/tags/11-foot/">11 foot</a></li>
+            <li><a href="/tags/12-foot/">13 foot</a></li>
+            <li><a href="/tags/14-foot/">14 foot</a></li>
+            <li><a href="/tags/16-foot/">16 foot</a></li>
+            <li><a href="/tags/17-foot/">17 foot</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-header" id="headingFour">
+        <button
+          type="button"
+          class="btn btn-link"
+          data-toggle="collapse"
+          data-target="#collapseFour"
+        >
+          <h6 class="mb-0"><span class="fa fa-plus">+</span> Type</h6>
+        </button>
+      </div>
+      <div
+        id="collapseFour"
+        class="collapse"
+        aria-labelledby="headingFour"
+        data-parent="#accordionExample"
+      >
+        <div class="card-body">
+          <ul>
+            <li><a href="/tags/on-road/">On Road</a></li>
+            <li><a href="/tags/off-road">Off Road</a></li>
+            <li><a href="/tags/semi/">Semi</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-header" id="headingFive">
+        <button
+          type="button"
+          class="btn btn-link"
+          data-toggle="collapse"
+          data-target="#collapseFive"
+        >
+          <h6 class="mb-0"><span class="fa fa-plus">+</span> Price</h6>
+        </button>
+      </div>
+      <div
+        id="collapseFive"
+        class="collapse"
+        aria-labelledby="headingSix"
+        data-parent="#accordionExample"
+      >
+        <div class="card-body">
+          <ul>
+            <li><a href="/tags/sleeps-2/">Under $50k</a></li>
+            <li><a href="/tags/60---70k/">$60 - $70k</a></li>
+            <li><a href="/tags/sleeps-4/">$70 - $80k</a></li>
+            <li><a href="/tags/sleeps-5/">$80 - $100k</a></li>
+            <li><a href="/tags/sleeps-6/">Over $100k</a></li>
+            <li><a href="/tags/sleeps-6/">Price unknown</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-header" id="headingSix">
+        <button
+          type="button"
+          class="btn btn-link"
+          data-toggle="collapse"
+          data-target="#collapseSix"
+        >
+          <h6 class="mb-0"><span class="fa fa-plus">+</span> Roof</h6>
+        </button>
+      </div>
+      <div
+        id="collapseSix"
+        class="collapse"
+        aria-labelledby="headingSix"
+        data-parent="#accordionExample"
+      >
+        <div class="card-body">
+          <ul>
+            <li><a href="/tags/sleeps-2/">Full Height</a></li>
+            <li><a href="/tags/60---70k/">Pop Top</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-header" id="headingSeven">
+        <button
+          type="button"
+          class="btn btn-link"
+          data-toggle="collapse"
+          data-target="#collapseSeven"
+        >
+          <h6 class="mb-0"><span class="fa fa-plus">+</span> Make</h6>
+        </button>
+      </div>
+      <div
+        id="collapseSeven"
+        class="collapse"
+        aria-labelledby="headingSeven"
+        data-parent="#accordionExample"
+      >
+        <div class="card-body">
+          <ul>
+            <li><a href="/tags/sleeps-2/">Australian Made</a></li>
+            <li><a href="/tags/60---70k/">Made Overseas</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

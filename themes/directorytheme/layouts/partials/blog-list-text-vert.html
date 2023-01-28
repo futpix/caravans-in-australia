@@ -1,11 +1,27 @@
-
 <h4 class="text-bold">Similar options?</h4>
-<div class="aos-item aos-init aos-animate " data-aos="" style="padding-bottom: 30px;">
-{{ $related := .Site.RegularPages.RelatedIndices . "categories" | shuffle | first 3 }}
- 				{{ with $related }}
- 				{{ range . }}	<a class="common-Link blogListSmallCard blogListSmallCardTop" href="{{ .RelPermalink }}" data-analytics-action="subscriptions" data-analytics-source="card_link">
-		<img src="/images/brandIcon.svg" class="brandIcon" width="60" height="60" alt="Brand Icon" />
-		<h3 class="common-UppercaseText common-Link--arrow">{{ .Title }}</h3>
-	</a>  
-	{{ end }}	{{ end }}
+<div
+  class="aos-item aos-init aos-animate"
+  data-aos=""
+  style="padding-bottom: 30px"
+>
+  {{ $related := .Site.RegularPages.RelatedIndices . "categories" | shuffle |
+  first 3 }} {{ with $related }} {{ range . }}
+  <a
+    class="common-Link blogListSmallCard blogListSmallCardTop"
+    href="{{ .RelPermalink }}"
+    data-analytics-action="subscriptions"
+    data-analytics-source="card_link"
+  >
+    <img
+      src="/images/brandIcon.svg"
+      class="brandIcon"
+      width="60"
+      height="60"
+      alt="Brand Icon"
+    />
+    <h3 class="common-UppercaseText common-Link--arrow">
+      {{ range .Params.categories | first 1 }}{{.}}{{end}} {{ .Title }}
+    </h3>
+  </a>
+  {{ end }} {{ end }}
 </div>

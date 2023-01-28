@@ -1,21 +1,30 @@
-
- <div class="aos-item aos-init aos-animate blogTextLinksHorizontal" data-aos="">
- 	<div class="row">
- 		<div class="col-sm-12">
- 			<div class="row">
- 				{{ $related := .Site.RegularPages.RelatedIndices . "categories" | shuffle | first 2 }}
- 		
- 				{{ with $related }}
- 				{{ range . }}
- 				<div class="col-sm-6">
- 					<a class="common-Link blogListSmallCard blogListSmallCardTop" href="{{ .RelPermalink }}" data-analytics-action="subscriptions" data-analytics-source="card_link">
- 						<img src="/images/brandIcon.svg" class="brandIcon" width="60" height="60" alt="Brand Icon"  />
- 						<h3 class="common-UppercaseText common-Link--arrow">{{ .Title }}</h3>
- 					</a>  
- 				</div>
- 				{{ end }}
- 				{{ end }}
- 			</div>
- 		</div>
- 	</div>
- </div>
+<div class="aos-item aos-init aos-animate blogTextLinksHorizontal" data-aos="">
+  <div class="row">
+    <div class="col-sm-12">
+      <div class="row">
+        {{ $related := .Site.RegularPages.RelatedIndices . "categories" |
+        shuffle | first 2 }} {{ with $related }} {{ range . }}
+        <div class="col-sm-6">
+          <a
+            class="common-Link blogListSmallCard blogListSmallCardTop"
+            href="{{ .RelPermalink }}"
+            data-analytics-action="subscriptions"
+            data-analytics-source="card_link"
+          >
+            <img
+              src="/images/brandIcon.svg"
+              class="brandIcon"
+              width="60"
+              height="60"
+              alt="Brand Icon"
+            />
+            <h3 class="common-UppercaseText common-Link--arrow">
+              Hi {{ .Title }}
+            </h3>
+          </a>
+        </div>
+        {{ end }} {{ end }}
+      </div>
+    </div>
+  </div>
+</div>
