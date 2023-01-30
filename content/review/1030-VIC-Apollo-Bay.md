@@ -2,7 +2,7 @@
 id: "1"
 title: "Johnnos XTreme 14"
 slug: "Altitude-Campers-JohnnosXTreme-14"
-draft: "false"
+draft: "true"
 author: "Sean"
 seealsolinks: "1"
 section: "review"
