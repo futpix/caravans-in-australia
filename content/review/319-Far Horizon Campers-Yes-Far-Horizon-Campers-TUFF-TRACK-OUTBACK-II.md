@@ -5,11 +5,11 @@ slug: "Far-Horizon-Campers-TUFF-TRACK-OUTBACK-II"
 draft: "false"
 author: "Sean"
 seealsolinks: "1"
-section: "blog"
+section: "review"
 date: "2022-10-10T22:00:09+11:00"
 featImage: "jayco1.webp"
 categories: ["Far Horizon Campers"]
-tags: ["Yes"]
+tags: ["Sleeps 4", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "50 - 60k"]
 totalLength: "5.9"
 bodyLength: ""
 totalHeight: "2.41"
@@ -34,6 +34,7 @@ price: "52499"
 priceRangeMin: "52499"
 priceRangeMax: "52499"
 urlLink: "https://farhorizoncampers.com/trailers/tuff-track-outback#outback-3"
-aussieMade: ""
+aussieMade: "Made Overseas"
+noImage: ""
 featured: ""
 ---

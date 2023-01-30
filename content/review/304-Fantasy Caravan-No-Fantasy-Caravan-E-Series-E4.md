@@ -5,11 +5,11 @@ slug: "Fantasy-Caravan-E-Series-E4"
 draft: "false"
 author: "Sean"
 seealsolinks: "1"
-section: "blog"
+section: "review"
 date: "2022-10-10T22:00:09+11:00"
 featImage: "jayco1.webp"
 categories: ["Fantasy Caravan"]
-tags: ["No"]
+tags: ["Sleeps 4", "Unknown Size", "On Road", "Combined shower & toilet", "Full height", "Under 50k"]
 totalLength: "5.44"
 bodyLength: ""
 totalHeight: "2.685"
@@ -34,6 +34,7 @@ price: "44990"
 priceRangeMin: "44990"
 priceRangeMax: "44990"
 urlLink: "https://fantasycaravan.com.au/models/e-series-e4/"
-aussieMade: ""
+aussieMade: "Made Overseas"
+noImage: ""
 featured: ""
 ---

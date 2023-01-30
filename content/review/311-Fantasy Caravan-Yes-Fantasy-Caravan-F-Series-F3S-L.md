@@ -5,11 +5,11 @@ slug: "Fantasy-Caravan-F-Series-F3S-L"
 draft: "false"
 author: "Sean"
 seealsolinks: "1"
-section: "blog"
+section: "review"
 date: "2022-10-10T22:00:09+11:00"
 featImage: "jayco1.webp"
 categories: ["Fantasy Caravan"]
-tags: ["Yes"]
+tags: ["Sleeps 3", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "Under 50k"]
 totalLength: "5.64"
 bodyLength: ""
 totalHeight: "2.23"
@@ -34,6 +34,7 @@ price: "48990"
 priceRangeMin: "48990"
 priceRangeMax: "48990"
 urlLink: "https://fantasycaravan.com.au/f-series-f3s-l/"
-aussieMade: ""
+aussieMade: "Made Overseas"
+noImage: ""
 featured: ""
 ---

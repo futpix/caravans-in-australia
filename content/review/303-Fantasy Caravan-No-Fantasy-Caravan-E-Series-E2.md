@@ -5,11 +5,11 @@ slug: "Fantasy-Caravan-E-Series-E2"
 draft: "false"
 author: "Sean"
 seealsolinks: "1"
-section: "blog"
+section: "review"
 date: "2022-10-10T22:00:09+11:00"
 featImage: "jayco1.webp"
 categories: ["Fantasy Caravan"]
-tags: ["No"]
+tags: ["Sleeps 2", "Unknown Size", "On Road", "Combined shower & toilet", "Full height", "Under 50k"]
 totalLength: "4.465"
 bodyLength: ""
 totalHeight: "2.465"
@@ -34,6 +34,7 @@ price: "32990"
 priceRangeMin: "32990"
 priceRangeMax: "32990"
 urlLink: "https://fantasycaravan.com.au/models/e-series-e2/"
-aussieMade: ""
+aussieMade: "Made Overseas"
+noImage: ""
 featured: ""
 ---

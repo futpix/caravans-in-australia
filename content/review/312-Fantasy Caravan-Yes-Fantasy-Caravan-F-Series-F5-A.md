@@ -5,11 +5,11 @@ slug: "Fantasy-Caravan-F-Series-F5-A"
 draft: "false"
 author: "Sean"
 seealsolinks: "1"
-section: "blog"
+section: "review"
 date: "2022-10-10T22:00:09+11:00"
 featImage: "jayco1.webp"
 categories: ["Fantasy Caravan"]
-tags: ["Yes"]
+tags: ["Sleeps 2-4", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "50 - 60k"]
 totalLength: "6.2"
 bodyLength: ""
 totalHeight: "2.67"
@@ -34,6 +34,7 @@ price: "55990"
 priceRangeMin: "55990"
 priceRangeMax: "55990"
 urlLink: "https://fantasycaravan.com.au/models/f-series-f5-a/"
-aussieMade: ""
+aussieMade: "Made Overseas"
+noImage: ""
 featured: ""
 ---

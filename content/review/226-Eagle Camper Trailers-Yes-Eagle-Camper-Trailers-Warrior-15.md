@@ -5,17 +5,25 @@ slug: "Eagle-Camper-Trailers-Warrior-15"
 draft: "false"
 author: "Sean"
 seealsolinks: "1"
-section: "blog"
+section: "review"
 date: "2022-10-10T22:00:09+11:00"
 featImage: "jayco1.webp"
 categories: ["Eagle Camper Trailers"]
-tags: ["Yes"]
+tags:
+  [
+    "Sleeps 4",
+    "15 ft",
+    "Off Road",
+    "Combined shower & toilet",
+    "Pop top",
+    "50 - 60k",
+  ]
 totalLength: ""
 bodyLength: "4.57"
 totalHeight: "2.37"
 totalWidth: "2.25"
 tareWeight: "2340"
-atmWeight: "GTM: 2750kg"
+atmWeight: "2750"
 ballWeight: "180"
 sleeps: "4"
 bathroom: "Combined shower & toilet"
@@ -34,6 +42,7 @@ price: "57390"
 priceRangeMin: "57390"
 priceRangeMax: "57390"
 urlLink: "https://www.eaglecampertrailers.com.au/off-road-caravans/warrior-15-off-road-hybrid-caravan/#c12"
-aussieMade: ""
+aussieMade: "Made Overseas"
+noImage: ""
 featured: ""
 ---

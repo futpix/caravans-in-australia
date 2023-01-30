@@ -5,11 +5,11 @@ slug: "Altitude-Campers-Ascent-13"
 draft: "false"
 author: "Sean"
 seealsolinks: "1"
-section: "blog"
+section: "review"
 date: "2022-10-10T22:00:09+11:00"
 featImage: "jayco1.webp"
 categories: ["Altitude Campers"]
-tags: ["Yes"]
+tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "50 - 60k"]
 totalLength: "5.6"
 bodyLength: ""
 totalHeight: "2.32"
@@ -34,6 +34,7 @@ price: "53990"
 priceRangeMin: "53990"
 priceRangeMax: "53990"
 urlLink: "https://altitudecampers.com.au/ascent-13-camper-van/"
-aussieMade: ""
+aussieMade: "Made Overseas"
+noImage: ""
 featured: ""
 ---

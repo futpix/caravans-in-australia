@@ -5,11 +5,11 @@ slug: "Capstone-Caravans-H5"
 draft: "false"
 author: "Sean"
 seealsolinks: "1"
-section: "blog"
+section: "review"
 date: "2022-10-10T22:00:09+11:00"
 featImage: "jayco1.webp"
 categories: ["Capstone Caravans"]
-tags: ["Yes"]
+tags: ["Sleeps 2-4", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "50 - 60k"]
 totalLength: "6.5"
 bodyLength: ""
 totalHeight: "2.375"
@@ -34,6 +34,7 @@ price: "52500"
 priceRangeMin: "52500"
 priceRangeMax: "52500"
 urlLink: "https://capstonecaravans.com.au/hybrid-caravan-h5/"
-aussieMade: ""
+aussieMade: "Made Overseas"
+noImage: ""
 featured: ""
 ---

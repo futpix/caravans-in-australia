@@ -5,11 +5,11 @@ slug: "Eagle-Camper-Trailers-Wedgetail-13-Hybrid"
 draft: "false"
 author: "Sean"
 seealsolinks: "1"
-section: "blog"
+section: "review"
 date: "2022-10-10T22:00:09+11:00"
 featImage: "jayco1.webp"
 categories: ["Eagle Camper Trailers"]
-tags: ["Yes"]
+tags: ["Sleeps 2", "13 ft", "Off Road", "Combined shower & toilet", "Pop top", "50 - 60k"]
 totalLength: ""
 bodyLength: "3.96"
 totalHeight: ""
@@ -34,6 +34,7 @@ price: "57800"
 priceRangeMin: "57800"
 priceRangeMax: "57800"
 urlLink: "https://www.eaglecampertrailers.com.au/off-road-caravans/eagle-wedgetail-13-hybrid-caravan/"
-aussieMade: ""
+aussieMade: "Made Overseas"
+noImage: ""
 featured: ""
 ---

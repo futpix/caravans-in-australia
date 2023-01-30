@@ -5,11 +5,11 @@ slug: "Austrak-Campers-Tanami-X13-Hybrid-Offroad-Camper"
 draft: "false"
 author: "Sean"
 seealsolinks: "1"
-section: "blog"
+section: "review"
 date: "2022-10-10T22:00:09+11:00"
 featImage: "jayco1.webp"
 categories: ["Austrak Campers"]
-tags: ["Yes"]
+tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "50 - 60k"]
 totalLength: "6.05"
 bodyLength: ""
 totalHeight: "2.650 (incl air-con)"
@@ -34,6 +34,7 @@ price: "50990"
 priceRangeMin: "50990"
 priceRangeMax: "50990"
 urlLink: "https://www.austrackcampers.com.au/product/tanami-x-13-hybrid-offroad-camper/"
-aussieMade: ""
+aussieMade: "Made Overseas"
+noImage: ""
 featured: ""
 ---

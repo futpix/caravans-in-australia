@@ -5,11 +5,11 @@ slug: "Blue-Tongue-Campers-XH13"
 draft: "false"
 author: "Sean"
 seealsolinks: "1"
-section: "blog"
+section: "review"
 date: "2022-10-10T22:00:09+11:00"
 featImage: "jayco1.webp"
 categories: ["Blue Tongue Campers"]
-tags: ["Yes"]
+tags: ["Sleeps 4", "13 ft", "Off Road", "Combined shower & toilet", "Pop top", "Under 50k"]
 totalLength: "5.9"
 bodyLength: "3.99"
 totalHeight: "2.39"
@@ -34,6 +34,7 @@ price: "49990"
 priceRangeMin: "49990"
 priceRangeMax: "49990"
 urlLink: "https://bluetonguecampers.com.au/product/hybrid-caravan-xh13-2/"
-aussieMade: ""
+aussieMade: "Made Overseas"
+noImage: ""
 featured: ""
 ---

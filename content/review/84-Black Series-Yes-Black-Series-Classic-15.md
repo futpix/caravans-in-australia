@@ -5,11 +5,11 @@ slug: "Black-Series-Classic-15"
 draft: "false"
 author: "Sean"
 seealsolinks: "1"
-section: "blog"
+section: "review"
 date: "2022-10-10T22:00:09+11:00"
 featImage: "jayco1.webp"
 categories: ["Black Series"]
-tags: ["Yes"]
+tags: ["Sleeps 4", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "50 - 60k"]
 totalLength: "6.1"
 bodyLength: ""
 totalHeight: "2.5"
@@ -34,6 +34,7 @@ price: "56990"
 priceRangeMin: "56990"
 priceRangeMax: "56990"
 urlLink: "https://blackseriescampertrailers.com.au/hybrids/classic15.html"
-aussieMade: ""
+aussieMade: "Made Overseas"
+noImage: ""
 featured: ""
 ---

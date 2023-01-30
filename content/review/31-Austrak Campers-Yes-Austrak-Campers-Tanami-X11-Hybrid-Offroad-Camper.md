@@ -5,11 +5,11 @@ slug: "Austrak-Campers-Tanami-X11-Hybrid-Offroad-Camper"
 draft: "false"
 author: "Sean"
 seealsolinks: "1"
-section: "blog"
+section: "review"
 date: "2022-10-10T22:00:09+11:00"
 featImage: "jayco1.webp"
 categories: ["Austrak Campers"]
-tags: ["Yes"]
+tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "Under 50k"]
 totalLength: "5.2"
 bodyLength: ""
 totalHeight: "2.650 (incl air-con)"
@@ -34,6 +34,7 @@ price: "46990"
 priceRangeMin: "46990"
 priceRangeMax: "46990"
 urlLink: "https://www.austrackcampers.com.au/product/tanami-x11-hybrid-offroad-camper/"
-aussieMade: ""
+aussieMade: "Made Overseas"
+noImage: ""
 featured: ""
 ---

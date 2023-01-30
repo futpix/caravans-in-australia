@@ -5,11 +5,11 @@ slug: "EzyTrail-Campers-Winton-10"
 draft: "false"
 author: "Sean"
 seealsolinks: "1"
-section: "blog"
+section: "review"
 date: "2022-10-10T22:00:09+11:00"
 featImage: "jayco1.webp"
 categories: ["EzyTrail Campers"]
-tags: ["No"]
+tags: ["Sleeps 2", "Unknown Size", "On Road", "Combined shower & toilet", "Full height", "Under 50k"]
 totalLength: "4.45"
 bodyLength: ""
 totalHeight: "2.455"
@@ -34,6 +34,7 @@ price: "31990"
 priceRangeMin: "31990"
 priceRangeMax: "31990"
 urlLink: "https://www.ezytrailcampertrailers.com.au/product/winton-10/"
-aussieMade: ""
+aussieMade: "Made Overseas"
+noImage: ""
 featured: ""
 ---

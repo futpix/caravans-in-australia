@@ -19,19 +19,23 @@
  			<div class="articleContent">
  				<h2 class="articleHeader taxonomyHeader">{{ .Title }}</h2>
  				<hr />
-				<p>Currently we have {{ $postCount := len .Pages }}<Strong>{{ $postCount }}</Strong> results</a></p>
+				<p>Currently we have {{ $postCount := len .Pages }}<Strong>{{ $postCount }}</Strong> results (ordered by price)</a></p>
 			
 
 
-<div class="row">
-	{{ range .Paginator.Pages }}
-	{{ if eq .Section "review" }}
-	<div class="col-md-12">
-	{{- partial "listing-template-horiz.html" . -}}
-	</div>
-	{{ end }}
-	{{ end }}
-	</div>
+		
+
+
+{{- $sortedPages := .Pages.ByParam "price" }}
+{{ $paginator := .Paginate $sortedPages }}
+{{- range $index, $page := $paginator.Pages }}
+{{- partial "listing-template-horiz.html" . -}}
+{{end}}
+
+
+
+
+
 	{{- partial "pagination" . -}}
 	</div>
 	</div>
@@ -85,7 +89,7 @@
 			<div class="articleContent">
 				<h2 class="articleHeader taxonomyHeader">
 {{ if eq .Title "Categories"  }}
-{{ $theTitle := "Best Australian Beaches "}}
+{{ $theTitle := "Best Australian Caravans "}}
 {{ $theTitle }}
 {{ else }}
 {{ $theTitle := .Title }}
@@ -102,6 +106,9 @@ Best {{ $theTitle }} Caravans
 
 
 <div class="row">
+
+
+	
 {{ range .Paginator.Pages }}
 {{ if eq .Section "review" }}
 <div class="col-md-12">

@@ -5,11 +5,11 @@ slug: "Capstone-Caravans-H3"
 draft: "false"
 author: "Sean"
 seealsolinks: "1"
-section: "blog"
+section: "review"
 date: "2022-10-10T22:00:09+11:00"
 featImage: "jayco1.webp"
 categories: ["Capstone Caravans"]
-tags: ["Yes"]
+tags: ["Sleeps 2-4", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "Under 50k"]
 totalLength: "5.5"
 bodyLength: ""
 totalHeight: "2.375"
@@ -34,6 +34,7 @@ price: "46900"
 priceRangeMin: "46900"
 priceRangeMax: "46900"
 urlLink: "https://capstonecaravans.com.au/hybrid-caravan-h3/"
-aussieMade: ""
+aussieMade: "Made Overseas"
+noImage: ""
 featured: ""
 ---

@@ -5,20 +5,28 @@ slug: "Eagle-Camper-Trailers-Warrior-12-Bunk"
 draft: "false"
 author: "Sean"
 seealsolinks: "1"
-section: "blog"
+section: "review"
 date: "2022-10-10T22:00:09+11:00"
 featImage: "jayco1.webp"
 categories: ["Eagle Camper Trailers"]
-tags: ["Yes"]
+tags:
+  [
+    "Sleeps 4",
+    "12 ft",
+    "Off Road",
+    "No Bathroom or Toilet",
+    "Pop top",
+    "Under 50k",
+  ]
 totalLength: ""
 bodyLength: "3.66"
 totalHeight: "2.4"
 totalWidth: "2.05"
 tareWeight: "2020"
-atmWeight: "GTM: 2750kg"
+atmWeight: "2750"
 ballWeight: "180"
 sleeps: "4"
-bathroom: "No"
+bathroom: "No Bathroom or Toilet"
 internalBathroom: "No"
 mainBed: "Queen + bunks"
 bunks: "Yes"
@@ -34,6 +42,7 @@ price: "49800"
 priceRangeMin: "49800"
 priceRangeMax: "49800"
 urlLink: "https://www.eaglecampertrailers.com.au/off-road-caravans/warrior-off-road-bunk-bed-hybrid-caravan/"
-aussieMade: ""
+aussieMade: "Made Overseas"
+noImage: ""
 featured: ""
 ---

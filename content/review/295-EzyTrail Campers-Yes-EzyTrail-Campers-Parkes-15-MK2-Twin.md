@@ -5,11 +5,11 @@ slug: "EzyTrail-Campers-Parkes-15-MK2-Twin"
 draft: "false"
 author: "Sean"
 seealsolinks: "1"
-section: "blog"
+section: "review"
 date: "2022-10-10T22:00:09+11:00"
 featImage: "jayco1.webp"
 categories: ["EzyTrail Campers"]
-tags: ["Yes"]
+tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "50 - 60k"]
 totalLength: "6.49"
 bodyLength: ""
 totalHeight: "2.64"
@@ -34,6 +34,7 @@ price: "56990"
 priceRangeMin: "56990"
 priceRangeMax: "56990"
 urlLink: "https://www.ezytrailcampertrailers.com.au/product/parkes-15-mk2-twin/"
-aussieMade: ""
+aussieMade: "Made Overseas"
+noImage: ""
 featured: ""
 ---

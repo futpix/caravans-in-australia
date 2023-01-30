@@ -5,11 +5,11 @@ slug: "EzyTrail-Campers-Parkes-13-MK2"
 draft: "false"
 author: "Sean"
 seealsolinks: "1"
-section: "blog"
+section: "review"
 date: "2022-10-10T22:00:09+11:00"
 featImage: "jayco1.webp"
 categories: ["EzyTrail Campers"]
-tags: ["Yes"]
+tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "50 - 60k"]
 totalLength: "6.17"
 bodyLength: ""
 totalHeight: "2.46"
@@ -34,6 +34,7 @@ price: "52990"
 priceRangeMin: "52990"
 priceRangeMax: "52990"
 urlLink: "https://www.ezytrailcampertrailers.com.au/product/parkes-13-mk2/"
-aussieMade: ""
+aussieMade: "Made Overseas"
+noImage: ""
 featured: ""
 ---

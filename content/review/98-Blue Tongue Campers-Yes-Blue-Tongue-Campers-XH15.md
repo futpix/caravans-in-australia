@@ -5,11 +5,11 @@ slug: "Blue-Tongue-Campers-XH15"
 draft: "false"
 author: "Sean"
 seealsolinks: "1"
-section: "blog"
+section: "review"
 date: "2022-10-10T22:00:09+11:00"
 featImage: "jayco1.webp"
 categories: ["Blue Tongue Campers"]
-tags: ["Yes"]
+tags: ["Sleeps 4", "16 ft", "Off Road", "Combined shower & toilet", "Pop top", "50 - 60k"]
 totalLength: "6.45"
 bodyLength: "4.78"
 totalHeight: "2.365"
@@ -34,6 +34,7 @@ price: "52990"
 priceRangeMin: "52990"
 priceRangeMax: "52990"
 urlLink: "https://bluetonguecampers.com.au/product/hybrid-caravan-xh15/"
-aussieMade: ""
+aussieMade: "Made Overseas"
+noImage: ""
 featured: ""
 ---

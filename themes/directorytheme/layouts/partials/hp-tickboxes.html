@@ -9,16 +9,20 @@
   <div class="col-xs-12 col-lg-4">{{- partial "accord-nav" . -}}</div>
   <div class="col-xs-12 col-lg-8 offset-lg-0">
     <div class="articleContent mt-0">
-      <h3 class="articleHeader">Review 1,000+ Caravans</h3>
+      <h3 class="articleHeader">Research 1,000+ Caravans</h3>
       <hr />
 
       <p>
-        {{ $postCount := len .Site.Pages }}<strong>{{ $postCount }}</strong>
+        <strong
+          >{{ len (where .Site.RegularPages "Section" "==" "review") }}</strong
+        >
         results
       </p>
       <div class="row">
-        {{ range where .Site.RegularPages "Section" "review" | first 10 }} {{-
-        partial "listing-template-horiz.html" . -}} {{ end }}
+        {{- $sortedPages := .Site.Pages.ByParam "price" }} {{ $paginator :=
+        .Paginate $sortedPages }} {{- range $index, $page := $paginator.Pages }}
+        {{- partial "listing-template-horiz.html" . -}} {{end}} {{- partial
+        "pagination" . -}}
       </div>
     </div>
   </div>
