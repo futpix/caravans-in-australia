@@ -747,6 +747,9 @@ min-height: 6px;
 
 .listingBlock .shortIconStat strong {font-size: 80%; }
 
+.featuredBorder {border: 2px solid #17a2b8;}
+.featuredBorder 
+
 .listingBlock .shortIconStat {
 display: block;
 text-align: center;

@@ -7,7 +7,7 @@
  <div class="bg-ligh" style="background-color: #eee;">
  <div class="container">
 	<div class="row">
-		<div class="col-lg-4 order-lg-first">
+		<div class="col-md-4">
 			<div class="">
 				<h2 class="mt-5">{{ range .Params.categories | first 1 }}{{.}}{{end}} {{ .Title }}</h2>
 				<div class="mt-5">
@@ -23,26 +23,29 @@
 						{{else}}
 
 
-						Approx Price: <strong> ${{.Params.price }}
+						Approx Price: <strong> ${{.Params.price | lang.NumFmt 0 }}
 
 							{{end}}
 									
 						</strong>
 					</h5>
 
-							{{ range .Params.categories | first 1 }}<h6 class="mt-5 text-muted">More from: </h6><br />
+							{{ range .Params.categories | first 1 }}
 							<span class="badge badge-secondary text-white pl-4 pb-2 pt-2 pr-4 mb-4 mt-0" style="font-size: 100%; font-weight: normal;">   
 							<a href="/categories/{{ . | urlize }}/" class="text-white">{{ . }}</a> 
 							</span>
 							 {{ end }}
 							 <a href='{{ .Params.urlLink }}?referrer=caravansinaustralia-com-au' class="badge badge-brand pl-4 pb-2 pt-2 pr-4 mb-4 mt-0" target="_blank">Check Price</a>
-				
+							 <br /><br />
+							 <span class="mt-5 text-muted"><A href="#" onclick="history.back()">← Back to results</A></span><br /><br />
 					
 				</div>
 
 			</div>
 		</div>
-		<div class="col-lg-8 order-sm-first">
+		
+		<div class="col-md-8 order-first order-md-last">
+			<div class="row">
 			{{if eq .Params.noimage "r" }}
 <div class="">
 	<img src="/images/caravans/listPlace.jpg" class="img-fluid" height="1000" width="800" alt="Article Image" />
@@ -53,7 +56,7 @@
 </div>
 {{end}}
 		</div>
-	</div>
+	</div></div>
 
 </div></div>
 
@@ -64,7 +67,7 @@
 
 <div class="container">
  	<div class="row">
- 		<div class="col-lg-7 offset-1 pt-3">
+ 		<div class="col-lg-7 offset-lg-1 pt-3">
 
 			<div class="row">
 				
@@ -162,9 +165,25 @@
 
 
 	<tr>
-	<td>Air Con
-	<td><Strong>{{if eq .Params.airCon "" }}N/A{{else}}{{ .Params.airCon }}{{end}}
+	<td>Total Length
+	<td><Strong>{{if eq .Params.totalLength "" }}N/A{{else}}{{ .Params.totalLength }} metres{{end}}
 	</tr> 
+
+
+	<tr>
+		<td>Length of Body
+		<td><Strong>{{if eq .Params.bodyLength "" }}N/A{{else}}{{ .Params.bodyLength }} metres{{end}}
+		</tr> 
+
+		<tr>
+			<td>Air Con
+			<td><Strong>{{if eq .Params.airCon "" }}N/A{{else}}{{ .Params.airCon }}{{end}}
+			</tr> 
+
+			<tr>
+				<td>Made in
+				<td><Strong>{{if eq .Params.aussieMade "" }}N/A{{else}}{{ .Params.aussieMade }}{{end}}
+				</tr> 
 
 
 	<tr>

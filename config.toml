@@ -10,26 +10,12 @@ paginate =  10
     category = "categories"
 
 [menu]
-	[[menu.main]]
-		identifier = "Best-Caravans"
-		name = "Best Caravans"
-		url = "/best-caravans/"
-		weight = 2
+
 	[[menu.main]]
 		identifier = "Guide"
 		name = "2023 Caravan Guide"
 		url = "/ultimate-caravan-guide/"
 		weight = 5
-	[[menu.main]]
-		identifier = "Best-Caravan-Parks"
-		name = "Best Caravan Parks"
-		url = "/caravan-parks/"
-		weight = 4
-	[[menu.main]]
-		identifier = "Resources"
-		name = "Must Have Resources"
-		url = "/resources"
-		weight = 9
 	[[menu.main]]
 		identifier = "Blog"
 		name = "Blog"

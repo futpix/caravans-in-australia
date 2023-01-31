@@ -36,5 +36,5 @@ priceRangeMax: "56990"
 urlLink: "https://blackseriescampertrailers.com.au/hybrids/classic15.html"
 aussieMade: "Made Overseas"
 noImage: ""
-featured: ""
+featured: "no"
 ---

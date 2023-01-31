@@ -1,3 +1,6 @@
+
+
+
 <div class="listingBlock mb-4">
   <div class="row p-2">
     <div class="col-sm-12">
@@ -11,8 +14,11 @@
   <div class="row">
     <div class="">
       <a href="{{ .RelPermalink }}">
-        <img src="/images/caravans/{{ .Params.id }}.jpg" class="img-fluid"
-      /></a>
+        {{if eq .Params.noimage "r" }}
+        <img class="card-img" src="/images/caravans/listPlace.jpg" alt="{{ .Title }} Picture">
+        {{else}}
+        <img class="card-img" src="/images/caravans/{{ .Params.id }}.jpg" alt="{{ .Title }} Picture">
+        {{end}}
            <div class="card-body">
                         <p class="card-text">{{ range .Params.tags }}<span class="badge badge-small text-dark badge-light" href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">- {{ title (replace . "-" " " | strings.FirstUpper)  }}</a></span>{{end}}</p>
                     </div>

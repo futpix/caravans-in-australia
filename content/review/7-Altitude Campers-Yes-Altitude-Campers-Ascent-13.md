@@ -36,5 +36,5 @@ priceRangeMax: "53990"
 urlLink: "https://altitudecampers.com.au/ascent-13-camper-van/"
 aussieMade: "Made Overseas"
 noImage: ""
-featured: ""
+featured: "no"
 ---

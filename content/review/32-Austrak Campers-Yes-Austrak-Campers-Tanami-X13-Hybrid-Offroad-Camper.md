@@ -36,5 +36,5 @@ priceRangeMax: "50990"
 urlLink: "https://www.austrackcampers.com.au/product/tanami-x-13-hybrid-offroad-camper/"
 aussieMade: "Made Overseas"
 noImage: ""
-featured: ""
+featured: "no"
 ---

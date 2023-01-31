@@ -16,12 +16,13 @@
 
 </div>
  		<div class="col-lg-8">
- 			<div class="articleContent">
- 				<h2 class="articleHeader taxonomyHeader">{{ .Title }}</h2>
- 				<hr />
-				<p>Currently we have {{ $postCount := len .Pages }}<Strong>{{ $postCount }}</Strong> results (ordered by price)</a></p>
-			
+ 			<div class="articleContent mt-5">
 
+				<h5 class="articleHeader">{{ .Title }} - listing <Strong>{{ $postCount := len .Pages }}{{ $postCount }}+</Strong> Caravans</h3>
+					<hr />
+
+
+ 			
 
 		
 
@@ -38,7 +39,7 @@
 
 	{{- partial "pagination" . -}}
 	</div>
-	</div>
+</div>
 
 	{{ end }}
 
@@ -87,23 +88,10 @@
 </div>
 		<div class="col-lg-8">
 			<div class="articleContent">
-				<h2 class="articleHeader taxonomyHeader">
-{{ if eq .Title "Categories"  }}
-{{ $theTitle := "Best Australian Caravans "}}
-{{ $theTitle }}
-{{ else }}
-{{ $theTitle := .Title }}
-Best {{ $theTitle }} Caravans
-{{ end }}	
-				</h2>
+				<div class="articleContent mt-5">
 
-
-
-				<hr />
-					{{ $postCount := len .Pages }}
-						<p><Strong>{{ $postCount }}</Strong> results</p>		
-
-
+					<h5 class="articleHeader">{{ .Title }} - listing <Strong>{{ $postCount := len .Pages }}{{ $postCount }}+</Strong> Caravans</h3>
+						<hr />
 
 <div class="row">
 
@@ -127,5 +115,5 @@ Best {{ $theTitle }} Caravans
 {{ end }}
 
 
-</div></div>
+</div></div></div>
 {{ end }}

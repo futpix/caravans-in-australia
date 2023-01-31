@@ -36,5 +36,5 @@ priceRangeMax: "52990"
 urlLink: "https://bluetonguecampers.com.au/product/hybrid-caravan-xh15/"
 aussieMade: "Made Overseas"
 noImage: ""
-featured: ""
+featured: "no"
 ---

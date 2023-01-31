@@ -36,5 +36,5 @@ priceRangeMax: "49990"
 urlLink: "https://bluetonguecampers.com.au/product/hybrid-caravan-xh13-2/"
 aussieMade: "Made Overseas"
 noImage: ""
-featured: ""
+featured: "no"
 ---

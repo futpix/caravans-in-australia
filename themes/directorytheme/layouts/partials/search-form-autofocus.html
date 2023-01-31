@@ -7,12 +7,12 @@
             <form id="search"
         action='{{ with .GetPage "/search" }}{{.Permalink}}{{end}}' method="get">
         <input type="text" id="search-input" name="query"
-        placeholder="Search Carvan Brand / Model / Park Location..." class="form-control bg-light mb-2" style="border: 0px; color: #333;" autofocus>
+        placeholder="Search Brand / Model " class="form-control bg-light mb-2" style="border: 0px; color: #333;" autofocus>
          
           </div>
 
         <div class="col-2 text-center">
-            <input type="submit" value="Show Review" class="btn btn-info btn-lg" id="showRatingBtn" style="">
+            <input type="submit" value="Search" class="btn btn-info btn-lg" id="showRatingBtn" style="">
              </div>  
         </form>
             

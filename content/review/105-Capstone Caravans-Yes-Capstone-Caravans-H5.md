@@ -36,5 +36,5 @@ priceRangeMax: "52500"
 urlLink: "https://capstonecaravans.com.au/hybrid-caravan-h5/"
 aussieMade: "Made Overseas"
 noImage: ""
-featured: ""
+featured: "no"
 ---

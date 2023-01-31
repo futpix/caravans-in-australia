@@ -36,5 +36,5 @@ priceRangeMax: "46900"
 urlLink: "https://capstonecaravans.com.au/hybrid-caravan-h3/"
 aussieMade: "Made Overseas"
 noImage: ""
-featured: ""
+featured: "no"
 ---

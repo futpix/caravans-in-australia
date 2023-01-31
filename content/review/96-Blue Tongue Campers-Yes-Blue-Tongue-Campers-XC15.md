@@ -36,5 +36,5 @@ priceRangeMax: "41990"
 urlLink: "https://bluetonguecampers.com.au/product/hybrid-caravan-xc15/"
 aussieMade: "Made Overseas"
 noImage: ""
-featured: ""
+featured: "no"
 ---

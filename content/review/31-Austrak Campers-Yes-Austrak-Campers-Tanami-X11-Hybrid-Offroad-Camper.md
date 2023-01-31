@@ -36,5 +36,5 @@ priceRangeMax: "46990"
 urlLink: "https://www.austrackcampers.com.au/product/tanami-x11-hybrid-offroad-camper/"
 aussieMade: "Made Overseas"
 noImage: ""
-featured: ""
+featured: "no"
 ---
