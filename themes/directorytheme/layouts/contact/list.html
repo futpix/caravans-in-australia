@@ -1,0 +1,145 @@
+{{ define "main" }} {{- partial "navCategories.html" . -}} {{- partial
+"navFilter.html" . -}}
+
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
+<div class="bg-light pt-5 pb-5">
+  <div class="container">
+    <div class="contactForm">
+      <div class="row">
+        <div class="col-sm-12">
+          <div class="bg-light pt-3 pb-2">
+            <form
+              action="https://submit-form.com/{{ .Site.Params.contactFormKey }}"
+              method="POST"
+              id="contact-form"
+            >
+              <input
+                type="hidden"
+                name="_redirect"
+                value="{{ .Site.BaseURL }}/contact/confirmation"
+              />
+
+              <h2 class="text-center mb-5">Tell us what to do!</h2>
+              <hr />
+              <section class="ftco-section pt-4">
+                <div class="container">
+                  <div class="row justify-content-center">
+                    <div class="offset-md-3 col-md-6">
+                      <div class="wrap w-100">
+                        <input
+                          type="checkbox"
+                          id="checkboxNine"
+                          value="SEO tips for my Website"
+                          name="Services[9]"
+                        />
+                        <label for="checkboxNine">Add New Listing</label>
+                        <br />
+                        <input
+                          type="checkbox"
+                          id="checkboxTen"
+                          value="Increase website Traffic"
+                          name="Services[10]"
+                        />
+                        <label for="checkboxTen">Update Existing Listing</label>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </section>
+              <hr class="m-5" />
+              <div class="pl-3 pr-3 pt-4 m-3">
+                <div class="row">
+                  <div class="col-sm-6">
+                    <div class="mb-3">
+                      <label for="name" class="form-label fs-5">Name *</label>
+                      <input
+                        type="text"
+                        name="name"
+                        class="form-control"
+                        required
+                      />
+                    </div>
+                  </div>
+                  <div class="col-sm-6">
+                    <div class="mb-3">
+                      <label for="email" class="form-label fs-5">Email *</label>
+                      <input
+                        type="email"
+                        name="email"
+                        class="form-control"
+                        id="email"
+                        aria-describedby="emailHelp"
+                        required
+                      />
+                    </div>
+                  </div>
+                </div>
+
+                <div class="mb-4 mt-3">
+                  <label for="message" class="form-label"
+                    >Further details (ie. website url, link to image,
+                    specifications, price)</label
+                  >
+                  <textarea
+                    type="text"
+                    name="message"
+                    class="form-control"
+                    style="min-height: 100px"
+                  ></textarea>
+                </div>
+              </div>
+
+              <hr class="m-5" />
+
+              <div
+                class="text-center img-fluid w-100 d-block pb-4"
+                id="recaptcha-section"
+              >
+                <div
+                  align="center"
+                  class="g-recaptcha"
+                  data-sitekey="{{ .Site.Params.recaptchaSiteKey }}"
+                  data-callback="verifyCaptcha"
+                ></div>
+                <small id="recaptcha-error"
+                  >You must check the above box correctly.</small
+                >
+              </div>
+
+              <div class="mb-5 mt-3 text-center">
+                <button
+                  type="submit"
+                  class="btn btn-danger btn-lg pt-3 pl-4 pr-4 pb-3 fs-5"
+                >
+                  Let's go!
+                </button>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+  document
+    .getElementById("contact-form")
+    .addEventListener("submit", function (e) {
+      const response = grecaptcha.getResponse();
+
+      if (response.length == 0) {
+        document.getElementById("recaptcha-section").classList.add("error");
+        e.preventDefault();
+        return false;
+      }
+    });
+
+  function verifyCaptcha(token) {
+    if (token.length != 0) {
+      document.getElementById("recaptcha-section").classList.remove("error");
+    }
+  }
+</script>
+{{ end }}

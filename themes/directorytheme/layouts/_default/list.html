@@ -3,75 +3,46 @@
 
  {{- partial "navFilter.html" . -}}
 
+
  {{ if eq .Section "tags" }}
 
+ 
  <div class="clearfix"></div>
  <div class="container mb-5">
- 	<div class="row">
+	 <div class="row">
 		<div class="col-lg-4" style="margin-top: 15px;">
 	
 			{{- partial "accord-nav" . -}}
 		
 			
-
-</div>
- 		<div class="col-lg-8">
- 			<div class="articleContent mt-5">
-
+ 
+ </div>
+		 <div class="col-lg-8">
+			 <div class="articleContent mt-5">
+ 
 				<h5 class="articleHeader">{{ .Title }} - listing <Strong>{{ $postCount := len .Pages }}{{ $postCount }}+</Strong> Caravans</h3>
 					<hr />
-
-
- 			
-
+ 
+ 
+			 
+ 
 		
-
-
-{{- $sortedPages := .Pages.ByParam "price" }}
-{{ $paginator := .Paginate $sortedPages }}
-{{- range $index, $page := $paginator.Pages }}
-{{- partial "listing-template-horiz.html" . -}}
-{{end}}
-
-
-
-
-
+ 
+ 
+ {{- $sortedPages := .Pages.ByParam "price" }}
+ {{ $paginator := .Paginate $sortedPages }}
+ {{- range $index, $page := $paginator.Pages }}
+ {{- partial "listing-template-horiz.html" . -}}
+ {{end}}
+ 
+ 
+ 
+ 
+ 
 	{{- partial "pagination" . -}}
 	</div>
-</div>
-
-	{{ end }}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ </div>
+ {{end}}
 
 
 {{ if eq .Section "categories" }}

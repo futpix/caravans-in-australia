@@ -1,8 +1,41 @@
-{{- partial "head.html" . -}} {{- partial "nav.html" . -}} {{- partial
-"navProduct.html" . -}} {{ $baseurl := .Site.BaseURL }}
-<h1>Sleeps {{ .Title }}</h1>
-{{ .Content }} {{ $plural := .Data.Plural }} {{ range $key, $value :=
-.Data.Terms }}
-<a href="{{ $baseurl }}/{{ $plural }}/{{ $key }}">{{ $key }}</a>
-{{- partial "pagination" . -}} {{ end }} {{- partial "footerBottom.html" . -}}
-{{- partial "footer.html" . -}}
+{{ define "main" }}
+
+
+
+
+<div class="clearfix"></div>
+<div class="container mb-5">
+    <div class="row">
+       <div class="col-lg-4" style="margin-top: 15px;">
+   
+           {{- partial "accord-nav" . -}}
+       
+           
+
+</div>
+        <div class="col-lg-8">
+            <div class="articleContent mt-5">
+
+               <h5 class="articleHeader">{{ .Title }} - listing <Strong>{{ $postCount := len .Pages }}{{ $postCount }}+</Strong> Caravans</h3>
+                   <hr />
+
+
+            
+
+       
+
+
+{{- $sortedPages := .Pages.ByParam "price" }}
+{{ $paginator := .Paginate $sortedPages }}
+{{- range $index, $page := $paginator.Pages }}
+{{- partial "listing-template-horiz.html" . -}}
+{{end}}
+
+
+
+
+
+   {{- partial "pagination" . -}}
+   </div>
+</div>
+{{end}}

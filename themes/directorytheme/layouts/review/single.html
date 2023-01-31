@@ -2,6 +2,9 @@
  {{- partial "navCategories.html" . -}}
  {{- partial "navFilter.html" . -}}
 
+
+
+
  <div class="clearfix"></div>
 
  <div class="bg-ligh" style="background-color: #eee;">
@@ -52,6 +55,9 @@
 </div>
 {{else}}
 <div class="">
+
+	
+
 	<img src="/images/caravans/{{ .Params.id }}.jpg" class="img-fluid" height="1000" width="800" alt="Article Image" />
 </div>
 {{end}}
@@ -131,6 +137,36 @@
 		</tr>
 	<tr>
 	<tr>
+	
+			<td>Type
+			<td><Strong>
+				{{if eq .Params.vanType "" }}N/A{{else}}{{ .Params.vanType }}{{end}}
+			</tr>
+	
+			<tr>
+
+
+				<td>Approx size
+					<td><Strong>
+						{{if eq .Params.footTag "" }}N/A{{else}}{{ .Params.footTag }}{{end}}
+					</tr>
+			
+					<tr>
+
+
+						<td>Roofing
+							<td><Strong>
+								{{if eq .Params.roofType "" }}N/A{{else}}{{ .Params.roofType }}{{end}}
+							</tr>
+					
+							<tr>				
+		
+				<td>Made in
+				<td><Strong>{{if eq .Params.aussieMade "" }}N/A{{else}}{{ .Params.aussieMade }}{{end}}
+				</tr> 
+
+
+		<tr>
 		<td>Sleeping
 		<td><Strong>
 			{{if eq .Params.sleeps "" }}N/A{{else}}{{ .Params.sleeps }} people{{end}}
@@ -163,6 +199,13 @@
 	<td><Strong>{{if eq .Params.solar "" }}N/A{{else}}{{ .Params.solar }}{{end}}
 	</tr>
 
+	<tr>
+		<td>Air Con
+		<td><Strong>{{if eq .Params.airCon "" }}N/A{{else}}{{ .Params.airCon }}{{end}}
+		</tr> 
+
+		<tr>
+
 
 	<tr>
 	<td>Total Length
@@ -174,40 +217,34 @@
 		<td>Length of Body
 		<td><Strong>{{if eq .Params.bodyLength "" }}N/A{{else}}{{ .Params.bodyLength }} metres{{end}}
 		</tr> 
-
-		<tr>
-			<td>Air Con
-			<td><Strong>{{if eq .Params.airCon "" }}N/A{{else}}{{ .Params.airCon }}{{end}}
-			</tr> 
-
-			<tr>
-				<td>Made in
-				<td><Strong>{{if eq .Params.aussieMade "" }}N/A{{else}}{{ .Params.aussieMade }}{{end}}
-				</tr> 
-
+	
 
 	<tr>
 	<td>Tare Weight
-	<td><Strong>{{if eq .Params.tareWeight "" }}N/A{{else}}{{ .Params.tareWeight }}{{end}}kgs
+	<td><Strong>{{if eq .Params.tareWeight "" }}N/A{{else}}{{ .Params.tareWeight }}{{end}} 	kgs
 	</tr>
 
 
 	<tr>
 	<td>ATM Weight
-	<td><Strong>{{if eq .Params.atmWeight "" }}N/A{{else}}{{ .Params.atmWeight }}{{end}}kgs
+	<td><Strong>{{if eq .Params.atmWeight "" }}N/A{{else}}{{ .Params.atmWeight }}{{end}} kgs
 	</tr>
 
 
 </table>
 </div>
 
-{{if eq .Params.tareWeight "" | eq .Params.atmWeight "" }}
+{{if (eq .Params.tareWeight "") | or (eq .Params.atmWeight "") }}
 
 
 {{ else }}
 
 {{ $scoreSpinup :=  int .Params.tareWeight }}
 {{ $atmWeight := int .Params.atmWeight }}
+
+
+
+
 {{ $thePercentage := div (mul $scoreSpinup 100.0) $atmWeight }}
 {{ $scoreGauge := mul (div $thePercentage 100) 180.0 }}
 <div class="d-none">
@@ -218,7 +255,7 @@
 </div>
 <div>
 <h4 class="mt-5 text-center">Weight<h4>
-<h6 class="text-center">Tare Usage vs Total Capacity ATM ({{ .Params.atmWeight }}kgs)</h6>
+<h6 class="text-center">Tare Usage vs Total Capacity ATM ({{ .Params.atmWeight }} kgs)</h6>
 
 <div class="row  mt-5">
 	<div class="col-md-3"></div>

@@ -1,17 +1,16 @@
 products:
+  - Title: "Haloview MC7108 Wireless RV Backup Camera"
+    dateAdded: 2022-06-01
+    productLink: "https://amzn.to/3HIdJaV"
 
-- Title: "Haloview MC7108 Wireless RV Backup Camera"
-  featImage: "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07GKXPKRS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=recommend0085-20&language=en_US"
-  dateAdded: 2022-06-01
-  productLink: "https://amzn.to/3hMGRDg"
+  - Title: "Jackery Portable Power Station (select the Aussie 240V AC input)"
+    dateAdded: 2022-06-01
+    productLink: "https://amzn.to/3HIdJaV"
 
-- Title: "Jackery Portable Power Station (select the Aussie 240V AC input)"
-  featImage: "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07D29QNMJ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=recommend0085-20&language=en_US"
-  dateAdded: 2022-06-01
-  productLink: "https://amzn.to/3EzKUM9"
+  - Title: "Sirocco II Fan - SEEKR by Caframo, Omni-Directional"
+    dateAdded: 2022-06-01
+    productLink: "https://amzn.to/3HIdJaV"
 
-- Title: "Sirocco II Fan - SEEKR by Caframo, Omni-Directional"
-  featImage: "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01LDY4X36&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=recommend0085-20&language=en_US"
-  dateAdded: 2022-06-01
-  productLink: "https://amzn.to/3Xgqj6V"
-
+  - Title: "Sirocco II Fan - SEEKR by Caframo, Omni-Directional"
+    dateAdded: 2022-06-01
+    productLink: "https://amzn.to/3HIdJaV"

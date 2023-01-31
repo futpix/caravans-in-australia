@@ -1,8 +1,34 @@
 <!DOCTYPE html>
 <html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
 <head>
- <meta charset="utf-8">
- <title>{{ .Title }} - {{ .Site.Title }}</title>
+  <meta charset="utf-8" />
+  {{ $description := .Params.meta.description | default "Caravans in Australia is an independant Guide that helps people research and decide on which caravan to purchase." }}
+  {{ $title := .Params.meta.title | default .Title }}
+
+
+
+  {{ if eq .Section "categories" }}
+
+  <title>Best Caravans by {{ $title  }} | Caravans in Australia</title>
+
+  {{ else if eq .Section "tags" }}
+
+  <title>What are the best {{ $title  }} Caravans in Australia?</title>
+
+
+  {{ else }}
+
+  <title>{{ $title  }}</title>
+  {{ end }}
+
+  <meta name="description" content="{{ $description }}" />
+  <meta property="og:title" content="{{ .Params.meta.ogtitle | default $title }}" />
+  <meta property="og:description" content="{{ .Params.meta.ogdescription | default $description }}" />
+ 
+
+
+
+
 
  <meta name="author" content="">
  <meta name="viewport" content="width=device-width, initial-scale=1.0">

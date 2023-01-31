@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Best Caravans In Australia"
 theme = "directorytheme"
 publishdir = "public"
-paginate =  10
+paginate =  400
 
 [taxonomies]
     tag = "tags"
@@ -31,7 +31,11 @@ paginate =  10
   name = "categories"
   weight = 100
 
+baseurl = "https://futurepixel.com.au"
+
 [params]
+  recaptchaSiteKey = "6LebmD0kAAAAAEcaeag_UVjEAgyxDctfEiGwJzCM"
+	contactFormKey = "iYyxNbRl"
   copyrighthtml = "* NOTE: This website not affiliated with Caravans Australia or any governing body."
   tagslimit = 10
   GAnalytics = "UA-XXXXXXXX-XX"
