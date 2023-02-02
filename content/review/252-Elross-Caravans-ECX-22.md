@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy ECX-22 by Elross Caravans?"
   ogdescription: "The Elross Caravans ECX-22 is classed as Off Road, and sleeps 2 people. It is Australian made and comes in at 22 ft. It generally has Separate shower & toilet."
 categories: ["Elross Caravans"]
-tags: ["Sleeps 2", "22 ft", "Off Road", "Separate shower & toilet", "Full height", "Over 100k"]
+tags: ["Sleeps 2", "22 ft", "Off Road", "Separate shower & toilet", "Full height", "Over 100k", "Australian made"]
 totalLength: "9.115"
 bodyLength: "6.7"
 totalHeight: "3.1"

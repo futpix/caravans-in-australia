@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy ECX-16.5RE by Elross Caravans?"
   ogdescription: "The Elross Caravans ECX-16.5RE is classed as Off Road, and sleeps 2 people. It is Australian made and comes in at 16 ft. It generally has Separate shower & toilet."
 categories: ["Elross Caravans"]
-tags: ["Sleeps 2", "16 ft", "Off Road", "Separate shower & toilet", "Full height", "Over 100k"]
+tags: ["Sleeps 2", "16 ft", "Off Road", "Separate shower & toilet", "Full height", "Over 100k", "Australian made"]
 totalLength: "7.445"
 bodyLength: "5.03"
 totalHeight: "3.1"

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy 560 Francis by Avan?"
   ogdescription: "The Avan 560 Francis is classed as Unknown Type, and sleeps 2 people. It is Made Overseas and comes in at 18 ft. It generally has Separate shower & toilet."
 categories: ["Avan"]
-tags: ["Sleeps 2", "18 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "18 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Made Overseas"]
 totalLength: "6.87"
 bodyLength: "5.4"
 totalHeight: "2.69"

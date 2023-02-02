@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Journey Pop Top 12.38 Touring by Jayco?"
   ogdescription: "The Jayco Journey Pop Top 12.38 Touring is classed as On Road, and sleeps 2-3 people. It is Australian made and comes in at 13 ft. It generally has No Bathroom or Toilet."
 categories: ["Jayco"]
-tags: ["Sleeps 2-3", "13 ft", "On Road", "No Bathroom or Toilet", "Pop top", "Under 50k"]
+tags: ["Sleeps 2-3", "13 ft", "On Road", "No Bathroom or Toilet", "Pop top", "Under 50k", "Australian made"]
 totalLength: "5.06"
 bodyLength: "3.83"
 totalHeight: "2.36"
@@ -42,5 +42,5 @@ priceRangeMax: "33990"
 urlLink: "https://www.jayco.com.au/range/pop-tops/journey-pop-top/floor-plans/touring/journey-1238-1jy-my22"
 aussieMade: "Australian made"
 noImage: "r"
-featured: "feat"
+featured: "no"
 ---

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Infinity 13 by Jawa Campers?"
   ogdescription: "The Jawa Campers Infinity 13 is classed as Off Road, and sleeps 3 people. It is Made Overseas and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["Jawa Campers"]
-tags: ["Sleeps 3", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "50 - 60k"]
+tags: ["Sleeps 3", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "50 - 60k", "Made Overseas"]
 totalLength: "6.2"
 bodyLength: ""
 totalHeight: "2.63"

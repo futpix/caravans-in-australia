@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Transformer 24'3 by Lotus Caravans?"
   ogdescription: "The Lotus Caravans Transformer 24'3 is classed as Unknown Type, and sleeps 4-5 people. It is Australian made and comes in at 24 ft. It generally has Separate shower & toilet."
 categories: ["Lotus Caravans"]
-tags: ["Sleeps 4-5", "24 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4-5", "24 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "9.954"
 bodyLength: "7.466"
 totalHeight: "3.16"

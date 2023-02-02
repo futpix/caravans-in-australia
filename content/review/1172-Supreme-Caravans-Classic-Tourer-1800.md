@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Classic Tourer 1800 by Supreme Caravans?"
   ogdescription: "The Supreme Caravans Classic Tourer 1800 is classed as Semi Off Road, and sleeps 4-5 people. It is Australian made and comes in at 18 ft. It generally has Separate shower & toilet."
 categories: ["Supreme Caravans"]
-tags: ["Sleeps 4-5", "18 ft", "Semi Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4-5", "18 ft", "Semi Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "5.49"
 totalHeight: ""

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy UEV-25 by Conqueror Australia?"
   ogdescription: "The Conqueror Australia UEV-25 is classed as Off Road, and sleeps 4 people. It is Australian made and comes in at Unknown Size. It generally has No Bathroom or Toilet."
 categories: ["Conqueror Australia"]
-tags: ["Sleeps 4", "Unknown Size", "Off Road", "No Bathroom or Toilet", "Pop up", "Price Unknown"]
+tags: ["Sleeps 4", "Unknown Size", "Off Road", "No Bathroom or Toilet", "Pop up", "Price Unknown", "Australian made"]
 totalLength: "7.29"
 bodyLength: ""
 totalHeight: "2.38"

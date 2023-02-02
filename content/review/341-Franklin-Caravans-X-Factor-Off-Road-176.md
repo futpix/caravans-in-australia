@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy X Factor Off Road 176 by Franklin Caravans?"
   ogdescription: "The Franklin Caravans X Factor Off Road 176 is classed as Off Road, and sleeps 2 people. It is Australian made and comes in at 18 ft. It generally has Separate shower & toilet."
 categories: ["Franklin Caravans"]
-tags: ["Sleeps 2", "18 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "18 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "7.69"
 bodyLength: "5.47"
 totalHeight: "3.04"

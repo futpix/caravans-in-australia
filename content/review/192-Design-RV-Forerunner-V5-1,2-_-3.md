@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Forerunner V5-1,2 & 3 by Design RV?"
   ogdescription: "The Design RV Forerunner V5-1,2 & 3 is classed as Unknown Type, and sleeps 2-3 people. It is Australian made and comes in at 21 ft. It generally has Separate shower & toilet."
 categories: ["Design RV"]
-tags: ["Sleeps 2-3", "21 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2-3", "21 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "7.98"
 bodyLength: "6.25"
 totalHeight: "2.95"
@@ -41,6 +41,6 @@ priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "https://designrv.com.au/caravan/forerunner/"
 aussieMade: "Australian made"
-noImage: ""
+noImage: "r"
 featured: "no"
 ---

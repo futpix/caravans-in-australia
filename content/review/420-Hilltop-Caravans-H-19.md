@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy H-19 by Hilltop Caravans?"
   ogdescription: "The Hilltop Caravans H-19 is classed as Off Road, and sleeps 2 people. It is Australian made and comes in at Unknown Size. It generally has Separate shower & toilet."
 categories: ["Hilltop Caravans"]
-tags: ["Sleeps 2", "Unknown Size", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "Unknown Size", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: ""
 totalHeight: ""

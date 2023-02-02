@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy 490 Ray by Avan?"
   ogdescription: "The Avan 490 Ray is classed as Unknown Type, and sleeps 4 people. It is Made Overseas and comes in at 16 ft. It generally has No Bathroom or Toilet."
 categories: ["Avan"]
-tags: ["Sleeps 4", "16 ft", "Unknown Type", "No Bathroom or Toilet", "Pop top", "Price Unknown"]
+tags: ["Sleeps 4", "16 ft", "Unknown Type", "No Bathroom or Toilet", "Pop top", "Price Unknown", "Made Overseas"]
 totalLength: "5.98"
 bodyLength: "4.98"
 totalHeight: "2.265"

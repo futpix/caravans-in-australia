@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Maxxi 390 PT by Golf Caravans?"
   ogdescription: "The Golf Caravans Maxxi 390 PT is classed as On Road, and sleeps 4 people. It is Australian made and comes in at 13 ft. It generally has Separate shower & toilet."
 categories: ["Golf Caravans"]
-tags: ["Sleeps 4", "13 ft", "On Road", "Separate shower & toilet", "Pop top", "Price Unknown"]
+tags: ["Sleeps 4", "13 ft", "On Road", "Separate shower & toilet", "Pop top", "Price Unknown", "Australian made"]
 totalLength: "5.67"
 bodyLength: "3.9"
 totalHeight: "2.65"

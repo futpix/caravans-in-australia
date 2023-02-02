@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Oasis Tourer Club 21 by iDeal RV?"
   ogdescription: "The iDeal RV Oasis Tourer Club 21 is classed as Unknown Type, and sleeps 2 people. It is Australian made and comes in at 21 ft. It generally has Separate shower & toilet."
 categories: ["iDeal RV"]
-tags: ["Sleeps 2", "21 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "21 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "6.4"
 totalHeight: ""

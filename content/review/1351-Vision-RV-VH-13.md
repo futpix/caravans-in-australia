@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy VH-13 by Vision RV?"
   ogdescription: "The Vision RV VH-13 is classed as Off Road, and sleeps 2 people. It is Australian made and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["Vision RV"]
-tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "Price Unknown"]
+tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "Price Unknown", "Australian made"]
 totalLength: "6.4"
 bodyLength: ""
 totalHeight: ""
@@ -42,6 +42,6 @@ priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "https://visionrv.com.au/our-range/vh-hybrid-series/"
 aussieMade: "Australian made"
-noImage: ""
+noImage: "r"
 featured: "no"
 ---

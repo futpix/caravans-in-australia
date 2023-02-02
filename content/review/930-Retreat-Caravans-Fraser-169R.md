@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Fraser 169R by Retreat Caravans?"
   ogdescription: "The Retreat Caravans Fraser 169R is classed as Off Road, and sleeps 2 people. It is Made Overseas and comes in at Unknown Size. It generally has Separate shower & toilet."
 categories: ["Retreat Caravans"]
-tags: ["Sleeps 2", "Unknown Size", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "Unknown Size", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Made Overseas"]
 totalLength: ""
 bodyLength: ""
 totalHeight: ""
@@ -41,6 +41,6 @@ priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "https://www.retreatcaravans.com.au/product/fraser/"
 aussieMade: "Made Overseas"
-noImage: ""
+noImage: "r"
 featured: "no"
 ---

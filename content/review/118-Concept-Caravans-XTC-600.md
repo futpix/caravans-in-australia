@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy XTC 600 by Concept Caravans?"
   ogdescription: "The Concept Caravans XTC 600 is classed as Semi Off Road, and sleeps 2 people. It is Australian made and comes in at 20 ft. It generally has Separate shower & toilet."
 categories: ["Concept Caravans"]
-tags: ["Sleeps 2", "20 ft", "Semi Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "20 ft", "Semi Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "8.39"
 bodyLength: "6.17"
 totalHeight: "3"

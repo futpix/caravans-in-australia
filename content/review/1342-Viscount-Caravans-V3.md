@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy V3 by Viscount Caravans?"
   ogdescription: "The Viscount Caravans V3 is classed as On Road, and sleeps 2 people. It is Australian made and comes in at 21 ft. It generally has Separate shower & toilet."
 categories: ["Viscount Caravans"]
-tags: ["Sleeps 2", "21 ft", "On Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "21 ft", "On Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "8.29"
 bodyLength: "6.44"
 totalHeight: "3.02"

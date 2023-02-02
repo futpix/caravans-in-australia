@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Thrill Seeker 19'6 Family by Coromal?"
   ogdescription: "The Coromal Thrill Seeker 19'6 Family is classed as Semi Off Road, and sleeps 4-5 people. It is Australian made and comes in at 19 ft. It generally has Separate shower & toilet."
 categories: ["Coromal"]
-tags: ["Sleeps 4-5", "19 ft", "Semi Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4-5", "19 ft", "Semi Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "5.94"
 totalHeight: ""
@@ -41,6 +41,6 @@ priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "https://www.coromal.com.au/The-Seeker-Series/Thrill-Seeker#19-6-family-171"
 aussieMade: "Australian made"
-noImage: ""
+noImage: "r"
 featured: "no"
 ---

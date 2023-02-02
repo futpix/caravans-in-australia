@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy AUSRV XL15-4E MKII by Market Direct Campers (MDC)?"
   ogdescription: "The Market Direct Campers (MDC) AUSRV XL15-4E MKII is classed as Off Road, and sleeps 4 people. It is Made Overseas and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["Market Direct Campers (MDC)"]
-tags: ["Sleeps 4", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "70 - 80k"]
+tags: ["Sleeps 4", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "70 - 80k", "Made Overseas"]
 totalLength: "6.71"
 bodyLength: ""
 totalHeight: "2.635"

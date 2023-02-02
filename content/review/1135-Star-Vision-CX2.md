@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy CX2 by Star Vision?"
   ogdescription: "The Star Vision CX2 is classed as Off Road, and sleeps 2 people. It is Made Overseas and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["Star Vision"]
-tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "Under 50k"]
+tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "Under 50k", "Made Overseas"]
 totalLength: "5"
 bodyLength: ""
 totalHeight: "2.45"
@@ -42,5 +42,5 @@ priceRangeMax: "43990"
 urlLink: "https://starvision.com.au/campers/cx2/"
 aussieMade: "Made Overseas"
 noImage: ""
-featured: "feat"
+featured: "no"
 ---

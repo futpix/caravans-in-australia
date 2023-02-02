@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Family by River Caravans?"
   ogdescription: "The River Caravans Family is classed as Semi Off Road, and sleeps 4-5 people. It is Made Overseas and comes in at Unknown Size. It generally has Combined or separate shower & toilet."
 categories: ["River Caravans"]
-tags: ["Sleeps 4-5", "Unknown Size", "Semi Off Road", "Combined or separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4-5", "Unknown Size", "Semi Off Road", "Combined or separate shower & toilet", "Full height", "Price Unknown", "Made Overseas"]
 totalLength: ""
 bodyLength: ""
 totalHeight: ""
@@ -41,6 +41,6 @@ priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "https://rivercaravans.com.au/caravan/family/"
 aussieMade: "Made Overseas"
-noImage: ""
+noImage: "r"
 featured: "no"
 ---

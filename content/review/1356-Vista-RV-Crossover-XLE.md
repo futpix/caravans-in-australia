@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Crossover XLE by Vista RV?"
   ogdescription: "The Vista RV Crossover XLE is classed as Off Road, and sleeps 2 people. It is Made Overseas and comes in at Unknown Size. It generally has No Bathroom or Toilet."
 categories: ["Vista RV"]
-tags: ["Sleeps 2", "Unknown Size", "Off Road", "No Bathroom or Toilet", "Pop up", "Price Unknown"]
+tags: ["Sleeps 2", "Unknown Size", "Off Road", "No Bathroom or Toilet", "Pop up", "Price Unknown", "Made Overseas"]
 totalLength: "5.3"
 bodyLength: ""
 totalHeight: "2.15"

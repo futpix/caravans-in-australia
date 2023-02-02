@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Pursuit PS196-1 by Olympic Caravans?"
   ogdescription: "The Olympic Caravans Pursuit PS196-1 is classed as Unknown Type, and sleeps 4-5 people. It is Made Overseas and comes in at Unknown Size. It generally has No Bathroom or Toilet."
 categories: ["Olympic Caravans"]
-tags: ["Sleeps 4-5", "Unknown Size", "Unknown Type", "No Bathroom or Toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4-5", "Unknown Size", "Unknown Type", "No Bathroom or Toilet", "Full height", "Price Unknown", "Made Overseas"]
 totalLength: ""
 bodyLength: ""
 totalHeight: ""
@@ -41,6 +41,6 @@ priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "https://www.olympiccaravans.com.au/pursuit-1"
 aussieMade: "Made Overseas"
-noImage: ""
+noImage: "r"
 featured: "no"
 ---

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy XH15 by Blue Tongue Campers?"
   ogdescription: "The Blue Tongue Campers XH15 is classed as Off Road, and sleeps 4 people. It is Made Overseas and comes in at 16 ft. It generally has Combined shower & toilet."
 categories: ["Blue Tongue Campers"]
-tags: ["Sleeps 4", "16 ft", "Off Road", "Combined shower & toilet", "Pop top", "50 - 60k"]
+tags: ["Sleeps 4", "16 ft", "Off Road", "Combined shower & toilet", "Pop top", "50 - 60k", "Made Overseas"]
 totalLength: "6.45"
 bodyLength: "4.78"
 totalHeight: "2.365"

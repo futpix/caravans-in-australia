@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Navigator 20' by Majestic Caravans?"
   ogdescription: "The Majestic Caravans Navigator 20' is classed as Unknown Type, and sleeps 2 people. It is Australian made and comes in at Unknown Size. It generally has Separate shower & toilet."
 categories: ["Majestic Caravans"]
-tags: ["Sleeps 2", "Unknown Size", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "Unknown Size", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: ""
 totalHeight: ""
@@ -41,6 +41,6 @@ priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "https://majesticcaravans.com.au/majestic-navigator/"
 aussieMade: "Australian made"
-noImage: ""
+noImage: "r"
 featured: "no"
 ---

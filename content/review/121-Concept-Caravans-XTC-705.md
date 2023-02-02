@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy XTC 705 by Concept Caravans?"
   ogdescription: "The Concept Caravans XTC 705 is classed as Semi Off Road, and sleeps 4-5 people. It is Australian made and comes in at 23 ft. It generally has Separate shower & toilet."
 categories: ["Concept Caravans"]
-tags: ["Sleeps 4-5", "23 ft", "Semi Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4-5", "23 ft", "Semi Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "9.37"
 bodyLength: "7.15"
 totalHeight: "3.04"

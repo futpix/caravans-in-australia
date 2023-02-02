@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy TUFF TRACK ESCAPE by Far Horizon Campers?"
   ogdescription: "The Far Horizon Campers TUFF TRACK ESCAPE is classed as Off Road, and sleeps 4 people. It is Made Overseas and comes in at Unknown Size. It generally has No Bathroom or Toilet."
 categories: ["Far Horizon Campers"]
-tags: ["Sleeps 4", "Unknown Size", "Off Road", "No Bathroom or Toilet", "Pop top", "Under 50k"]
+tags: ["Sleeps 4", "Unknown Size", "Off Road", "No Bathroom or Toilet", "Pop top", "Under 50k", "Made Overseas"]
 totalLength: "5.7"
 bodyLength: ""
 totalHeight: "2.17"
@@ -42,5 +42,5 @@ priceRangeMax: "36999"
 urlLink: "https://farhorizoncampers.com/trailers/tuff-track-escape"
 aussieMade: "Made Overseas"
 noImage: ""
-featured: "feat"
+featured: "no"
 ---

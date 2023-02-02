@@ -27,15 +27,15 @@
         <div class="col-sm-12">
           <!--{{- partial "callout-text-blog-right" . -}}-->
 
-<h6>Featured</h4>
- {{ range where .Site.Pages "Params.sleeps" "4" }}
+<h4>Featured</h4>
+ {{ range where .Site.Pages "Params.featured" "feat" | first 10 }}
 {{- partial "listing-template.html" . -}}
 {{ end }}  
 </div>    
 </div>
 </div>
 </div>
-<hr />
+
 </div>
 </div>
 </div>

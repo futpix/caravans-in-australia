@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Exodus 14 by Complete Campsite?"
   ogdescription: "The Complete Campsite Exodus 14 is classed as Off Road, and sleeps 2-4 people. It is Australian made and comes in at Unknown Size. It generally has External ensuite / optional internal ensuite."
 categories: ["Complete Campsite"]
-tags: ["Sleeps 2-4", "Unknown Size", "Off Road", "External ensuite / optional internal ensuite", "Pop up", "Over 100k"]
+tags: ["Sleeps 2-4", "Unknown Size", "Off Road", "External ensuite / optional internal ensuite", "Pop up", "Over 100k", "Australian made"]
 totalLength: "6.35"
 bodyLength: ""
 totalHeight: "2.37"

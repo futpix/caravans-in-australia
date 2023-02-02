@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Touring 22' by Network RV Caravans?"
   ogdescription: "The Network RV Caravans Touring 22' is classed as On Road, and sleeps 2 people. It is Australian made and comes in at 22 ft. It generally has Separate shower & toilet."
 categories: ["Network RV Caravans"]
-tags: ["Sleeps 2", "22 ft", "On Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "22 ft", "On Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "6.7"
 totalHeight: ""
@@ -41,6 +41,6 @@ priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "https://networkrvcaravans.com.au/caravans/touring/"
 aussieMade: "Australian made"
-noImage: ""
+noImage: "r"
 featured: "no"
 ---

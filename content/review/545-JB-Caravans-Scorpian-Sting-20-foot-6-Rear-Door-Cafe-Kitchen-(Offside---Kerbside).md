@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Scorpian Sting 20'6 Rear Door Cafe Kitchen (Offside / Kerbside) by JB Caravans?"
   ogdescription: "The JB Caravans Scorpian Sting 20'6 Rear Door Cafe Kitchen (Offside / Kerbside) is classed as Off Road, and sleeps 2 people. It is Australian made and comes in at Unknown Size. It generally has Separate shower & toilet."
 categories: ["JB Caravans"]
-tags: ["Sleeps 2", "Unknown Size", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "Unknown Size", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "8.4"
 bodyLength: ""
 totalHeight: "3.1"

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Custom built caravans by Regal Caravans?"
   ogdescription: "The Regal Caravans Custom built caravans is classed as Unknown Type, and sleeps Bed Options people. It is Australian made and comes in at Unknown Size. It generally has Unkown."
 categories: ["Regal Caravans"]
-tags: ["Sleeps Bed Options", "Unknown Size", "Unknown Type", "Unkown", "Full height", "Price Unknown"]
+tags: ["Sleeps Bed Options", "Unknown Size", "Unknown Type", "Unkown", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: ""
 totalHeight: ""

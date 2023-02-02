@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Family Tourer by Lagoon Caravan?"
   ogdescription: "The Lagoon Caravan Family Tourer is classed as Unknown Type, and sleeps 4-5 people. It is Australian made and comes in at 19 ft. It generally has No Bathroom or Toilet."
 categories: ["Lagoon Caravan"]
-tags: ["Sleeps 4-5", "19 ft", "Unknown Type", "No Bathroom or Toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4-5", "19 ft", "Unknown Type", "No Bathroom or Toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "5.79"
 totalHeight: ""

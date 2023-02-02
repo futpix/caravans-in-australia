@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Warrior-15 by Eagle Camper Trailers?"
   ogdescription: "The Eagle Camper Trailers Warrior-15 is classed as Off Road, and sleeps 4 people. It is Made Overseas and comes in at 15 ft. It generally has Combined shower & toilet."
 categories: ["Eagle Camper Trailers"]
-tags: ["Sleeps 4", "15 ft", "Off Road", "Combined shower & toilet", "Pop top", "50 - 60k"]
+tags: ["Sleeps 4", "15 ft", "Off Road", "Combined shower & toilet", "Pop top", "50 - 60k", "Made Overseas"]
 totalLength: ""
 bodyLength: "4.57"
 totalHeight: "2.37"

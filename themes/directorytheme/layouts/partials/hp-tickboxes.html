@@ -13,10 +13,25 @@
       <hr />
       
       <div class="row">
-        {{- $sortedPages := .Site.RegularPages.ByParam "featured" }} {{ $paginator :=
-        .Paginate $sortedPages }} {{- range $index, $page := $paginator.Pages }}
-        {{- partial "listing-template-horiz.html" . -}} {{end}} {{- partial
-        "pagination" . -}}
+
+        {{ $pages := where .Site.RegularPages "Section" "review" }}
+         {{ $sorted := $pages.ByParam "featured" }}  
+         {{ $paginator := .Paginate $sorted }} 
+ 
+  
+        {{ range (.Paginate $pages).Pages }}
+        
+        {{- partial "listing-template-horiz.html" . -}}  
+
+        {{end}}
+
+
+        {{- partial "pagination" . -}}
+
+
+       
+
+
       </div>
     </div>
   </div>

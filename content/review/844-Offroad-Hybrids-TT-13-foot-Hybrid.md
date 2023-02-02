@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy TT 13' Hybrid by Offroad Hybrids?"
   ogdescription: "The Offroad Hybrids TT 13' Hybrid is classed as Off Road, and sleeps 2 people. It is Made Overseas and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["Offroad Hybrids"]
-tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "Under 50k"]
+tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "Under 50k", "Made Overseas"]
 totalLength: "5.8"
 bodyLength: ""
 totalHeight: ""
@@ -42,5 +42,5 @@ priceRangeMax: "42400"
 urlLink: "https://www.offroadhybrids.com.au/13ft-hybrid/"
 aussieMade: "Made Overseas"
 noImage: ""
-featured: "feat"
+featured: "no"
 ---

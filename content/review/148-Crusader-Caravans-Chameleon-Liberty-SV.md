@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Chameleon Liberty SV by Crusader Caravans?"
   ogdescription: "The Crusader Caravans Chameleon Liberty SV is classed as Unknown Type, and sleeps 2 people. It is Australian made and comes in at 13 ft. It generally has Combined shower & toilet."
 categories: ["Crusader Caravans"]
-tags: ["Sleeps 2", "13 ft", "Unknown Type", "Combined shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "13 ft", "Unknown Type", "Combined shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "5.26"
 bodyLength: "3.817"
 totalHeight: "2.915"

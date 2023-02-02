@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Armorlite by Urban Caravans?"
   ogdescription: "The Urban Caravans Armorlite is classed as Off Road, and sleeps 2 people. It is Australian made and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["Urban Caravans"]
-tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "Price Unknown"]
+tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: ""
 totalHeight: ""

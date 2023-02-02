@@ -78,11 +78,9 @@
  						<!--SEE Also-->
  					</div>
  					<br />
- 					<hr />
+ 					
  					<div class="row">
- 						<div class="col-sm-12">
- 							<span class="blogAuthor">Produced by beachesinaustraia.com</a></span>
- 						</div>
+ 					
  						<div class="col-sm-12 socialsCol">
 							<a href="#" class="btn btn-sm btn-primary facebook"><span><i class="fa fa-facebook"></i></span>Facebook</a>
 	  						<a href="#" class="btn btn-sm btn-primary twitter"><span><i class="fa fa-twitter"></i></span>Twitter</a>
@@ -94,20 +92,23 @@
  			</div>
  			<div class="col-lg-4 articleRight">
  				<div class="col-sm-12">
- 					{{- partial "callout-text-blog-right" . -}}
+ 					
  					{{- partial "blog-list-text-vert" . -}}
- 					{{- partial "blog-tags-right" . -}}
- 					{{- partial "1-col-blog-thumb-hot" . -}}
- 					<div id="sticky" class="d-none d-sm-block">
- 						{{- partial "callout-text-blog-right-sticky" . -}}
- 					</div>
+ 					{{- partial "accord-nav" . -}}
+ 				
+					 <div id="sticky" class="d-none d-sm-block">
+						<h4 class="mt-5">Featured</h4>
+{{ range where .Site.Pages "Params.section" "review" | shuffle | first 1 }}
+{{- partial "listing-template.html" . -}}
+{{ end }}
+				   </div>
  					<div class="extra">
  					</div>
  				</div>
  			</div>
  		</div>
  	</div>
- 	{{- partial "callout-text-subscribe" . -}}
+
 
 
 
@@ -209,18 +210,20 @@
  				<div class="col-sm-12">
  					{{- partial "callout-text-blog-right" . -}}
  					{{- partial "blog-list-text-vert" . -}}
- 					{{- partial "blog-tags-right" . -}}
- 					{{- partial "1-col-blog-thumb-hot" . -}}
- 					<div id="sticky" class="d-none d-sm-block">
- 						{{- partial "callout-text-blog-right-sticky" . -}}
- 					</div>
+ 			
+					 <div id="sticky" class="d-none d-sm-block">
+						<h4 class="mt-5">Featured</h4>
+{{ range where .Site.Pages "Params.section" "review" | shuffle | first 1 }}
+{{- partial "listing-template.html" . -}}
+{{ end }}
+				   </div>	
  					<div class="extra">
  					</div>
  				</div>
  			</div>
  		</div>
  	</div>
- 	{{- partial "callout-text-subscribe" . -}}
+ 
 
  	{{ end }}	</div>	{{ end }}	
  	 

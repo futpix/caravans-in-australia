@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy 2ourer by Great Aussie Caravans?"
   ogdescription: "The Great Aussie Caravans 2ourer is classed as Unknown Type, and sleeps 2 people. It is Australian made and comes in at Many sizes. It generally has Separate shower & toilet."
 categories: ["Great Aussie Caravans"]
-tags: ["Sleeps 2", "Many sizes", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "Many sizes", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "Various layouts & lengths"
 totalHeight: ""

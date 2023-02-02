@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Savannah 627 by Golf Caravans?"
   ogdescription: "The Golf Caravans Savannah 627 is classed as Unknown Type, and sleeps 2 people. It is Australian made and comes in at 20 ft. It generally has Separate shower & toilet."
 categories: ["Golf Caravans"]
-tags: ["Sleeps 2", "20 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "20 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "8.17"
 bodyLength: "6.09"
 totalHeight: "3"

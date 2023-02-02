@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy PowerBank 1960 RD by Harvok?"
   ogdescription: "The Harvok PowerBank 1960 RD is classed as Unknown Type, and sleeps 2 people. It is Made Overseas and comes in at 20 ft. It generally has Separate shower & toilet."
 categories: ["Harvok"]
-tags: ["Sleeps 2", "20 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "20 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Made Overseas"]
 totalLength: ""
 bodyLength: "5.996"
 totalHeight: "3.099"

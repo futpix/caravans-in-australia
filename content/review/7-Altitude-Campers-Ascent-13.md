@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Ascent 13 by Altitude Campers?"
   ogdescription: "The Altitude Campers Ascent 13 is classed as Off Road, and sleeps 2 people. It is Made Overseas and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["Altitude Campers"]
-tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "50 - 60k"]
+tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "50 - 60k", "Made Overseas"]
 totalLength: "5.6"
 bodyLength: ""
 totalHeight: "2.32"
@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "DO35 Off-Road Coupling"
-price: "53990"
+price: 53990
 priceRangeMin: "53990"
 priceRangeMax: "53990"
 urlLink: "https://altitudecampers.com.au/ascent-13-camper-van/"

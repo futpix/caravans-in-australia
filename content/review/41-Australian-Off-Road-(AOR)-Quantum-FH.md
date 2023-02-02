@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Quantum FH by Australian Off Road (AOR)?"
   ogdescription: "The Australian Off Road (AOR) Quantum FH is classed as Off Road, and sleeps 2 people. It is Australian made and comes in at 16 ft. It generally has Combined shower & toilet."
 categories: ["Australian Off Road (AOR)"]
-tags: ["Sleeps 2", "16 ft", "Off Road", "Combined shower & toilet", "Full height", "Over 100k"]
+tags: ["Sleeps 2", "16 ft", "Off Road", "Combined shower & toilet", "Full height", "Over 100k", "Australian made"]
 totalLength: "6.4"
 bodyLength: "4.81"
 totalHeight: "2.84"

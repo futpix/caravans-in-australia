@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Blue Heeler FCE 19'6 by Sunland Caravans?"
   ogdescription: "The Sunland Caravans Blue Heeler FCE 19'6 is classed as Off Road, and sleeps 2 people. It is Australian made and comes in at 19 ft. It generally has Separate shower & toilet."
 categories: ["Sunland Caravans"]
-tags: ["Sleeps 2", "19 ft", "Off Road", "Separate shower & toilet", "Full height", "Over 100k"]
+tags: ["Sleeps 2", "19 ft", "Off Road", "Separate shower & toilet", "Full height", "Over 100k", "Australian made"]
 totalLength: ""
 bodyLength: "5.94"
 totalHeight: ""

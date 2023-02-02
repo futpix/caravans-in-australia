@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy PX1 by Star Vision?"
   ogdescription: "The Star Vision PX1 is classed as Off Road, and sleeps 2-4 people. It is Made Overseas and comes in at Unknown Size. It generally has No Bathroom or Toilet."
 categories: ["Star Vision"]
-tags: ["Sleeps 2-4", "Unknown Size", "Off Road", "No Bathroom or Toilet", "Pop top", "Under 50k"]
+tags: ["Sleeps 2-4", "Unknown Size", "Off Road", "No Bathroom or Toilet", "Pop top", "Under 50k", "Made Overseas"]
 totalLength: "5.8"
 bodyLength: ""
 totalHeight: "2.2"
@@ -42,5 +42,5 @@ priceRangeMax: "39990"
 urlLink: "https://starvision.com.au/campers/px1/"
 aussieMade: "Made Overseas"
 noImage: ""
-featured: "feat"
+featured: "no"
 ---

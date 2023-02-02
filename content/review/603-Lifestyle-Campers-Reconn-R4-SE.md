@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Reconn R4 SE by Lifestyle Campers?"
   ogdescription: "The Lifestyle Campers Reconn R4 SE is classed as Off Road, and sleeps 2-5 people. It is Australian made and comes in at 17 ft. It generally has Combined shower & toilet."
 categories: ["Lifestyle Campers"]
-tags: ["Sleeps 2-5", "17 ft", "Off Road", "Combined shower & toilet", "Pop top", "80 - 100k"]
+tags: ["Sleeps 2-5", "17 ft", "Off Road", "Combined shower & toilet", "Pop top", "80 - 100k", "Australian made"]
 totalLength: "6.6"
 bodyLength: "5.1"
 totalHeight: "2.25"

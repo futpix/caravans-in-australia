@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Toura Pop top 17ft 6 by Millard Caravans?"
   ogdescription: "The Millard Caravans Toura Pop top 17ft 6 is classed as Semi Off Road, and sleeps 2 people. It is Australian made and comes in at 18 ft. It generally has Separate shower & toilet."
 categories: ["Millard Caravans"]
-tags: ["Sleeps 2", "18 ft", "Semi Off Road", "Separate shower & toilet", "Pop top", "Price Unknown"]
+tags: ["Sleeps 2", "18 ft", "Semi Off Road", "Separate shower & toilet", "Pop top", "Price Unknown", "Australian made"]
 totalLength: "7.755"
 bodyLength: "5.51"
 totalHeight: "2.598"

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Topaz CV7054SL by Avida RV?"
   ogdescription: "The Avida RV Topaz CV7054SL is classed as On Road, and sleeps 2 people. It is Made Overseas and comes in at 23 ft. It generally has Separate shower & toilet."
 categories: ["Avida RV"]
-tags: ["Sleeps 2", "23 ft", "On Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "23 ft", "On Road", "Separate shower & toilet", "Full height", "Price Unknown", "Made Overseas"]
 totalLength: "8.165"
 bodyLength: "6.975"
 totalHeight: "3.02"

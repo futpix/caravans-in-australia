@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Stryker 161-T by Design RV?"
   ogdescription: "The Design RV Stryker 161-T is classed as Unknown Type, and sleeps 2-3 people. It is Australian made and comes in at 17 ft. It generally has Separate shower & toilet."
 categories: ["Design RV"]
-tags: ["Sleeps 2-3", "17 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2-3", "17 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "7.13"
 bodyLength: "5.18"
 totalHeight: "2.95"

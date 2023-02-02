@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Luxe 600 by Newlands Caravans?"
   ogdescription: "The Newlands Caravans Luxe 600 is classed as Unknown Type, and sleeps 2 people. It is Australian made and comes in at 20 ft. It generally has Separate shower & toilet."
 categories: ["Newlands Caravans"]
-tags: ["Sleeps 2", "20 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "20 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "7.86"
 bodyLength: "6"
 totalHeight: "2.875"

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy All Terrain by Jayco?"
   ogdescription: "The Jayco All Terrain is classed as Off Road, and sleeps 2-3 people. It is Australian made and comes in at 14 ft. It generally has Combined shower & toilet."
 categories: ["Jayco"]
-tags: ["Sleeps 2-3", "14 ft", "Off Road", "Combined shower & toilet", "Pop top", "60 - 70k"]
+tags: ["Sleeps 2-3", "14 ft", "Off Road", "Combined shower & toilet", "Pop top", "60 - 70k", "Australian made"]
 totalLength: "6.54"
 bodyLength: "4.272"
 totalHeight: "2.57"

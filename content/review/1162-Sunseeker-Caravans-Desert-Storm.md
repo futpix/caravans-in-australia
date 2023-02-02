@@ -13,9 +13,9 @@ meta:
   ogtitle: "Should I buy Desert Storm by Sunseeker Caravans?"
   ogdescription: "The Sunseeker Caravans Desert Storm is classed as Off Road, and sleeps 2 people. It is Made Overseas and comes in at Many sizes. It generally has Separate shower & toilet."
 categories: ["Sunseeker Caravans"]
-tags: ["Sleeps 2", "Many sizes", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "Many sizes", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Made Overseas"]
 totalLength: ""
-bodyLength: "Various lengths from 16'6 to  22'6"
+bodyLength: "16'6 to  22'6"
 totalHeight: ""
 totalWidth: ""
 tareWeight: ""
@@ -41,6 +41,6 @@ priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "https://www.sunseekercaravans.com.au/caravan/sunseeker-desert-storm/"
 aussieMade: "Made Overseas"
-noImage: ""
+noImage: "r"
 featured: "no"
 ---

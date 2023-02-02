@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy ECX-15 by Elross Caravans?"
   ogdescription: "The Elross Caravans ECX-15 is classed as Off Road, and sleeps 2 people. It is Australian made and comes in at 15 ft. It generally has Combined shower & toilet."
 categories: ["Elross Caravans"]
-tags: ["Sleeps 2", "15 ft", "Off Road", "Combined shower & toilet", "Full height", "Over 100k"]
+tags: ["Sleeps 2", "15 ft", "Off Road", "Combined shower & toilet", "Full height", "Over 100k", "Australian made"]
 totalLength: "6.965"
 bodyLength: "4.57"
 totalHeight: "3.1"

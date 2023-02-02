@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy High Terrain by Atlantic Caravans?"
   ogdescription: "The Atlantic Caravans High Terrain is classed as Unknown Type, and sleeps Bed Options people. It is Made Overseas and comes in at Unknown Size. It generally has Separate shower & toilet."
 categories: ["Atlantic Caravans"]
-tags: ["Sleeps Bed Options", "Unknown Size", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps Bed Options", "Unknown Size", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Made Overseas"]
 totalLength: "Various"
 bodyLength: ""
 totalHeight: ""

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy ERV 219B by Retreat Caravans?"
   ogdescription: "The Retreat Caravans ERV 219B is classed as Unknown Type, and sleeps 5 people. It is Made Overseas and comes in at Unknown Size. It generally has Separate shower & toilet."
 categories: ["Retreat Caravans"]
-tags: ["Sleeps 5", "Unknown Size", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 5", "Unknown Size", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Made Overseas"]
 totalLength: ""
 bodyLength: ""
 totalHeight: ""
@@ -41,6 +41,6 @@ priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "https://www.retreatcaravans.com.au/product/erv/"
 aussieMade: "Made Overseas"
-noImage: ""
+noImage: "r"
 featured: "no"
 ---

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Crosstrak 13.39-1.CT-MY22 by Jayco?"
   ogdescription: "The Jayco Crosstrak 13.39-1.CT-MY22 is classed as Off Road, and sleeps 2 people. It is Australian made and comes in at 14 ft. It generally has No Bathroom or Toilet."
 categories: ["Jayco"]
-tags: ["Sleeps 2", "14 ft", "Off Road", "No Bathroom or Toilet", "Pop top", "Under 50k"]
+tags: ["Sleeps 2", "14 ft", "Off Road", "No Bathroom or Toilet", "Pop top", "Under 50k", "Australian made"]
 totalLength: "6.02"
 bodyLength: "4.19"
 totalHeight: "2.52"
@@ -42,5 +42,5 @@ priceRangeMax: "47750"
 urlLink: "https://www.jayco.com.au/range/jayco-hybrids/jayco-hybrid-crosstrak"
 aussieMade: "Australian made"
 noImage: ""
-featured: "feat"
+featured: "no"
 ---

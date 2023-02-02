@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Quantum by Australian Off Road (AOR)?"
   ogdescription: "The Australian Off Road (AOR) Quantum is classed as Off Road, and sleeps 2-3 people. It is Australian made and comes in at 16 ft. It generally has Combined shower & toilet."
 categories: ["Australian Off Road (AOR)"]
-tags: ["Sleeps 2-3", "16 ft", "Off Road", "Combined shower & toilet", "Pop top", "Over 100k"]
+tags: ["Sleeps 2-3", "16 ft", "Off Road", "Combined shower & toilet", "Pop top", "Over 100k", "Australian made"]
 totalLength: "6.4"
 bodyLength: "4.81"
 totalHeight: "2.275"

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Classic Tourer 1960 - combined bathroom by Supreme Caravans?"
   ogdescription: "The Supreme Caravans Classic Tourer 1960 - combined bathroom is classed as Semi Off Road, and sleeps 4-5 people. It is Australian made and comes in at 19 ft. It generally has Combined shower & toilet."
 categories: ["Supreme Caravans"]
-tags: ["Sleeps 4-5", "19 ft", "Semi Off Road", "Combined shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4-5", "19 ft", "Semi Off Road", "Combined shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "5.94"
 totalHeight: ""
@@ -41,6 +41,6 @@ priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "https://www.supremecaravans.com.au/classic-tourer"
 aussieMade: "Australian made"
-noImage: ""
+noImage: "r"
 featured: "no"
 ---

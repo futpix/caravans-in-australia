@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Luxe 675 by Newlands Caravans?"
   ogdescription: "The Newlands Caravans Luxe 675 is classed as Unknown Type, and sleeps 5 people. It is Australian made and comes in at 22 ft. It generally has Separate shower & toilet."
 categories: ["Newlands Caravans"]
-tags: ["Sleeps 5", "22 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 5", "22 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "8.69"
 bodyLength: "6.83"
 totalHeight: "2.985"

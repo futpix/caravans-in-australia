@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Wedgetail Hybrid by Domain Caravans?"
   ogdescription: "The Domain Caravans Wedgetail Hybrid is classed as Semi Off Road, and sleeps 2 people. It is Australian made and comes in at Unknown Size. It generally has Separate shower & toilet."
 categories: ["Domain Caravans"]
-tags: ["Sleeps 2", "Unknown Size", "Semi Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "Unknown Size", "Semi Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: ""
 totalHeight: ""

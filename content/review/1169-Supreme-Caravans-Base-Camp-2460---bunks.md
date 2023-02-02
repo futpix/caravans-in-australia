@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Base Camp 2460 - bunks by Supreme Caravans?"
   ogdescription: "The Supreme Caravans Base Camp 2460 - bunks is classed as Semi Off Road, and sleeps 4-5 people. It is Australian made and comes in at 25 ft. It generally has Separate shower & toilet."
 categories: ["Supreme Caravans"]
-tags: ["Sleeps 4-5", "25 ft", "Semi Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4-5", "25 ft", "Semi Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "7.47"
 totalHeight: ""
@@ -41,6 +41,6 @@ priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "https://www.supremecaravans.com.au/base-camp-caravans"
 aussieMade: "Australian made"
-noImage: ""
+noImage: "r"
 featured: "no"
 ---

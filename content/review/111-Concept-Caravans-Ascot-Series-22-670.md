@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Ascot Series 22 670 by Concept Caravans?"
   ogdescription: "The Concept Caravans Ascot Series 22 670 is classed as Unknown Type, and sleeps 2 people. It is Australian made and comes in at Unknown Size. It generally has Separate shower & toilet."
 categories: ["Concept Caravans"]
-tags: ["Sleeps 2", "Unknown Size", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "Unknown Size", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "Not available"
 bodyLength: ""
 totalHeight: ""

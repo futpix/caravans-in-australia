@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Metrolink 186-8R by Nova Caravans?"
   ogdescription: "The Nova Caravans Metrolink 186-8R is classed as On Road, and sleeps 4-5 people. It is Australian made and comes in at 20 ft. It generally has No Bathroom or Toilet."
 categories: ["Nova Caravans"]
-tags: ["Sleeps 4-5", "20 ft", "On Road", "No Bathroom or Toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4-5", "20 ft", "On Road", "No Bathroom or Toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "7.73"
 bodyLength: "6.15"
 totalHeight: "2.865"

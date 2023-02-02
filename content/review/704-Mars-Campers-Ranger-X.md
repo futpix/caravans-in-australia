@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Ranger X by Mars Campers?"
   ogdescription: "The Mars Campers Ranger X is classed as Off Road, and sleeps 4 people. It is Made Overseas and comes in at Unknown Size. It generally has No Bathroom or Toilet."
 categories: ["Mars Campers"]
-tags: ["Sleeps 4", "Unknown Size", "Off Road", "No Bathroom or Toilet", "Pop top", "Under 50k"]
+tags: ["Sleeps 4", "Unknown Size", "Off Road", "No Bathroom or Toilet", "Pop top", "Under 50k", "Made Overseas"]
 totalLength: "5.44"
 bodyLength: ""
 totalHeight: "1.85"
@@ -42,5 +42,5 @@ priceRangeMax: "38990"
 urlLink: "https://marscampers.com.au/camper-trailers/ranger-x/"
 aussieMade: "Made Overseas"
 noImage: ""
-featured: "feat"
+featured: "no"
 ---

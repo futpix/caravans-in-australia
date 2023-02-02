@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Territory 2160 - bunks by Supreme Caravans?"
   ogdescription: "The Supreme Caravans Territory 2160 - bunks is classed as Off Road, and sleeps 4-5 people. It is Australian made and comes in at 21 ft. It generally has Separate shower & toilet."
 categories: ["Supreme Caravans"]
-tags: ["Sleeps 4-5", "21 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4-5", "21 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "6.55"
 totalHeight: ""

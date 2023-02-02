@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy H-17 by Hilltop Caravans?"
   ogdescription: "The Hilltop Caravans H-17 is classed as Off Road, and sleeps Bed Options people. It is Australian made and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["Hilltop Caravans"]
-tags: ["Sleeps Bed Options", "Unknown Size", "Off Road", "Combined shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps Bed Options", "Unknown Size", "Off Road", "Combined shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: ""
 totalHeight: ""

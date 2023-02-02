@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Rough Rider 23F by Vacationer Caravans?"
   ogdescription: "The Vacationer Caravans Rough Rider 23F is classed as Off Road, and sleeps 6 people. It is Australian made and comes in at Unknown Size. It generally has Separate shower & toilet."
 categories: ["Vacationer Caravans"]
-tags: ["Sleeps 6", "Unknown Size", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 6", "Unknown Size", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: ""
 totalHeight: ""
@@ -41,6 +41,6 @@ priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "https://vacationercaravans.com.au/rough-rider-2/"
 aussieMade: "Australian made"
-noImage: ""
+noImage: "r"
 featured: "no"
 ---

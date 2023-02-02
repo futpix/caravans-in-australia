@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy 13ft Plus 3 or 4 Cruiser by Southern Cross Camper Trailers?"
   ogdescription: "The Southern Cross Camper Trailers 13ft Plus 3 or 4 Cruiser is classed as Off Road, and sleeps 4 people. It is Made Overseas and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["Southern Cross Camper Trailers"]
-tags: ["Sleeps 4", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "50 - 60k"]
+tags: ["Sleeps 4", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "50 - 60k", "Made Overseas"]
 totalLength: "5.98"
 bodyLength: ""
 totalHeight: "2.37"

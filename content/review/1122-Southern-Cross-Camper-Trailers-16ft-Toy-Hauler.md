@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy 16ft Toy Hauler by Southern Cross Camper Trailers?"
   ogdescription: "The Southern Cross Camper Trailers 16ft Toy Hauler is classed as Off Road, and sleeps 4-6 people. It is Made Overseas and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["Southern Cross Camper Trailers"]
-tags: ["Sleeps 4-6", "Unknown Size", "Off Road", "Combined shower & toilet", "Full height", "70 - 80k"]
+tags: ["Sleeps 4-6", "Unknown Size", "Off Road", "Combined shower & toilet", "Full height", "70 - 80k", "Made Overseas"]
 totalLength: "7.235"
 bodyLength: ""
 totalHeight: "3.1"

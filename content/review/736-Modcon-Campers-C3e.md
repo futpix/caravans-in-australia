@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy C3e by Modcon Campers?"
   ogdescription: "The Modcon Campers C3e is classed as Off Road, and sleeps 2 people. It is Made Overseas and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["Modcon Campers"]
-tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop up", "Price Unknown"]
+tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop up", "Price Unknown", "Made Overseas"]
 totalLength: "5.95"
 bodyLength: ""
 totalHeight: "2.385"

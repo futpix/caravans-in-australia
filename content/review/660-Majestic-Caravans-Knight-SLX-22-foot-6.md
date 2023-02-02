@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Knight SLX 22'6 by Majestic Caravans?"
   ogdescription: "The Majestic Caravans Knight SLX 22'6 is classed as Unknown Type, and sleeps 4 people. It is Australian made and comes in at Unknown Size. It generally has Separate shower & toilet."
 categories: ["Majestic Caravans"]
-tags: ["Sleeps 4", "Unknown Size", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4", "Unknown Size", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: ""
 totalHeight: ""

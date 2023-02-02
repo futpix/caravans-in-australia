@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Razor 200 by Franklin Caravans?"
   ogdescription: "The Franklin Caravans Razor 200 is classed as Unknown Type, and sleeps 2 people. It is Australian made and comes in at 20 ft. It generally has Separate shower & toilet."
 categories: ["Franklin Caravans"]
-tags: ["Sleeps 2", "20 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "20 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "7.98"
 bodyLength: "6.14"
 totalHeight: "2.925"

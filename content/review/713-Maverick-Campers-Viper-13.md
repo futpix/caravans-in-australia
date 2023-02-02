@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Viper 13 by Maverick Campers?"
   ogdescription: "The Maverick Campers Viper 13 is classed as Off Road, and sleeps 2 people. It is Made Overseas and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["Maverick Campers"]
-tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "Under 50k"]
+tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "Under 50k", "Made Overseas"]
 totalLength: "6.3"
 bodyLength: ""
 totalHeight: "2.55"
@@ -42,5 +42,5 @@ priceRangeMax: "45999"
 urlLink: "https://maverickcampers.com.au/product/maverick-viper-13-caravan/"
 aussieMade: "Made Overseas"
 noImage: ""
-featured: "feat"
+featured: "no"
 ---

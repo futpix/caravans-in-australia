@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Family Flair 23'4-1 by Royal Flair Caravans?"
   ogdescription: "The Royal Flair Caravans Family Flair 23'4-1 is classed as Unknown Type, and sleeps 5 people. It is Australian made and comes in at 23 ft. It generally has Separate shower & toilet."
 categories: ["Royal Flair Caravans"]
-tags: ["Sleeps 5", "23 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 5", "23 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "7.11"
 totalHeight: "2.87"

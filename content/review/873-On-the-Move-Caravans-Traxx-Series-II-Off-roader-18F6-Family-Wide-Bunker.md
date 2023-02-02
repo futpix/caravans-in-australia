@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Traxx Series II Off roader 18F6 Family Wide Bunker by On the Move Caravans?"
   ogdescription: "The On the Move Caravans Traxx Series II Off roader 18F6 Family Wide Bunker is classed as Off Road, and sleeps 4-6 people. It is Australian made and comes in at Unknown Size. It generally has Separate shower & toilet."
 categories: ["On the Move Caravans"]
-tags: ["Sleeps 4-6", "Unknown Size", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4-6", "Unknown Size", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: ""
 totalHeight: ""
@@ -41,6 +41,6 @@ priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "https://onthemovecaravans.com.au/off-roader/"
 aussieMade: "Australian made"
-noImage: ""
+noImage: "r"
 featured: "no"
 ---

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Aspire 617 Family by Avan?"
   ogdescription: "The Avan Aspire 617 Family is classed as Unknown Type, and sleeps 5-7 people. It is Made Overseas and comes in at 20 ft. It generally has Separate shower & toilet."
 categories: ["Avan"]
-tags: ["Sleeps 5-7", "20 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 5-7", "20 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Made Overseas"]
 totalLength: "7.7"
 bodyLength: "6.17"
 totalHeight: "2.7"

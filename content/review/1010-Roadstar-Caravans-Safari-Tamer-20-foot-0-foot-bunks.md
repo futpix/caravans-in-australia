@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Safari Tamer 20'0 bunks by Roadstar Caravans?"
   ogdescription: "The Roadstar Caravans Safari Tamer 20'0 bunks is classed as Off Road, and sleeps 4 people. It is Australian made and comes in at 21 ft. It generally has Combined shower & toilet."
 categories: ["Roadstar Caravans"]
-tags: ["Sleeps 4", "21 ft", "Off Road", "Combined shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4", "21 ft", "Off Road", "Combined shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "8.38"
 bodyLength: "6.47"
 totalHeight: "3.1"

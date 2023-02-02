@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Action 361LT by Adria?"
   ogdescription: "The Adria Action 361LT is classed as Unknown Type, and sleeps 3 people. It is Made Overseas and comes in at 13 ft. It generally has Combined shower & toilet."
 categories: ["Adria"]
-tags: ["Sleeps 3", "13 ft", "Unknown Type", "Combined shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 3", "13 ft", "Unknown Type", "Combined shower & toilet", "Full height", "Price Unknown", "Made Overseas"]
 totalLength: "5.194"
 bodyLength: "4.01"
 totalHeight: ""

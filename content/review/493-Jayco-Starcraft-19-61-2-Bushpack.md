@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Starcraft 19.61-2 Bushpack by Jayco?"
   ogdescription: "The Jayco Starcraft 19.61-2 Bushpack is classed as Off Road, and sleeps 2-3 people. It is Australian made and comes in at 20 ft. It generally has Separate shower & toilet."
 categories: ["Jayco"]
-tags: ["Sleeps 2-3", "20 ft", "Off Road", "Separate shower & toilet", "Full height", "60 - 70k"]
+tags: ["Sleeps 2-3", "20 ft", "Off Road", "Separate shower & toilet", "Full height", "60 - 70k", "Australian made"]
 totalLength: "7.545"
 bodyLength: "6.12"
 totalHeight: "3.015"

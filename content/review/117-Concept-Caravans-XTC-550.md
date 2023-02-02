@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy XTC 550 by Concept Caravans?"
   ogdescription: "The Concept Caravans XTC 550 is classed as Unknown Type, and sleeps 2 people. It is Australian made and comes in at 19 ft. It generally has Separate shower & toilet."
 categories: ["Concept Caravans"]
-tags: ["Sleeps 2", "19 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "19 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "8.09"
 bodyLength: "5.76"
 totalHeight: "3.12"

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Daintree Sirius  21'0 V1, 2 or 3 by Roadstar Caravans?"
   ogdescription: "The Roadstar Caravans Daintree Sirius  21'0 V1, 2 or 3 is classed as Unknown Type, and sleeps 2 people. It is Australian made and comes in at 22 ft. It generally has Separate shower & toilet."
 categories: ["Roadstar Caravans"]
-tags: ["Sleeps 2", "22 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "22 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "8.53"
 bodyLength: "6.82"
 totalHeight: "3"
@@ -41,6 +41,6 @@ priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "https://roadstar.com.au/caravans/sirius/"
 aussieMade: "Australian made"
-noImage: ""
+noImage: "r"
 featured: "no"
 ---

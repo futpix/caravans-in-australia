@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy LXV 5.8 by Mountain Trail RV?"
   ogdescription: "The Mountain Trail RV LXV 5.8 is classed as Off Road, and sleeps 2 people. It is Australian made and comes in at Unknown Size. It generally has Separate shower & toilet."
 categories: ["Mountain Trail RV"]
-tags: ["Sleeps 2", "Unknown Size", "Off Road", "Separate shower & toilet", "Full height", "Over 100k"]
+tags: ["Sleeps 2", "Unknown Size", "Off Road", "Separate shower & toilet", "Full height", "Over 100k", "Australian made"]
 totalLength: "7.84"
 bodyLength: ""
 totalHeight: "2.975"

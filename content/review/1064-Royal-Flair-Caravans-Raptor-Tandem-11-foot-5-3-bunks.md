@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Raptor Tandem 11'5-3 bunks by Royal Flair Caravans?"
   ogdescription: "The Royal Flair Caravans Raptor Tandem 11'5-3 bunks is classed as Off Road, and sleeps 4 people. It is Australian made and comes in at 11 ft. It generally has Combined shower & toilet."
 categories: ["Royal Flair Caravans"]
-tags: ["Sleeps 4", "11 ft", "Off Road", "Combined shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4", "11 ft", "Off Road", "Combined shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "3.48"
 totalHeight: "2.65"

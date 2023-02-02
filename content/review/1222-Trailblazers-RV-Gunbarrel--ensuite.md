@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Gunbarrel -ensuite by Trailblazers RV?"
   ogdescription: "The Trailblazers RV Gunbarrel -ensuite is classed as Off Road, and sleeps 2 people. It is Australian made and comes in at 11 ft. It generally has Combined shower & toilet."
 categories: ["Trailblazers RV"]
-tags: ["Sleeps 2", "11 ft", "Off Road", "Combined shower & toilet", "Pop top", "Price Unknown"]
+tags: ["Sleeps 2", "11 ft", "Off Road", "Combined shower & toilet", "Pop top", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "3.5"
 totalHeight: ""

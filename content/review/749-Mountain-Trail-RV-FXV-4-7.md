@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy FXV 4.7 by Mountain Trail RV?"
   ogdescription: "The Mountain Trail RV FXV 4.7 is classed as Off Road, and sleeps 4 people. It is Australian made and comes in at Unknown Size. It generally has No Bathroom or Toilet."
 categories: ["Mountain Trail RV"]
-tags: ["Sleeps 4", "Unknown Size", "Off Road", "No Bathroom or Toilet", "Full height", "Over 100k"]
+tags: ["Sleeps 4", "Unknown Size", "Off Road", "No Bathroom or Toilet", "Full height", "Over 100k", "Australian made"]
 totalLength: "6.47"
 bodyLength: ""
 totalHeight: "2.855"

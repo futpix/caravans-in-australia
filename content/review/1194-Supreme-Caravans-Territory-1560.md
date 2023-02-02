@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Territory 1560 by Supreme Caravans?"
   ogdescription: "The Supreme Caravans Territory 1560 is classed as Off Road, and sleeps 2 people. It is Australian made and comes in at 15 ft. It generally has Separate shower & toilet."
 categories: ["Supreme Caravans"]
-tags: ["Sleeps 2", "15 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "15 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "4.72"
 totalHeight: ""

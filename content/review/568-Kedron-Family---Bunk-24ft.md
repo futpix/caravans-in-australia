@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Family / Bunk 24ft by Kedron?"
   ogdescription: "The Kedron Family / Bunk 24ft is classed as Off Road, and sleeps 4-5 people. It is Australian made and comes in at 24 ft. It generally has Separate shower & toilet."
 categories: ["Kedron"]
-tags: ["Sleeps 4-5", "24 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4-5", "24 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "7.31"
 totalHeight: ""

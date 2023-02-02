@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy T4 Rhapsody by Track Trailer?"
   ogdescription: "The Track Trailer T4 Rhapsody is classed as Off Road, and sleeps 2 people. It is Australian made and comes in at 18 ft. It generally has Combined shower & toilet."
 categories: ["Track Trailer"]
-tags: ["Sleeps 2", "18 ft", "Off Road", "Combined shower & toilet", "Pop top", "Over 100k"]
+tags: ["Sleeps 2", "18 ft", "Off Road", "Combined shower & toilet", "Pop top", "Over 100k", "Australian made"]
 totalLength: "6.575"
 bodyLength: "5.575"
 totalHeight: "2.55"

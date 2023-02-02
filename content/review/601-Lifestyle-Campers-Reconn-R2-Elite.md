@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Reconn R2 Elite by Lifestyle Campers?"
   ogdescription: "The Lifestyle Campers Reconn R2 Elite is classed as Off Road, and sleeps 2-4 people. It is Australian made and comes in at 14 ft. It generally has Optional Bathroom + Toilet."
 categories: ["Lifestyle Campers"]
-tags: ["Sleeps 2-4", "14 ft", "Off Road", "Optional Bathroom + Toilet", "Pop top", "60 - 70k"]
+tags: ["Sleeps 2-4", "14 ft", "Off Road", "Optional Bathroom + Toilet", "Pop top", "60 - 70k", "Australian made"]
 totalLength: "5.8"
 bodyLength: "4.4"
 totalHeight: "2.15"

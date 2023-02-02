@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Savannah Maxxi 531-1 Hard top by Golf Caravans?"
   ogdescription: "The Golf Caravans Savannah Maxxi 531-1 Hard top is classed as Unknown Type, and sleeps 6 people. It is Australian made and comes in at 13 ft. It generally has Separate shower & toilet."
 categories: ["Golf Caravans"]
-tags: ["Sleeps 6", "13 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 6", "13 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "5.76"
 bodyLength: "3.9"
 totalHeight: "3"
@@ -41,6 +41,6 @@ priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "https://www.golfcaravans.com.au/caravans/display/8-savannah-caravan-range-/"
 aussieMade: "Australian made"
-noImage: ""
+noImage: "r"
 featured: "no"
 ---

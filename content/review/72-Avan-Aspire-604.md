@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Aspire 604 by Avan?"
   ogdescription: "The Avan Aspire 604 is classed as Unknown Type, and sleeps 5-6 people. It is Made Overseas and comes in at 20 ft. It generally has No Bathroom or Toilet."
 categories: ["Avan"]
-tags: ["Sleeps 5-6", "20 ft", "Unknown Type", "No Bathroom or Toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 5-6", "20 ft", "Unknown Type", "No Bathroom or Toilet", "Full height", "Price Unknown", "Made Overseas"]
 totalLength: "7.7"
 bodyLength: "6.04"
 totalHeight: "2.7"

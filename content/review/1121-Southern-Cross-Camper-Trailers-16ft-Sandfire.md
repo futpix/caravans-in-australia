@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy 16ft Sandfire by Southern Cross Camper Trailers?"
   ogdescription: "The Southern Cross Camper Trailers 16ft Sandfire is classed as Off Road, and sleeps 2-3 people. It is Made Overseas and comes in at Unknown Size. It generally has Separate shower & toilet."
 categories: ["Southern Cross Camper Trailers"]
-tags: ["Sleeps 2-3", "Unknown Size", "Off Road", "Separate shower & toilet", "Full height", "70 - 80k"]
+tags: ["Sleeps 2-3", "Unknown Size", "Off Road", "Separate shower & toilet", "Full height", "70 - 80k", "Made Overseas"]
 totalLength: "7.75"
 bodyLength: ""
 totalHeight: "3.08"

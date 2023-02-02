@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Savannah 499 Hard top by Golf Caravans?"
   ogdescription: "The Golf Caravans Savannah 499 Hard top is classed as Unknown Type, and sleeps 2 people. It is Australian made and comes in at 17 ft. It generally has Combined shower & toilet."
 categories: ["Golf Caravans"]
-tags: ["Sleeps 2", "17 ft", "Unknown Type", "Combined shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "17 ft", "Unknown Type", "Combined shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "6.89"
 bodyLength: "5.04"
 totalHeight: "3"

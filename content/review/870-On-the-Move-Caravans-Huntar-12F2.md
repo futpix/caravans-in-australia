@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Huntar 12F2 by On the Move Caravans?"
   ogdescription: "The On the Move Caravans Huntar 12F2 is classed as Unknown Type, and sleeps 2 people. It is Australian made and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["On the Move Caravans"]
-tags: ["Sleeps 2", "Unknown Size", "Unknown Type", "Combined shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "Unknown Size", "Unknown Type", "Combined shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: ""
 totalHeight: ""
@@ -41,6 +41,6 @@ priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "https://onthemovecaravans.com.au/huntar/"
 aussieMade: "Australian made"
-noImage: ""
+noImage: "r"
 featured: "no"
 ---

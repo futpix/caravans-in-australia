@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Boab 5260 by Willow RV?"
   ogdescription: "The Willow RV Boab 5260 is classed as Off Road, and sleeps 2 people. It is Australian made and comes in at 19 ft. It generally has Separate shower & toilet."
 categories: ["Willow RV"]
-tags: ["Sleeps 2", "19 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "19 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "7.554"
 bodyLength: "5.75"
 totalHeight: "2.955"

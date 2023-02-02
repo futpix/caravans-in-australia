@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Lifechanger Passage or Connection by Crusader Caravans?"
   ogdescription: "The Crusader Caravans Lifechanger Passage or Connection is classed as Unknown Type, and sleeps 2 people. It is Australian made and comes in at 20 ft. It generally has Separate shower & toilet."
 categories: ["Crusader Caravans"]
-tags: ["Sleeps 2", "20 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "20 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "7.58"
 bodyLength: "6.03"
 totalHeight: "2.91"

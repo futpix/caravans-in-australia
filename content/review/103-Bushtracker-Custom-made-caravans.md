@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Custom made caravans by Bushtracker?"
   ogdescription: "The Bushtracker Custom made caravans is classed as Off Road, and sleeps Bed Options people. It is Australian made and comes in at Unknown Size. It generally has Unkown."
 categories: ["Bushtracker"]
-tags: ["Sleeps Bed Options", "Unknown Size", "Off Road", "Unkown", "Full height", "Price Unknown"]
+tags: ["Sleeps Bed Options", "Unknown Size", "Off Road", "Unkown", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: ""
 totalHeight: ""

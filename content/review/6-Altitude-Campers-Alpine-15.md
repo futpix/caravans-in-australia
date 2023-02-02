@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Alpine 15 by Altitude Campers?"
   ogdescription: "The Altitude Campers Alpine 15 is classed as Off Road, and sleeps 2 people. It is Australian made and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["Altitude Campers"]
-tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "Over 100k"]
+tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "Over 100k", "Australian made"]
 totalLength: "6.7"
 bodyLength: ""
 totalHeight: "2.35"

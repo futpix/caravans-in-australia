@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Peregrine by Zone RV?"
   ogdescription: "The Zone RV Peregrine is classed as Off Road, and sleeps 2 people. It is Australian made and comes in at 19 ft. It generally has Separate shower & toilet."
 categories: ["Zone RV"]
-tags: ["Sleeps 2", "19 ft", "Off Road", "Separate shower & toilet", "Full height", "Over 100k"]
+tags: ["Sleeps 2", "19 ft", "Off Road", "Separate shower & toilet", "Full height", "Over 100k", "Australian made"]
 totalLength: "8.2"
 bodyLength: "5.8"
 totalHeight: "3.1"

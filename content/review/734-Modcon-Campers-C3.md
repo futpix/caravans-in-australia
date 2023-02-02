@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy C3 by Modcon Campers?"
   ogdescription: "The Modcon Campers C3 is classed as Off Road, and sleeps 2-4 people. It is Made Overseas and comes in at Unknown Size. It generally has No Bathroom or Toilet."
 categories: ["Modcon Campers"]
-tags: ["Sleeps 2-4", "Unknown Size", "Off Road", "No Bathroom or Toilet", "Pop up", "50 - 60k"]
+tags: ["Sleeps 2-4", "Unknown Size", "Off Road", "No Bathroom or Toilet", "Pop up", "50 - 60k", "Made Overseas"]
 totalLength: "5.95"
 bodyLength: ""
 totalHeight: "2.385"
@@ -42,5 +42,5 @@ priceRangeMax: "51990"
 urlLink: "https://modcon.com.au/c3-hybrid-off-road-camper-trailer"
 aussieMade: "Made Overseas"
 noImage: ""
-featured: "feat"
+featured: "no"
 ---

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Renegade by RhinoMax Campers?"
   ogdescription: "The RhinoMax Campers Renegade is classed as Off Road, and sleeps 2 people. It is Australian made and comes in at 12 ft. It generally has No Bathroom or Toilet."
 categories: ["RhinoMax Campers"]
-tags: ["Sleeps 2", "12 ft", "Off Road", "No Bathroom or Toilet", "Pop up", "80 - 100k"]
+tags: ["Sleeps 2", "12 ft", "Off Road", "No Bathroom or Toilet", "Pop up", "80 - 100k", "Australian made"]
 totalLength: "5.5"
 bodyLength: "3.65"
 totalHeight: "2.28"

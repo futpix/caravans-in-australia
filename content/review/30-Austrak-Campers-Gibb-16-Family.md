@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Gibb 16 Family by Austrak Campers?"
   ogdescription: "The Austrak Campers Gibb 16 Family is classed as Off Road, and sleeps 4 people. It is Made Overseas and comes in at Unknown Size. It generally has Separate shower & toilet."
 categories: ["Austrak Campers"]
-tags: ["Sleeps 4", "Unknown Size", "Off Road", "Separate shower & toilet", "Full height", "70 - 80k"]
+tags: ["Sleeps 4", "Unknown Size", "Off Road", "Separate shower & toilet", "Full height", "70 - 80k", "Made Overseas"]
 totalLength: "5.42"
 bodyLength: ""
 totalHeight: "2.375"

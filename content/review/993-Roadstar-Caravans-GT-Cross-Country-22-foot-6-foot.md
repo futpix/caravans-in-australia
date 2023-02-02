@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy GT Cross Country 22'6 by Roadstar Caravans?"
   ogdescription: "The Roadstar Caravans GT Cross Country 22'6 is classed as Off Road, and sleeps 4 people. It is Australian made and comes in at 24 ft. It generally has Separate shower & toilet."
 categories: ["Roadstar Caravans"]
-tags: ["Sleeps 4", "24 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4", "24 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "8.99"
 bodyLength: "7.28"
 totalHeight: "2.95"

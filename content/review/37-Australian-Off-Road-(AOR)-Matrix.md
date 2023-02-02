@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Matrix by Australian Off Road (AOR)?"
   ogdescription: "The Australian Off Road (AOR) Matrix is classed as Off Road, and sleeps 4-2 people. It is Australian made and comes in at 18 ft. It generally has Combined shower & toilet."
 categories: ["Australian Off Road (AOR)"]
-tags: ["Sleeps 4-2", "18 ft", "Off Road", "Combined shower & toilet", "Full height", "Over 100k"]
+tags: ["Sleeps 4-2", "18 ft", "Off Road", "Combined shower & toilet", "Full height", "Over 100k", "Australian made"]
 totalLength: "7"
 bodyLength: "5.45"
 totalHeight: "2.82"

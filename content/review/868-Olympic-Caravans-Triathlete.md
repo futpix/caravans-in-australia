@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Triathlete by Olympic Caravans?"
   ogdescription: "The Olympic Caravans Triathlete is classed as Unknown Type, and sleeps 2 people. It is Made Overseas and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["Olympic Caravans"]
-tags: ["Sleeps 2", "Unknown Size", "Unknown Type", "Combined shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "Unknown Size", "Unknown Type", "Combined shower & toilet", "Full height", "Price Unknown", "Made Overseas"]
 totalLength: ""
 bodyLength: ""
 totalHeight: ""

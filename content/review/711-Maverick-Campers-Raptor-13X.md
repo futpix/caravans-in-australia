@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Raptor 13X by Maverick Campers?"
   ogdescription: "The Maverick Campers Raptor 13X is classed as Off Road, and sleeps 2 people. It is Made Overseas and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["Maverick Campers"]
-tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "Under 50k"]
+tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "Under 50k", "Made Overseas"]
 totalLength: "6.16"
 bodyLength: ""
 totalHeight: "2.375"
@@ -42,5 +42,5 @@ priceRangeMax: "47999"
 urlLink: "https://maverickcampers.com.au/product/maverick-raptor-13x-caravan/"
 aussieMade: "Made Overseas"
 noImage: ""
-featured: "feat"
+featured: "no"
 ---

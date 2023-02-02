@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Piazza 21'-1 by Royal Flair Caravans?"
   ogdescription: "The Royal Flair Caravans Piazza 21'-1 is classed as Unknown Type, and sleeps 2 people. It is Australian made and comes in at 21 ft. It generally has Separate shower & toilet."
 categories: ["Royal Flair Caravans"]
-tags: ["Sleeps 2", "21 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "21 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "6.4"
 totalHeight: "2.87"

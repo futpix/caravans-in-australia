@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Hybrid FE by Vanglass RV?"
   ogdescription: "The Vanglass RV Hybrid FE is classed as Unknown Type, and sleeps Bed Options people. It is Made Overseas and comes in at Unknown Size. It generally has Unkown."
 categories: ["Vanglass RV"]
-tags: ["Sleeps Bed Options", "Unknown Size", "Unknown Type", "Unkown", "Pop top", "Price Unknown"]
+tags: ["Sleeps Bed Options", "Unknown Size", "Unknown Type", "Unkown", "Pop top", "Price Unknown", "Made Overseas"]
 totalLength: ""
 bodyLength: ""
 totalHeight: ""

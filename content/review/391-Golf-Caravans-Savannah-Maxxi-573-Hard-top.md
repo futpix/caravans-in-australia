@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Savannah Maxxi 573 Hard top by Golf Caravans?"
   ogdescription: "The Golf Caravans Savannah Maxxi 573 Hard top is classed as Unknown Type, and sleeps Bed Options people. It is Australian made and comes in at 19 ft. It generally has Separate shower & toilet."
 categories: ["Golf Caravans"]
-tags: ["Sleeps Bed Options", "19 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps Bed Options", "19 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "7.05"
 bodyLength: "5.73"
 totalHeight: "3"

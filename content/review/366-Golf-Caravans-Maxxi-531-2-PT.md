@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Maxxi 531-2 PT by Golf Caravans?"
   ogdescription: "The Golf Caravans Maxxi 531-2 PT is classed as On Road, and sleeps 8 people. It is Australian made and comes in at 18 ft. It generally has Combined shower & toilet."
 categories: ["Golf Caravans"]
-tags: ["Sleeps 8", "18 ft", "On Road", "Combined shower & toilet", "Pop top", "Price Unknown"]
+tags: ["Sleeps 8", "18 ft", "On Road", "Combined shower & toilet", "Pop top", "Price Unknown", "Australian made"]
 totalLength: "7.1"
 bodyLength: "5.34"
 totalHeight: "2.65"

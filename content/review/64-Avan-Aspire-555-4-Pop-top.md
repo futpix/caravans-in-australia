@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Aspire 555-4 Pop top by Avan?"
   ogdescription: "The Avan Aspire 555-4 Pop top is classed as Unknown Type, and sleeps 4-6 people. It is Made Overseas and comes in at 18 ft. It generally has No Bathroom or Toilet."
 categories: ["Avan"]
-tags: ["Sleeps 4-6", "18 ft", "Unknown Type", "No Bathroom or Toilet", "Pop top", "Price Unknown"]
+tags: ["Sleeps 4-6", "18 ft", "Unknown Type", "No Bathroom or Toilet", "Pop top", "Price Unknown", "Made Overseas"]
 totalLength: "6.95"
 bodyLength: "5.36"
 totalHeight: "2.46"

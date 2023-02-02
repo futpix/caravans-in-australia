@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Journey Pop Top 13.42 Outback by Jayco?"
   ogdescription: "The Jayco Journey Pop Top 13.42 Outback is classed as Off Road, and sleeps 2-3 people. It is Australian made and comes in at 14 ft. It generally has No Bathroom or Toilet."
 categories: ["Jayco"]
-tags: ["Sleeps 2-3", "14 ft", "Off Road", "No Bathroom or Toilet", "Pop top", "Under 50k"]
+tags: ["Sleeps 2-3", "14 ft", "Off Road", "No Bathroom or Toilet", "Pop top", "Under 50k", "Australian made"]
 totalLength: "5.79"
 bodyLength: "4.31"
 totalHeight: "2.55"
@@ -42,5 +42,5 @@ priceRangeMax: "42990"
 urlLink: "https://www.jayco.com.au/range/pop-tops/journey-pop-top/floor-plans/outback/journey-1342-1objy-my22"
 aussieMade: "Australian made"
 noImage: "r"
-featured: "feat"
+featured: "no"
 ---

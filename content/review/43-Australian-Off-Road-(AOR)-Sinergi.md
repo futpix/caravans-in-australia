@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Sinergi by Australian Off Road (AOR)?"
   ogdescription: "The Australian Off Road (AOR) Sinergi is classed as Off Road, and sleeps 2 people. It is Australian made and comes in at 19 ft. It generally has Combined shower & toilet."
 categories: ["Australian Off Road (AOR)"]
-tags: ["Sleeps 2", "19 ft", "Off Road", "Combined shower & toilet", "Full height", "Over 100k"]
+tags: ["Sleeps 2", "19 ft", "Off Road", "Combined shower & toilet", "Full height", "Over 100k", "Australian made"]
 totalLength: "7.225"
 bodyLength: "5.85"
 totalHeight: "2.985 (incl air con)"

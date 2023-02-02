@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Orca 15 by Orca RV?"
   ogdescription: "The Orca RV Orca 15 is classed as Off Road, and sleeps 3-4 people. It is Made Overseas and comes in at 16 ft. It generally has Combined shower & toilet."
 categories: ["Orca RV"]
-tags: ["Sleeps 3-4", "16 ft", "Off Road", "Combined shower & toilet", "Pop top", "Price Unknown"]
+tags: ["Sleeps 3-4", "16 ft", "Off Road", "Combined shower & toilet", "Pop top", "Price Unknown", "Made Overseas"]
 totalLength: "7.15"
 bodyLength: "4.73"
 totalHeight: "2.69"
@@ -41,6 +41,6 @@ priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "https://orcarv.com.au/orca-rv/model/orca-15-hybrid-caravan"
 aussieMade: "Made Overseas"
-noImage: ""
+noImage: "r"
 featured: "no"
 ---

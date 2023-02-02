@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Supa Trakker Exp19F by Lyfe RV?"
   ogdescription: "The Lyfe RV Supa Trakker Exp19F is classed as Off Road, and sleeps 4 people. It is Australian made and comes in at 19 ft. It generally has Combined shower & toilet."
 categories: ["Lyfe RV"]
-tags: ["Sleeps 4", "19 ft", "Off Road", "Combined shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4", "19 ft", "Off Road", "Combined shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "7.795"
 bodyLength: "5.755"
 totalHeight: "2.948"

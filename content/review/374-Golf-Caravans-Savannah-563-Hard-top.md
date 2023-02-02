@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Savannah 563 Hard top by Golf Caravans?"
   ogdescription: "The Golf Caravans Savannah 563 Hard top is classed as Unknown Type, and sleeps 2 people. It is Australian made and comes in at 18 ft. It generally has Combined shower & toilet."
 categories: ["Golf Caravans"]
-tags: ["Sleeps 2", "18 ft", "Unknown Type", "Combined shower & toilet", "Pop top", "Price Unknown"]
+tags: ["Sleeps 2", "18 ft", "Unknown Type", "Combined shower & toilet", "Pop top", "Price Unknown", "Australian made"]
 totalLength: "7.43"
 bodyLength: "5.63"
 totalHeight: "3"

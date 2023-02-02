@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Trophy 24' by Victory Caravans?"
   ogdescription: "The Victory Caravans Trophy 24' is classed as Off Road, and sleeps 6 people. It is Australian made and comes in at 24 ft. It generally has Separate shower & toilet."
 categories: ["Victory Caravans"]
-tags: ["Sleeps 6", "24 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 6", "24 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "7.32"
 totalHeight: ""

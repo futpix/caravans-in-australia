@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Indulgence by Adventura Caravans?"
   ogdescription: "The Adventura Caravans Indulgence is classed as Unknown Type, and sleeps 2-5 people. It is Made Overseas and comes in at Unknown Size. It generally has Combined or separate shower & toilet."
 categories: ["Adventura Caravans"]
-tags: ["Sleeps 2-5", "Unknown Size", "Unknown Type", "Combined or separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2-5", "Unknown Size", "Unknown Type", "Combined or separate shower & toilet", "Full height", "Price Unknown", "Made Overseas"]
 totalLength: ""
 bodyLength: ""
 totalHeight: ""

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Off Grid 21'9 by Lotus Caravans?"
   ogdescription: "The Lotus Caravans Off Grid 21'9 is classed as Unknown Type, and sleeps 4-5 people. It is Australian made and comes in at 22 ft. It generally has Separate shower & toilet."
 categories: ["Lotus Caravans"]
-tags: ["Sleeps 4-5", "22 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4-5", "22 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "9.192"
 bodyLength: "6.704"
 totalHeight: "3.11"

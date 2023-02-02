@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Journey 12.38 Outback by Jayco?"
   ogdescription: "The Jayco Journey 12.38 Outback is classed as Off Road, and sleeps 2-3 people. It is Australian made and comes in at 13 ft. It generally has No Bathroom or Toilet."
 categories: ["Jayco"]
-tags: ["Sleeps 2-3", "13 ft", "Off Road", "No Bathroom or Toilet", "Pop top", "Under 50k"]
+tags: ["Sleeps 2-3", "13 ft", "Off Road", "No Bathroom or Toilet", "Pop top", "Under 50k", "Australian made"]
 totalLength: "5"
 bodyLength: "3.83"
 totalHeight: "2.67"
@@ -42,5 +42,5 @@ priceRangeMax: "37990"
 urlLink: "https://www.jayco.com.au/range/pop-tops/journey-pop-top/floor-plans/outback/journey-1238-1objy-my22"
 aussieMade: "Australian made"
 noImage: ""
-featured: "feat"
+featured: "no"
 ---

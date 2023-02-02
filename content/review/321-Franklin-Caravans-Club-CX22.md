@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Club CX22 by Franklin Caravans?"
   ogdescription: "The Franklin Caravans Club CX22 is classed as Unknown Type, and sleeps 2 people. It is Australian made and comes in at 23 ft. It generally has Separate shower & toilet."
 categories: ["Franklin Caravans"]
-tags: ["Sleeps 2", "23 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "23 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "8.905"
 bodyLength: "6.87"
 totalHeight: "3.14"

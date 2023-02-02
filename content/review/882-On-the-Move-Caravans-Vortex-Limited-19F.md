@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Vortex Limited 19F by On the Move Caravans?"
   ogdescription: "The On the Move Caravans Vortex Limited 19F is classed as Off Road, and sleeps 2 people. It is Australian made and comes in at 20 ft. It generally has Separate shower & toilet."
 categories: ["On the Move Caravans"]
-tags: ["Sleeps 2", "20 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "20 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "6.14"
 totalHeight: ""

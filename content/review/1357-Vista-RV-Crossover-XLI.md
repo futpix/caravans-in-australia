@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Crossover XLI by Vista RV?"
   ogdescription: "The Vista RV Crossover XLI is classed as Off Road, and sleeps 2 people. It is Made Overseas and comes in at Unknown Size. It generally has No Bathroom or Toilet."
 categories: ["Vista RV"]
-tags: ["Sleeps 2", "Unknown Size", "Off Road", "No Bathroom or Toilet", "Pop up", "Price Unknown"]
+tags: ["Sleeps 2", "Unknown Size", "Off Road", "No Bathroom or Toilet", "Pop up", "Price Unknown", "Made Overseas"]
 totalLength: "5.3"
 bodyLength: ""
 totalHeight: "2.15"
@@ -42,6 +42,6 @@ priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "https://www.vistarv.com.au/crossover-xli"
 aussieMade: "Made Overseas"
-noImage: ""
+noImage: "r"
 featured: "no"
 ---

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy SRC-20F by Snowy River Caravans?"
   ogdescription: "The Snowy River Caravans SRC-20F is classed as Semi Off Road, and sleeps 4 people. It is Made Overseas and comes in at 20 ft. It generally has Separate shower & toilet."
 categories: ["Snowy River Caravans"]
-tags: ["Sleeps 4", "20 ft", "Semi Off Road", "Separate shower & toilet", "Full height", "60 - 70k"]
+tags: ["Sleeps 4", "20 ft", "Semi Off Road", "Separate shower & toilet", "Full height", "60 - 70k", "Made Overseas"]
 totalLength: "7.88"
 bodyLength: "6.06"
 totalHeight: "3.07"

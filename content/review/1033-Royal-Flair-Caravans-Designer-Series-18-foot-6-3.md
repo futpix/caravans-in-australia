@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Designer Series 18'6-3 by Royal Flair Caravans?"
   ogdescription: "The Royal Flair Caravans Designer Series 18'6-3 is classed as Unknown Type, and sleeps 2 people. It is Australian made and comes in at 18 ft. It generally has Separate shower & toilet."
 categories: ["Royal Flair Caravans"]
-tags: ["Sleeps 2", "18 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "18 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "5.64"
 totalHeight: "2.87"

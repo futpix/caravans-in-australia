@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy SCT 16-Max Off Road RV - 4 berth by Swag Camper Trailers?"
   ogdescription: "The Swag Camper Trailers SCT 16-Max Off Road RV - 4 berth is classed as Off Road, and sleeps 4 people. It is Made Overseas and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["Swag Camper Trailers"]
-tags: ["Sleeps 4", "Unknown Size", "Off Road", "Combined shower & toilet", "Full height", "60 - 70k"]
+tags: ["Sleeps 4", "Unknown Size", "Off Road", "Combined shower & toilet", "Full height", "60 - 70k", "Made Overseas"]
 totalLength: "7.2"
 bodyLength: ""
 totalHeight: "3.05"

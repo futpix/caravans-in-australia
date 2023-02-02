@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Cruiser by Avan?"
   ogdescription: "The Avan Cruiser is classed as Unknown Type, and sleeps 2-3 people. It is Made Overseas and comes in at 13 ft. It generally has No Bathroom or Toilet."
 categories: ["Avan"]
-tags: ["Sleeps 2-3", "13 ft", "Unknown Type", "No Bathroom or Toilet", "Folding roof", "Price Unknown"]
+tags: ["Sleeps 2-3", "13 ft", "Unknown Type", "No Bathroom or Toilet", "Folding roof", "Price Unknown", "Made Overseas"]
 totalLength: "5.18"
 bodyLength: "3.93"
 totalHeight: "1.72"

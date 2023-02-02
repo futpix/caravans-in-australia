@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy V1 by Viscount Caravans?"
   ogdescription: "The Viscount Caravans V1 is classed as On Road, and sleeps 2 people. It is Australian made and comes in at 18 ft. It generally has Separate shower & toilet."
 categories: ["Viscount Caravans"]
-tags: ["Sleeps 2", "18 ft", "On Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "18 ft", "On Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "7.35"
 bodyLength: "5.5"
 totalHeight: "3.07"

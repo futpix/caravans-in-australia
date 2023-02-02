@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy X Factor Off Road 210 by Franklin Caravans?"
   ogdescription: "The Franklin Caravans X Factor Off Road 210 is classed as Off Road, and sleeps 4 people. It is Australian made and comes in at 22 ft. It generally has Separate shower & toilet."
 categories: ["Franklin Caravans"]
-tags: ["Sleeps 4", "22 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4", "22 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "8.88"
 bodyLength: "6.66"
 totalHeight: "3.06"

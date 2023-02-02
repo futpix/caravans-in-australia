@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Toura Family 22ft 2 by Millard Caravans?"
   ogdescription: "The Millard Caravans Toura Family 22ft 2 is classed as Unknown Type, and sleeps 4-5 people. It is Australian made and comes in at 23 ft. It generally has Separate shower & toilet."
 categories: ["Millard Caravans"]
-tags: ["Sleeps 4-5", "23 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4-5", "23 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "9.155"
 bodyLength: "6.91"
 totalHeight: "2.975"

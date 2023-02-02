@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Spirit 2200 by Supreme Caravans?"
   ogdescription: "The Supreme Caravans Spirit 2200 is classed as Semi Off Road, and sleeps 2 people. It is Australian made and comes in at 22 ft. It generally has Separate shower & toilet."
 categories: ["Supreme Caravans"]
-tags: ["Sleeps 2", "22 ft", "Semi Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "22 ft", "Semi Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "6.7"
 totalHeight: ""

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy E600 SERIES - 13'-16'.9 by Evernew Caravans?"
   ogdescription: "The Evernew Caravans E600 SERIES - 13'-16'.9 is classed as Optional Off Road, and sleeps 2 people. It is Australian made and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["Evernew Caravans"]
-tags: ["Sleeps 2", "Unknown Size", "Optional Off Road", "Combined shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "Unknown Size", "Optional Off Road", "Combined shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: ""
 totalHeight: ""

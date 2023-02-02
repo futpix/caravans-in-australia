@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Razorback Rogue by Roma Caravans?"
   ogdescription: "The Roma Caravans Razorback Rogue is classed as Off Road, and sleeps Bed Options people. It is Australian made and comes in at Unknown Size. It generally has Combined or separate shower & toilet."
 categories: ["Roma Caravans"]
-tags: ["Sleeps Bed Options", "Unknown Size", "Off Road", "Combined or separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps Bed Options", "Unknown Size", "Off Road", "Combined or separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: ""
 totalHeight: ""

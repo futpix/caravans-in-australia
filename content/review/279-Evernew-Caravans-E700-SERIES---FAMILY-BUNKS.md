@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy E700 SERIES - FAMILY/BUNKS by Evernew Caravans?"
   ogdescription: "The Evernew Caravans E700 SERIES - FAMILY/BUNKS is classed as Optional Off Road, and sleeps Bed Options people. It is Australian made and comes in at Unknown Size. It generally has Optional Bathroom + Toilet."
 categories: ["Evernew Caravans"]
-tags: ["Sleeps Bed Options", "Unknown Size", "Optional Off Road", "Optional Bathroom + Toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps Bed Options", "Unknown Size", "Optional Off Road", "Optional Bathroom + Toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: ""
 totalHeight: ""
@@ -41,6 +41,6 @@ priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "https://www.evernewcaravans.com.au/evernew-range/e700-series-family-bunks"
 aussieMade: "Australian made"
-noImage: ""
+noImage: "r"
 featured: "no"
 ---

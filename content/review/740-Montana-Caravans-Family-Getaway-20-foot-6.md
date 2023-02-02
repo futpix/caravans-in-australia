@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Family Getaway 20'6 by Montana Caravans?"
   ogdescription: "The Montana Caravans Family Getaway 20'6 is classed as Semi Off Road, and sleeps 4 people. It is Australian made and comes in at 21 ft. It generally has Separate shower & toilet."
 categories: ["Montana Caravans"]
-tags: ["Sleeps 4", "21 ft", "Semi Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4", "21 ft", "Semi Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "6.25"
 totalHeight: ""

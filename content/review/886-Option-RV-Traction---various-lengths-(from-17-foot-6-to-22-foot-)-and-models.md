@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Traction - various lengths (from 17'6 to 22') and models by Option RV?"
   ogdescription: "The Option RV Traction - various lengths (from 17'6 to 22') and models is classed as Off Road, and sleeps Bed Options people. It is Australian made and comes in at Unknown Size. It generally has Separate shower & toilet."
 categories: ["Option RV"]
-tags: ["Sleeps Bed Options", "Unknown Size", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps Bed Options", "Unknown Size", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: ""
 totalHeight: ""
@@ -41,6 +41,6 @@ priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "https://optionrv.com.au/caravan-models/traction-2/"
 aussieMade: "Australian made"
-noImage: ""
+noImage: "r"
 featured: "no"
 ---

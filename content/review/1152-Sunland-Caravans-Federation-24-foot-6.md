@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Federation 24'6 by Sunland Caravans?"
   ogdescription: "The Sunland Caravans Federation 24'6 is classed as Off Road, and sleeps 2 people. It is Australian made and comes in at 25 ft. It generally has Separate shower & toilet."
 categories: ["Sunland Caravans"]
-tags: ["Sleeps 2", "25 ft", "Off Road", "Separate shower & toilet", "Full height", "Over 100k"]
+tags: ["Sleeps 2", "25 ft", "Off Road", "Separate shower & toilet", "Full height", "Over 100k", "Australian made"]
 totalLength: ""
 bodyLength: "7.47"
 totalHeight: ""
@@ -41,6 +41,6 @@ priceRangeMin: "199000"
 priceRangeMax: "199000"
 urlLink: ""
 aussieMade: "Australian made"
-noImage: ""
+noImage: "r"
 featured: "no"
 ---

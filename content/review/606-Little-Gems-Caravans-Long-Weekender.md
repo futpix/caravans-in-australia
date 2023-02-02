@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Long Weekender by Little Gems Caravans?"
   ogdescription: "The Little Gems Caravans Long Weekender is classed as On Road, and sleeps 4 people. It is Made Overseas and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["Little Gems Caravans"]
-tags: ["Sleeps 4", "Unknown Size", "On Road", "Combined shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4", "Unknown Size", "On Road", "Combined shower & toilet", "Full height", "Price Unknown", "Made Overseas"]
 totalLength: "6"
 bodyLength: ""
 totalHeight: "2.46"

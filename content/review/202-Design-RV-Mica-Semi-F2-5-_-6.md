@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Mica Semi F2-5 & 6 by Design RV?"
   ogdescription: "The Design RV Mica Semi F2-5 & 6 is classed as Semi Off Road, and sleeps 4-6 people. It is Australian made and comes in at 22 ft. It generally has Separate shower & toilet."
 categories: ["Design RV"]
-tags: ["Sleeps 4-6", "22 ft", "Semi Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4-6", "22 ft", "Semi Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "9.02"
 bodyLength: "6.65"
 totalHeight: "3"

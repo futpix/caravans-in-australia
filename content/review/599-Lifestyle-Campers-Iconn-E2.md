@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Iconn E2 by Lifestyle Campers?"
   ogdescription: "The Lifestyle Campers Iconn E2 is classed as Off Road, and sleeps 2-4 people. It is Made Overseas and comes in at Unknown Size. It generally has No Bathroom or Toilet."
 categories: ["Lifestyle Campers"]
-tags: ["Sleeps 2-4", "Unknown Size", "Off Road", "No Bathroom or Toilet", "Pop top", "Under 50k"]
+tags: ["Sleeps 2-4", "Unknown Size", "Off Road", "No Bathroom or Toilet", "Pop top", "Under 50k", "Made Overseas"]
 totalLength: "5.5"
 bodyLength: ""
 totalHeight: "2.1"
@@ -42,5 +42,5 @@ priceRangeMax: "45950"
 urlLink: "https://www.lifestylecampers.com.au/our-range/iconn-e2/"
 aussieMade: "Made Overseas"
 noImage: ""
-featured: "feat"
+featured: "no"
 ---

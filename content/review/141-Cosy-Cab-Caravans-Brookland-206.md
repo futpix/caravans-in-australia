@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Brookland 206 by Cosy Cab Caravans?"
   ogdescription: "The Cosy Cab Caravans Brookland 206 is classed as Unknown Type, and sleeps Bed Options people. It is Australian made and comes in at 21 ft. It generally has Separate shower & toilet."
 categories: ["Cosy Cab Caravans"]
-tags: ["Sleeps Bed Options", "21 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps Bed Options", "21 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "6.25"
 totalHeight: ""

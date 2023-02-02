@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy 2300 Caravan Models by Goldstream RV?"
   ogdescription: "The Goldstream RV 2300 Caravan Models is classed as Optional Off Road, and sleeps 2-4 people. It is Made Overseas and comes in at 23 ft. It generally has Option (seperate or combined)."
 categories: ["Goldstream RV"]
-tags: ["Sleeps 2-4", "23 ft", "Optional Off Road", "Option (seperate or combined)", "Full height", "Price Unknown"]
+tags: ["Sleeps 2-4", "23 ft", "Optional Off Road", "Option (seperate or combined)", "Full height", "Price Unknown", "Made Overseas"]
 totalLength: "8.58"
 bodyLength: "6.98"
 totalHeight: "2.98"

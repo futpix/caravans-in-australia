@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy 1860 Models by Goldstream RV?"
   ogdescription: "The Goldstream RV 1860 Models is classed as Optional Off Road, and sleeps 2-4 people. It is Made Overseas and comes in at 19 ft. It generally has Option (seperate or combined)."
 categories: ["Goldstream RV"]
-tags: ["Sleeps 2-4", "19 ft", "Optional Off Road", "Option (seperate or combined)", "Pop top", "Price Unknown"]
+tags: ["Sleeps 2-4", "19 ft", "Optional Off Road", "Option (seperate or combined)", "Pop top", "Price Unknown", "Made Overseas"]
 totalLength: "8.27"
 bodyLength: "5.72"
 totalHeight: "2.35"

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Odyssey by Australian Off Road (AOR)?"
   ogdescription: "The Australian Off Road (AOR) Odyssey is classed as Off Road, and sleeps 2 people. It is Australian made and comes in at 12 ft. It generally has No Bathroom or Toilet."
 categories: ["Australian Off Road (AOR)"]
-tags: ["Sleeps 2", "12 ft", "Off Road", "No Bathroom or Toilet", "Pop top", "80 - 100k"]
+tags: ["Sleeps 2", "12 ft", "Off Road", "No Bathroom or Toilet", "Pop top", "80 - 100k", "Australian made"]
 totalLength: "5.4"
 bodyLength: "3.6"
 totalHeight: "2.335"

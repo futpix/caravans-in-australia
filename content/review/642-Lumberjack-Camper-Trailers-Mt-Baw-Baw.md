@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Mt Baw Baw by Lumberjack Camper Trailers?"
   ogdescription: "The Lumberjack Camper Trailers Mt Baw Baw is classed as Off Road, and sleeps 2 people. It is Made Overseas and comes in at 18 ft. It generally has Separate shower & toilet."
 categories: ["Lumberjack Camper Trailers"]
-tags: ["Sleeps 2", "18 ft", "Off Road", "Separate shower & toilet", "Pop top", "Price Unknown"]
+tags: ["Sleeps 2", "18 ft", "Off Road", "Separate shower & toilet", "Pop top", "Price Unknown", "Made Overseas"]
 totalLength: "7.55"
 bodyLength: "5.55"
 totalHeight: "2.7"

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Longreach Family FCE 20'6 by Sunland Caravans?"
   ogdescription: "The Sunland Caravans Longreach Family FCE 20'6 is classed as Off Road, and sleeps 4 people. It is Australian made and comes in at 21 ft. It generally has Separate shower & toilet."
 categories: ["Sunland Caravans"]
-tags: ["Sleeps 4", "21 ft", "Off Road", "Separate shower & toilet", "Full height", "Over 100k"]
+tags: ["Sleeps 4", "21 ft", "Off Road", "Separate shower & toilet", "Full height", "Over 100k", "Australian made"]
 totalLength: ""
 bodyLength: "6.25"
 totalHeight: ""

@@ -4,6 +4,7 @@ date: 2023-01-10T22:00:09+11:00
 slug: "confirmation"
 weight: 1
 draft: false
+section: "contact"
 author: Sean
 meta:
   title: "Someone requested a listing edit at Caravans in Australia"

@@ -49,18 +49,25 @@
 		
 		<div class="col-md-8 order-first order-md-last">
 			<div class="row">
-			{{if eq .Params.noimage "r" }}
-<div class="">
-	<img src="/images/caravans/listPlace.jpg" class="img-fluid" height="1000" width="800" alt="Article Image" />
-</div>
-{{else}}
-<div class="">
 
-	
 
-	<img src="/images/caravans/{{ .Params.id }}.jpg" class="img-fluid" height="1000" width="800" alt="Article Image" />
-</div>
-{{end}}
+
+
+				{{if eq .Params.noimage "r" }}
+				<div class="">
+					<img src="/images/caravans/listPlace.jpg" class="img-fluid" height="1000" width="800" alt="Article Image" />
+				</div>
+				{{else}}
+
+			
+					<img src="/images/caravans-900x800/{{ .Params.id }}.jpg" class="img-fluid" height="1000" width="800" alt="Article Image" />
+			
+
+				{{ end }}
+
+
+
+
 		</div>
 	</div></div>
 
@@ -368,9 +375,12 @@ Top 10 Caravans in Australia? Is it in the Top 20 Caravans in Australia? Well, t
  							{{ end }}
  							{{ end }}
  						</div>
-				
-						<div class="row mb-5">
+
+						 <div class="row mb-5 mt-2"></div>
+						<hr />
+						<div class="row mb-5 mt-5">
 							<div class="col-sm-6">{{- partial "1-col-blog-thumb-hot" . -}}</div>
+
 							<div class="col-sm-6"> {{ range where .Site.Pages "Params.section" "review" | shuffle | after 1 | first 1 }}
 								{{- partial "listing-template.html" . -}}
 								{{ end }}</div>

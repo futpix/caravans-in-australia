@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Winton 16 Twin by EzyTrail Campers?"
   ogdescription: "The EzyTrail Campers Winton 16 Twin is classed as On Road, and sleeps 2 people. It is Made Overseas and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["EzyTrail Campers"]
-tags: ["Sleeps 2", "Unknown Size", "On Road", "Combined shower & toilet", "Full height", "60 - 70k"]
+tags: ["Sleeps 2", "Unknown Size", "On Road", "Combined shower & toilet", "Full height", "60 - 70k", "Made Overseas"]
 totalLength: "6.47"
 bodyLength: ""
 totalHeight: "3.01"

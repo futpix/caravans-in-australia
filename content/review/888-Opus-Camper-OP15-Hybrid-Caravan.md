@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy OP15 Hybrid Caravan by Opus Camper?"
   ogdescription: "The Opus Camper OP15 Hybrid Caravan is classed as Off Road, and sleeps 2-4 people. It is Made Overseas and comes in at Unknown Size. It generally has Combined or separate shower & toilet."
 categories: ["Opus Camper"]
-tags: ["Sleeps 2-4", "Unknown Size", "Off Road", "Combined or separate shower & toilet", "Pop top", "60 - 70k"]
+tags: ["Sleeps 2-4", "Unknown Size", "Off Road", "Combined or separate shower & toilet", "Pop top", "60 - 70k", "Made Overseas"]
 totalLength: "6.75"
 bodyLength: ""
 totalHeight: "2.685"
@@ -42,5 +42,5 @@ priceRangeMax: "60999"
 urlLink: "https://www.opuscamper.com.au/op15-hybrid-caravan/"
 aussieMade: "Made Overseas"
 noImage: ""
-featured: "no"
+featured: "feat"
 ---

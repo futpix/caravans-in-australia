@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Conifer 5516 by Willow RV?"
   ogdescription: "The Willow RV Conifer 5516 is classed as Semi Off Road, and sleeps 4-5 people. It is Australian made and comes in at 19 ft. It generally has Separate shower & toilet."
 categories: ["Willow RV"]
-tags: ["Sleeps 4-5", "19 ft", "Semi Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4-5", "19 ft", "Semi Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "7.84"
 bodyLength: "5.935"
 totalHeight: "2.88"

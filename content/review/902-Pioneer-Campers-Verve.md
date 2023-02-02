@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Verve by Pioneer Campers?"
   ogdescription: "The Pioneer Campers Verve is classed as Off Road, and sleeps 2-4 people. It is Australian made and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["Pioneer Campers"]
-tags: ["Sleeps 2-4", "Unknown Size", "Off Road", "Combined shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2-4", "Unknown Size", "Off Road", "Combined shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "6.34"
 bodyLength: ""
 totalHeight: "2.82"

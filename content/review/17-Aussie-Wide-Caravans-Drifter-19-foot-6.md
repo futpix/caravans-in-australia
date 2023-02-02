@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Drifter 19'6 by Aussie Wide Caravans?"
   ogdescription: "The Aussie Wide Caravans Drifter 19'6 is classed as Unknown Type, and sleeps 2 people. It is Made Overseas and comes in at 19 ft. It generally has Separate shower & toilet."
 categories: ["Aussie Wide Caravans"]
-tags: ["Sleeps 2", "19 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "19 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Made Overseas"]
 totalLength: ""
 bodyLength: "5.94"
 totalHeight: ""

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy 1800 Models by Goldstream RV?"
   ogdescription: "The Goldstream RV 1800 Models is classed as Optional Off Road, and sleeps 2-4 people. It is Made Overseas and comes in at 18 ft. It generally has Option (seperate or combined)."
 categories: ["Goldstream RV"]
-tags: ["Sleeps 2-4", "18 ft", "Optional Off Road", "Option (seperate or combined)", "Pop top", "Price Unknown"]
+tags: ["Sleeps 2-4", "18 ft", "Optional Off Road", "Option (seperate or combined)", "Pop top", "Price Unknown", "Made Overseas"]
 totalLength: "7.72"
 bodyLength: "5.52"
 totalHeight: "2.35"

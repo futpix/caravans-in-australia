@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy 650 Tourer by Golf Caravans?"
   ogdescription: "The Golf Caravans 650 Tourer is classed as Unknown Type, and sleeps 5-7 people. It is Australian made and comes in at 21 ft. It generally has Separate shower & toilet."
 categories: ["Golf Caravans"]
-tags: ["Sleeps 5-7", "21 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 5-7", "21 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "8.87"
 bodyLength: "6.5"
 totalHeight: "3"

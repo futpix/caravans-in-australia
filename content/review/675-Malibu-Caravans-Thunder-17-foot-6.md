@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Thunder 17'6 by Malibu Caravans?"
   ogdescription: "The Malibu Caravans Thunder 17'6 is classed as On Road, and sleeps 2 people. It is Australian made and comes in at 18 ft. It generally has Separate shower & toilet."
 categories: ["Malibu Caravans"]
-tags: ["Sleeps 2", "18 ft", "On Road", "Separate shower & toilet", "Pop top", "Price Unknown"]
+tags: ["Sleeps 2", "18 ft", "On Road", "Separate shower & toilet", "Pop top", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "5.35"
 totalHeight: ""
@@ -41,6 +41,6 @@ priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "https://malibucaravans.com.au/models/poptop-thunder/"
 aussieMade: "Australian made"
-noImage: ""
+noImage: "r"
 featured: "no"
 ---

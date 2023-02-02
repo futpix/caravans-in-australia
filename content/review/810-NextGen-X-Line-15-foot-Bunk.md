@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy X-Line 15' Bunk by NextGen?"
   ogdescription: "The NextGen X-Line 15' Bunk is classed as Unknown Type, and sleeps 4 people. It is Australian made and comes in at 15 ft. It generally has Combined shower & toilet."
 categories: ["NextGen"]
-tags: ["Sleeps 4", "15 ft", "Unknown Type", "Combined shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4", "15 ft", "Unknown Type", "Combined shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "4.57"
 totalHeight: ""
@@ -41,6 +41,6 @@ priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "https://www.nextgencaravans.com.au/x-line/"
 aussieMade: "Australian made"
-noImage: ""
+noImage: "r"
 featured: "no"
 ---

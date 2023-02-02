@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Xscape 19'6 by Spinfex?"
   ogdescription: "The Spinfex Xscape 19'6 is classed as Off Road, and sleeps 2 people. It is Australian made and comes in at 20 ft. It generally has Separate shower & toilet."
 categories: ["Spinfex"]
-tags: ["Sleeps 2", "20 ft", "Off Road", "Separate shower & toilet", "Full height", "Over 100k"]
+tags: ["Sleeps 2", "20 ft", "Off Road", "Separate shower & toilet", "Full height", "Over 100k", "Australian made"]
 totalLength: "8.544"
 bodyLength: "5.978"
 totalHeight: "2.98"

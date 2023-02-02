@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Aurora by Australian Off Road (AOR)?"
   ogdescription: "The Australian Off Road (AOR) Aurora is classed as Off Road, and sleeps 2-3 people. It is Australian made and comes in at 21 ft. It generally has Separate shower & toilet."
 categories: ["Australian Off Road (AOR)"]
-tags: ["Sleeps 2-3", "21 ft", "Off Road", "Separate shower & toilet", "Full height", "Over 100k"]
+tags: ["Sleeps 2-3", "21 ft", "Off Road", "Separate shower & toilet", "Full height", "Over 100k", "Australian made"]
 totalLength: "7.925"
 bodyLength: "6.285"
 totalHeight: "2.915"

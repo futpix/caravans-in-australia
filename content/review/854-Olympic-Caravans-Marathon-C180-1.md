@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Marathon C180-1 by Olympic Caravans?"
   ogdescription: "The Olympic Caravans Marathon C180-1 is classed as Unknown Type, and sleeps 5 people. It is Made Overseas and comes in at Unknown Size. It generally has No Bathroom or Toilet."
 categories: ["Olympic Caravans"]
-tags: ["Sleeps 5", "Unknown Size", "Unknown Type", "No Bathroom or Toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 5", "Unknown Size", "Unknown Type", "No Bathroom or Toilet", "Full height", "Price Unknown", "Made Overseas"]
 totalLength: ""
 bodyLength: ""
 totalHeight: ""

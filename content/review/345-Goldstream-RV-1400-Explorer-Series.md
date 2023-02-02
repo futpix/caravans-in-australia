@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy 1400 Explorer Series by Goldstream RV?"
   ogdescription: "The Goldstream RV 1400 Explorer Series is classed as Optional Off Road, and sleeps 2 people. It is Made Overseas and comes in at 14 ft. It generally has Option - combined toilet & shower."
 categories: ["Goldstream RV"]
-tags: ["Sleeps 2", "14 ft", "Optional Off Road", "Option - combined toilet & shower", "Pop top", "Price Unknown"]
+tags: ["Sleeps 2", "14 ft", "Optional Off Road", "Option - combined toilet & shower", "Pop top", "Price Unknown", "Made Overseas"]
 totalLength: "6.45"
 bodyLength: "4.4"
 totalHeight: "2.25"

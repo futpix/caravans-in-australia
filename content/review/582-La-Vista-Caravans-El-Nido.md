@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy El Nido by La Vista Caravans?"
   ogdescription: "The La Vista Caravans El Nido is classed as Unknown Type, and sleeps 4-6 people. It is Australian made and comes in at Unknown Size. It generally has Separate shower & toilet."
 categories: ["La Vista Caravans"]
-tags: ["Sleeps 4-6", "Unknown Size", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4-6", "Unknown Size", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "8.5"
 bodyLength: ""
 totalHeight: "3.1"

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy 19ft Sundowner F by Southern Cross Camper Trailers?"
   ogdescription: "The Southern Cross Camper Trailers 19ft Sundowner F is classed as Off Road, and sleeps 5-6 people. It is Made Overseas and comes in at Unknown Size. It generally has Separate shower & toilet."
 categories: ["Southern Cross Camper Trailers"]
-tags: ["Sleeps 5-6", "Unknown Size", "Off Road", "Separate shower & toilet", "Full height", "80 - 100k"]
+tags: ["Sleeps 5-6", "Unknown Size", "Off Road", "Separate shower & toilet", "Full height", "80 - 100k", "Made Overseas"]
 totalLength: "8.325"
 bodyLength: ""
 totalHeight: "3.156"

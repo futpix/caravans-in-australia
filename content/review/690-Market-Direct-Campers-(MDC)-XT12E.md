@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy XT12E by Market Direct Campers (MDC)?"
   ogdescription: "The Market Direct Campers (MDC) XT12E is classed as Off Road, and sleeps 2 people. It is Made Overseas and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["Market Direct Campers (MDC)"]
-tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "50 - 60k"]
+tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "50 - 60k", "Made Overseas"]
 totalLength: "5.52"
 bodyLength: ""
 totalHeight: "2.48"
@@ -42,5 +42,5 @@ priceRangeMax: "54990"
 urlLink: "https://www.marketdirect.com.au/product/mdc-xt12e-electric-opening-offroad-caravan/"
 aussieMade: "Made Overseas"
 noImage: ""
-featured: "feat"
+featured: "no"
 ---

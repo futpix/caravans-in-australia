@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy SRC-14 by Snowy River Caravans?"
   ogdescription: "The Snowy River Caravans SRC-14 is classed as Semi Off Road, and sleeps 2 people. It is Made Overseas and comes in at 14 ft. It generally has Combined shower & toilet."
 categories: ["Snowy River Caravans"]
-tags: ["Sleeps 2", "14 ft", "Semi Off Road", "Combined shower & toilet", "Full height", "Under 50k"]
+tags: ["Sleeps 2", "14 ft", "Semi Off Road", "Combined shower & toilet", "Full height", "Under 50k", "Made Overseas"]
 totalLength: "6.2"
 bodyLength: "4.31"
 totalHeight: "3.07"
@@ -42,5 +42,5 @@ priceRangeMax: "49990"
 urlLink: "https://snowyrivercaravans.com.au/caravan/src-fourteen/"
 aussieMade: "Made Overseas"
 noImage: ""
-featured: "feat"
+featured: "no"
 ---

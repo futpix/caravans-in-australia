@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Excalibur Castle by Crusader Caravans?"
   ogdescription: "The Crusader Caravans Excalibur Castle is classed as Unknown Type, and sleeps 4-6 people. It is Australian made and comes in at 23 ft. It generally has Separate shower & toilet."
 categories: ["Crusader Caravans"]
-tags: ["Sleeps 4-6", "23 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4-6", "23 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "8.916"
 bodyLength: "7.066"
 totalHeight: "3.08"

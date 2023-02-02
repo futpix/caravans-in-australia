@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Mt Buffalo 16ft Compact by Lumberjack Camper Trailers?"
   ogdescription: "The Lumberjack Camper Trailers Mt Buffalo 16ft Compact is classed as Off Road, and sleeps 4 people. It is Made Overseas and comes in at 15 ft. It generally has Combined shower & toilet."
 categories: ["Lumberjack Camper Trailers"]
-tags: ["Sleeps 4", "15 ft", "Off Road", "Combined shower & toilet", "Pop top", "Price Unknown"]
+tags: ["Sleeps 4", "15 ft", "Off Road", "Combined shower & toilet", "Pop top", "Price Unknown", "Made Overseas"]
 totalLength: "7.05"
 bodyLength: "4.6"
 totalHeight: "2.7"

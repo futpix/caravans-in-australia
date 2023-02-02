@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Garrison by Salute Caravans?"
   ogdescription: "The Salute Caravans Garrison is classed as Semi Off Road, and sleeps 2 people. It is Australian made and comes in at 20 ft. It generally has Separate shower & toilet."
 categories: ["Salute Caravans"]
-tags: ["Sleeps 2", "20 ft", "Semi Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "20 ft", "Semi Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "8.35"
 bodyLength: "5.96"
 totalHeight: "3.1"

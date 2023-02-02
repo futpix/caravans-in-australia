@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy TE5 Topender 21ft by Kedron?"
   ogdescription: "The Kedron TE5 Topender 21ft is classed as Off Road, and sleeps 2 people. It is Australian made and comes in at 21 ft. It generally has Separate shower & toilet."
 categories: ["Kedron"]
-tags: ["Sleeps 2", "21 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "21 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "6.4"
 totalHeight: ""

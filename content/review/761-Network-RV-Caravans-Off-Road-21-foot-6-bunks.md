@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Off Road 21'6 bunks by Network RV Caravans?"
   ogdescription: "The Network RV Caravans Off Road 21'6 bunks is classed as Off Road, and sleeps 4-5 people. It is Australian made and comes in at 21 ft. It generally has Separate shower & toilet."
 categories: ["Network RV Caravans"]
-tags: ["Sleeps 4-5", "21 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4-5", "21 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "6.55"
 totalHeight: ""

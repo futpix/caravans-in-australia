@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Hybrid Trakker Exp15 Family by Lyfe RV?"
   ogdescription: "The Lyfe RV Hybrid Trakker Exp15 Family is classed as Off Road, and sleeps 4 people. It is Australian made and comes in at 15 ft. It generally has Combined shower & toilet."
 categories: ["Lyfe RV"]
-tags: ["Sleeps 4", "15 ft", "Off Road", "Combined shower & toilet", "Pop top", "Price Unknown"]
+tags: ["Sleeps 4", "15 ft", "Off Road", "Combined shower & toilet", "Pop top", "Price Unknown", "Australian made"]
 totalLength: "7.095"
 bodyLength: "4.705"
 totalHeight: "2.572"

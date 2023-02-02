@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy 577 Tourer by Golf Caravans?"
   ogdescription: "The Golf Caravans 577 Tourer is classed as Unknown Type, and sleeps 5-7 people. It is Australian made and comes in at Unknown Size. It generally has Separate shower & toilet."
 categories: ["Golf Caravans"]
-tags: ["Sleeps 5-7", "Unknown Size", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 5-7", "Unknown Size", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "8.15"
 bodyLength: ""
 totalHeight: "3"

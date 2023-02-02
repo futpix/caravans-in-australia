@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Dominator by River Caravans?"
   ogdescription: "The River Caravans Dominator is classed as Off Road, and sleeps 2 people. It is Made Overseas and comes in at Unknown Size. It generally has Separate shower & toilet."
 categories: ["River Caravans"]
-tags: ["Sleeps 2", "Unknown Size", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "Unknown Size", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Made Overseas"]
 totalLength: ""
 bodyLength: ""
 totalHeight: ""

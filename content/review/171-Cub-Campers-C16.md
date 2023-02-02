@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy C16 by Cub Campers?"
   ogdescription: "The Cub Campers C16 is classed as Off Road, and sleeps 2 people. It is Australian made and comes in at 18 ft. It generally has Combined shower & toilet."
 categories: ["Cub Campers"]
-tags: ["Sleeps 2", "18 ft", "Off Road", "Combined shower & toilet", "Full height", "Over 100k"]
+tags: ["Sleeps 2", "18 ft", "Off Road", "Combined shower & toilet", "Full height", "Over 100k", "Australian made"]
 totalLength: "7.45"
 bodyLength: "5.6"
 totalHeight: "2.92"

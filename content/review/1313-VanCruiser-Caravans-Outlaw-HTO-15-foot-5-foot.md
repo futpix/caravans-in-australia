@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Outlaw HTO 15'5 by VanCruiser Caravans?"
   ogdescription: "The VanCruiser Caravans Outlaw HTO 15'5 is classed as Off Road, and sleeps 2 people. It is Australian made and comes in at 15 ft. It generally has Separate shower & toilet."
 categories: ["VanCruiser Caravans"]
-tags: ["Sleeps 2", "15 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "15 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "4.7"
 totalHeight: ""

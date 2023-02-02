@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy ECX-17 by Elross Caravans?"
   ogdescription: "The Elross Caravans ECX-17 is classed as Off Road, and sleeps 2 people. It is Australian made and comes in at 17 ft. It generally has Separate shower & toilet."
 categories: ["Elross Caravans"]
-tags: ["Sleeps 2", "17 ft", "Off Road", "Separate shower & toilet", "Full height", "Over 100k"]
+tags: ["Sleeps 2", "17 ft", "Off Road", "Separate shower & toilet", "Full height", "Over 100k", "Australian made"]
 totalLength: "7.595"
 bodyLength: "5.18"
 totalHeight: "3.1"

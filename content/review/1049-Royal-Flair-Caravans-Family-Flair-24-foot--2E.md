@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Family Flair 24'-2E by Royal Flair Caravans?"
   ogdescription: "The Royal Flair Caravans Family Flair 24'-2E is classed as Unknown Type, and sleeps 6 people. It is Australian made and comes in at 24 ft. It generally has Separate shower & toilet."
 categories: ["Royal Flair Caravans"]
-tags: ["Sleeps 6", "24 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 6", "24 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "7.315"
 totalHeight: "2.98"

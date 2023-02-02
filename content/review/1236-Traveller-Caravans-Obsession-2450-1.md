@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Obsession 2450-1 by Traveller Caravans?"
   ogdescription: "The Traveller Caravans Obsession 2450-1 is classed as Unknown Type, and sleeps 2 people. It is Australian made and comes in at 25 ft. It generally has Separate shower & toilet."
 categories: ["Traveller Caravans"]
-tags: ["Sleeps 2", "25 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "25 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "7.47"
 totalHeight: ""
@@ -41,6 +41,6 @@ priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "https://www.travellercaravans.com.au/detail/obsession.html"
 aussieMade: "Australian made"
-noImage: ""
+noImage: "r"
 featured: "no"
 ---

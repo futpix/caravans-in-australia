@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy 1500 Remote Series by Goldstream RV?"
   ogdescription: "The Goldstream RV 1500 Remote Series is classed as Optional Off Road, and sleeps 2-4 people. It is Made Overseas and comes in at 15 ft. It generally has Combined shower & toilet (except for bunk layout option)."
 categories: ["Goldstream RV"]
-tags: ["Sleeps 2-4", "15 ft", "Optional Off Road", "Combined shower & toilet (except for bunk layout option)", "Pop top", "Price Unknown"]
+tags: ["Sleeps 2-4", "15 ft", "Optional Off Road", "Combined shower & toilet (except for bunk layout option)", "Pop top", "Price Unknown", "Made Overseas"]
 totalLength: "7.2"
 bodyLength: "4.65"
 totalHeight: "2.25"

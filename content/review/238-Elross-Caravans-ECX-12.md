@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy ECX-12 by Elross Caravans?"
   ogdescription: "The Elross Caravans ECX-12 is classed as Off Road, and sleeps 2 people. It is Australian made and comes in at 12 ft. It generally has No Bathroom or Toilet."
 categories: ["Elross Caravans"]
-tags: ["Sleeps 2", "12 ft", "Off Road", "No Bathroom or Toilet", "Full height", "80 - 100k"]
+tags: ["Sleeps 2", "12 ft", "Off Road", "No Bathroom or Toilet", "Full height", "80 - 100k", "Australian made"]
 totalLength: "6.05"
 bodyLength: "3.65"
 totalHeight: "3.1"

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Joey by Bushranger Campers?"
   ogdescription: "The Bushranger Campers Joey is classed as Unknown Type, and sleeps 2 people. It is Made Overseas and comes in at 15 ft. It generally has No Bathroom or Toilet."
 categories: ["Bushranger Campers"]
-tags: ["Sleeps 2", "15 ft", "Unknown Type", "No Bathroom or Toilet", "Pop up", "Price Unknown"]
+tags: ["Sleeps 2", "15 ft", "Unknown Type", "No Bathroom or Toilet", "Pop up", "Price Unknown", "Made Overseas"]
 totalLength: "5.1"
 bodyLength: "4.5"
 totalHeight: "2.3"

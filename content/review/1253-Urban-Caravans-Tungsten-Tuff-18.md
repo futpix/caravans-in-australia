@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Tungsten Tuff 18 by Urban Caravans?"
   ogdescription: "The Urban Caravans Tungsten Tuff 18 is classed as Semi Off Road, and sleeps 2 people. It is Made Overseas and comes in at 18 ft. It generally has Separate shower & toilet."
 categories: ["Urban Caravans"]
-tags: ["Sleeps 2", "18 ft", "Semi Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "18 ft", "Semi Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Made Overseas"]
 totalLength: ""
 bodyLength: "5.49"
 totalHeight: ""

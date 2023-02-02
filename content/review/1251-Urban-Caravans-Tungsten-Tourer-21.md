@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Tungsten Tourer 21 by Urban Caravans?"
   ogdescription: "The Urban Caravans Tungsten Tourer 21 is classed as Semi Off Road, and sleeps 4 people. It is Made Overseas and comes in at 21 ft. It generally has Separate shower & toilet."
 categories: ["Urban Caravans"]
-tags: ["Sleeps 4", "21 ft", "Semi Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4", "21 ft", "Semi Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Made Overseas"]
 totalLength: ""
 bodyLength: "6.4"
 totalHeight: ""
@@ -41,6 +41,6 @@ priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "https://urbancaravans.com.au/tungsten-tourer/"
 aussieMade: "Made Overseas"
-noImage: ""
+noImage: "r"
 featured: "no"
 ---

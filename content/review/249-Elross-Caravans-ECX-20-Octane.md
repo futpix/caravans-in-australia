@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy ECX-20 Octane by Elross Caravans?"
   ogdescription: "The Elross Caravans ECX-20 Octane is classed as Off Road, and sleeps 2 people. It is Australian made and comes in at 20 ft. It generally has Separate shower & toilet."
 categories: ["Elross Caravans"]
-tags: ["Sleeps 2", "20 ft", "Off Road", "Separate shower & toilet", "Full height", "Over 100k"]
+tags: ["Sleeps 2", "20 ft", "Off Road", "Separate shower & toilet", "Full height", "Over 100k", "Australian made"]
 totalLength: "8.495"
 bodyLength: "6.09"
 totalHeight: "3.15"

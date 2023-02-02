@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy T4 Symphony by Track Trailer?"
   ogdescription: "The Track Trailer T4 Symphony is classed as Off Road, and sleeps 4 people. It is Australian made and comes in at 18 ft. It generally has No Bathroom or Toilet."
 categories: ["Track Trailer"]
-tags: ["Sleeps 4", "18 ft", "Off Road", "No Bathroom or Toilet", "Pop top", "Over 100k"]
+tags: ["Sleeps 4", "18 ft", "Off Road", "No Bathroom or Toilet", "Pop top", "Over 100k", "Australian made"]
 totalLength: "6.575"
 bodyLength: "5.575"
 totalHeight: "2.55"

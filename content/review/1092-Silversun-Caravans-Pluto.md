@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Pluto by Silversun Caravans?"
   ogdescription: "The Silversun Caravans Pluto is classed as Unknown Type, and sleeps 2 people. It is Made Overseas and comes in at Unknown Size. It generally has Separate shower & toilet."
 categories: ["Silversun Caravans"]
-tags: ["Sleeps 2", "Unknown Size", "Unknown Type", "Separate shower & toilet", "Full height", "Under 50k"]
+tags: ["Sleeps 2", "Unknown Size", "Unknown Type", "Separate shower & toilet", "Full height", "Under 50k", "Made Overseas"]
 totalLength: "5.1"
 bodyLength: ""
 totalHeight: "2.55"
@@ -42,5 +42,5 @@ priceRangeMax: "41990"
 urlLink: "https://www.silversuncaravans.com.au/our-range/pluto/"
 aussieMade: "Made Overseas"
 noImage: ""
-featured: "feat"
+featured: "no"
 ---

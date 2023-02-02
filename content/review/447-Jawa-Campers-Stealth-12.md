@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Stealth 12 by Jawa Campers?"
   ogdescription: "The Jawa Campers Stealth 12 is classed as Off Road, and sleeps 2 people. It is Made Overseas and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["Jawa Campers"]
-tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "50 - 60k"]
+tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "50 - 60k", "Made Overseas"]
 totalLength: "5.52"
 bodyLength: ""
 totalHeight: "2.55"

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Wild Shark by Viscount Caravans?"
   ogdescription: "The Viscount Caravans Wild Shark is classed as Semi Off Road, and sleeps Bed Options people. It is Australian made and comes in at Unknown Size. It generally has Unkown."
 categories: ["Viscount Caravans"]
-tags: ["Sleeps Bed Options", "Unknown Size", "Semi Off Road", "Unkown", "Full height", "Price Unknown"]
+tags: ["Sleeps Bed Options", "Unknown Size", "Semi Off Road", "Unkown", "Full height", "Price Unknown", "Australian made"]
 totalLength: "Various"
 bodyLength: ""
 totalHeight: ""

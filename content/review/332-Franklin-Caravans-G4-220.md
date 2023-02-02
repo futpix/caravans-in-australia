@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy G4 220 by Franklin Caravans?"
   ogdescription: "The Franklin Caravans G4 220 is classed as Unknown Type, and sleeps 2 people. It is Australian made and comes in at 22 ft. It generally has Separate shower & toilet."
 categories: ["Franklin Caravans"]
-tags: ["Sleeps 2", "22 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "22 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "6.7"
 totalHeight: ""
@@ -41,6 +41,6 @@ priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "https://franklincaravans.com.au/caravans/g4-220/"
 aussieMade: "Australian made"
-noImage: ""
+noImage: "r"
 featured: "no"
 ---

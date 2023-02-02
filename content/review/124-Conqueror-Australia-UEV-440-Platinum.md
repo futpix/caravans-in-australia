@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy UEV-440 Platinum by Conqueror Australia?"
   ogdescription: "The Conqueror Australia UEV-440 Platinum is classed as Off Road, and sleeps Bed Options people. It is Australian made and comes in at Unknown Size. It generally has No Bathroom or Toilet."
 categories: ["Conqueror Australia"]
-tags: ["Sleeps Bed Options", "Unknown Size", "Off Road", "No Bathroom or Toilet", "Pop up", "Price Unknown"]
+tags: ["Sleeps Bed Options", "Unknown Size", "Off Road", "No Bathroom or Toilet", "Pop up", "Price Unknown", "Australian made"]
 totalLength: "4.74"
 bodyLength: ""
 totalHeight: "2.15"

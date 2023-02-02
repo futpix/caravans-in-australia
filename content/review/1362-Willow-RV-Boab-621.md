@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Boab 621 by Willow RV?"
   ogdescription: "The Willow RV Boab 621 is classed as Off Road, and sleeps 4-5 people. It is Australian made and comes in at 21 ft. It generally has Separate shower & toilet."
 categories: ["Willow RV"]
-tags: ["Sleeps 4-5", "21 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4-5", "21 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "8.59"
 bodyLength: "6.38"
 totalHeight: "2.955"

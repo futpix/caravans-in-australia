@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy RT-X 28 SERIES - 17'6 by Evernew Caravans?"
   ogdescription: "The Evernew Caravans RT-X 28 SERIES - 17'6 is classed as Off Road, and sleeps 2 people. It is Australian made and comes in at 17 ft. It generally has Separate shower & toilet."
 categories: ["Evernew Caravans"]
-tags: ["Sleeps 2", "17 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "17 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "5.33"
 totalHeight: ""
@@ -42,5 +42,5 @@ priceRangeMax: "Contact Seller"
 urlLink: "https://www.evernewcaravans.com.au/evernew-range/rt-x-28-sereies-17"
 aussieMade: "Australian made"
 noImage: ""
-featured: "no"
+featured: "feat"
 ---

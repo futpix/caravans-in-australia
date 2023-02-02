@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Conifer 660 by Willow RV?"
   ogdescription: "The Willow RV Conifer 660 is classed as Semi Off Road, and sleeps 2 people. It is Australian made and comes in at 21 ft. It generally has Separate shower & toilet."
 categories: ["Willow RV"]
-tags: ["Sleeps 2", "21 ft", "Semi Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "21 ft", "Semi Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "8.37"
 bodyLength: "6.38"
 totalHeight: "2.88"

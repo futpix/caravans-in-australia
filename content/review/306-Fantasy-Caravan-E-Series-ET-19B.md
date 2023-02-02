@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy E Series ET-19B by Fantasy Caravan?"
   ogdescription: "The Fantasy Caravan E Series ET-19B is classed as On Road, and sleeps 2-3 people. It is Made Overseas and comes in at Unknown Size. It generally has Separate shower & toilet."
 categories: ["Fantasy Caravan"]
-tags: ["Sleeps 2-3", "Unknown Size", "On Road", "Separate shower & toilet", "Full height", "60 - 70k"]
+tags: ["Sleeps 2-3", "Unknown Size", "On Road", "Separate shower & toilet", "Full height", "60 - 70k", "Made Overseas"]
 totalLength: "7.4"
 bodyLength: ""
 totalHeight: "2.93"

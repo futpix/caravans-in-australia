@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy 11ft Cruiser by Southern Cross Camper Trailers?"
   ogdescription: "The Southern Cross Camper Trailers 11ft Cruiser is classed as Off Road, and sleeps 2 people. It is Made Overseas and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["Southern Cross Camper Trailers"]
-tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "50 - 60k"]
+tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "50 - 60k", "Made Overseas"]
 totalLength: "5.5"
 bodyLength: ""
 totalHeight: "2.52"
@@ -43,5 +43,5 @@ priceRangeMax: "51990"
 urlLink: "https://www.sccampertrailers.com.au/hybrid-caravans/11ft-cruiser-hybrid-off-road-caravan-espresso"
 aussieMade: "Made Overseas"
 noImage: ""
-featured: "feat"
+featured: "no"
 ---

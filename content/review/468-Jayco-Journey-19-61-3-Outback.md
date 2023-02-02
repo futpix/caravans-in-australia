@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Journey 19.61-3 Outback by Jayco?"
   ogdescription: "The Jayco Journey 19.61-3 Outback is classed as Off Road, and sleeps 4-6 people. It is Australian made and comes in at 20 ft. It generally has Combined shower & toilet."
 categories: ["Jayco"]
-tags: ["Sleeps 4-6", "20 ft", "Off Road", "Combined shower & toilet", "Full height", "70 - 80k"]
+tags: ["Sleeps 4-6", "20 ft", "Off Road", "Combined shower & toilet", "Full height", "70 - 80k", "Australian made"]
 totalLength: "7.798"
 bodyLength: "6.175"
 totalHeight: "3.05"

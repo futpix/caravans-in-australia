@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Dakar 186F by Vacationer Caravans?"
   ogdescription: "The Vacationer Caravans Dakar 186F is classed as Off Road, and sleeps 4-5 people. It is Australian made and comes in at Unknown Size. It generally has Separate shower & toilet."
 categories: ["Vacationer Caravans"]
-tags: ["Sleeps 4-5", "Unknown Size", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4-5", "Unknown Size", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: ""
 totalHeight: ""

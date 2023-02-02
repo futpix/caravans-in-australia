@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Pride Platinum 22-4R or 17F by Nova Caravans?"
   ogdescription: "The Nova Caravans Pride Platinum 22-4R or 17F is classed as Unknown Type, and sleeps 2 people. It is Australian made and comes in at 24 ft. It generally has Separate shower & toilet."
 categories: ["Nova Caravans"]
-tags: ["Sleeps 2", "24 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "24 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "9.21"
 bodyLength: "7.29"
 totalHeight: "3.05"

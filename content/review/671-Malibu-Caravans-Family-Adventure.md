@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Family Adventure by Malibu Caravans?"
   ogdescription: "The Malibu Caravans Family Adventure is classed as Unknown Type, and sleeps 5 people. It is Australian made and comes in at Unknown Size. It generally has Separate shower & toilet."
 categories: ["Malibu Caravans"]
-tags: ["Sleeps 5", "Unknown Size", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 5", "Unknown Size", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: ""
 totalHeight: ""

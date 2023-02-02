@@ -14,11 +14,20 @@
   <div class="row">
     <div class="">
       <a href="{{ .RelPermalink }}">
-        {{if eq .Params.noimage "r" }}
-        <img class="card-img" src="/images/caravans/listPlace.jpg" alt="{{ .Title }} Picture">
-        {{else}}
-        <img class="card-img" src="/images/caravans/{{ .Params.id }}.jpg" alt="{{ .Title }} Picture">
-        {{end}}
+       
+
+				{{if eq .Params.noimage "r" }}
+				<img class="card-img" src="/images/caravans/listPlace.jpg" alt="{{ .Title }} Picture" />
+				{{else}}
+
+					<img src="/images/caravans-400x300/{{ .Params.id }}.jpg" class="card-img" alt="{{ .Title }} Picture" />
+				{{ end }}
+
+
+
+
+
+        
            <div class="card-body">
                         <p class="card-text">{{ range .Params.tags }}<span class="badge badge-small text-dark badge-light" href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">- {{ title (replace . "-" " " | strings.FirstUpper)  }}</a></span>{{end}}</p>
                     </div>

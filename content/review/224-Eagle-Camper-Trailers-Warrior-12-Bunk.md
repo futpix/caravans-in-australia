@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Warrior-12 Bunk by Eagle Camper Trailers?"
   ogdescription: "The Eagle Camper Trailers Warrior-12 Bunk is classed as Off Road, and sleeps 4 people. It is Made Overseas and comes in at 12 ft. It generally has No Bathroom or Toilet."
 categories: ["Eagle Camper Trailers"]
-tags: ["Sleeps 4", "12 ft", "Off Road", "No Bathroom or Toilet", "Pop top", "Under 50k"]
+tags: ["Sleeps 4", "12 ft", "Off Road", "No Bathroom or Toilet", "Pop top", "Under 50k", "Made Overseas"]
 totalLength: ""
 bodyLength: "3.66"
 totalHeight: "2.4"
@@ -42,5 +42,5 @@ priceRangeMax: "49800"
 urlLink: "https://www.eaglecampertrailers.com.au/off-road-caravans/warrior-off-road-bunk-bed-hybrid-caravan/"
 aussieMade: "Made Overseas"
 noImage: ""
-featured: "feat"
+featured: "no"
 ---

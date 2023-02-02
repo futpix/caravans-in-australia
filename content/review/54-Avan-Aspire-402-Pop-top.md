@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Aspire 402 Pop top by Avan?"
   ogdescription: "The Avan Aspire 402 Pop top is classed as Unknown Type, and sleeps 2 people. It is Made Overseas and comes in at 13 ft. It generally has No Bathroom or Toilet."
 categories: ["Avan"]
-tags: ["Sleeps 2", "13 ft", "Unknown Type", "No Bathroom or Toilet", "Pop top", "Price Unknown"]
+tags: ["Sleeps 2", "13 ft", "Unknown Type", "No Bathroom or Toilet", "Pop top", "Price Unknown", "Made Overseas"]
 totalLength: "5.33"
 bodyLength: "3.86"
 totalHeight: "2.91"

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Freelander 18'9 by Lotus Caravans?"
   ogdescription: "The Lotus Caravans Freelander 18'9 is classed as Unknown Type, and sleeps 2 people. It is Australian made and comes in at 19 ft. It generally has Separate shower & toilet."
 categories: ["Lotus Caravans"]
-tags: ["Sleeps 2", "19 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "19 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "8.278"
 bodyLength: "5.79"
 totalHeight: "3.02"

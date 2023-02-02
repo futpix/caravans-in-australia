@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Forerunner V4 by Design RV?"
   ogdescription: "The Design RV Forerunner V4 is classed as Unknown Type, and sleeps 2-3 people. It is Australian made and comes in at 20 ft. It generally has Separate shower & toilet."
 categories: ["Design RV"]
-tags: ["Sleeps 2-3", "20 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2-3", "20 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "7.85"
 bodyLength: "5.99"
 totalHeight: "2.95"

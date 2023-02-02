@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Combat Wombat by Trailblazers RV?"
   ogdescription: "The Trailblazers RV Combat Wombat is classed as Off Road, and sleeps 2 people. It is Australian made and comes in at Unknown Size. It generally has No Bathroom or Toilet."
 categories: ["Trailblazers RV"]
-tags: ["Sleeps 2", "Unknown Size", "Off Road", "No Bathroom or Toilet", "Pop top", "Price Unknown"]
+tags: ["Sleeps 2", "Unknown Size", "Off Road", "No Bathroom or Toilet", "Pop top", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: ""
 totalHeight: ""

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy TUFF TRACK OUTBACK II by Far Horizon Campers?"
   ogdescription: "The Far Horizon Campers TUFF TRACK OUTBACK II is classed as Off Road, and sleeps 4 people. It is Made Overseas and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["Far Horizon Campers"]
-tags: ["Sleeps 4", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "50 - 60k"]
+tags: ["Sleeps 4", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "50 - 60k", "Made Overseas"]
 totalLength: "5.9"
 bodyLength: ""
 totalHeight: "2.41"
@@ -42,5 +42,5 @@ priceRangeMax: "52499"
 urlLink: "https://farhorizoncampers.com/trailers/tuff-track-outback#outback-3"
 aussieMade: "Made Overseas"
 noImage: ""
-featured: "feat"
+featured: "no"
 ---

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Hotham by Hilltop Caravans?"
   ogdescription: "The Hilltop Caravans Hotham is classed as Unknown Type, and sleeps Bed Options people. It is Australian made and comes in at 21 ft. It generally has Unkown."
 categories: ["Hilltop Caravans"]
-tags: ["Sleeps Bed Options", "21 ft", "Unknown Type", "Unkown", "Full height", "Price Unknown"]
+tags: ["Sleeps Bed Options", "21 ft", "Unknown Type", "Unkown", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "6.4"
 totalHeight: ""

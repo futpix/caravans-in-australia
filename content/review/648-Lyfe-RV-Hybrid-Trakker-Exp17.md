@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Hybrid Trakker Exp17 by Lyfe RV?"
   ogdescription: "The Lyfe RV Hybrid Trakker Exp17 is classed as Off Road, and sleeps 2 people. It is Australian made and comes in at 18 ft. It generally has Combined shower & toilet."
 categories: ["Lyfe RV"]
-tags: ["Sleeps 2", "18 ft", "Off Road", "Combined shower & toilet", "Pop top", "Price Unknown"]
+tags: ["Sleeps 2", "18 ft", "Off Road", "Combined shower & toilet", "Pop top", "Price Unknown", "Australian made"]
 totalLength: "8.013"
 bodyLength: "5.483"
 totalHeight: "2.748"

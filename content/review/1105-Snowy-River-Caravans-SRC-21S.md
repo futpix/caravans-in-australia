@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy SRC-21S by Snowy River Caravans?"
   ogdescription: "The Snowy River Caravans SRC-21S is classed as Unknown Type, and sleeps 2 people. It is Made Overseas and comes in at 21 ft. It generally has Separate shower & toilet."
 categories: ["Snowy River Caravans"]
-tags: ["Sleeps 2", "21 ft", "Unknown Type", "Separate shower & toilet", "Full height", "70 - 80k"]
+tags: ["Sleeps 2", "21 ft", "Unknown Type", "Separate shower & toilet", "Full height", "70 - 80k", "Made Overseas"]
 totalLength: "8.24"
 bodyLength: "6.36"
 totalHeight: "3.22"

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy ECX-F16.5 by Elross Caravans?"
   ogdescription: "The Elross Caravans ECX-F16.5 is classed as Off Road, and sleeps 4-5 people. It is Australian made and comes in at 16 ft. It generally has Separate shower & toilet."
 categories: ["Elross Caravans"]
-tags: ["Sleeps 4-5", "16 ft", "Off Road", "Separate shower & toilet", "Full height", "Over 100k"]
+tags: ["Sleeps 4-5", "16 ft", "Off Road", "Separate shower & toilet", "Full height", "Over 100k", "Australian made"]
 totalLength: "7.445"
 bodyLength: "5.03"
 totalHeight: "3.15"
@@ -41,6 +41,6 @@ priceRangeMin: "107990"
 priceRangeMax: "107990"
 urlLink: "https://www.elross.com.au/off-road-family-vans"
 aussieMade: "Australian made"
-noImage: ""
+noImage: "r"
 featured: "no"
 ---

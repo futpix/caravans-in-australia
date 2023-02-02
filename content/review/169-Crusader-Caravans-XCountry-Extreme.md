@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy XCountry Extreme by Crusader Caravans?"
   ogdescription: "The Crusader Caravans XCountry Extreme is classed as Off Road, and sleeps 2 people. It is Australian made and comes in at 21 ft. It generally has Separate shower & toilet."
 categories: ["Crusader Caravans"]
-tags: ["Sleeps 2", "21 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "21 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "8.29"
 bodyLength: "6.44"
 totalHeight: ""

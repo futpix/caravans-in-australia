@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy SNPX by Offroad RVs?"
   ogdescription: "The Offroad RVs SNPX is classed as Off Road, and sleeps 2 people. It is Made Overseas and comes in at 15 ft. It generally has Combined shower & toilet."
 categories: ["Offroad RVs"]
-tags: ["Sleeps 2", "15 ft", "Off Road", "Combined shower & toilet", "Pop top", "Over 100k"]
+tags: ["Sleeps 2", "15 ft", "Off Road", "Combined shower & toilet", "Pop top", "Over 100k", "Made Overseas"]
 totalLength: "7"
 bodyLength: "4.5"
 totalHeight: "2.15"

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Touring 24' bunks by Network RV Caravans?"
   ogdescription: "The Network RV Caravans Touring 24' bunks is classed as On Road, and sleeps 6 people. It is Australian made and comes in at 24 ft. It generally has Separate shower & toilet."
 categories: ["Network RV Caravans"]
-tags: ["Sleeps 6", "24 ft", "On Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 6", "24 ft", "On Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "7.31"
 totalHeight: ""

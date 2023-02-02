@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Freelander 22' by Lotus Caravans?"
   ogdescription: "The Lotus Caravans Freelander 22' is classed as Unknown Type, and sleeps 2-3 people. It is Australian made and comes in at 22 ft. It generally has Separate shower & toilet."
 categories: ["Lotus Caravans"]
-tags: ["Sleeps 2-3", "22 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2-3", "22 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "9.344"
 bodyLength: "6.78"
 totalHeight: "3.16"

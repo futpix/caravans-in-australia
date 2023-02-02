@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Avalon by Salute Caravans?"
   ogdescription: "The Salute Caravans Avalon is classed as Semi Off Road, and sleeps 4-5 people. It is Australian made and comes in at 22 ft. It generally has Separate shower & toilet."
 categories: ["Salute Caravans"]
-tags: ["Sleeps 4-5", "22 ft", "Semi Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4-5", "22 ft", "Semi Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "8.9"
 bodyLength: "6.6"
 totalHeight: "3.1"

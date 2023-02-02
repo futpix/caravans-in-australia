@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Wedgetail 18 Tandem by Eagle Camper Trailers?"
   ogdescription: "The Eagle Camper Trailers Wedgetail 18 Tandem is classed as Off Road, and sleeps 2 people. It is Made Overseas and comes in at Unknown Size. It generally has Separate shower & toilet."
 categories: ["Eagle Camper Trailers"]
-tags: ["Sleeps 2", "Unknown Size", "Off Road", "Separate shower & toilet", "Full height", "70 - 80k"]
+tags: ["Sleeps 2", "Unknown Size", "Off Road", "Separate shower & toilet", "Full height", "70 - 80k", "Made Overseas"]
 totalLength: "7.315"
 bodyLength: ""
 totalHeight: ""

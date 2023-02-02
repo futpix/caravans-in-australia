@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Touring 19'6 by Network RV Caravans?"
   ogdescription: "The Network RV Caravans Touring 19'6 is classed as On Road, and sleeps 2 people. It is Australian made and comes in at 19 ft. It generally has Separate shower & toilet."
 categories: ["Network RV Caravans"]
-tags: ["Sleeps 2", "19 ft", "On Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "19 ft", "On Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "5.94"
 totalHeight: ""

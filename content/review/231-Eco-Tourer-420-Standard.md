@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy 420 Standard by Eco Tourer?"
   ogdescription: "The Eco Tourer 420 Standard is classed as Unknown Type, and sleeps 2 people. It is Made Overseas and comes in at 14 ft. It generally has No Bathroom or Toilet."
 categories: ["Eco Tourer"]
-tags: ["Sleeps 2", "14 ft", "Unknown Type", "No Bathroom or Toilet", "Folding roof", "Price Unknown"]
+tags: ["Sleeps 2", "14 ft", "Unknown Type", "No Bathroom or Toilet", "Folding roof", "Price Unknown", "Made Overseas"]
 totalLength: "5.19"
 bodyLength: "4.2"
 totalHeight: "1.98"

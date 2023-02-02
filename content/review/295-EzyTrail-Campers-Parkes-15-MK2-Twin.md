@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Parkes 15 MK2 Twin by EzyTrail Campers?"
   ogdescription: "The EzyTrail Campers Parkes 15 MK2 Twin is classed as Off Road, and sleeps 2 people. It is Made Overseas and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["EzyTrail Campers"]
-tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "50 - 60k"]
+tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "50 - 60k", "Made Overseas"]
 totalLength: "6.49"
 bodyLength: ""
 totalHeight: "2.64"

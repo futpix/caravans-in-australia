@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Lost Trak Family Tourer by RhinoMax Campers?"
   ogdescription: "The RhinoMax Campers Lost Trak Family Tourer is classed as Off Road, and sleeps 4 people. It is Australian made and comes in at 16 ft. It generally has Combined shower & toilet."
 categories: ["RhinoMax Campers"]
-tags: ["Sleeps 4", "16 ft", "Off Road", "Combined shower & toilet", "Full height", "Over 100k"]
+tags: ["Sleeps 4", "16 ft", "Off Road", "Combined shower & toilet", "Full height", "Over 100k", "Australian made"]
 totalLength: "6.8"
 bodyLength: "4.9"
 totalHeight: "2.775"

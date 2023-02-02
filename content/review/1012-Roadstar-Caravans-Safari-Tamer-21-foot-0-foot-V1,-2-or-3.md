@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Safari Tamer 21'0 V1, 2 or 3 by Roadstar Caravans?"
   ogdescription: "The Roadstar Caravans Safari Tamer 21'0 V1, 2 or 3 is classed as Off Road, and sleeps 2 people. It is Australian made and comes in at 22 ft. It generally has Separate shower & toilet."
 categories: ["Roadstar Caravans"]
-tags: ["Sleeps 2", "22 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "22 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "9"
 bodyLength: "6.82"
 totalHeight: "3"

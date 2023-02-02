@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Streaker by Jawa Campers?"
   ogdescription: "The Jawa Campers Streaker is classed as Off Road, and sleeps 2-5 people. It is Made Overseas and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["Jawa Campers"]
-tags: ["Sleeps 2-5", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "70 - 80k"]
+tags: ["Sleeps 2-5", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "70 - 80k", "Made Overseas"]
 totalLength: "6.7"
 bodyLength: ""
 totalHeight: "2.58"

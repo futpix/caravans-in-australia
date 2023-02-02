@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy R1713 by Alto Caravans?"
   ogdescription: "The Alto Caravans R1713 is classed as Unknown Type, and sleeps 3-4 people. It is Made Overseas and comes in at Unknown Size. It generally has Portable toilet."
 categories: ["Alto Caravans"]
-tags: ["Sleeps 3-4", "Unknown Size", "Unknown Type", "Portable toilet", "Retractable roof", "Price Unknown"]
+tags: ["Sleeps 3-4", "Unknown Size", "Unknown Type", "Portable toilet", "Retractable roof", "Price Unknown", "Made Overseas"]
 totalLength: "5.26"
 bodyLength: ""
 totalHeight: "2.11"

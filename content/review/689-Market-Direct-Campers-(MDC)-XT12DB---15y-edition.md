@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy XT12DB - 15y edition by Market Direct Campers (MDC)?"
   ogdescription: "The Market Direct Campers (MDC) XT12DB - 15y edition is classed as Off Road, and sleeps 4 people. It is Made Overseas and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["Market Direct Campers (MDC)"]
-tags: ["Sleeps 4", "Unknown Size", "Off Road", "Combined shower & toilet", "Full height", "60 - 70k"]
+tags: ["Sleeps 4", "Unknown Size", "Off Road", "Combined shower & toilet", "Full height", "60 - 70k", "Made Overseas"]
 totalLength: "5.76"
 bodyLength: ""
 totalHeight: "2.44"

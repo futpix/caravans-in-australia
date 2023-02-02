@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Alpine 13 by Altitude Campers?"
   ogdescription: "The Altitude Campers Alpine 13 is classed as Unknown Type, and sleeps 2 people. It is Australian made and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["Altitude Campers"]
-tags: ["Sleeps 2", "Unknown Size", "Unknown Type", "Combined shower & toilet", "Pop top", "80 - 100k"]
+tags: ["Sleeps 2", "Unknown Size", "Unknown Type", "Combined shower & toilet", "Pop top", "80 - 100k", "Australian made"]
 totalLength: "6.1"
 bodyLength: ""
 totalHeight: "2.35"

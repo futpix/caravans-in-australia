@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy 14ft Toy Hauler by Southern Cross Camper Trailers?"
   ogdescription: "The Southern Cross Camper Trailers 14ft Toy Hauler is classed as Unknown Type, and sleeps 2 people. It is Made Overseas and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["Southern Cross Camper Trailers"]
-tags: ["Sleeps 2", "Unknown Size", "Unknown Type", "Combined shower & toilet", "Full height", "60 - 70k"]
+tags: ["Sleeps 2", "Unknown Size", "Unknown Type", "Combined shower & toilet", "Full height", "60 - 70k", "Made Overseas"]
 totalLength: "6.75"
 bodyLength: ""
 totalHeight: "3.1"

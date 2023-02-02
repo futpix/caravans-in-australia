@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Razor 196 by Franklin Caravans?"
   ogdescription: "The Franklin Caravans Razor 196 is classed as Unknown Type, and sleeps 4 people. It is Australian made and comes in at 20 ft. It generally has Separate shower & toilet."
 categories: ["Franklin Caravans"]
-tags: ["Sleeps 4", "20 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4", "20 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "7.88"
 bodyLength: "5.99"
 totalHeight: "2.925"

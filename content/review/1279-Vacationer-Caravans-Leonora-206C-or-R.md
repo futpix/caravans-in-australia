@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Leonora 206C or R by Vacationer Caravans?"
   ogdescription: "The Vacationer Caravans Leonora 206C or R is classed as Semi Off Road, and sleeps 2 people. It is Australian made and comes in at Unknown Size. It generally has Separate shower & toilet."
 categories: ["Vacationer Caravans"]
-tags: ["Sleeps 2", "Unknown Size", "Semi Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "Unknown Size", "Semi Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: ""
 totalHeight: ""
@@ -41,6 +41,6 @@ priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "https://vacationercaravans.com.au/leonora-caravan-aluminium-frame-touring/"
 aussieMade: "Australian made"
-noImage: ""
+noImage: "r"
 featured: "no"
 ---

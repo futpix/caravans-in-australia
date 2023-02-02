@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Various lengths and layouts by Opal Caravans?"
   ogdescription: "The Opal Caravans Various lengths and layouts is classed as Optional Off Road, and sleeps Bed Options people. It is Made Overseas and comes in at Unknown Size. It generally has Unkown."
 categories: ["Opal Caravans"]
-tags: ["Sleeps Bed Options", "Unknown Size", "Optional Off Road", "Unkown", "Full height", "Price Unknown"]
+tags: ["Sleeps Bed Options", "Unknown Size", "Optional Off Road", "Unkown", "Full height", "Price Unknown", "Made Overseas"]
 totalLength: ""
 bodyLength: ""
 totalHeight: ""
@@ -41,6 +41,6 @@ priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "https://www.opalcaravans.com.au/"
 aussieMade: "Made Overseas"
-noImage: ""
+noImage: "r"
 featured: "no"
 ---

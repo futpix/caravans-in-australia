@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy XT16HR East West - 15y edition by Market Direct Campers (MDC)?"
   ogdescription: "The Market Direct Campers (MDC) XT16HR East West - 15y edition is classed as Off Road, and sleeps 3 people. It is Made Overseas and comes in at Unknown Size. It generally has Separate shower & toilet."
 categories: ["Market Direct Campers (MDC)"]
-tags: ["Sleeps 3", "Unknown Size", "Off Road", "Separate shower & toilet", "Full height", "80 - 100k"]
+tags: ["Sleeps 3", "Unknown Size", "Off Road", "Separate shower & toilet", "Full height", "80 - 100k", "Made Overseas"]
 totalLength: "6.615"
 bodyLength: ""
 totalHeight: "3.05"

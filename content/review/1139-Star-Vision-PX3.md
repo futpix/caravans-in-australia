@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy PX3 by Star Vision?"
   ogdescription: "The Star Vision PX3 is classed as Off Road, and sleeps 5 people. It is Made Overseas and comes in at Unknown Size. It generally has Separate shower & toilet."
 categories: ["Star Vision"]
-tags: ["Sleeps 5", "Unknown Size", "Off Road", "Separate shower & toilet", "Pop top", "50 - 60k"]
+tags: ["Sleeps 5", "Unknown Size", "Off Road", "Separate shower & toilet", "Pop top", "50 - 60k", "Made Overseas"]
 totalLength: "6.4"
 bodyLength: ""
 totalHeight: "2.3"

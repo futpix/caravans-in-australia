@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Viper 11 by Maverick Campers?"
   ogdescription: "The Maverick Campers Viper 11 is classed as Off Road, and sleeps 2 people. It is Made Overseas and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["Maverick Campers"]
-tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "Under 50k"]
+tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "Under 50k", "Made Overseas"]
 totalLength: "5.42"
 bodyLength: ""
 totalHeight: "2.55"
@@ -42,5 +42,5 @@ priceRangeMax: "40999"
 urlLink: "https://maverickcampers.com.au/product/maverick-viper-11/"
 aussieMade: "Made Overseas"
 noImage: ""
-featured: "feat"
+featured: "no"
 ---

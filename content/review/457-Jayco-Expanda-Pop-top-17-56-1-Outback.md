@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Expanda Pop top 17.56-1 Outback by Jayco?"
   ogdescription: "The Jayco Expanda Pop top 17.56-1 Outback is classed as Off Road, and sleeps 6 people. It is Australian made and comes in at 18 ft. It generally has No Bathroom or Toilet."
 categories: ["Jayco"]
-tags: ["Sleeps 6", "18 ft", "Off Road", "No Bathroom or Toilet", "Pop top", "Price Unknown"]
+tags: ["Sleeps 6", "18 ft", "Off Road", "No Bathroom or Toilet", "Pop top", "Price Unknown", "Australian made"]
 totalLength: "7.977"
 bodyLength: "5.619"
 totalHeight: "2.67"

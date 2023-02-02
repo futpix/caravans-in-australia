@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Greyline 17'6 Bunk by NextGen?"
   ogdescription: "The NextGen Greyline 17'6 Bunk is classed as Off Road, and sleeps 4-5 people. It is Australian made and comes in at 17 ft. It generally has Combined shower & toilet."
 categories: ["NextGen"]
-tags: ["Sleeps 4-5", "17 ft", "Off Road", "Combined shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4-5", "17 ft", "Off Road", "Combined shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "5.33"
 totalHeight: ""

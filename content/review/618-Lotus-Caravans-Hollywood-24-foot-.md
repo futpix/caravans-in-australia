@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Hollywood 24' by Lotus Caravans?"
   ogdescription: "The Lotus Caravans Hollywood 24' is classed as Unknown Type, and sleeps 2 people. It is Australian made and comes in at 24 ft. It generally has Separate shower & toilet."
 categories: ["Lotus Caravans"]
-tags: ["Sleeps 2", "24 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "24 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "9.873"
 bodyLength: "7.385"
 totalHeight: "3.13"

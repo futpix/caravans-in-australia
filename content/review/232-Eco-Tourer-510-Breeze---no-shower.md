@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy 510 Breeze - no shower by Eco Tourer?"
   ogdescription: "The Eco Tourer 510 Breeze - no shower is classed as Unknown Type, and sleeps 2 people. It is Made Overseas and comes in at 17 ft. It generally has No Bathroom or Toilet."
 categories: ["Eco Tourer"]
-tags: ["Sleeps 2", "17 ft", "Unknown Type", "No Bathroom or Toilet", "Folding roof", "50 - 60k"]
+tags: ["Sleeps 2", "17 ft", "Unknown Type", "No Bathroom or Toilet", "Folding roof", "50 - 60k", "Made Overseas"]
 totalLength: "5.6"
 bodyLength: "5.1"
 totalHeight: "1.89"

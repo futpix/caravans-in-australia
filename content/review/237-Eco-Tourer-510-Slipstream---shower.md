@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy 510 Slipstream - shower by Eco Tourer?"
   ogdescription: "The Eco Tourer 510 Slipstream - shower is classed as Unknown Type, and sleeps 2 people. It is Made Overseas and comes in at 17 ft. It generally has Combined shower & toilet."
 categories: ["Eco Tourer"]
-tags: ["Sleeps 2", "17 ft", "Unknown Type", "Combined shower & toilet", "Folding roof", "70 - 80k"]
+tags: ["Sleeps 2", "17 ft", "Unknown Type", "Combined shower & toilet", "Folding roof", "70 - 80k", "Made Overseas"]
 totalLength: "5.65"
 bodyLength: "5.1"
 totalHeight: "2.06"

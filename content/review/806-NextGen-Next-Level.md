@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Next Level by NextGen?"
   ogdescription: "The NextGen Next Level is classed as Off Road, and sleeps 2 people. It is Australian made and comes in at Unknown Size. It generally has Combined or separate shower & toilet."
 categories: ["NextGen"]
-tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined or separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined or separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "Various"
 bodyLength: ""
 totalHeight: ""

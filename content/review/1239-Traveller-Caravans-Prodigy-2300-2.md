@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Prodigy 2300-2 by Traveller Caravans?"
   ogdescription: "The Traveller Caravans Prodigy 2300-2 is classed as Unknown Type, and sleeps 2 people. It is Australian made and comes in at 23 ft. It generally has Separate shower & toilet."
 categories: ["Traveller Caravans"]
-tags: ["Sleeps 2", "23 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "23 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "7.01"
 totalHeight: ""

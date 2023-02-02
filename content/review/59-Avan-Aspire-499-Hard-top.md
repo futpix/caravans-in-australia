@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Aspire 499 Hard top by Avan?"
   ogdescription: "The Avan Aspire 499 Hard top is classed as Unknown Type, and sleeps 2-4 people. It is Made Overseas and comes in at 16 ft. It generally has Option - combined toilet & shower."
 categories: ["Avan"]
-tags: ["Sleeps 2-4", "16 ft", "Unknown Type", "Option - combined toilet & shower", "Full height", "Price Unknown"]
+tags: ["Sleeps 2-4", "16 ft", "Unknown Type", "Option - combined toilet & shower", "Full height", "Price Unknown", "Made Overseas"]
 totalLength: "6.36"
 bodyLength: "4.89"
 totalHeight: "2.76"

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy XT10E - 15y edition by Market Direct Campers (MDC)?"
   ogdescription: "The Market Direct Campers (MDC) XT10E - 15y edition is classed as Off Road, and sleeps 2-3 people. It is Made Overseas and comes in at Unknown Size. It generally has No Bathroom or Toilet."
 categories: ["Market Direct Campers (MDC)"]
-tags: ["Sleeps 2-3", "Unknown Size", "Off Road", "No Bathroom or Toilet", "Pop top", "50 - 60k"]
+tags: ["Sleeps 2-3", "Unknown Size", "Off Road", "No Bathroom or Toilet", "Pop top", "50 - 60k", "Made Overseas"]
 totalLength: "5.488"
 bodyLength: ""
 totalHeight: "2.31"

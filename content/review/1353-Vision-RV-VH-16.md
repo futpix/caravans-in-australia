@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy VH-16 by Vision RV?"
   ogdescription: "The Vision RV VH-16 is classed as Off Road, and sleeps 2 people. It is Australian made and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["Vision RV"]
-tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined shower & toilet", "Full height or pop top", "Price Unknown"]
+tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined shower & toilet", "Full height or pop top", "Price Unknown", "Australian made"]
 totalLength: "7.32"
 bodyLength: ""
 totalHeight: ""

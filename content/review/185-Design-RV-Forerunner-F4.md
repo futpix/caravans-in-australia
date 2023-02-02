@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Forerunner F4 by Design RV?"
   ogdescription: "The Design RV Forerunner F4 is classed as Unknown Type, and sleeps 6 people. It is Australian made and comes in at 25 ft. It generally has Separate shower & toilet."
 categories: ["Design RV"]
-tags: ["Sleeps 6", "25 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 6", "25 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "9.43"
 bodyLength: "7.52"
 totalHeight: "2.975"
@@ -41,6 +41,6 @@ priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "https://designrv.com.au/caravan/forerunner/"
 aussieMade: "Australian made"
-noImage: ""
+noImage: "r"
 featured: "no"
 ---

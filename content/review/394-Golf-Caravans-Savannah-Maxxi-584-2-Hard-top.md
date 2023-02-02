@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Savannah Maxxi 584-2 Hard top by Golf Caravans?"
   ogdescription: "The Golf Caravans Savannah Maxxi 584-2 Hard top is classed as Unknown Type, and sleeps 6 people. It is Australian made and comes in at 19 ft. It generally has Separate shower & toilet."
 categories: ["Golf Caravans"]
-tags: ["Sleeps 6", "19 ft", "Unknown Type", "Separate shower & toilet", "Pop top", "Price Unknown"]
+tags: ["Sleeps 6", "19 ft", "Unknown Type", "Separate shower & toilet", "Pop top", "Price Unknown", "Australian made"]
 totalLength: "7.6"
 bodyLength: "5.86"
 totalHeight: "3"

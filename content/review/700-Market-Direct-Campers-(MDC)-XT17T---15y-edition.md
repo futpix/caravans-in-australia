@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy XT17T - 15y edition by Market Direct Campers (MDC)?"
   ogdescription: "The Market Direct Campers (MDC) XT17T - 15y edition is classed as Off Road, and sleeps 4 people. It is Made Overseas and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["Market Direct Campers (MDC)"]
-tags: ["Sleeps 4", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "80 - 100k"]
+tags: ["Sleeps 4", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "80 - 100k", "Made Overseas"]
 totalLength: "7.1"
 bodyLength: ""
 totalHeight: "2.57"

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy GT Classic 17'6 bunks by Roadstar Caravans?"
   ogdescription: "The Roadstar Caravans GT Classic 17'6 bunks is classed as Unknown Type, and sleeps 4 people. It is Australian made and comes in at 18 ft. It generally has Separate shower & toilet."
 categories: ["Roadstar Caravans"]
-tags: ["Sleeps 4", "18 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4", "18 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "7.38"
 bodyLength: "5.47"
 totalHeight: "3.1"

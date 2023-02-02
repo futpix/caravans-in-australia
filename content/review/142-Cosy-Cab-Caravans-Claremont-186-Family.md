@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Claremont 186 Family by Cosy Cab Caravans?"
   ogdescription: "The Cosy Cab Caravans Claremont 186 Family is classed as Unknown Type, and sleeps Bed Options people. It is Australian made and comes in at 18 ft. It generally has Separate shower & toilet."
 categories: ["Cosy Cab Caravans"]
-tags: ["Sleeps Bed Options", "18 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps Bed Options", "18 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "5.64"
 totalHeight: ""

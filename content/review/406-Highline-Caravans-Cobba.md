@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Cobba by Highline Caravans?"
   ogdescription: "The Highline Caravans Cobba is classed as Off Road, and sleeps 4 people. It is Australian made and comes in at Unknown Size. It generally has Separate shower & toilet."
 categories: ["Highline Caravans"]
-tags: ["Sleeps 4", "Unknown Size", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4", "Unknown Size", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "9.21"
 bodyLength: ""
 totalHeight: ""

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Mt Beauty Compact by Lumberjack Camper Trailers?"
   ogdescription: "The Lumberjack Camper Trailers Mt Beauty Compact is classed as Off Road, and sleeps 2 people. It is Made Overseas and comes in at 13 ft. It generally has Combined shower & toilet."
 categories: ["Lumberjack Camper Trailers"]
-tags: ["Sleeps 2", "13 ft", "Off Road", "Combined shower & toilet", "Pop top", "Price Unknown"]
+tags: ["Sleeps 2", "13 ft", "Off Road", "Combined shower & toilet", "Pop top", "Price Unknown", "Made Overseas"]
 totalLength: "6.1"
 bodyLength: "3.85"
 totalHeight: "2.55"

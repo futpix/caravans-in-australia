@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Scout-15 by Stoney Creek Campers?"
   ogdescription: "The Stoney Creek Campers Scout-15 is classed as Off Road, and sleeps 2 people. It is Made Overseas and comes in at 16 ft. It generally has Separate shower & toilet."
 categories: ["Stoney Creek Campers"]
-tags: ["Sleeps 2", "16 ft", "Off Road", "Separate shower & toilet", "Pop top", "Price Unknown"]
+tags: ["Sleeps 2", "16 ft", "Off Road", "Separate shower & toilet", "Pop top", "Price Unknown", "Made Overseas"]
 totalLength: "7.15"
 bodyLength: "4.85"
 totalHeight: "2.54"

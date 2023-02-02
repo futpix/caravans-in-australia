@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Savannah Maxxi 503 Hard top by Golf Caravans?"
   ogdescription: "The Golf Caravans Savannah Maxxi 503 Hard top is classed as Unknown Type, and sleeps 4 people. It is Australian made and comes in at Unknown Size. It generally has Separate shower & toilet."
 categories: ["Golf Caravans"]
-tags: ["Sleeps 4", "Unknown Size", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4", "Unknown Size", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "6.9"
 bodyLength: ""
 totalHeight: "3"
@@ -41,6 +41,6 @@ priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "https://www.golfcaravans.com.au/caravans/display/8-savannah-caravan-range-/"
 aussieMade: "Australian made"
-noImage: ""
+noImage: "r"
 featured: "no"
 ---

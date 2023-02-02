@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Eagle Warrior 190FX by Eagle Camper Trailers?"
   ogdescription: "The Eagle Camper Trailers Eagle Warrior 190FX is classed as Off Road, and sleeps 5 people. It is Made Overseas and comes in at 19 ft. It generally has Combined shower & toilet."
 categories: ["Eagle Camper Trailers"]
-tags: ["Sleeps 5", "19 ft", "Off Road", "Combined shower & toilet", "Full height", "60 - 70k"]
+tags: ["Sleeps 5", "19 ft", "Off Road", "Combined shower & toilet", "Full height", "60 - 70k", "Made Overseas"]
 totalLength: ""
 bodyLength: "5.79"
 totalHeight: ""

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Utopia 2400-1 by Traveller Caravans?"
   ogdescription: "The Traveller Caravans Utopia 2400-1 is classed as Unknown Type, and sleeps 2 people. It is Australian made and comes in at 24 ft. It generally has Separate shower & toilet."
 categories: ["Traveller Caravans"]
-tags: ["Sleeps 2", "24 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "24 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "7.31"
 totalHeight: ""

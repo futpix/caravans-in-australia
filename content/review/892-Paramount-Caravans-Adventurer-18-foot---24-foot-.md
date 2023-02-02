@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Adventurer 18' - 24' by Paramount Caravans?"
   ogdescription: "The Paramount Caravans Adventurer 18' - 24' is classed as Optional Off Road, and sleeps Bed Options people. It is Australian made and comes in at Unknown Size. It generally has Optional Bathroom + Toilet."
 categories: ["Paramount Caravans"]
-tags: ["Sleeps Bed Options", "Unknown Size", "Optional Off Road", "Optional Bathroom + Toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps Bed Options", "Unknown Size", "Optional Off Road", "Optional Bathroom + Toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "Various"
 bodyLength: ""
 totalHeight: ""

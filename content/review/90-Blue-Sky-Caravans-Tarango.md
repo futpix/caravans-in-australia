@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Tarango by Blue Sky Caravans?"
   ogdescription: "The Blue Sky Caravans Tarango is classed as Unknown Type, and sleeps Bed Options people. It is Australian made and comes in at Unknown Size. It generally has Separate shower & toilet."
 categories: ["Blue Sky Caravans"]
-tags: ["Sleeps Bed Options", "Unknown Size", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps Bed Options", "Unknown Size", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "5.94"
 bodyLength: ""
 totalHeight: ""

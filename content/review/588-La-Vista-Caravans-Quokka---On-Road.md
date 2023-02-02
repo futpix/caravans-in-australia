@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Quokka - On Road by La Vista Caravans?"
   ogdescription: "The La Vista Caravans Quokka - On Road is classed as On Road, and sleeps 2-3 people. It is Australian made and comes in at Unknown Size. It generally has Separate shower & toilet."
 categories: ["La Vista Caravans"]
-tags: ["Sleeps 2-3", "Unknown Size", "On Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2-3", "Unknown Size", "On Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "6.6"
 bodyLength: ""
 totalHeight: "3.1"

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Wedgetail 13 Hybrid by Eagle Camper Trailers?"
   ogdescription: "The Eagle Camper Trailers Wedgetail 13 Hybrid is classed as Off Road, and sleeps 2 people. It is Made Overseas and comes in at 13 ft. It generally has Combined shower & toilet."
 categories: ["Eagle Camper Trailers"]
-tags: ["Sleeps 2", "13 ft", "Off Road", "Combined shower & toilet", "Pop top", "50 - 60k"]
+tags: ["Sleeps 2", "13 ft", "Off Road", "Combined shower & toilet", "Pop top", "50 - 60k", "Made Overseas"]
 totalLength: ""
 bodyLength: "3.96"
 totalHeight: ""

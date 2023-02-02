@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Various lengths by Safari Caravans?"
   ogdescription: "The Safari Caravans Various lengths is classed as Unknown Type, and sleeps Bed Options people. It is Made Overseas and comes in at Unknown Size. It generally has Unkown."
 categories: ["Safari Caravans"]
-tags: ["Sleeps Bed Options", "Unknown Size", "Unknown Type", "Unkown", "Full height", "Price Unknown"]
+tags: ["Sleeps Bed Options", "Unknown Size", "Unknown Type", "Unkown", "Full height", "Price Unknown", "Made Overseas"]
 totalLength: ""
 bodyLength: ""
 totalHeight: ""

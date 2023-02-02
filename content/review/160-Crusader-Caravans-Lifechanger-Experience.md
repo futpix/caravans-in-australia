@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Lifechanger Experience by Crusader Caravans?"
   ogdescription: "The Crusader Caravans Lifechanger Experience is classed as Unknown Type, and sleeps 2 people. It is Australian made and comes in at 19 ft. It generally has Separate shower & toilet."
 categories: ["Crusader Caravans"]
-tags: ["Sleeps 2", "19 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "19 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "7.4"
 bodyLength: "5.85"
 totalHeight: "2.91"

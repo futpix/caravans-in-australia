@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Pursuit PS210-1, 2, 4, or 5 by Olympic Caravans?"
   ogdescription: "The Olympic Caravans Pursuit PS210-1, 2, 4, or 5 is classed as Unknown Type, and sleeps 2 people. It is Made Overseas and comes in at Unknown Size. It generally has Separate shower & toilet."
 categories: ["Olympic Caravans"]
-tags: ["Sleeps 2", "Unknown Size", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "Unknown Size", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Made Overseas"]
 totalLength: ""
 bodyLength: ""
 totalHeight: ""

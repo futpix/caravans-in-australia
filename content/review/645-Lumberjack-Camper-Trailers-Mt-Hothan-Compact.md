@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Mt Hothan Compact by Lumberjack Camper Trailers?"
   ogdescription: "The Lumberjack Camper Trailers Mt Hothan Compact is classed as Off Road, and sleeps 4 people. It is Made Overseas and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["Lumberjack Camper Trailers"]
-tags: ["Sleeps 4", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "Price Unknown"]
+tags: ["Sleeps 4", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "Price Unknown", "Made Overseas"]
 totalLength: "7"
 bodyLength: ""
 totalHeight: "2.46"

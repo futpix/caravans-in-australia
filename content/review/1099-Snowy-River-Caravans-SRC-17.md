@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy SRC-17 by Snowy River Caravans?"
   ogdescription: "The Snowy River Caravans SRC-17 is classed as Semi Off Road, and sleeps 2 people. It is Made Overseas and comes in at 17 ft. It generally has Separate shower & toilet."
 categories: ["Snowy River Caravans"]
-tags: ["Sleeps 2", "17 ft", "Semi Off Road", "Separate shower & toilet", "Full height", "50 - 60k"]
+tags: ["Sleeps 2", "17 ft", "Semi Off Road", "Separate shower & toilet", "Full height", "50 - 60k", "Made Overseas"]
 totalLength: "7.07"
 bodyLength: "5.16"
 totalHeight: "3.07"

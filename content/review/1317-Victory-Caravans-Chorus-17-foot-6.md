@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Chorus 17'6 by Victory Caravans?"
   ogdescription: "The Victory Caravans Chorus 17'6 is classed as Unknown Type, and sleeps 2 people. It is Australian made and comes in at 17 ft. It generally has Separate shower & toilet."
 categories: ["Victory Caravans"]
-tags: ["Sleeps 2", "17 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "17 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "5.33"
 totalHeight: ""

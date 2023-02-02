@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy RT-X 35 SERIES - 21' by Evernew Caravans?"
   ogdescription: "The Evernew Caravans RT-X 35 SERIES - 21' is classed as Off Road, and sleeps 2 people. It is Australian made and comes in at 21 ft. It generally has Separate shower & toilet."
 categories: ["Evernew Caravans"]
-tags: ["Sleeps 2", "21 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "21 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "6.4"
 totalHeight: ""

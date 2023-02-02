@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy RS Off Road 196 by Concept Caravans?"
   ogdescription: "The Concept Caravans RS Off Road 196 is classed as Off Road, and sleeps 2 people. It is Australian made and comes in at 20 ft. It generally has Separate shower & toilet."
 categories: ["Concept Caravans"]
-tags: ["Sleeps 2", "20 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "20 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "8.35"
 bodyLength: "6.02"
 totalHeight: "3.12"

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Terra Sportz 226-1C by Nova Caravans?"
   ogdescription: "The Nova Caravans Terra Sportz 226-1C is classed as Off Road, and sleeps 4-5 people. It is Australian made and comes in at 24 ft. It generally has Separate shower & toilet."
 categories: ["Nova Caravans"]
-tags: ["Sleeps 4-5", "24 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4-5", "24 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "9.24"
 bodyLength: "7.37"
 totalHeight: "3.05"

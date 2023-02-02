@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Fraser 220C by Retreat Caravans?"
   ogdescription: "The Retreat Caravans Fraser 220C is classed as Off Road, and sleeps 2 people. It is Made Overseas and comes in at Unknown Size. It generally has Separate shower & toilet."
 categories: ["Retreat Caravans"]
-tags: ["Sleeps 2", "Unknown Size", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "Unknown Size", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Made Overseas"]
 totalLength: ""
 bodyLength: ""
 totalHeight: ""

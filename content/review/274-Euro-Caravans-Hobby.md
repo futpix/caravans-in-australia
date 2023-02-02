@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Hobby by Euro Caravans?"
   ogdescription: "The Euro Caravans Hobby is classed as Unknown Type, and sleeps 2-3 people. It is Made Overseas and comes in at Unknown Size. It generally has Optional Bathroom + Toilet."
 categories: ["Euro Caravans"]
-tags: ["Sleeps 2-3", "Unknown Size", "Unknown Type", "Optional Bathroom + Toilet", "Full height", "Under 50k"]
+tags: ["Sleeps 2-3", "Unknown Size", "Unknown Type", "Optional Bathroom + Toilet", "Full height", "Under 50k", "Made Overseas"]
 totalLength: "4.5"
 bodyLength: ""
 totalHeight: "2.55"
@@ -42,5 +42,5 @@ priceRangeMax: "35900"
 urlLink: "https://www.euro-caravans.com.au/caravan/hobby-twin-single-beds-king-with-bathroom-caravan/"
 aussieMade: "Made Overseas"
 noImage: ""
-featured: "feat"
+featured: "no"
 ---

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Sportliner by Avan?"
   ogdescription: "The Avan Sportliner is classed as Unknown Type, and sleeps 2 people. It is Made Overseas and comes in at 9 ft. It generally has No Bathroom or Toilet."
 categories: ["Avan"]
-tags: ["Sleeps 2", "9 ft", "Unknown Type", "No Bathroom or Toilet", "Folding roof", "Price Unknown"]
+tags: ["Sleeps 2", "9 ft", "Unknown Type", "No Bathroom or Toilet", "Folding roof", "Price Unknown", "Made Overseas"]
 totalLength: "4"
 bodyLength: "2.68"
 totalHeight: "1.61"

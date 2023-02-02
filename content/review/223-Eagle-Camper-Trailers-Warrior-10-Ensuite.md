@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Warrior-10 Ensuite by Eagle Camper Trailers?"
   ogdescription: "The Eagle Camper Trailers Warrior-10 Ensuite is classed as Off Road, and sleeps 2 people. It is Made Overseas and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["Eagle Camper Trailers"]
-tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "Under 50k"]
+tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "Under 50k", "Made Overseas"]
 totalLength: "5.42"
 bodyLength: ""
 totalHeight: "2.475"
@@ -42,5 +42,5 @@ priceRangeMax: "43750"
 urlLink: "https://www.eaglecampertrailers.com.au/off-road-caravans/warrior-10-off-road-ensuite-hybrid"
 aussieMade: "Made Overseas"
 noImage: ""
-featured: "feat"
+featured: "no"
 ---

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Signature Series 18' - 24' by Paramount Caravans?"
   ogdescription: "The Paramount Caravans Signature Series 18' - 24' is classed as Unknown Type, and sleeps Bed Options people. It is Australian made and comes in at Unknown Size. It generally has Unkown."
 categories: ["Paramount Caravans"]
-tags: ["Sleeps Bed Options", "Unknown Size", "Unknown Type", "Unkown", "Full height", "Price Unknown"]
+tags: ["Sleeps Bed Options", "Unknown Size", "Unknown Type", "Unkown", "Full height", "Price Unknown", "Australian made"]
 totalLength: "Various"
 bodyLength: ""
 totalHeight: ""

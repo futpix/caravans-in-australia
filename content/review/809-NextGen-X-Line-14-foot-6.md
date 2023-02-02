@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy X-Line 14'6 by NextGen?"
   ogdescription: "The NextGen X-Line 14'6 is classed as Unknown Type, and sleeps 2 people. It is Australian made and comes in at 14 ft. It generally has Combined shower & toilet."
 categories: ["NextGen"]
-tags: ["Sleeps 2", "14 ft", "Unknown Type", "Combined shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "14 ft", "Unknown Type", "Combined shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "4.42"
 totalHeight: ""

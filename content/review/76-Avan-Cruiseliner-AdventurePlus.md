@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Cruiseliner AdventurePlus by Avan?"
   ogdescription: "The Avan Cruiseliner AdventurePlus is classed as Off Road, and sleeps 2-3 people. It is Made Overseas and comes in at 15 ft. It generally has No Bathroom or Toilet."
 categories: ["Avan"]
-tags: ["Sleeps 2-3", "15 ft", "Off Road", "No Bathroom or Toilet", "Folding roof", "Price Unknown"]
+tags: ["Sleeps 2-3", "15 ft", "Off Road", "No Bathroom or Toilet", "Folding roof", "Price Unknown", "Made Overseas"]
 totalLength: "5.765"
 bodyLength: "4.44"
 totalHeight: "1.9"

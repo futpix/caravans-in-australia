@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy 510 Hurricane - shower by Eco Tourer?"
   ogdescription: "The Eco Tourer 510 Hurricane - shower is classed as Off Road, and sleeps 2 people. It is Made Overseas and comes in at 17 ft. It generally has Combined shower & toilet."
 categories: ["Eco Tourer"]
-tags: ["Sleeps 2", "17 ft", "Off Road", "Combined shower & toilet", "Folding roof", "80 - 100k"]
+tags: ["Sleeps 2", "17 ft", "Off Road", "Combined shower & toilet", "Folding roof", "80 - 100k", "Made Overseas"]
 totalLength: "5.7"
 bodyLength: "5.1"
 totalHeight: "2.22"

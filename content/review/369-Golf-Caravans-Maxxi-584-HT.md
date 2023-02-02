@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Maxxi 584 HT by Golf Caravans?"
   ogdescription: "The Golf Caravans Maxxi 584 HT is classed as On Road, and sleeps 8 people. It is Australian made and comes in at 19 ft. It generally has Separate shower & toilet."
 categories: ["Golf Caravans"]
-tags: ["Sleeps 8", "19 ft", "On Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 8", "19 ft", "On Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "7.6"
 bodyLength: "5.86"
 totalHeight: "3"

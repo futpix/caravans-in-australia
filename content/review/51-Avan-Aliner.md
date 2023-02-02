@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Aliner by Avan?"
   ogdescription: "The Avan Aliner is classed as Unknown Type, and sleeps 2-4 people. It is Made Overseas and comes in at 12 ft. It generally has No Bathroom or Toilet."
 categories: ["Avan"]
-tags: ["Sleeps 2-4", "12 ft", "Unknown Type", "No Bathroom or Toilet", "Folding roof", "Price Unknown"]
+tags: ["Sleeps 2-4", "12 ft", "Unknown Type", "No Bathroom or Toilet", "Folding roof", "Price Unknown", "Made Overseas"]
 totalLength: "4.85"
 bodyLength: "3.68"
 totalHeight: "1.65"

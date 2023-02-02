@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Designer Series 23'-4 by Royal Flair Caravans?"
   ogdescription: "The Royal Flair Caravans Designer Series 23'-4 is classed as Unknown Type, and sleeps 2 people. It is Australian made and comes in at 23 ft. It generally has Separate shower & toilet."
 categories: ["Royal Flair Caravans"]
-tags: ["Sleeps 2", "23 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "23 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "7.01"
 totalHeight: "2.82"

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy SRC-18 by Snowy River Caravans?"
   ogdescription: "The Snowy River Caravans SRC-18 is classed as Semi Off Road, and sleeps 2 people. It is Made Overseas and comes in at 18 ft. It generally has Separate shower & toilet."
 categories: ["Snowy River Caravans"]
-tags: ["Sleeps 2", "18 ft", "Semi Off Road", "Separate shower & toilet", "Full height", "60 - 70k"]
+tags: ["Sleeps 2", "18 ft", "Semi Off Road", "Separate shower & toilet", "Full height", "60 - 70k", "Made Overseas"]
 totalLength: "7.37"
 bodyLength: "5.46"
 totalHeight: "3.07"

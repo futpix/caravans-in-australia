@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Inspire - IS17679RLB1/B2/B3 by Adventura Caravans?"
   ogdescription: "The Adventura Caravans Inspire - IS17679RLB1/B2/B3 is classed as Unknown Type, and sleeps 3-5 people. It is Made Overseas and comes in at Unknown Size. It generally has Separate shower & toilet."
 categories: ["Adventura Caravans"]
-tags: ["Sleeps 3-5", "Unknown Size", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 3-5", "Unknown Size", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Made Overseas"]
 totalLength: ""
 bodyLength: ""
 totalHeight: ""

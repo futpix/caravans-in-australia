@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Dirt Roader 20'8 Rear Door Family Bunk by JB Caravans?"
   ogdescription: "The JB Caravans Dirt Roader 20'8 Rear Door Family Bunk is classed as Semi Off Road, and sleeps 5 people. It is Australian made and comes in at Unknown Size. It generally has Separate shower & toilet."
 categories: ["JB Caravans"]
-tags: ["Sleeps 5", "Unknown Size", "Semi Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 5", "Unknown Size", "Semi Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "8.5"
 bodyLength: ""
 totalHeight: "3"

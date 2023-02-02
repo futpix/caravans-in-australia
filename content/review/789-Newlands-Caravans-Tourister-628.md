@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Tourister 628 by Newlands Caravans?"
   ogdescription: "The Newlands Caravans Tourister 628 is classed as Unknown Type, and sleeps 2 people. It is Australian made and comes in at Unknown Size. It generally has Separate shower & toilet."
 categories: ["Newlands Caravans"]
-tags: ["Sleeps 2", "Unknown Size", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "Unknown Size", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: ""
 totalHeight: ""

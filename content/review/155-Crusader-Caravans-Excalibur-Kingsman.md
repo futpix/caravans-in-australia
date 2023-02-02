@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Excalibur Kingsman by Crusader Caravans?"
   ogdescription: "The Crusader Caravans Excalibur Kingsman is classed as Unknown Type, and sleeps 2 people. It is Australian made and comes in at 24 ft. It generally has Separate shower & toilet."
 categories: ["Crusader Caravans"]
-tags: ["Sleeps 2", "24 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "24 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "9.09"
 bodyLength: "7.24"
 totalHeight: "3.08"

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Longridge 216 by Cosy Cab Caravans?"
   ogdescription: "The Cosy Cab Caravans Longridge 216 is classed as Unknown Type, and sleeps 4-5 people. It is Australian made and comes in at Unknown Size. It generally has Separate shower & toilet."
 categories: ["Cosy Cab Caravans"]
-tags: ["Sleeps 4-5", "Unknown Size", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4-5", "Unknown Size", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: ""
 totalHeight: ""

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Longreach Family LT 17'6 by Sunland Caravans?"
   ogdescription: "The Sunland Caravans Longreach Family LT 17'6 is classed as Off Road, and sleeps 4 people. It is Australian made and comes in at 17 ft. It generally has Combined shower & toilet."
 categories: ["Sunland Caravans"]
-tags: ["Sleeps 4", "17 ft", "Off Road", "Combined shower & toilet", "Full height", "Over 100k"]
+tags: ["Sleeps 4", "17 ft", "Off Road", "Combined shower & toilet", "Full height", "Over 100k", "Australian made"]
 totalLength: ""
 bodyLength: "5.33"
 totalHeight: ""

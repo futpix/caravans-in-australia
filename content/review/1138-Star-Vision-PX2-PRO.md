@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy PX2 PRO by Star Vision?"
   ogdescription: "The Star Vision PX2 PRO is classed as Off Road, and sleeps 5 people. It is Made Overseas and comes in at Unknown Size. It generally has No Bathroom or Toilet."
 categories: ["Star Vision"]
-tags: ["Sleeps 5", "Unknown Size", "Off Road", "No Bathroom or Toilet", "Pop top", "Under 50k"]
+tags: ["Sleeps 5", "Unknown Size", "Off Road", "No Bathroom or Toilet", "Pop top", "Under 50k", "Made Overseas"]
 totalLength: "5.92"
 bodyLength: ""
 totalHeight: "2.1"
@@ -42,5 +42,5 @@ priceRangeMax: "49500"
 urlLink: "https://starvision.com.au/campers/px2/"
 aussieMade: "Made Overseas"
 noImage: ""
-featured: "feat"
+featured: "no"
 ---

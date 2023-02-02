@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Razor 206DB by Franklin Caravans?"
   ogdescription: "The Franklin Caravans Razor 206DB is classed as Unknown Type, and sleeps 4 people. It is Australian made and comes in at 21 ft. It generally has Separate shower & toilet."
 categories: ["Franklin Caravans"]
-tags: ["Sleeps 4", "21 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4", "21 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "8.22"
 bodyLength: "6.38"
 totalHeight: "2.985"

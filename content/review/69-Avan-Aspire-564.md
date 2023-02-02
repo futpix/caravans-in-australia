@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Aspire 564 by Avan?"
   ogdescription: "The Avan Aspire 564 is classed as Unknown Type, and sleeps 2-4 people. It is Made Overseas and comes in at 18 ft. It generally has Separate shower & toilet."
 categories: ["Avan"]
-tags: ["Sleeps 2-4", "18 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2-4", "18 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Made Overseas"]
 totalLength: "7.18"
 bodyLength: "5.64"
 totalHeight: "2.75"

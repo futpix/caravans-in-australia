@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Blackline Bunk 21' by NextGen?"
   ogdescription: "The NextGen Blackline Bunk 21' is classed as Semi Off Road, and sleeps 4-5 people. It is Australian made and comes in at 21 ft. It generally has Separate shower & toilet."
 categories: ["NextGen"]
-tags: ["Sleeps 4-5", "21 ft", "Semi Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4-5", "21 ft", "Semi Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "6.4"
 totalHeight: ""

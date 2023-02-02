@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Mars 16 by Mars Campers?"
   ogdescription: "The Mars Campers Mars 16 is classed as Off Road, and sleeps 4 people. It is Made Overseas and comes in at Unknown Size. It generally has Separate shower & toilet."
 categories: ["Mars Campers"]
-tags: ["Sleeps 4", "Unknown Size", "Off Road", "Separate shower & toilet", "Full height", "60 - 70k"]
+tags: ["Sleeps 4", "Unknown Size", "Off Road", "Separate shower & toilet", "Full height", "60 - 70k", "Made Overseas"]
 totalLength: "7"
 bodyLength: ""
 totalHeight: "3.2"

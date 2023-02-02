@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy All Terrain Pop Top 17.55-9 by Jayco?"
   ogdescription: "The Jayco All Terrain Pop Top 17.55-9 is classed as Off Road, and sleeps 2 people. It is Australian made and comes in at 18 ft. It generally has Separate shower & toilet."
 categories: ["Jayco"]
-tags: ["Sleeps 2", "18 ft", "Off Road", "Separate shower & toilet", "Pop top", "70 - 80k"]
+tags: ["Sleeps 2", "18 ft", "Off Road", "Separate shower & toilet", "Pop top", "70 - 80k", "Australian made"]
 totalLength: "7.75"
 bodyLength: "5.492"
 totalHeight: "2.67"

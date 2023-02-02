@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Mica F2 by Design RV?"
   ogdescription: "The Design RV Mica F2 is classed as Unknown Type, and sleeps 4-6 people. It is Australian made and comes in at 21 ft. It generally has Separate shower & toilet."
 categories: ["Design RV"]
-tags: ["Sleeps 4-6", "21 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4-6", "21 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "8.32"
 bodyLength: "6.4"
 totalHeight: "2.95"

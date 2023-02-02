@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Wedgetail 15 Family by Eagle Camper Trailers?"
   ogdescription: "The Eagle Camper Trailers Wedgetail 15 Family is classed as Off Road, and sleeps 4 people. It is Made Overseas and comes in at 15 ft. It generally has Combined shower & toilet."
 categories: ["Eagle Camper Trailers"]
-tags: ["Sleeps 4", "15 ft", "Off Road", "Combined shower & toilet", "Pop top", "60 - 70k"]
+tags: ["Sleeps 4", "15 ft", "Off Road", "Combined shower & toilet", "Pop top", "60 - 70k", "Made Overseas"]
 totalLength: ""
 bodyLength: "4.57"
 totalHeight: ""

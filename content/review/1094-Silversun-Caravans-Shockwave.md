@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Shockwave by Silversun Caravans?"
   ogdescription: "The Silversun Caravans Shockwave is classed as Off Road, and sleeps 2 people. It is Made Overseas and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["Silversun Caravans"]
-tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined shower & toilet", "Full height", "70 - 80k"]
+tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined shower & toilet", "Full height", "70 - 80k", "Made Overseas"]
 totalLength: "6.6"
 bodyLength: ""
 totalHeight: "3"

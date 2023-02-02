@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Journey 22.68-4 Touring by Jayco?"
   ogdescription: "The Jayco Journey 22.68-4 Touring is classed as On Road, and sleeps 6 people. It is Australian made and comes in at 23 ft. It generally has Combined shower & toilet."
 categories: ["Jayco"]
-tags: ["Sleeps 6", "23 ft", "On Road", "Combined shower & toilet", "Full height", "70 - 80k"]
+tags: ["Sleeps 6", "23 ft", "On Road", "Combined shower & toilet", "Full height", "70 - 80k", "Australian made"]
 totalLength: "8.425"
 bodyLength: "6.985"
 totalHeight: "2.91"

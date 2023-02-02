@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Belmont by Lagoon Caravan?"
   ogdescription: "The Lagoon Caravan Belmont is classed as Unknown Type, and sleeps 2-3 people. It is Australian made and comes in at 20 ft. It generally has Separate shower & toilet."
 categories: ["Lagoon Caravan"]
-tags: ["Sleeps 2-3", "20 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2-3", "20 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "6.19"
 totalHeight: ""

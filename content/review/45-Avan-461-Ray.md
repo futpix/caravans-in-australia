@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy 461 Ray by Avan?"
   ogdescription: "The Avan 461 Ray is classed as Unknown Type, and sleeps 6 people. It is Made Overseas and comes in at 15 ft. It generally has No Bathroom or Toilet."
 categories: ["Avan"]
-tags: ["Sleeps 6", "15 ft", "Unknown Type", "No Bathroom or Toilet", "Pop top", "Price Unknown"]
+tags: ["Sleeps 6", "15 ft", "Unknown Type", "No Bathroom or Toilet", "Pop top", "Price Unknown", "Made Overseas"]
 totalLength: "5.7"
 bodyLength: "4.7"
 totalHeight: "2.265"

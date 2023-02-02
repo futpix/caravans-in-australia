@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Bravo 196-1C by Nova Caravans?"
   ogdescription: "The Nova Caravans Bravo 196-1C is classed as Unknown Type, and sleeps 2 people. It is Australian made and comes in at 21 ft. It generally has Separate shower & toilet."
 categories: ["Nova Caravans"]
-tags: ["Sleeps 2", "21 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "21 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "8.19"
 bodyLength: "6.46"
 totalHeight: "2.865"

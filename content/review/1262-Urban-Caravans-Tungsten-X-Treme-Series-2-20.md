@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Tungsten X-Treme Series 2 20 by Urban Caravans?"
   ogdescription: "The Urban Caravans Tungsten X-Treme Series 2 20 is classed as Off Road, and sleeps 2 people. It is Made Overseas and comes in at 20 ft. It generally has Separate shower & toilet."
 categories: ["Urban Caravans"]
-tags: ["Sleeps 2", "20 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "20 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Made Overseas"]
 totalLength: ""
 bodyLength: "6.09"
 totalHeight: ""

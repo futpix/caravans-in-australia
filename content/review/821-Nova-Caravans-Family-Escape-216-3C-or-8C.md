@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Family Escape 216-3C or 8C by Nova Caravans?"
   ogdescription: "The Nova Caravans Family Escape 216-3C or 8C is classed as Unknown Type, and sleeps 4-5 people. It is Australian made and comes in at 23 ft. It generally has Separate shower & toilet."
 categories: ["Nova Caravans"]
-tags: ["Sleeps 4-5", "23 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4-5", "23 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "8.58"
 bodyLength: "7.07"
 totalHeight: "2.915"

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Sirocco by Jawa Campers?"
   ogdescription: "The Jawa Campers Sirocco is classed as Off Road, and sleeps 2-5 people. It is Made Overseas and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["Jawa Campers"]
-tags: ["Sleeps 2-5", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "60 - 70k"]
+tags: ["Sleeps 2-5", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "60 - 70k", "Made Overseas"]
 totalLength: "6.7"
 bodyLength: ""
 totalHeight: "2.58"

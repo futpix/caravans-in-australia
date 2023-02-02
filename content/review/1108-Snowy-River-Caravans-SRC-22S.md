@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy SRC-22S by Snowy River Caravans?"
   ogdescription: "The Snowy River Caravans SRC-22S is classed as Semi Off Road, and sleeps 2 people. It is Made Overseas and comes in at 22 ft. It generally has Separate shower & toilet."
 categories: ["Snowy River Caravans"]
-tags: ["Sleeps 2", "22 ft", "Semi Off Road", "Separate shower & toilet", "Full height", "70 - 80k"]
+tags: ["Sleeps 2", "22 ft", "Semi Off Road", "Separate shower & toilet", "Full height", "70 - 80k", "Made Overseas"]
 totalLength: "8.56"
 bodyLength: "6.66"
 totalHeight: "3.22"

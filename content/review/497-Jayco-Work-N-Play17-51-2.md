@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Work N Play17.51-2 by Jayco?"
   ogdescription: "The Jayco Work N Play17.51-2 is classed as On Road, and sleeps 4-6 people. It is Made Overseas and comes in at 17 ft. It generally has Combined shower & toilet."
 categories: ["Jayco"]
-tags: ["Sleeps 4-6", "17 ft", "On Road", "Combined shower & toilet", "Full height", "70 - 80k"]
+tags: ["Sleeps 4-6", "17 ft", "On Road", "Combined shower & toilet", "Full height", "70 - 80k", "Made Overseas"]
 totalLength: "6.98"
 bodyLength: "5.29"
 totalHeight: "3.05"

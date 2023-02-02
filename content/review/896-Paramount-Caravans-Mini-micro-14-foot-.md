@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Mini-micro 14' by Paramount Caravans?"
   ogdescription: "The Paramount Caravans Mini-micro 14' is classed as Optional Off Road, and sleeps 2 people. It is Australian made and comes in at 14 ft. It generally has Combined shower & toilet."
 categories: ["Paramount Caravans"]
-tags: ["Sleeps 2", "14 ft", "Optional Off Road", "Combined shower & toilet", "Pop top", "Price Unknown"]
+tags: ["Sleeps 2", "14 ft", "Optional Off Road", "Combined shower & toilet", "Pop top", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "4.26"
 totalHeight: ""

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Tribal 2ourer by Great Aussie Caravans?"
   ogdescription: "The Great Aussie Caravans Tribal 2ourer is classed as Unknown Type, and sleeps 4-5 people. It is Australian made and comes in at Many sizes. It generally has Separate shower & toilet."
 categories: ["Great Aussie Caravans"]
-tags: ["Sleeps 4-5", "Many sizes", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4-5", "Many sizes", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "Various layouts & lengths"
 totalHeight: ""

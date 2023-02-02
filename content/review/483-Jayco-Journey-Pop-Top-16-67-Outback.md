@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Journey Pop Top 16.67 Outback by Jayco?"
   ogdescription: "The Jayco Journey Pop Top 16.67 Outback is classed as Off Road, and sleeps 2-3 people. It is Australian made and comes in at 17 ft. It generally has Separate shower & toilet."
 categories: ["Jayco"]
-tags: ["Sleeps 2-3", "17 ft", "Off Road", "Separate shower & toilet", "Pop top", "50 - 60k"]
+tags: ["Sleeps 2-3", "17 ft", "Off Road", "Separate shower & toilet", "Pop top", "50 - 60k", "Australian made"]
 totalLength: "6.66"
 bodyLength: "5.2"
 totalHeight: "2.57"

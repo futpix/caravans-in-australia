@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Stockman 22' by Aussie Wide Caravans?"
   ogdescription: "The Aussie Wide Caravans Stockman 22' is classed as Unknown Type, and sleeps 4-5 people. It is Made Overseas and comes in at 22 ft. It generally has Separate shower & toilet."
 categories: ["Aussie Wide Caravans"]
-tags: ["Sleeps 4-5", "22 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4-5", "22 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Made Overseas"]
 totalLength: ""
 bodyLength: "6.7"
 totalHeight: ""

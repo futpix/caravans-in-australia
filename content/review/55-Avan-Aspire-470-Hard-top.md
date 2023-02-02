@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Aspire 470 Hard top by Avan?"
   ogdescription: "The Avan Aspire 470 Hard top is classed as Unknown Type, and sleeps 2 people. It is Made Overseas and comes in at 15 ft. It generally has Separate shower & toilet."
 categories: ["Avan"]
-tags: ["Sleeps 2", "15 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "15 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Made Overseas"]
 totalLength: "6.36"
 bodyLength: "4.7"
 totalHeight: "2.7"

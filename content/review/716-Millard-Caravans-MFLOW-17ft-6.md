@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy MFLOW 17ft 6 by Millard Caravans?"
   ogdescription: "The Millard Caravans MFLOW 17ft 6 is classed as Unknown Type, and sleeps 2 people. It is Australian made and comes in at 18 ft. It generally has Separate shower & toilet."
 categories: ["Millard Caravans"]
-tags: ["Sleeps 2", "18 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "18 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "7.46"
 bodyLength: "5.475"
 totalHeight: "2.955"

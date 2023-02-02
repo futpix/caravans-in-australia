@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Musketeer Palace by Crusader Caravans?"
   ogdescription: "The Crusader Caravans Musketeer Palace is classed as Unknown Type, and sleeps 4-5 people. It is Australian made and comes in at 22 ft. It generally has Separate shower & toilet."
 categories: ["Crusader Caravans"]
-tags: ["Sleeps 4-5", "22 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4-5", "22 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "8.21"
 bodyLength: "6.66"
 totalHeight: "2.945"

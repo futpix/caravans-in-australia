@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Ironman by Simplicity Campers?"
   ogdescription: "The Simplicity Campers Ironman is classed as Off Road, and sleeps 2 people. It is Australian made and comes in at Unknown Size. It generally has No Bathroom or Toilet."
 categories: ["Simplicity Campers"]
-tags: ["Sleeps 2", "Unknown Size", "Off Road", "No Bathroom or Toilet", "Pop top", "Price Unknown"]
+tags: ["Sleeps 2", "Unknown Size", "Off Road", "No Bathroom or Toilet", "Pop top", "Price Unknown", "Australian made"]
 totalLength: "6.5"
 bodyLength: ""
 totalHeight: "2.7"

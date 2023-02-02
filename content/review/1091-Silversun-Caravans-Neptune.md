@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Neptune by Silversun Caravans?"
   ogdescription: "The Silversun Caravans Neptune is classed as Optional Off Road, and sleeps 2 people. It is Made Overseas and comes in at Unknown Size. It generally has Separate shower & toilet."
 categories: ["Silversun Caravans"]
-tags: ["Sleeps 2", "Unknown Size", "Optional Off Road", "Separate shower & toilet", "Full height", "Under 50k"]
+tags: ["Sleeps 2", "Unknown Size", "Optional Off Road", "Separate shower & toilet", "Full height", "Under 50k", "Made Overseas"]
 totalLength: "5.7"
 bodyLength: ""
 totalHeight: "2.6"
@@ -42,5 +42,5 @@ priceRangeMax: "45990"
 urlLink: "https://www.silversuncaravans.com.au/our-range/neptune/"
 aussieMade: "Made Overseas"
 noImage: ""
-featured: "feat"
+featured: "no"
 ---

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Kruiser S-Class by Kimberley Kampers?"
   ogdescription: "The Kimberley Kampers Kruiser S-Class is classed as Off Road, and sleeps 2-6 people. It is Australian made and comes in at Unknown Size. It generally has Separate shower & toilet."
 categories: ["Kimberley Kampers"]
-tags: ["Sleeps 2-6", "Unknown Size", "Off Road", "Separate shower & toilet", "Full height", "Over 100k"]
+tags: ["Sleeps 2-6", "Unknown Size", "Off Road", "Separate shower & toilet", "Full height", "Over 100k", "Australian made"]
 totalLength: "6.64"
 bodyLength: ""
 totalHeight: "2.89"

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy XT16HR Family - 15y edition by Market Direct Campers (MDC)?"
   ogdescription: "The Market Direct Campers (MDC) XT16HR Family - 15y edition is classed as Off Road, and sleeps 5 people. It is Made Overseas and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["Market Direct Campers (MDC)"]
-tags: ["Sleeps 5", "Unknown Size", "Off Road", "Combined shower & toilet", "Full height", "80 - 100k"]
+tags: ["Sleeps 5", "Unknown Size", "Off Road", "Combined shower & toilet", "Full height", "80 - 100k", "Made Overseas"]
 totalLength: "6.615"
 bodyLength: ""
 totalHeight: "3.05"

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Blue Heeler LT 17'6 T by Sunland Caravans?"
   ogdescription: "The Sunland Caravans Blue Heeler LT 17'6 T is classed as Off Road, and sleeps 2 people. It is Australian made and comes in at 17 ft. It generally has Separate shower & toilet."
 categories: ["Sunland Caravans"]
-tags: ["Sleeps 2", "17 ft", "Off Road", "Separate shower & toilet", "Full height", "Over 100k"]
+tags: ["Sleeps 2", "17 ft", "Off Road", "Separate shower & toilet", "Full height", "Over 100k", "Australian made"]
 totalLength: ""
 bodyLength: "5.33"
 totalHeight: ""

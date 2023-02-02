@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Family Getaway 21.5 by iDeal RV?"
   ogdescription: "The iDeal RV Family Getaway 21.5 is classed as Semi Off Road, and sleeps 4-5 people. It is Australian made and comes in at 21 ft. It generally has Separate shower & toilet."
 categories: ["iDeal RV"]
-tags: ["Sleeps 4-5", "21 ft", "Semi Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4-5", "21 ft", "Semi Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "6.55"
 totalHeight: "3.3"

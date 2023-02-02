@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Kirkson 196 by Cosy Cab Caravans?"
   ogdescription: "The Cosy Cab Caravans Kirkson 196 is classed as Unknown Type, and sleeps Bed Options people. It is Australian made and comes in at 19 ft. It generally has Separate shower & toilet."
 categories: ["Cosy Cab Caravans"]
-tags: ["Sleeps Bed Options", "19 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps Bed Options", "19 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "5.94"
 totalHeight: ""

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Javelin X8 21' Family Van by Olympic Caravans?"
   ogdescription: "The Olympic Caravans Javelin X8 21' Family Van is classed as Semi Off Road, and sleeps 4-5 people. It is Made Overseas and comes in at Unknown Size. It generally has Separate shower & toilet."
 categories: ["Olympic Caravans"]
-tags: ["Sleeps 4-5", "Unknown Size", "Semi Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4-5", "Unknown Size", "Semi Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Made Overseas"]
 totalLength: ""
 bodyLength: ""
 totalHeight: ""
@@ -41,6 +41,6 @@ priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "https://www.olympiccaravans.com.au/javelin"
 aussieMade: "Made Overseas"
-noImage: ""
+noImage: "r"
 featured: "no"
 ---

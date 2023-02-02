@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Family Flair 21'-3E by Royal Flair Caravans?"
   ogdescription: "The Royal Flair Caravans Family Flair 21'-3E is classed as Unknown Type, and sleeps Bed Options people. It is Australian made and comes in at 21 ft. It generally has Unkown."
 categories: ["Royal Flair Caravans"]
-tags: ["Sleeps Bed Options", "21 ft", "Unknown Type", "Unkown", "Full height", "Price Unknown"]
+tags: ["Sleeps Bed Options", "21 ft", "Unknown Type", "Unkown", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "6.4"
 totalHeight: "2.87"
@@ -41,6 +41,6 @@ priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "https://www.royalflair.com.au/our-range/family-flair/"
 aussieMade: "Australian made"
-noImage: ""
+noImage: "r"
 featured: "no"
 ---

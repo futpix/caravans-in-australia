@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Dreamline 17'10 Front Door Cafe by JB Caravans?"
   ogdescription: "The JB Caravans Dreamline 17'10 Front Door Cafe is classed as On Road, and sleeps 2 people. It is Australian made and comes in at Unknown Size. It generally has Separate shower & toilet."
 categories: ["JB Caravans"]
-tags: ["Sleeps 2", "Unknown Size", "On Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "Unknown Size", "On Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "7.6"
 bodyLength: ""
 totalHeight: "2.9"

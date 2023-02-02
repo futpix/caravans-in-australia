@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Genesis 176RD by Windsor Caravans?"
   ogdescription: "The Windsor Caravans Genesis 176RD is classed as Unknown Type, and sleeps 2 people. It is Made Overseas and comes in at 18 ft. It generally has Separate shower & toilet."
 categories: ["Windsor Caravans"]
-tags: ["Sleeps 2", "18 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "18 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Made Overseas"]
 totalLength: "6.775"
 bodyLength: "5.373"
 totalHeight: "2.97"

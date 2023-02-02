@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Genesis 220MD by Windsor Caravans?"
   ogdescription: "The Windsor Caravans Genesis 220MD is classed as Unknown Type, and sleeps 5 people. It is Made Overseas and comes in at 23 ft. It generally has Separate shower & toilet."
 categories: ["Windsor Caravans"]
-tags: ["Sleeps 5", "23 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 5", "23 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Made Overseas"]
 totalLength: "8.3"
 bodyLength: "6.88"
 totalHeight: "2.97"

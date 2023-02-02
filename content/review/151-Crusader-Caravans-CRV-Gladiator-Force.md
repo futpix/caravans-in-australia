@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy CRV Gladiator Force by Crusader Caravans?"
   ogdescription: "The Crusader Caravans CRV Gladiator Force is classed as Optional Off Road, and sleeps 2 people. It is Australian made and comes in at 15 ft. It generally has Combined shower & toilet."
 categories: ["Crusader Caravans"]
-tags: ["Sleeps 2", "15 ft", "Optional Off Road", "Combined shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "15 ft", "Optional Off Road", "Combined shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "6.315"
 bodyLength: "4.51"
 totalHeight: "2.995"

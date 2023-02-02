@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy XH13 by Blue Tongue Campers?"
   ogdescription: "The Blue Tongue Campers XH13 is classed as Off Road, and sleeps 4 people. It is Made Overseas and comes in at 13 ft. It generally has Combined shower & toilet."
 categories: ["Blue Tongue Campers"]
-tags: ["Sleeps 4", "13 ft", "Off Road", "Combined shower & toilet", "Pop top", "Under 50k"]
+tags: ["Sleeps 4", "13 ft", "Off Road", "Combined shower & toilet", "Pop top", "Under 50k", "Made Overseas"]
 totalLength: "5.9"
 bodyLength: "3.99"
 totalHeight: "2.39"

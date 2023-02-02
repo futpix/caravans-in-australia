@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Saturn 13 by Mars Campers?"
   ogdescription: "The Mars Campers Saturn 13 is classed as Off Road, and sleeps 3 people. It is Made Overseas and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["Mars Campers"]
-tags: ["Sleeps 3", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "Under 50k"]
+tags: ["Sleeps 3", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "Under 50k", "Made Overseas"]
 totalLength: "5.7"
 bodyLength: ""
 totalHeight: "2.32"
@@ -42,5 +42,5 @@ priceRangeMax: "45990"
 urlLink: "https://marscampers.com.au/camper-trailers/saturn-13/"
 aussieMade: "Made Overseas"
 noImage: ""
-featured: "feat"
+featured: "no"
 ---

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Trooper 19' by Lotus Caravans?"
   ogdescription: "The Lotus Caravans Trooper 19' is classed as Off Road, and sleeps 4-5 people. It is Australian made and comes in at 19 ft. It generally has Separate shower & toilet."
 categories: ["Lotus Caravans"]
-tags: ["Sleeps 4-5", "19 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4-5", "19 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "8.516"
 bodyLength: "5.892"
 totalHeight: "3.11"

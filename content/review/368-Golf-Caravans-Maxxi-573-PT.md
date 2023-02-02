@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Maxxi 573 PT by Golf Caravans?"
   ogdescription: "The Golf Caravans Maxxi 573 PT is classed as On Road, and sleeps 6 people. It is Australian made and comes in at 18 ft. It generally has Separate shower & toilet."
 categories: ["Golf Caravans"]
-tags: ["Sleeps 6", "18 ft", "On Road", "Separate shower & toilet", "Pop top", "Price Unknown"]
+tags: ["Sleeps 6", "18 ft", "On Road", "Separate shower & toilet", "Pop top", "Price Unknown", "Australian made"]
 totalLength: "6.9"
 bodyLength: "5.37"
 totalHeight: "2.21"

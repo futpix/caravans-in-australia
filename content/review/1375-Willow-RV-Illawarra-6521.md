@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Illawarra 6521 by Willow RV?"
   ogdescription: "The Willow RV Illawarra 6521 is classed as Unknown Type, and sleeps 4 people. It is Australian made and comes in at 23 ft. It generally has Separate shower & toilet."
 categories: ["Willow RV"]
-tags: ["Sleeps 4", "23 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4", "23 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "8.73"
 bodyLength: "6.92"
 totalHeight: "2.955"

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Tungsten X-Terrain Series 2 18 by Urban Caravans?"
   ogdescription: "The Urban Caravans Tungsten X-Terrain Series 2 18 is classed as Off Road, and sleeps 2 people. It is Made Overseas and comes in at 18 ft. It generally has Separate shower & toilet."
 categories: ["Urban Caravans"]
-tags: ["Sleeps 2", "18 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "18 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Made Overseas"]
 totalLength: ""
 bodyLength: "5.49"
 totalHeight: ""

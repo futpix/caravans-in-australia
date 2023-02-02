@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Iridium 13 by Signature Camper Trailers?"
   ogdescription: "The Signature Camper Trailers Iridium 13 is classed as Off Road, and sleeps 2-3 people. It is Made Overseas and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["Signature Camper Trailers"]
-tags: ["Sleeps 2-3", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "Under 50k"]
+tags: ["Sleeps 2-3", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "Under 50k", "Made Overseas"]
 totalLength: "5.4"
 bodyLength: ""
 totalHeight: "2.36"
@@ -42,5 +42,5 @@ priceRangeMax: "45490"
 urlLink: "https://signaturecampertrailers.com.au/iridium-hybrid-camper-trailer/"
 aussieMade: "Made Overseas"
 noImage: ""
-featured: "feat"
+featured: "no"
 ---

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy E Series E4 by Fantasy Caravan?"
   ogdescription: "The Fantasy Caravan E Series E4 is classed as On Road, and sleeps 4 people. It is Made Overseas and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["Fantasy Caravan"]
-tags: ["Sleeps 4", "Unknown Size", "On Road", "Combined shower & toilet", "Full height", "Under 50k"]
+tags: ["Sleeps 4", "Unknown Size", "On Road", "Combined shower & toilet", "Full height", "Under 50k", "Made Overseas"]
 totalLength: "5.44"
 bodyLength: ""
 totalHeight: "2.685"
@@ -42,5 +42,5 @@ priceRangeMax: "44990"
 urlLink: "https://fantasycaravan.com.au/models/e-series-e4/"
 aussieMade: "Made Overseas"
 noImage: ""
-featured: "feat"
+featured: "no"
 ---

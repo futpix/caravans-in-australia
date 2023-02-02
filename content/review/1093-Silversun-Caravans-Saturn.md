@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Saturn by Silversun Caravans?"
   ogdescription: "The Silversun Caravans Saturn is classed as Unknown Type, and sleeps 2 people. It is Made Overseas and comes in at Unknown Size. It generally has Separate shower & toilet."
 categories: ["Silversun Caravans"]
-tags: ["Sleeps 2", "Unknown Size", "Unknown Type", "Separate shower & toilet", "Full height", "60 - 70k"]
+tags: ["Sleeps 2", "Unknown Size", "Unknown Type", "Separate shower & toilet", "Full height", "60 - 70k", "Made Overseas"]
 totalLength: ""
 bodyLength: ""
 totalHeight: "2.7"

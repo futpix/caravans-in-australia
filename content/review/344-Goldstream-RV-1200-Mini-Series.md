@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy 1200 Mini Series by Goldstream RV?"
   ogdescription: "The Goldstream RV 1200 Mini Series is classed as Optional Off Road, and sleeps 2 people. It is Made Overseas and comes in at 12 ft. It generally has No Bathroom or Toilet."
 categories: ["Goldstream RV"]
-tags: ["Sleeps 2", "12 ft", "Optional Off Road", "No Bathroom or Toilet", "Pop top", "Price Unknown"]
+tags: ["Sleeps 2", "12 ft", "Optional Off Road", "No Bathroom or Toilet", "Pop top", "Price Unknown", "Made Overseas"]
 totalLength: "5.43"
 bodyLength: "3.78"
 totalHeight: "2.03"

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy SCT-18 by Swag Camper Trailers?"
   ogdescription: "The Swag Camper Trailers SCT-18 is classed as Off Road, and sleeps 4-5 people. It is Made Overseas and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["Swag Camper Trailers"]
-tags: ["Sleeps 4-5", "Unknown Size", "Off Road", "Combined shower & toilet", "Full height", "70 - 80k"]
+tags: ["Sleeps 4-5", "Unknown Size", "Off Road", "Combined shower & toilet", "Full height", "70 - 80k", "Made Overseas"]
 totalLength: "7.6"
 bodyLength: ""
 totalHeight: "3.1"

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Chorus 21' by Victory Caravans?"
   ogdescription: "The Victory Caravans Chorus 21' is classed as Unknown Type, and sleeps 4-5 people. It is Australian made and comes in at 21 ft. It generally has Separate shower & toilet."
 categories: ["Victory Caravans"]
-tags: ["Sleeps 4-5", "21 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4-5", "21 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "6.4"
 totalHeight: ""

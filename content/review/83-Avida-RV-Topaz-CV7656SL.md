@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Topaz CV7656SL by Avida RV?"
   ogdescription: "The Avida RV Topaz CV7656SL is classed as On Road, and sleeps 4-5 people. It is Made Overseas and comes in at 25 ft. It generally has Separate shower & toilet."
 categories: ["Avida RV"]
-tags: ["Sleeps 4-5", "25 ft", "On Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4-5", "25 ft", "On Road", "Separate shower & toilet", "Full height", "Price Unknown", "Made Overseas"]
 totalLength: "8.795"
 bodyLength: "7.625"
 totalHeight: "3.02"

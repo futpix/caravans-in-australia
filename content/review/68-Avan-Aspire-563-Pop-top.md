@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Aspire 563 Pop top by Avan?"
   ogdescription: "The Avan Aspire 563 Pop top is classed as Unknown Type, and sleeps 2 people. It is Made Overseas and comes in at 18 ft. It generally has Combined shower & toilet."
 categories: ["Avan"]
-tags: ["Sleeps 2", "18 ft", "Unknown Type", "Combined shower & toilet", "Pop top", "Price Unknown"]
+tags: ["Sleeps 2", "18 ft", "Unknown Type", "Combined shower & toilet", "Pop top", "Price Unknown", "Made Overseas"]
 totalLength: "7.09"
 bodyLength: "5.49"
 totalHeight: "2.46"

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Javelin X8 C216-2 by Olympic Caravans?"
   ogdescription: "The Olympic Caravans Javelin X8 C216-2 is classed as Semi Off Road, and sleeps 2 people. It is Made Overseas and comes in at Unknown Size. It generally has Separate shower & toilet."
 categories: ["Olympic Caravans"]
-tags: ["Sleeps 2", "Unknown Size", "Semi Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "Unknown Size", "Semi Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Made Overseas"]
 totalLength: ""
 bodyLength: ""
 totalHeight: ""

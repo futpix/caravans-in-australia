@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Scout-11 by Stoney Creek Campers?"
   ogdescription: "The Stoney Creek Campers Scout-11 is classed as Off Road, and sleeps 4 people. It is Made Overseas and comes in at 12 ft. It generally has Combined shower & toilet."
 categories: ["Stoney Creek Campers"]
-tags: ["Sleeps 4", "12 ft", "Off Road", "Combined shower & toilet", "Pop top", "Price Unknown"]
+tags: ["Sleeps 4", "12 ft", "Off Road", "Combined shower & toilet", "Pop top", "Price Unknown", "Made Overseas"]
 totalLength: "5.35"
 bodyLength: "3.55"
 totalHeight: "2.5"

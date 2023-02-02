@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Eyre -bunks by Trailblazers RV?"
   ogdescription: "The Trailblazers RV Eyre -bunks is classed as Off Road, and sleeps 4 people. It is Australian made and comes in at 11 ft. It generally has No Bathroom or Toilet."
 categories: ["Trailblazers RV"]
-tags: ["Sleeps 4", "11 ft", "Off Road", "No Bathroom or Toilet", "Pop top", "Price Unknown"]
+tags: ["Sleeps 4", "11 ft", "Off Road", "No Bathroom or Toilet", "Pop top", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "3.5"
 totalHeight: ""
@@ -41,6 +41,6 @@ priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "https://www.ttrv.com.au/hybrid-campers/eyre"
 aussieMade: "Australian made"
-noImage: ""
+noImage: "r"
 featured: "no"
 ---

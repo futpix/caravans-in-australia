@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy F Series F5S-S by Fantasy Caravan?"
   ogdescription: "The Fantasy Caravan F Series F5S-S is classed as Off Road, and sleeps 2-4 people. It is Made Overseas and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["Fantasy Caravan"]
-tags: ["Sleeps 2-4", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "50 - 60k"]
+tags: ["Sleeps 2-4", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "50 - 60k", "Made Overseas"]
 totalLength: "6.3"
 bodyLength: ""
 totalHeight: "2.37"
@@ -42,5 +42,5 @@ priceRangeMax: "54990"
 urlLink: "https://fantasycaravan.com.au/f-series-f5s-s/"
 aussieMade: "Made Overseas"
 noImage: ""
-featured: "feat"
+featured: "no"
 ---

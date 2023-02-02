@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Pursuit PS210-3 or 6 by Olympic Caravans?"
   ogdescription: "The Olympic Caravans Pursuit PS210-3 or 6 is classed as Unknown Type, and sleeps 4-5 people. It is Made Overseas and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["Olympic Caravans"]
-tags: ["Sleeps 4-5", "Unknown Size", "Unknown Type", "Combined shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4-5", "Unknown Size", "Unknown Type", "Combined shower & toilet", "Full height", "Price Unknown", "Made Overseas"]
 totalLength: ""
 bodyLength: ""
 totalHeight: ""

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Savina by La Vista Caravans?"
   ogdescription: "The La Vista Caravans Savina is classed as Unknown Type, and sleeps 2-3 people. It is Australian made and comes in at Unknown Size. It generally has Separate shower & toilet."
 categories: ["La Vista Caravans"]
-tags: ["Sleeps 2-3", "Unknown Size", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2-3", "Unknown Size", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "9.1"
 bodyLength: ""
 totalHeight: "3.1"

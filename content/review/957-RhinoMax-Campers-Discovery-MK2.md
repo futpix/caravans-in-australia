@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Discovery MK2 by RhinoMax Campers?"
   ogdescription: "The RhinoMax Campers Discovery MK2 is classed as Off Road, and sleeps 2-4 people. It is Australian made and comes in at 15 ft. It generally has No Bathroom or Toilet."
 categories: ["RhinoMax Campers"]
-tags: ["Sleeps 2-4", "15 ft", "Off Road", "No Bathroom or Toilet", "Pop top", "80 - 100k"]
+tags: ["Sleeps 2-4", "15 ft", "Off Road", "No Bathroom or Toilet", "Pop top", "80 - 100k", "Australian made"]
 totalLength: "6.8"
 bodyLength: "4.5"
 totalHeight: "2.44"

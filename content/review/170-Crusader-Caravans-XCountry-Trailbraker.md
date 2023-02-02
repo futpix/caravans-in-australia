@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy XCountry Trailbraker by Crusader Caravans?"
   ogdescription: "The Crusader Caravans XCountry Trailbraker is classed as Off Road, and sleeps 2 people. It is Australian made and comes in at 19 ft. It generally has Separate shower & toilet."
 categories: ["Crusader Caravans"]
-tags: ["Sleeps 2", "19 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "19 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "7.6"
 bodyLength: "5.75"
 totalHeight: ""

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Mighty 5 - MT15E by Prime Campers?"
   ogdescription: "The Prime Campers Mighty 5 - MT15E is classed as Off Road, and sleeps 4 people. It is Made Overseas and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["Prime Campers"]
-tags: ["Sleeps 4", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "50 - 60k"]
+tags: ["Sleeps 4", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "50 - 60k", "Made Overseas"]
 totalLength: "6.3"
 bodyLength: ""
 totalHeight: "2.5"

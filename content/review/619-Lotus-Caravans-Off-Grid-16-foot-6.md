@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Off Grid 16'6 by Lotus Caravans?"
   ogdescription: "The Lotus Caravans Off Grid 16'6 is classed as Unknown Type, and sleeps 4-5 people. It is Australian made and comes in at 17 ft. It generally has Combined shower & toilet."
 categories: ["Lotus Caravans"]
-tags: ["Sleeps 4-5", "17 ft", "Unknown Type", "Combined shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4-5", "17 ft", "Unknown Type", "Combined shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "7.618"
 bodyLength: "5.13"
 totalHeight: "2.99"

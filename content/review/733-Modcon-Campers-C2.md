@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy C2 by Modcon Campers?"
   ogdescription: "The Modcon Campers C2 is classed as Off Road, and sleeps 2 people. It is Made Overseas and comes in at Unknown Size. It generally has No Bathroom or Toilet."
 categories: ["Modcon Campers"]
-tags: ["Sleeps 2", "Unknown Size", "Off Road", "No Bathroom or Toilet", "Pop top", "Price Unknown"]
+tags: ["Sleeps 2", "Unknown Size", "Off Road", "No Bathroom or Toilet", "Pop top", "Price Unknown", "Made Overseas"]
 totalLength: "5.2"
 bodyLength: ""
 totalHeight: ""

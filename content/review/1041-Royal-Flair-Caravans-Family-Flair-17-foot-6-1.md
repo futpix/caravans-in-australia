@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Family Flair 17'6-1 by Royal Flair Caravans?"
   ogdescription: "The Royal Flair Caravans Family Flair 17'6-1 is classed as Unknown Type, and sleeps 4 people. It is Australian made and comes in at 17 ft. It generally has Separate shower & toilet."
 categories: ["Royal Flair Caravans"]
-tags: ["Sleeps 4", "17 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4", "17 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "5.335"
 totalHeight: "2.87"

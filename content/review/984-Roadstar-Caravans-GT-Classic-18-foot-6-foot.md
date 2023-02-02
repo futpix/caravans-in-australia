@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy GT Classic 18'6 by Roadstar Caravans?"
   ogdescription: "The Roadstar Caravans GT Classic 18'6 is classed as Unknown Type, and sleeps 2 people. It is Australian made and comes in at 19 ft. It generally has Separate shower & toilet."
 categories: ["Roadstar Caravans"]
-tags: ["Sleeps 2", "19 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "19 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "7.68"
 bodyLength: "5.77"
 totalHeight: "3.1"

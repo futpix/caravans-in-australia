@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy EXP-8 by Bruder?"
   ogdescription: "The Bruder EXP-8 is classed as Off Road, and sleeps 2-4 people. It is Australian made and comes in at 19 ft. It generally has Combined shower & toilet."
 categories: ["Bruder"]
-tags: ["Sleeps 2-4", "19 ft", "Off Road", "Combined shower & toilet", "Full height", "Over 100k"]
+tags: ["Sleeps 2-4", "19 ft", "Off Road", "Combined shower & toilet", "Full height", "Over 100k", "Australian made"]
 totalLength: "6.84"
 bodyLength: "5.85"
 totalHeight: "2.9"

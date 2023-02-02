@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy EXP-6 PT by Bruder?"
   ogdescription: "The Bruder EXP-6 PT is classed as Off Road, and sleeps 2-6 people. It is Australian made and comes in at 16 ft. It generally has Combined shower & toilet."
 categories: ["Bruder"]
-tags: ["Sleeps 2-6", "16 ft", "Off Road", "Combined shower & toilet", "Pop top", "Over 100k"]
+tags: ["Sleeps 2-6", "16 ft", "Off Road", "Combined shower & toilet", "Pop top", "Over 100k", "Australian made"]
 totalLength: "6.723"
 bodyLength: "5"
 totalHeight: "2.37"

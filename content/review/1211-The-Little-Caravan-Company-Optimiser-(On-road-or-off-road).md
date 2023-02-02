@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Optimiser (On road or off road) by The Little Caravan Company?"
   ogdescription: "The The Little Caravan Company Optimiser (On road or off road) is classed as Optional Off Road, and sleeps 2 people. It is Made Overseas and comes in at Many sizes. It generally has Combined shower & toilet."
 categories: ["The Little Caravan Company"]
-tags: ["Sleeps 2", "Many sizes", "Optional Off Road", "Combined shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "Many sizes", "Optional Off Road", "Combined shower & toilet", "Full height", "Price Unknown", "Made Overseas"]
 totalLength: "6"
 bodyLength: "3.66 (4.57)"
 totalHeight: "2.85"

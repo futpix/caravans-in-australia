@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Pride Platinum 21-1R by Nova Caravans?"
   ogdescription: "The Nova Caravans Pride Platinum 21-1R is classed as Unknown Type, and sleeps 2 people. It is Australian made and comes in at 23 ft. It generally has Separate shower & toilet."
 categories: ["Nova Caravans"]
-tags: ["Sleeps 2", "23 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "23 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "9.05"
 bodyLength: "6.98"
 totalHeight: "3.05"

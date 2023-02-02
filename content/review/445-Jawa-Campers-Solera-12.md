@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Solera 12 by Jawa Campers?"
   ogdescription: "The Jawa Campers Solera 12 is classed as Off Road, and sleeps 2 people. It is Made Overseas and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["Jawa Campers"]
-tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "50 - 60k"]
+tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "50 - 60k", "Made Overseas"]
 totalLength: "5.5"
 bodyLength: ""
 totalHeight: "2.5"
@@ -42,5 +42,5 @@ priceRangeMax: "54000"
 urlLink: "https://www.jawacampers.com.au/hybrids-camper-trailers/solera-12/"
 aussieMade: "Made Overseas"
 noImage: ""
-featured: "feat"
+featured: "no"
 ---

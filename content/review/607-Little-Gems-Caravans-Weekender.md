@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Weekender by Little Gems Caravans?"
   ogdescription: "The Little Gems Caravans Weekender is classed as On Road, and sleeps 2 people. It is Made Overseas and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["Little Gems Caravans"]
-tags: ["Sleeps 2", "Unknown Size", "On Road", "Combined shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "Unknown Size", "On Road", "Combined shower & toilet", "Full height", "Price Unknown", "Made Overseas"]
 totalLength: "4.99"
 bodyLength: ""
 totalHeight: "2.55"

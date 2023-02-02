@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Family Escape 166-8C by Nova Caravans?"
   ogdescription: "The Nova Caravans Family Escape 166-8C is classed as Unknown Type, and sleeps 4-5 people. It is Australian made and comes in at 18 ft. It generally has Separate shower & toilet."
 categories: ["Nova Caravans"]
-tags: ["Sleeps 4-5", "18 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4-5", "18 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "6.865"
 bodyLength: "5.43"
 totalHeight: "3.035"

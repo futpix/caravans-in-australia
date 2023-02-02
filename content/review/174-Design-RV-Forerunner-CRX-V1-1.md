@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Forerunner CRX V1-1 by Design RV?"
   ogdescription: "The Design RV Forerunner CRX V1-1 is classed as Semi Off Road, and sleeps 2-3 people. It is Australian made and comes in at 19 ft. It generally has Separate shower & toilet."
 categories: ["Design RV"]
-tags: ["Sleeps 2-3", "19 ft", "Semi Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2-3", "19 ft", "Semi Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "7.97"
 bodyLength: "5.69"
 totalHeight: "3.05"
@@ -41,6 +41,6 @@ priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "https://designrv.com.au/caravan/forerunner-crx/"
 aussieMade: "Australian made"
-noImage: ""
+noImage: "r"
 featured: "no"
 ---

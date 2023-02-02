@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Winton 18 Twin by EzyTrail Campers?"
   ogdescription: "The EzyTrail Campers Winton 18 Twin is classed as Off Road, and sleeps 2 people. It is Made Overseas and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["EzyTrail Campers"]
-tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined shower & toilet", "Full height", "60 - 70k"]
+tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined shower & toilet", "Full height", "60 - 70k", "Made Overseas"]
 totalLength: "7.15"
 bodyLength: ""
 totalHeight: "3.05"

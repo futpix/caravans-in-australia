@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Epix Premier by Spinfex?"
   ogdescription: "The Spinfex Epix Premier is classed as Off Road, and sleeps Bed Options people. It is Australian made and comes in at Many sizes. It generally has Combined or separate shower & toilet."
 categories: ["Spinfex"]
-tags: ["Sleeps Bed Options", "Many sizes", "Off Road", "Combined or separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps Bed Options", "Many sizes", "Off Road", "Combined or separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "From 16' to 24'"
 totalHeight: ""

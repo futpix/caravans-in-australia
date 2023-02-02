@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Sunrunner Family by Seascape Caravans?"
   ogdescription: "The Seascape Caravans Sunrunner Family is classed as Unknown Type, and sleeps 4 people. It is Australian made and comes in at Many sizes. It generally has Separate shower & toilet."
 categories: ["Seascape Caravans"]
-tags: ["Sleeps 4", "Many sizes", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4", "Many sizes", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "Various layouts & lengths"
 totalHeight: ""

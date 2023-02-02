@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Aspire 555 Hard top by Avan?"
   ogdescription: "The Avan Aspire 555 Hard top is classed as Unknown Type, and sleeps 2 people. It is Made Overseas and comes in at 18 ft. It generally has Separate shower & toilet."
 categories: ["Avan"]
-tags: ["Sleeps 2", "18 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "18 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Made Overseas"]
 totalLength: "6.95"
 bodyLength: "5.36"
 totalHeight: "2.75"

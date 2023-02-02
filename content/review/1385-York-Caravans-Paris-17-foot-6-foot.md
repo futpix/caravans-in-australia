@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Paris 17'6 by York Caravans?"
   ogdescription: "The York Caravans Paris 17'6 is classed as Semi Off Road, and sleeps 2 people. It is Australian made and comes in at 17 ft. It generally has Separate shower & toilet."
 categories: ["York Caravans"]
-tags: ["Sleeps 2", "17 ft", "Semi Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "17 ft", "Semi Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "5.33"
 totalHeight: ""

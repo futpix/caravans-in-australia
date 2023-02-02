@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy 21ft Outlander by Southern Cross Camper Trailers?"
   ogdescription: "The Southern Cross Camper Trailers 21ft Outlander is classed as Off Road, and sleeps 6 people. It is Made Overseas and comes in at Unknown Size. It generally has Separate shower & toilet."
 categories: ["Southern Cross Camper Trailers"]
-tags: ["Sleeps 6", "Unknown Size", "Off Road", "Separate shower & toilet", "Full height", "80 - 100k"]
+tags: ["Sleeps 6", "Unknown Size", "Off Road", "Separate shower & toilet", "Full height", "80 - 100k", "Made Overseas"]
 totalLength: "8.99"
 bodyLength: ""
 totalHeight: "3.108"

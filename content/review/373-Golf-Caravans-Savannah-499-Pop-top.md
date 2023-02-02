@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Savannah 499 Pop top by Golf Caravans?"
   ogdescription: "The Golf Caravans Savannah 499 Pop top is classed as Unknown Type, and sleeps 2 people. It is Australian made and comes in at 16 ft. It generally has Combined shower & toilet."
 categories: ["Golf Caravans"]
-tags: ["Sleeps 2", "16 ft", "Unknown Type", "Combined shower & toilet", "Pop top", "Price Unknown"]
+tags: ["Sleeps 2", "16 ft", "Unknown Type", "Combined shower & toilet", "Pop top", "Price Unknown", "Australian made"]
 totalLength: "6.8"
 bodyLength: "4.99"
 totalHeight: "2.65"

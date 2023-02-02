@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Razor XT 16'6-2E by Royal Flair Caravans?"
   ogdescription: "The Royal Flair Caravans Razor XT 16'6-2E is classed as Off Road, and sleeps 2 people. It is Australian made and comes in at 16 ft. It generally has Separate shower & toilet."
 categories: ["Royal Flair Caravans"]
-tags: ["Sleeps 2", "16 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "16 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "5.029"
 totalHeight: "3.07"
@@ -41,6 +41,6 @@ priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "https://www.royalflair.com.au/our-range/razor-xt/"
 aussieMade: "Australian made"
-noImage: ""
+noImage: "r"
 featured: "no"
 ---

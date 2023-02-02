@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Johnnos Xtreme 14 by Altitude Campers?"
   ogdescription: "The Altitude Campers Johnnos Xtreme 14 is classed as Off Road, and sleeps 2 people. It is Made Overseas and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["Altitude Campers"]
-tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "60 - 70k"]
+tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "60 - 70k", "Made Overseas"]
 totalLength: "6.4"
 bodyLength: ""
 totalHeight: "2.35"

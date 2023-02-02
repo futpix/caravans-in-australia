@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Toura 18ft 8 by Millard Caravans?"
   ogdescription: "The Millard Caravans Toura 18ft 8 is classed as Semi Off Road, and sleeps 2 people. It is Australian made and comes in at 19 ft. It generally has Separate shower & toilet."
 categories: ["Millard Caravans"]
-tags: ["Sleeps 2", "19 ft", "Semi Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "19 ft", "Semi Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "8.105"
 bodyLength: "5.86"
 totalHeight: "2.975"

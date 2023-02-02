@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Toura 16ft 9 by Millard Caravans?"
   ogdescription: "The Millard Caravans Toura 16ft 9 is classed as Semi Off Road, and sleeps 2 people. It is Australian made and comes in at 17 ft. It generally has Separate shower & toilet."
 categories: ["Millard Caravans"]
-tags: ["Sleeps 2", "17 ft", "Semi Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "17 ft", "Semi Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "7.555"
 bodyLength: "5.31"
 totalHeight: "2.975"
@@ -41,6 +41,6 @@ priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "https://millardcaravans.com.au/range/toura/"
 aussieMade: "Australian made"
-noImage: ""
+noImage: "r"
 featured: "no"
 ---

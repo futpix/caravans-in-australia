@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Infinity 706 by Avan?"
   ogdescription: "The Avan Infinity 706 is classed as Unknown Type, and sleeps 5-7 people. It is Made Overseas and comes in at 23 ft. It generally has Separate shower & toilet."
 categories: ["Avan"]
-tags: ["Sleeps 5-7", "23 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 5-7", "23 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Made Overseas"]
 totalLength: "8.8"
 bodyLength: "7.06"
 totalHeight: "3"

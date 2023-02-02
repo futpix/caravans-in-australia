@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Infinity 609 by Avan?"
   ogdescription: "The Avan Infinity 609 is classed as Unknown Type, and sleeps 2 people. It is Made Overseas and comes in at 20 ft. It generally has Separate shower & toilet."
 categories: ["Avan"]
-tags: ["Sleeps 2", "20 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "20 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Made Overseas"]
 totalLength: "7.8"
 bodyLength: "6.23"
 totalHeight: "3"

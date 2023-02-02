@@ -25,15 +25,12 @@
  
  
 			 
- 
-		
- 
- 
+
  {{- $sortedPages := .Pages.ByParam "price" }}
  {{ $paginator := .Paginate $sortedPages }}
- {{- range $index, $page := $paginator.Pages }}
- {{- partial "listing-template-horiz.html" . -}}
- {{end}}
+ {{- range .Paginator.Pages }}
+ {{- partial "listing-template-tags.html" . -}}
+ {{end}} 
  
  
  

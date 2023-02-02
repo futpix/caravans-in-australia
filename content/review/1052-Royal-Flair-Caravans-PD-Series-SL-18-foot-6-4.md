@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy PD Series SL 18'6-4 by Royal Flair Caravans?"
   ogdescription: "The Royal Flair Caravans PD Series SL 18'6-4 is classed as Unknown Type, and sleeps 4-5 people. It is Australian made and comes in at 18 ft. It generally has Separate shower & toilet."
 categories: ["Royal Flair Caravans"]
-tags: ["Sleeps 4-5", "18 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4-5", "18 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "5.64"
 totalHeight: "2.87"

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Outback 18'6 by Aussie Wide Caravans?"
   ogdescription: "The Aussie Wide Caravans Outback 18'6 is classed as Off Road, and sleeps 4-5 people. It is Made Overseas and comes in at 18 ft. It generally has Separate shower & toilet."
 categories: ["Aussie Wide Caravans"]
-tags: ["Sleeps 4-5", "18 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4-5", "18 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Made Overseas"]
 totalLength: ""
 bodyLength: "5.64"
 totalHeight: ""

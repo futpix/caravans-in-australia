@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Mica V8 by Design RV?"
   ogdescription: "The Design RV Mica V8 is classed as Unknown Type, and sleeps 2-4 people. It is Australian made and comes in at 22 ft. It generally has Separate shower & toilet."
 categories: ["Design RV"]
-tags: ["Sleeps 2-4", "22 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2-4", "22 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "8.565"
 bodyLength: "6.65"
 totalHeight: "3.2"

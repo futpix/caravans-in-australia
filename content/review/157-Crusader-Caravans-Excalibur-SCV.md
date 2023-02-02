@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Excalibur SCV by Crusader Caravans?"
   ogdescription: "The Crusader Caravans Excalibur SCV is classed as Unknown Type, and sleeps 2 people. It is Australian made and comes in at 22 ft. It generally has Separate shower & toilet."
 categories: ["Crusader Caravans"]
-tags: ["Sleeps 2", "22 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "22 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "8.44"
 bodyLength: "6.59"
 totalHeight: "3.08"

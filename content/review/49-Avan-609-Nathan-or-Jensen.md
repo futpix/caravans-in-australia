@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy 609 Nathan or Jensen by Avan?"
   ogdescription: "The Avan 609 Nathan or Jensen is classed as Unknown Type, and sleeps 2 people. It is Made Overseas and comes in at 20 ft. It generally has Separate shower & toilet."
 categories: ["Avan"]
-tags: ["Sleeps 2", "20 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "20 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Made Overseas"]
 totalLength: "7.7"
 bodyLength: "6.04"
 totalHeight: "2.69"

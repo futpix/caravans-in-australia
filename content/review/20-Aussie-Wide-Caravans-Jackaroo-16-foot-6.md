@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Jackaroo 16'6 by Aussie Wide Caravans?"
   ogdescription: "The Aussie Wide Caravans Jackaroo 16'6 is classed as Off Road, and sleeps 2 people. It is Made Overseas and comes in at 16 ft. It generally has Separate shower & toilet."
 categories: ["Aussie Wide Caravans"]
-tags: ["Sleeps 2", "16 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "16 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Made Overseas"]
 totalLength: ""
 bodyLength: "5.03"
 totalHeight: ""

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Phantom by Highline Caravans?"
   ogdescription: "The Highline Caravans Phantom is classed as Off Road, and sleeps 2-5 people. It is Australian made and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["Highline Caravans"]
-tags: ["Sleeps 2-5", "Unknown Size", "Off Road", "Combined shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2-5", "Unknown Size", "Off Road", "Combined shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "6.985"
 bodyLength: ""
 totalHeight: ""

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy UEV-440 ST by Conqueror Australia?"
   ogdescription: "The Conqueror Australia UEV-440 ST is classed as Off Road, and sleeps Up to 5 people. It is Australian made and comes in at 11 ft. It generally has No Bathroom or Toilet."
 categories: ["Conqueror Australia"]
-tags: ["Sleeps Up to 5", "11 ft", "Off Road", "No Bathroom or Toilet", "Pop up", "Price Unknown"]
+tags: ["Sleeps Up to 5", "11 ft", "Off Road", "No Bathroom or Toilet", "Pop up", "Price Unknown", "Australian made"]
 totalLength: "4.451"
 bodyLength: "3.458"
 totalHeight: "2.07"

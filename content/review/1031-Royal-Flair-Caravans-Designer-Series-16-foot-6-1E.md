@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Designer Series 16'6-1E by Royal Flair Caravans?"
   ogdescription: "The Royal Flair Caravans Designer Series 16'6-1E is classed as Unknown Type, and sleeps Bed Options people. It is Australian made and comes in at 16 ft. It generally has Separate shower & toilet."
 categories: ["Royal Flair Caravans"]
-tags: ["Sleeps Bed Options", "16 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps Bed Options", "16 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "5.029"
 totalHeight: "2.976"

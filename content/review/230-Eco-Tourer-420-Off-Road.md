@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy 420 Off Road by Eco Tourer?"
   ogdescription: "The Eco Tourer 420 Off Road is classed as Off Road, and sleeps 2 people. It is Made Overseas and comes in at 14 ft. It generally has No Bathroom or Toilet."
 categories: ["Eco Tourer"]
-tags: ["Sleeps 2", "14 ft", "Off Road", "No Bathroom or Toilet", "Folding roof", "Price Unknown"]
+tags: ["Sleeps 2", "14 ft", "Off Road", "No Bathroom or Toilet", "Folding roof", "Price Unknown", "Made Overseas"]
 totalLength: "5.75"
 bodyLength: "4.2"
 totalHeight: "2.1"

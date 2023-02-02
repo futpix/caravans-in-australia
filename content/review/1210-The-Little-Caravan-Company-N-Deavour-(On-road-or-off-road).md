@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy N-Deavour (On road or off road) by The Little Caravan Company?"
   ogdescription: "The The Little Caravan Company N-Deavour (On road or off road) is classed as Optional Off Road, and sleeps 2 people. It is Made Overseas and comes in at 12 ft. It generally has Combined shower & toilet."
 categories: ["The Little Caravan Company"]
-tags: ["Sleeps 2", "12 ft", "Optional Off Road", "Combined shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "12 ft", "Optional Off Road", "Combined shower & toilet", "Full height", "Price Unknown", "Made Overseas"]
 totalLength: "6"
 bodyLength: "3.66"
 totalHeight: ""

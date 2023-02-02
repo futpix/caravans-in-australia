@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Lost Trak Tourer 18.5ft by RhinoMax Campers?"
   ogdescription: "The RhinoMax Campers Lost Trak Tourer 18.5ft is classed as Off Road, and sleeps 2-5 people. It is Australian made and comes in at 19 ft. It generally has Combined shower & toilet."
 categories: ["RhinoMax Campers"]
-tags: ["Sleeps 2-5", "19 ft", "Off Road", "Combined shower & toilet", "Full height", "Over 100k"]
+tags: ["Sleeps 2-5", "19 ft", "Off Road", "Combined shower & toilet", "Full height", "Over 100k", "Australian made"]
 totalLength: "7.3"
 bodyLength: "5.66"
 totalHeight: "2.775"

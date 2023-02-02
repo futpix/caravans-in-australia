@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Goldy Caravan by Goldy Caravans?"
   ogdescription: "The Goldy Caravans Goldy Caravan is classed as Unknown Type, and sleeps 2-4 people. It is Australian made and comes in at 16 ft. It generally has Option (combined shower & toilet)."
 categories: ["Goldy Caravans"]
-tags: ["Sleeps 2-4", "16 ft", "Unknown Type", "Option (combined shower & toilet)", "Full height", "60 - 70k"]
+tags: ["Sleeps 2-4", "16 ft", "Unknown Type", "Option (combined shower & toilet)", "Full height", "60 - 70k", "Australian made"]
 totalLength: "5.75"
 bodyLength: "4.88"
 totalHeight: "2.7"

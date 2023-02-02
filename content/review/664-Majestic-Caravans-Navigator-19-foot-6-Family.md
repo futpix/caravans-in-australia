@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Navigator 19'6 Family by Majestic Caravans?"
   ogdescription: "The Majestic Caravans Navigator 19'6 Family is classed as Unknown Type, and sleeps 5 people. It is Australian made and comes in at Unknown Size. It generally has Separate shower & toilet."
 categories: ["Majestic Caravans"]
-tags: ["Sleeps 5", "Unknown Size", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 5", "Unknown Size", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: ""
 totalHeight: ""

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy UEV-490 Platinum by Conqueror Australia?"
   ogdescription: "The Conqueror Australia UEV-490 Platinum is classed as Off Road, and sleeps Up to 5 people. It is Australian made and comes in at Unknown Size. It generally has No Bathroom or Toilet."
 categories: ["Conqueror Australia"]
-tags: ["Sleeps Up to 5", "Unknown Size", "Off Road", "No Bathroom or Toilet", "Pop up", "70 - 80k"]
+tags: ["Sleeps Up to 5", "Unknown Size", "Off Road", "No Bathroom or Toilet", "Pop up", "70 - 80k", "Australian made"]
 totalLength: "5.005"
 bodyLength: ""
 totalHeight: "2.316"

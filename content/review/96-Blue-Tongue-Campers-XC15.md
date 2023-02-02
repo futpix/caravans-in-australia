@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy XC15 by Blue Tongue Campers?"
   ogdescription: "The Blue Tongue Campers XC15 is classed as Off Road, and sleeps 2 people. It is Made Overseas and comes in at 16 ft. It generally has No Bathroom or Toilet."
 categories: ["Blue Tongue Campers"]
-tags: ["Sleeps 2", "16 ft", "Off Road", "No Bathroom or Toilet", "Pop top", "Under 50k"]
+tags: ["Sleeps 2", "16 ft", "Off Road", "No Bathroom or Toilet", "Pop top", "Under 50k", "Made Overseas"]
 totalLength: "6.45"
 bodyLength: "4.78"
 totalHeight: "2.365"

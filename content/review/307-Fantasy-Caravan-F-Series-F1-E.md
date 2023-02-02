@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy F Series F1-E by Fantasy Caravan?"
   ogdescription: "The Fantasy Caravan F Series F1-E is classed as Off Road, and sleeps 2 people. It is Made Overseas and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["Fantasy Caravan"]
-tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "Under 50k"]
+tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "Under 50k", "Made Overseas"]
 totalLength: "5.38"
 bodyLength: ""
 totalHeight: "2.31"
@@ -42,5 +42,5 @@ priceRangeMax: "48990"
 urlLink: "https://fantasycaravan.com.au/f-series-f1-e/"
 aussieMade: "Made Overseas"
 noImage: ""
-featured: "feat"
+featured: "no"
 ---

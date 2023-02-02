@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Waratah 20'6 by Aussie Wide Caravans?"
   ogdescription: "The Aussie Wide Caravans Waratah 20'6 is classed as Unknown Type, and sleeps 2 people. It is Made Overseas and comes in at 21 ft. It generally has Separate shower & toilet."
 categories: ["Aussie Wide Caravans"]
-tags: ["Sleeps 2", "21 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "21 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Made Overseas"]
 totalLength: ""
 bodyLength: "6.25"
 totalHeight: ""

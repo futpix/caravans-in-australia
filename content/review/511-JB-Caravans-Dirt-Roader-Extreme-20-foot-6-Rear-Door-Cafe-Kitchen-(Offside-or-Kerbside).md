@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Dirt Roader Extreme 20'6 Rear Door Cafe Kitchen (Offside or Kerbside) by JB Caravans?"
   ogdescription: "The JB Caravans Dirt Roader Extreme 20'6 Rear Door Cafe Kitchen (Offside or Kerbside) is classed as Semi Off Road, and sleeps 2 people. It is Australian made and comes in at Unknown Size. It generally has Separate shower & toilet."
 categories: ["JB Caravans"]
-tags: ["Sleeps 2", "Unknown Size", "Semi Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "Unknown Size", "Semi Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "8.4"
 bodyLength: ""
 totalHeight: "3.1"
@@ -41,6 +41,6 @@ priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "https://www.jbcaravans.com.au/model/dirt-roader-xtreme/"
 aussieMade: "Australian made"
-noImage: ""
+noImage: "r"
 featured: "no"
 ---

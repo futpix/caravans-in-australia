@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Dynamic - Off Road by Masterpiece Caravans?"
   ogdescription: "The Masterpiece Caravans Dynamic - Off Road is classed as Semi Off Road, and sleeps 2-8 people. It is Australian made and comes in at Many sizes. It generally has Separate shower & toilet."
 categories: ["Masterpiece Caravans"]
-tags: ["Sleeps 2-8", "Many sizes", "Semi Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2-8", "Many sizes", "Semi Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "Various layouts & lengths fro 19'6 to 25'"
 totalHeight: ""

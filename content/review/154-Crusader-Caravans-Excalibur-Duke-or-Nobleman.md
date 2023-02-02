@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Excalibur Duke or Nobleman by Crusader Caravans?"
   ogdescription: "The Crusader Caravans Excalibur Duke or Nobleman is classed as Unknown Type, and sleeps 2 people. It is Australian made and comes in at 21 ft. It generally has Separate shower & toilet."
 categories: ["Crusader Caravans"]
-tags: ["Sleeps 2", "21 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "21 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "8.23"
 bodyLength: "6.38"
 totalHeight: "3.08"

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy X.15 by North Coast Offroad RVs?"
   ogdescription: "The North Coast Offroad RVs X.15 is classed as Off Road, and sleeps 2-5 people. It is Australian made and comes in at 15 ft. It generally has Combined shower & toilet."
 categories: ["North Coast Offroad RVs"]
-tags: ["Sleeps 2-5", "15 ft", "Off Road", "Combined shower & toilet", "Pop top", "80 - 100k"]
+tags: ["Sleeps 2-5", "15 ft", "Off Road", "Combined shower & toilet", "Pop top", "80 - 100k", "Australian made"]
 totalLength: "7"
 bodyLength: "4.5"
 totalHeight: "2.15"

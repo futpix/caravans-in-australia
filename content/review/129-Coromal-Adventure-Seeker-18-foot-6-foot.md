@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Adventure Seeker 18'6 by Coromal?"
   ogdescription: "The Coromal Adventure Seeker 18'6 is classed as Unknown Type, and sleeps 4-5 people. It is Australian made and comes in at 18 ft. It generally has Separate shower & toilet."
 categories: ["Coromal"]
-tags: ["Sleeps 4-5", "18 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4-5", "18 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "5.64"
 totalHeight: ""

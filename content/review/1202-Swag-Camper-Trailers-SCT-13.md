@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy SCT 13 by Swag Camper Trailers?"
   ogdescription: "The Swag Camper Trailers SCT 13 is classed as Off Road, and sleeps 2 people. It is Made Overseas and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["Swag Camper Trailers"]
-tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "50 - 60k"]
+tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "50 - 60k", "Made Overseas"]
 totalLength: "6.1"
 bodyLength: ""
 totalHeight: "2.65"

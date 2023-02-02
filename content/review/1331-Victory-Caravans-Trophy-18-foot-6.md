@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Trophy 18'6 by Victory Caravans?"
   ogdescription: "The Victory Caravans Trophy 18'6 is classed as Off Road, and sleeps 2 people. It is Australian made and comes in at 18 ft. It generally has Separate shower & toilet."
 categories: ["Victory Caravans"]
-tags: ["Sleeps 2", "18 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "18 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "5.64"
 totalHeight: ""

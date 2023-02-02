@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Marathon C210-3 by Olympic Caravans?"
   ogdescription: "The Olympic Caravans Marathon C210-3 is classed as Unknown Type, and sleeps 4-5 people. It is Made Overseas and comes in at Unknown Size. It generally has Separate shower & toilet."
 categories: ["Olympic Caravans"]
-tags: ["Sleeps 4-5", "Unknown Size", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4-5", "Unknown Size", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Made Overseas"]
 totalLength: ""
 bodyLength: ""
 totalHeight: ""
@@ -41,6 +41,6 @@ priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "https://www.olympiccaravans.com.au/marathon"
 aussieMade: "Made Overseas"
-noImage: ""
+noImage: "r"
 featured: "no"
 ---

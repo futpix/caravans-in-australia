@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Pinnacle XB22HD by Paradise Luxury Motorhomes?"
   ogdescription: "The Paradise Luxury Motorhomes Pinnacle XB22HD is classed as Off Road, and sleeps 5 people. It is Made Overseas and comes in at 22 ft. It generally has Separate shower & toilet."
 categories: ["Paradise Luxury Motorhomes"]
-tags: ["Sleeps 5", "22 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 5", "22 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Made Overseas"]
 totalLength: "8.85"
 bodyLength: "6.7"
 totalHeight: "3.16"

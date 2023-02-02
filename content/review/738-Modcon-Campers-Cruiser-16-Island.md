@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Cruiser 16 Island by Modcon Campers?"
   ogdescription: "The Modcon Campers Cruiser 16 Island is classed as Off Road, and sleeps 3 people. It is Made Overseas and comes in at Unknown Size. It generally has Separate shower & toilet."
 categories: ["Modcon Campers"]
-tags: ["Sleeps 3", "Unknown Size", "Off Road", "Separate shower & toilet", "Full height", "70 - 80k"]
+tags: ["Sleeps 3", "Unknown Size", "Off Road", "Separate shower & toilet", "Full height", "70 - 80k", "Made Overseas"]
 totalLength: "7.77"
 bodyLength: ""
 totalHeight: "3.114"

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Stuart by Trailblazers RV?"
   ogdescription: "The Trailblazers RV Stuart is classed as Off Road, and sleeps 2-3 people. It is Australian made and comes in at 15 ft. It generally has Combined shower & toilet."
 categories: ["Trailblazers RV"]
-tags: ["Sleeps 2-3", "15 ft", "Off Road", "Combined shower & toilet", "Pop top", "Price Unknown"]
+tags: ["Sleeps 2-3", "15 ft", "Off Road", "Combined shower & toilet", "Pop top", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "4.5"
 totalHeight: ""

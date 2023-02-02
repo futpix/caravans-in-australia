@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Mighty 2 - MT12S by Prime Campers?"
   ogdescription: "The Prime Campers Mighty 2 - MT12S is classed as Off Road, and sleeps 2 people. It is Made Overseas and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["Prime Campers"]
-tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "Under 50k"]
+tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "Under 50k", "Made Overseas"]
 totalLength: "5.6"
 bodyLength: ""
 totalHeight: "2.3"
@@ -41,6 +41,6 @@ priceRangeMin: "49999"
 priceRangeMax: "49999"
 urlLink: "https://primecampers.com.au/hybrid-caravan/mt12s/"
 aussieMade: "Made Overseas"
-noImage: ""
-featured: "feat"
+noImage: "r"
+featured: "no"
 ---

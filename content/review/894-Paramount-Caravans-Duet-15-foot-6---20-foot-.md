@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Duet 15'6 - 20' by Paramount Caravans?"
   ogdescription: "The Paramount Caravans Duet 15'6 - 20' is classed as Optional Off Road, and sleeps 2-5 people. It is Australian made and comes in at Unknown Size. It generally has Optional Bathroom + Toilet."
 categories: ["Paramount Caravans"]
-tags: ["Sleeps 2-5", "Unknown Size", "Optional Off Road", "Optional Bathroom + Toilet", "Pop top", "Price Unknown"]
+tags: ["Sleeps 2-5", "Unknown Size", "Optional Off Road", "Optional Bathroom + Toilet", "Pop top", "Price Unknown", "Australian made"]
 totalLength: "Various"
 bodyLength: ""
 totalHeight: ""

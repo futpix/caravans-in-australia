@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy ECX-14 by Elross Caravans?"
   ogdescription: "The Elross Caravans ECX-14 is classed as Off Road, and sleeps 2 people. It is Australian made and comes in at 14 ft. It generally has Separate shower & toilet."
 categories: ["Elross Caravans"]
-tags: ["Sleeps 2", "14 ft", "Off Road", "Separate shower & toilet", "Full height", "80 - 100k"]
+tags: ["Sleeps 2", "14 ft", "Off Road", "Separate shower & toilet", "Full height", "80 - 100k", "Australian made"]
 totalLength: "6.665"
 bodyLength: "4.26"
 totalHeight: "3.1"
@@ -41,6 +41,6 @@ priceRangeMin: "96990"
 priceRangeMax: "96990"
 urlLink: "https://www.elross.com.au/ecx-full-off-road"
 aussieMade: "Australian made"
-noImage: ""
+noImage: "r"
 featured: "no"
 ---

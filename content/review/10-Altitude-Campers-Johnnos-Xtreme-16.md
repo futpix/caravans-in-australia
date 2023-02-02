@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Johnnos Xtreme 16 by Altitude Campers?"
   ogdescription: "The Altitude Campers Johnnos Xtreme 16 is classed as Off Road, and sleeps 2-4 people. It is Made Overseas and comes in at Unknown Size. It generally has Separate shower & toilet."
 categories: ["Altitude Campers"]
-tags: ["Sleeps 2-4", "Unknown Size", "Off Road", "Separate shower & toilet", "Pop top", "60 - 70k"]
+tags: ["Sleeps 2-4", "Unknown Size", "Off Road", "Separate shower & toilet", "Pop top", "60 - 70k", "Made Overseas"]
 totalLength: "7"
 bodyLength: ""
 totalHeight: "2.35"
@@ -42,5 +42,5 @@ priceRangeMax: "69990"
 urlLink: "https://altitudecampers.com.au/johnnos-campers/"
 aussieMade: "Made Overseas"
 noImage: ""
-featured: "no"
+featured: "feat"
 ---

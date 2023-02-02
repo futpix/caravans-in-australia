@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Defender by RhinoMax Campers?"
   ogdescription: "The RhinoMax Campers Defender is classed as Off Road, and sleeps 4 people. It is Australian made and comes in at 15 ft. It generally has Combined shower & toilet."
 categories: ["RhinoMax Campers"]
-tags: ["Sleeps 4", "15 ft", "Off Road", "Combined shower & toilet", "Pop top", "Over 100k"]
+tags: ["Sleeps 4", "15 ft", "Off Road", "Combined shower & toilet", "Pop top", "Over 100k", "Australian made"]
 totalLength: "6.9"
 bodyLength: "4.6"
 totalHeight: "2.44"

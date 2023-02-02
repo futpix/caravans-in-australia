@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Parkes 13 MK2 by EzyTrail Campers?"
   ogdescription: "The EzyTrail Campers Parkes 13 MK2 is classed as Off Road, and sleeps 2 people. It is Made Overseas and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["EzyTrail Campers"]
-tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "50 - 60k"]
+tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "50 - 60k", "Made Overseas"]
 totalLength: "6.17"
 bodyLength: ""
 totalHeight: "2.46"
@@ -42,5 +42,5 @@ priceRangeMax: "52990"
 urlLink: "https://www.ezytrailcampertrailers.com.au/product/parkes-13-mk2/"
 aussieMade: "Made Overseas"
 noImage: ""
-featured: "feat"
+featured: "no"
 ---

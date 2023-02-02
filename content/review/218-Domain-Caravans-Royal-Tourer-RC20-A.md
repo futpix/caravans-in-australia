@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Royal Tourer RC20 A by Domain Caravans?"
   ogdescription: "The Domain Caravans Royal Tourer RC20 A is classed as Unknown Type, and sleeps 2 people. It is Australian made and comes in at 20 ft. It generally has Separate shower & toilet."
 categories: ["Domain Caravans"]
-tags: ["Sleeps 2", "20 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "20 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "6.09"
 totalHeight: ""

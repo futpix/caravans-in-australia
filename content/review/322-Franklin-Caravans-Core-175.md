@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Core 175 by Franklin Caravans?"
   ogdescription: "The Franklin Caravans Core 175 is classed as Unknown Type, and sleeps 2 people. It is Australian made and comes in at 18 ft. It generally has Separate shower & toilet."
 categories: ["Franklin Caravans"]
-tags: ["Sleeps 2", "18 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "18 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "7.27"
 bodyLength: "5.38"
 totalHeight: "3.005"

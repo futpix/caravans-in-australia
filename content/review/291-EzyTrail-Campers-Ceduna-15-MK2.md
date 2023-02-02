@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Ceduna 15 MK2 by EzyTrail Campers?"
   ogdescription: "The EzyTrail Campers Ceduna 15 MK2 is classed as Off Road, and sleeps 4 people. It is Made Overseas and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["EzyTrail Campers"]
-tags: ["Sleeps 4", "Unknown Size", "Off Road", "Combined shower & toilet", "Full height", "60 - 70k"]
+tags: ["Sleeps 4", "Unknown Size", "Off Road", "Combined shower & toilet", "Full height", "60 - 70k", "Made Overseas"]
 totalLength: "6.56"
 bodyLength: ""
 totalHeight: "3.04 (incl air con)"

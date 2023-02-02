@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Daintree Sirius  22'6 bunks by Roadstar Caravans?"
   ogdescription: "The Roadstar Caravans Daintree Sirius  22'6 bunks is classed as Unknown Type, and sleeps 4 people. It is Australian made and comes in at 24 ft. It generally has Separate shower & toilet."
 categories: ["Roadstar Caravans"]
-tags: ["Sleeps 4", "24 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4", "24 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "8.99"
 bodyLength: "7.28"
 totalHeight: "3"

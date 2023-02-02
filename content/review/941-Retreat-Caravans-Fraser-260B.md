@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Fraser 260B by Retreat Caravans?"
   ogdescription: "The Retreat Caravans Fraser 260B is classed as Off Road, and sleeps 6 people. It is Made Overseas and comes in at Unknown Size. It generally has Separate shower & toilet."
 categories: ["Retreat Caravans"]
-tags: ["Sleeps 6", "Unknown Size", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 6", "Unknown Size", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Made Overseas"]
 totalLength: ""
 bodyLength: ""
 totalHeight: ""

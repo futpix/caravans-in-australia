@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Solera Solid 15 by Jawa Campers?"
   ogdescription: "The Jawa Campers Solera Solid 15 is classed as Off Road, and sleeps 2 people. It is Made Overseas and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["Jawa Campers"]
-tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "50 - 60k"]
+tags: ["Sleeps 2", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "50 - 60k", "Made Overseas"]
 totalLength: "6.5"
 bodyLength: ""
 totalHeight: "2.58"
@@ -42,6 +42,6 @@ priceRangeMin: "57000"
 priceRangeMax: "57000"
 urlLink: "https://www.jawacampers.com.au/hybrids-camper-trailers/trax-15-solid-back-dinette/"
 aussieMade: "Made Overseas"
-noImage: ""
+noImage: "r"
 featured: "no"
 ---

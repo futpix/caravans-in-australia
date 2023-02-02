@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy TT 15' Hybrid by Offroad Hybrids?"
   ogdescription: "The Offroad Hybrids TT 15' Hybrid is classed as Off Road, and sleeps 3-4 people. It is Made Overseas and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["Offroad Hybrids"]
-tags: ["Sleeps 3-4", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "Under 50k"]
+tags: ["Sleeps 3-4", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "Under 50k", "Made Overseas"]
 totalLength: "6.5"
 bodyLength: ""
 totalHeight: ""
@@ -42,5 +42,5 @@ priceRangeMax: "49400"
 urlLink: "https://www.offroadhybrids.com.au/15ft-hybrid/"
 aussieMade: "Made Overseas"
 noImage: ""
-featured: "feat"
+featured: "no"
 ---

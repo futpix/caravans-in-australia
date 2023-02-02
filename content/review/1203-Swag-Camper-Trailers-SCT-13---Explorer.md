@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy SCT 13 - Explorer by Swag Camper Trailers?"
   ogdescription: "The Swag Camper Trailers SCT 13 - Explorer is classed as Off Road, and sleeps 5 people. It is Made Overseas and comes in at Unknown Size. It generally has No Bathroom or Toilet."
 categories: ["Swag Camper Trailers"]
-tags: ["Sleeps 5", "Unknown Size", "Off Road", "No Bathroom or Toilet", "Pop top", "50 - 60k"]
+tags: ["Sleeps 5", "Unknown Size", "Off Road", "No Bathroom or Toilet", "Pop top", "50 - 60k", "Made Overseas"]
 totalLength: "6.1"
 bodyLength: ""
 totalHeight: "2.6"

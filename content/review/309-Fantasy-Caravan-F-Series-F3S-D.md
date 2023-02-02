@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy F Series F3S-D by Fantasy Caravan?"
   ogdescription: "The Fantasy Caravan F Series F3S-D is classed as Off Road, and sleeps 4 people. It is Made Overseas and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["Fantasy Caravan"]
-tags: ["Sleeps 4", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "Under 50k"]
+tags: ["Sleeps 4", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "Under 50k", "Made Overseas"]
 totalLength: "6"
 bodyLength: ""
 totalHeight: "2.68"
@@ -42,5 +42,5 @@ priceRangeMax: "49990"
 urlLink: "https://fantasycaravan.com.au/models/f-series-f3s-d/"
 aussieMade: "Made Overseas"
 noImage: ""
-featured: "feat"
+featured: "no"
 ---

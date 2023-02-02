@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Winton 10 by EzyTrail Campers?"
   ogdescription: "The EzyTrail Campers Winton 10 is classed as On Road, and sleeps 2 people. It is Made Overseas and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["EzyTrail Campers"]
-tags: ["Sleeps 2", "Unknown Size", "On Road", "Combined shower & toilet", "Full height", "Under 50k"]
+tags: ["Sleeps 2", "Unknown Size", "On Road", "Combined shower & toilet", "Full height", "Under 50k", "Made Overseas"]
 totalLength: "4.45"
 bodyLength: ""
 totalHeight: "2.455"
@@ -42,5 +42,5 @@ priceRangeMax: "31990"
 urlLink: "https://www.ezytrailcampertrailers.com.au/product/winton-10/"
 aussieMade: "Made Overseas"
 noImage: ""
-featured: "feat"
+featured: "no"
 ---

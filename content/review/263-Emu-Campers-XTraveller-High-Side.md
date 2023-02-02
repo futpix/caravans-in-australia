@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy XTraveller High Side by Emu Campers?"
   ogdescription: "The Emu Campers XTraveller High Side is classed as Off Road, and sleeps 4 people. It is Made Overseas and comes in at Unknown Size. It generally has No Bathroom or Toilet."
 categories: ["Emu Campers"]
-tags: ["Sleeps 4", "Unknown Size", "Off Road", "No Bathroom or Toilet", "Pop top", "Under 50k"]
+tags: ["Sleeps 4", "Unknown Size", "Off Road", "No Bathroom or Toilet", "Pop top", "Under 50k", "Made Overseas"]
 totalLength: "5.9"
 bodyLength: ""
 totalHeight: "2.35"
@@ -42,5 +42,5 @@ priceRangeMax: "41990"
 urlLink: "https://emucampers.com.au/cars/xtravellerhighside/"
 aussieMade: "Made Overseas"
 noImage: ""
-featured: "feat"
+featured: "no"
 ---

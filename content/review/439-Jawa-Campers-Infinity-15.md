@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Infinity 15 by Jawa Campers?"
   ogdescription: "The Jawa Campers Infinity 15 is classed as Off Road, and sleeps 4 people. It is Made Overseas and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["Jawa Campers"]
-tags: ["Sleeps 4", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "60 - 70k"]
+tags: ["Sleeps 4", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "60 - 70k", "Made Overseas"]
 totalLength: "6.8"
 bodyLength: ""
 totalHeight: "2.63"

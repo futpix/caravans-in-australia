@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Aussie Mate 21'-4E by Royal Flair Caravans?"
   ogdescription: "The Royal Flair Caravans Aussie Mate 21'-4E is classed as Off Road, and sleeps 5 people. It is Australian made and comes in at 21 ft. It generally has Separate shower & toilet."
 categories: ["Royal Flair Caravans"]
-tags: ["Sleeps 5", "21 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 5", "21 ft", "Off Road", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "6.4"
 totalHeight: "3.07"

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Core 220 by Franklin Caravans?"
   ogdescription: "The Franklin Caravans Core 220 is classed as Unknown Type, and sleeps 4 people. It is Australian made and comes in at 22 ft. It generally has Separate shower & toilet."
 categories: ["Franklin Caravans"]
-tags: ["Sleeps 4", "22 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 4", "22 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "8.7"
 bodyLength: "6.81"
 totalHeight: "2.985"

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Savannah 637 by Golf Caravans?"
   ogdescription: "The Golf Caravans Savannah 637 is classed as Unknown Type, and sleeps 2 people. It is Australian made and comes in at 21 ft. It generally has Separate shower & toilet."
 categories: ["Golf Caravans"]
-tags: ["Sleeps 2", "21 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "21 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "8.17"
 bodyLength: "6.37"
 totalHeight: "3"

@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Aspire 525 Hard top by Avan?"
   ogdescription: "The Avan Aspire 525 Hard top is classed as Unknown Type, and sleeps 2 people. It is Made Overseas and comes in at 17 ft. It generally has No Bathroom or Toilet."
 categories: ["Avan"]
-tags: ["Sleeps 2", "17 ft", "Unknown Type", "No Bathroom or Toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "17 ft", "Unknown Type", "No Bathroom or Toilet", "Full height", "Price Unknown", "Made Overseas"]
 totalLength: "6.85"
 bodyLength: "5.18"
 totalHeight: "2.7"

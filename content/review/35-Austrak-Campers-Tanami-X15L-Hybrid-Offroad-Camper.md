@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Tanami X15L Hybrid Offroad Camper by Austrak Campers?"
   ogdescription: "The Austrak Campers Tanami X15L Hybrid Offroad Camper is classed as Off Road, and sleeps 4 people. It is Made Overseas and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["Austrak Campers"]
-tags: ["Sleeps 4", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "60 - 70k"]
+tags: ["Sleeps 4", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "60 - 70k", "Made Overseas"]
 totalLength: "6.7"
 bodyLength: ""
 totalHeight: "2.650 (incl air-con)"

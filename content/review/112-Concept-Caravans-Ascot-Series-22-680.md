@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Ascot Series 22 680 by Concept Caravans?"
   ogdescription: "The Concept Caravans Ascot Series 22 680 is classed as Unknown Type, and sleeps 2 people. It is Australian made and comes in at 23 ft. It generally has Separate shower & toilet."
 categories: ["Concept Caravans"]
-tags: ["Sleeps 2", "23 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "23 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "8.965"
 bodyLength: "6.93"
 totalHeight: "3.14"

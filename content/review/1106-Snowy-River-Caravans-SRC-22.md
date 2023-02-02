@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy SRC-22 by Snowy River Caravans?"
   ogdescription: "The Snowy River Caravans SRC-22 is classed as Unknown Type, and sleeps 2 people. It is Made Overseas and comes in at 22 ft. It generally has Separate shower & toilet."
 categories: ["Snowy River Caravans"]
-tags: ["Sleeps 2", "22 ft", "Unknown Type", "Separate shower & toilet", "Full height", "60 - 70k"]
+tags: ["Sleeps 2", "22 ft", "Unknown Type", "Separate shower & toilet", "Full height", "60 - 70k", "Made Overseas"]
 totalLength: "8.54"
 bodyLength: "6.66"
 totalHeight: "3.07"

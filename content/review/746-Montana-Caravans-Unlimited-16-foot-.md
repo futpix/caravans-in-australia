@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Unlimited 16' by Montana Caravans?"
   ogdescription: "The Montana Caravans Unlimited 16' is classed as Unknown Type, and sleeps 2 people. It is Australian made and comes in at 16 ft. It generally has Separate shower & toilet."
 categories: ["Montana Caravans"]
-tags: ["Sleeps 2", "16 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "16 ft", "Unknown Type", "Separate shower & toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: ""
 bodyLength: "4.88"
 totalHeight: ""

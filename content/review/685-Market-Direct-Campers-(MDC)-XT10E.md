@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy XT10E by Market Direct Campers (MDC)?"
   ogdescription: "The Market Direct Campers (MDC) XT10E is classed as Off Road, and sleeps 2-3 people. It is Made Overseas and comes in at Unknown Size. It generally has No Bathroom or Toilet."
 categories: ["Market Direct Campers (MDC)"]
-tags: ["Sleeps 2-3", "Unknown Size", "Off Road", "No Bathroom or Toilet", "Pop top", "50 - 60k"]
+tags: ["Sleeps 2-3", "Unknown Size", "Off Road", "No Bathroom or Toilet", "Pop top", "50 - 60k", "Made Overseas"]
 totalLength: "5.488"
 bodyLength: ""
 totalHeight: "2.31"
@@ -42,5 +42,5 @@ priceRangeMax: "52490"
 urlLink: "https://www.marketdirect.com.au/product/mdc-xt10e-hybrid-offroad-caravan/"
 aussieMade: "Made Overseas"
 noImage: ""
-featured: "feat"
+featured: "no"
 ---

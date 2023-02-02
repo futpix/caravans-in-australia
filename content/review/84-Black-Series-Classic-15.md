@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Classic 15 by Black Series?"
   ogdescription: "The Black Series Classic 15 is classed as Off Road, and sleeps 4 people. It is Made Overseas and comes in at Unknown Size. It generally has Combined shower & toilet."
 categories: ["Black Series"]
-tags: ["Sleeps 4", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "50 - 60k"]
+tags: ["Sleeps 4", "Unknown Size", "Off Road", "Combined shower & toilet", "Pop top", "50 - 60k", "Made Overseas"]
 totalLength: "6.1"
 bodyLength: ""
 totalHeight: "2.5"

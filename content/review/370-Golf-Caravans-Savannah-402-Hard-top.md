@@ -13,7 +13,7 @@ meta:
   ogtitle: "Should I buy Savannah 402 Hard top by Golf Caravans?"
   ogdescription: "The Golf Caravans Savannah 402 Hard top is classed as Unknown Type, and sleeps 2 people. It is Australian made and comes in at 13 ft. It generally has No Bathroom or Toilet."
 categories: ["Golf Caravans"]
-tags: ["Sleeps 2", "13 ft", "Unknown Type", "No Bathroom or Toilet", "Full height", "Price Unknown"]
+tags: ["Sleeps 2", "13 ft", "Unknown Type", "No Bathroom or Toilet", "Full height", "Price Unknown", "Australian made"]
 totalLength: "5.82"
 bodyLength: "4.02"
 totalHeight: "3"
