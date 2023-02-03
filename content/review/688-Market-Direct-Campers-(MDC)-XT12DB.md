@@ -36,7 +36,7 @@ airCon: "Option"
 hybrid: "Yes"
 roofType: "Full height"
 towHitch: "Cruisemaster™ DO35 hitch"
-price: "57990"
+price: 57990
 priceRangeMin: "57990"
 priceRangeMax: "57990"
 urlLink: "https://www.marketdirect.com.au/product/xt12db-double-bunk-hybrid-offroad-caravan/"

@@ -36,7 +36,7 @@ airCon: "Option"
 hybrid: "Yes"
 roofType: "Pop up"
 towHitch: "DO35 3500kg off road coupling"
-price: "85990"
+price: 85990
 priceRangeMin: "85990"
 priceRangeMax: "85990"
 urlLink: "https://rhinomaxcampers.com.au/renegade/"

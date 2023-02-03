@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "McHitch 3.5T Coupling"
-price: "48990"
+price: 48990
 priceRangeMin: "48990"
 priceRangeMax: "48990"
 urlLink: "https://fantasycaravan.com.au/f-series-f1-e/"

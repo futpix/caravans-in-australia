@@ -36,7 +36,7 @@ airCon: "Option"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "McHitch offroad coupling"
-price: "42400"
+price: 42400
 priceRangeMin: "42400"
 priceRangeMax: "42400"
 urlLink: "https://www.offroadhybrids.com.au/13ft-hybrid/"

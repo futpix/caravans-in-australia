@@ -36,7 +36,7 @@ airCon: "Option"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "DO35 Off-Road Hitch"
-price: "92950"
+price: 92950
 priceRangeMin: "92950"
 priceRangeMax: "92950"
 urlLink: "https://www.lifestylecampers.com.au/our-range/reconn-r4-tandem/"

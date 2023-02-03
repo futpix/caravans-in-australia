@@ -36,7 +36,7 @@ airCon: "Option"
 hybrid: ""
 roofType: "Folding roof"
 towHitch: ""
-price: "Contact Seller"
+price: Contact Seller
 priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "https://www.avan.com.au/our-range/campers/display/7-sportliner"

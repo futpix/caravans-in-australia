@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Full height"
 towHitch: "D0-35 Off Road Coupling Recessed"
-price: "Contact Seller"
+price: Contact Seller
 priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "https://www.aussiewidecaravans.com.au/caravan/stockman.htm"

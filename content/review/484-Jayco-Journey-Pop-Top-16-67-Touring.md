@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Pop top"
 towHitch: ""
-price: "50990"
+price: 50990
 priceRangeMin: "50990"
 priceRangeMax: "50990"
 urlLink: "https://www.jayco.com.au/range/pop-tops/journey-pop-top/floor-plans/touring/journey-1667-4jy-my22"

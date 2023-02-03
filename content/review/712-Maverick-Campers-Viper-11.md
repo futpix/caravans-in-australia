@@ -36,7 +36,7 @@ airCon: "Option"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "McHitch"
-price: "40999"
+price: 40999
 priceRangeMin: "40999"
 priceRangeMax: "40999"
 urlLink: "https://maverickcampers.com.au/product/maverick-viper-11/"

@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "DO35 Off-Road Coupling"
-price: "78500"
+price: 78500
 priceRangeMin: "78500"
 priceRangeMax: "78500"
 urlLink: "https://www.jawacampers.com.au/streaker/"

@@ -36,7 +36,7 @@ airCon: "Option"
 hybrid: ""
 roofType: "Pop top"
 towHitch: ""
-price: "Contact Seller"
+price: Contact Seller
 priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "https://www.goldstreamrv.com.au/rvs/1400-explorer-series/"

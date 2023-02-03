@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Full height"
 towHitch: "DO35 off-road coupling"
-price: "Contact Seller"
+price: Contact Seller
 priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "https://romacaravans.com.au/caravan/razorback-rogue/"

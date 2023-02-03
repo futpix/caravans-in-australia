@@ -17,8 +17,8 @@
     <li class="page-item active">
       <a href="{{ .URL }}" class="page-link">{{ .PageNumber }}</a>
     </li>
-    {{ else if and (ge .PageNumber (sub $pag.PageNumber 2)) (le .PageNumber (add
-    $pag.PageNumber 2)) }} {{ $.Scratch.Set "dot_rendered" false }}
+    {{ else if and (ge .PageNumber (sub $pag.PageNumber 1)) (le .PageNumber (add
+    $pag.PageNumber 1)) }} {{ $.Scratch.Set "dot_rendered" false }}
     <!-- Render prev 2 page and next 2 pages -->
     <li class="page-item">
       <a href="{{ .URL }}" class="page-link">{{ .PageNumber }}</a>

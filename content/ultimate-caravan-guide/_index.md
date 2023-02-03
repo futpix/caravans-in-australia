@@ -7,12 +7,17 @@ weight: 1
 draft: false
 author: Sean
 tableOfContents: true
+meta:
+  title: "Finally: The Ultimate Guide to Australian Caravans"
+  description: "Now you can finally go through all available caravan options in Australia without tearing your hair out. Whether you are looking for the best family caravan in Australia, a Chinese made caravan in Australia, or a Simpl Pop Top, we have you covered."
+  ogtitle: "Finally: The Ultimate Guide to Australian Caravans"
+  ogdescription: "Now you can finally go through all available caravan options in Australia without tearing your hair out. Whether you are looking for the best family caravan in Australia, a Chinese made caravan in Australia, or a Simpl Pop Top, we have you covered."
 intro: "Sick of being stuck in the concrete labryinth jungle know as the city? Want to get away to dreamy locations but still retain a sense of homeliness and comfort? Well, a caravan is for you. Below we will outline all the basic things you need to know to begin your Caravan journey."
 ---
 
 ## Silly question, but what is a Caravan?
 
-Welcome to the world of caravans! 
+Welcome to the world of caravans!
 
 We are so excited you are here. But wait a sec - **what on earth is a caravan?**
 
@@ -22,14 +27,13 @@ The common living needs refer to things like a bed, bathroom or kitchen that are
 
 In Australia, caravans can also be referred to as a "van", because you know, Aussies like to shorten everything for some reason! And not to be confused with an actual Van (the vehicle). Way to complicate everything Australia!
 
-
 ## Where do you take a Caravan?
 
 Caravans are set up at what are generically called Caravan Sites.
 
 Often caravans are used in conjunction with a holiday or road trip. It is used as the primary accomodation for the duration of the vacation. There are speciality caravan sites that are set up to host caravans and provide access to water, electricty and dump points for caravans.
 
-However, there are also plenty of free camp site where people take their caravans too! 
+However, there are also plenty of free camp site where people take their caravans too!
 
 The Australian motto when it comes to camping or caravaning is taken very seriously: "Leave no trace".
 
@@ -46,6 +50,7 @@ Like all products, the price range can vary significantly depending on what your
 Don't let that deter you though. You can make a strong ase that a Caravan actually **saves you money**. Plus, there are options for buying an older caravan and renovating it if you are handy enough. This can save you a fortune.
 
 ### **New caravans**
+
 ### **Used caravans**
 
 ## How Wide Are Caravans
@@ -58,13 +63,13 @@ But, 2.5 metres in maximum width can fit a surprising ammount of luxery and comf
 
 ## How Much Do Caravans Weigh
 
-There is no common weight for a caravan. It will depend on the size, the furnishing and other features such as water tanks. 
+There is no common weight for a caravan. It will depend on the size, the furnishing and other features such as water tanks.
 
 For example, a smaller 14ft Caravan could be around the 800kg mark, and a 22foot caravan will weigh around 2,000kgs.
 
 It is also important to note that caravans will have a maximum legal weight, which includes the furnishings like fridge and batteries.
 
-> As a simple rule, the longer the caravan, the more it weighs. 
+> As a simple rule, the longer the caravan, the more it weighs.
 
 The main weights to be familar with are Tare Weights and Aggregate Trailer Mass (ATM).
 
@@ -77,350 +82,347 @@ In basic terms, **Tare weight refers to the carvan structure or empty weight bef
 The **ATM** is the weight **set by the manufacturer that denotes the maximum amount of total weight the caravan can hold safely** when it is fully loaded.
 
 ## How Much to Insure Caravan
+
 So you have your new pride and joy, and as with anything important and valuale to you, you want to protext it. It is sensible to get Caravan Insurance for many reasons, such as theft or fire, but you will want to know exactely how much for caravan insurance in terms of costs.
 How Much Is Insurance for a Caravan
 
 ## What Brands of Caravans Are Made in Australia
 
-I hear you ask "What Caravans Are Made in Australia"? Good question. 
+I hear you ask "What Caravans Are Made in Australia"? Good question.
 
 There are many makes of Caravans in Australia and and all come with various options. You can find these by looking at our Caravan reviews.
 
 Manufactured here in Australia:
 
--	Adria Australia & New Zealand
--	Adventura Caravans
--	Altitude Campers
--	Atlantic Caravans
--	Aussie Fivestar Caravans
--	Aussie Wide Caravans
--	Austrack Campers
--	Austral Motorhomes
--	Australian Caravans Direct (ACD)
--	Australian Off Road Campers (AOR)
--	Australis Caravans
--	Avan
--	Avida RV
--	Billabong Caravans
--	Black Series Campers & Caravans
--	Blue Sky Caravans
--	Blue Tongue Campers
--	Bluewater Campers
--	Boss Adventure
--	BRS Offroad
--	Bruder
--	Bushmaster Off-road Caravans
--	Bushranger Campers
--	Bushtracker Australia
--	Canyon Caravans
--	Caraboat
--	Carrera Caravans
--	Cedar Caravans
--	Century Trailers
--	Concept Caravans
--	Condor Caravans
--	Coromal
--	Coronet RV
--	Crusader Caravans
--	CRZR Industries
--	Cub Campers
--	Design RV
--	Domain Caravans
--	Dreamseeker
--	Eagle Camper Trailers
--	Eco-Tourer
--	Eden Caravans
--	Edge Trailers & Caravans
--	Elite Caravans
--	Elross Caravans
--	Empire Caravans
--	Essential Caravans
--	Euro Caravans
--	Evernew Caravans
--	Evolution Caravans
--	Exodus Off Road Campers
--	Explorex
--	EzyTrail Campers
--	Fantasy Caravan
--	Far Horizon Campers
--	Fortitude Caravans
--	Franklin Caravans
--	Goldstar RV
--	Goldstream RV
--	Golf Caravans
--	GPJ Caravans
--	Grand Salute Caravans
--	Great Aussie Caravans
--	Halen Vans
--	Harvok
--	Highline Caravans
--	Hilltop Caravans
--	iDeal Caravans
--	Jawa Campers
--	Jayco
--	JB Caravans
--	K9 Vans
--	Kedron Caravans
--	Kimberley Kampers
--	Kokoda
--	La Vista Caravans
--	Lagoon Caravan
--	Latitude RV Caravans
--	Leader Caravans
--	Legend Caravans
--	Lifestyle Campers
--	Little Caravan Company
--	Lotus Caravans
--	Lumberjack Camper Trailers
--	Lyfe RV
--	Majestic Caravans
--	Malibu Caravans
--	Market Direct Campers (MDC)
--	Mars Campers
--	Marvel RV
--	Masterpiece Caravans
--	Maverick Campers
--	Millard Caravans
--	Modcon RV
--	Montana Caravans
--	Mountain Trail RV
--	Network RV Caravans
--	New Age Caravans
--	New Design Caravans
--	Newgen Caravans
--	Newlands Caravans
--	NextGen Caravans
--	Nova Caravans
--	Ocean Breeze Caravans
--	Offroad Hybrids
--	Olympic Caravans
--	On the Move Caravans
--	Opal Caravans
--	Option RV
--	Opus Camper
--	Orca Caravans
--	Pacific Caravans
--	Paradise Motorhomes
--	Paramount Caravans
--	Patriot Campers
--	Pedigree Caravans
--	Pioneer Campers
--	Platinum Campers
--	Prime Campers
--	Red Centre Caravans
--	Regal Caravans
--	Regent Caravans
--	Retreat Caravans
--	RhinoMax Campers
--	River Caravans
--	Roadstar Caravans
--	Roma Caravans
--	Royal Flair Caravans
--	Safari Caravans
--	Salute Caravans
--	Silversun Caravans
--	Snowy River Caravans
--	Spinifex Caravans
--	Star Vision Campers & Caravans
--	Stoney Creek Campers
--	Sunland Caravans
--	Sunliner RVs
--	Sunseeker Caravans
--	Supreme Caravans
--	Swag Off-road Campers
--	Swift RV
--	Tango Caravans
--	Titan Caravans
--	Titanium Caravans
--	Track Trailer
--	Trackvan
--	Trailblazers RV
--	Trakmaster
--	Travelhome
--	Traveller Caravans
--	Urban Caravans
--	Vacationer Caravans
--	Van Cruiser Off Road Caravans
--	Victory Caravans
--	Viscount Caravans
--	Vision RV
--	Wallaroo Caravans
--	Willow RV
--	Windsor Caravans
--	Wonderland RV
--	York Caravans
--	Zone RV
-
+- Adria Australia & New Zealand
+- Adventura Caravans
+- Altitude Campers
+- Atlantic Caravans
+- Aussie Fivestar Caravans
+- Aussie Wide Caravans
+- Austrack Campers
+- Austral Motorhomes
+- Australian Caravans Direct (ACD)
+- Australian Off Road Campers (AOR)
+- Australis Caravans
+- Avan
+- Avida RV
+- Billabong Caravans
+- Black Series Campers & Caravans
+- Blue Sky Caravans
+- Blue Tongue Campers
+- Bluewater Campers
+- Boss Adventure
+- BRS Offroad
+- Bruder
+- Bushmaster Off-road Caravans
+- Bushranger Campers
+- Bushtracker Australia
+- Canyon Caravans
+- Caraboat
+- Carrera Caravans
+- Cedar Caravans
+- Century Trailers
+- Concept Caravans
+- Condor Caravans
+- Coromal
+- Coronet RV
+- Crusader Caravans
+- CRZR Industries
+- Cub Campers
+- Design RV
+- Domain Caravans
+- Dreamseeker
+- Eagle Camper Trailers
+- Eco-Tourer
+- Eden Caravans
+- Edge Trailers & Caravans
+- Elite Caravans
+- Elross Caravans
+- Empire Caravans
+- Essential Caravans
+- Euro Caravans
+- Evernew Caravans
+- Evolution Caravans
+- Exodus Off Road Campers
+- Explorex
+- EzyTrail Campers
+- Fantasy Caravan
+- Far Horizon Campers
+- Fortitude Caravans
+- Franklin Caravans
+- Goldstar RV
+- Goldstream RV
+- Golf Caravans
+- GPJ Caravans
+- Grand Salute Caravans
+- Great Aussie Caravans
+- Halen Vans
+- Harvok
+- Highline Caravans
+- Hilltop Caravans
+- iDeal Caravans
+- Jawa Campers
+- Jayco
+- JB Caravans
+- K9 Vans
+- Kedron Caravans
+- Kimberley Kampers
+- Kokoda
+- La Vista Caravans
+- Lagoon Caravan
+- Latitude RV Caravans
+- Leader Caravans
+- Legend Caravans
+- Lifestyle Campers
+- Little Caravan Company
+- Lotus Caravans
+- Lumberjack Camper Trailers
+- Lyfe RV
+- Majestic Caravans
+- Malibu Caravans
+- Market Direct Campers (MDC)
+- Mars Campers
+- Marvel RV
+- Masterpiece Caravans
+- Maverick Campers
+- Millard Caravans
+- Modcon RV
+- Montana Caravans
+- Mountain Trail RV
+- Network RV Caravans
+- New Age Caravans
+- New Design Caravans
+- Newgen Caravans
+- Newlands Caravans
+- NextGen Caravans
+- Nova Caravans
+- Ocean Breeze Caravans
+- Offroad Hybrids
+- Olympic Caravans
+- On the Move Caravans
+- Opal Caravans
+- Option RV
+- Opus Camper
+- Orca Caravans
+- Pacific Caravans
+- Paradise Motorhomes
+- Paramount Caravans
+- Patriot Campers
+- Pedigree Caravans
+- Pioneer Campers
+- Platinum Campers
+- Prime Campers
+- Red Centre Caravans
+- Regal Caravans
+- Regent Caravans
+- Retreat Caravans
+- RhinoMax Campers
+- River Caravans
+- Roadstar Caravans
+- Roma Caravans
+- Royal Flair Caravans
+- Safari Caravans
+- Salute Caravans
+- Silversun Caravans
+- Snowy River Caravans
+- Spinifex Caravans
+- Star Vision Campers & Caravans
+- Stoney Creek Campers
+- Sunland Caravans
+- Sunliner RVs
+- Sunseeker Caravans
+- Supreme Caravans
+- Swag Off-road Campers
+- Swift RV
+- Tango Caravans
+- Titan Caravans
+- Titanium Caravans
+- Track Trailer
+- Trackvan
+- Trailblazers RV
+- Trakmaster
+- Travelhome
+- Traveller Caravans
+- Urban Caravans
+- Vacationer Caravans
+- Van Cruiser Off Road Caravans
+- Victory Caravans
+- Viscount Caravans
+- Vision RV
+- Wallaroo Caravans
+- Willow RV
+- Windsor Caravans
+- Wonderland RV
+- York Caravans
+- Zone RV
 
 Firstly, it's best to look are "What Caravans are available in Australia" first. Then check out which ones are actually made in Australia.
 
 Then, there are over 170+ Caravan Brands in Australia. Don't believe me? Well here is the list:
 
--	Adria Australia & New Zealand
--	Adventura Caravans
--	Altitude Campers
--	Atlantic Caravans
--	Aussie Fivestar Caravans
--	Aussie Wide Caravans
--	Austrack Campers
--	Austral Motorhomes
--	Australian Caravans Direct (ACD)
--	Australian Off Road Campers (AOR)
--	Australis Caravans
--	Avan
--	Avida RV
--	Billabong Caravans
--	Black Series Campers & Caravans
--	Blue Sky Caravans
--	Blue Tongue Campers
--	Bluewater Campers
--	Boss Adventure
--	BRS Offroad
--	Bruder
--	Bushmaster Off-road Caravans
--	Bushranger Campers
--	Bushtracker Australia
--	Canyon Caravans
--	Caraboat
--	Carrera Caravans
--	Cedar Caravans
--	Century Trailers
--	Concept Caravans
--	Condor Caravans
--	Coromal
--	Coronet RV
--	Crusader Caravans
--	CRZR Industries
--	Cub Campers
--	Design RV
--	Domain Caravans
--	Dreamseeker
--	Eagle Camper Trailers
--	Eco-Tourer
--	Eden Caravans
--	Edge Trailers & Caravans
--	Elite Caravans
--	Elross Caravans
--	Empire Caravans
--	Essential Caravans
--	Euro Caravans
--	Evernew Caravans
--	Evolution Caravans
--	Exodus Off Road Campers
--	Explorex
--	EzyTrail Campers
--	Fantasy Caravan
--	Far Horizon Campers
--	Fortitude Caravans
--	Franklin Caravans
--	Goldstar RV
--	Goldstream RV
--	Golf Caravans
--	GPJ Caravans
--	Grand Salute Caravans
--	Great Aussie Caravans
--	Halen Vans
--	Harvok
--	Highline Caravans
--	Hilltop Caravans
--	iDeal Caravans
--	Jawa Campers
--	Jayco
--	JB Caravans
--	K9 Vans
--	Kedron Caravans
--	Kimberley Kampers
--	Kokoda
--	La Vista Caravans
--	Lagoon Caravan
--	Latitude RV Caravans
--	Leader Caravans
--	Legend Caravans
--	Lifestyle Campers
--	Little Caravan Company
--	Lotus Caravans
--	Lumberjack Camper Trailers
--	Lyfe RV
--	Majestic Caravans
--	Malibu Caravans
--	Market Direct Campers (MDC)
--	Mars Campers
--	Marvel RV
--	Masterpiece Caravans
--	Maverick Campers
--	Millard Caravans
--	Modcon RV
--	Montana Caravans
--	Mountain Trail RV
--	Network RV Caravans
--	New Age Caravans
--	New Design Caravans
--	Newgen Caravans
--	Newlands Caravans
--	NextGen Caravans
--	Nova Caravans
--	Ocean Breeze Caravans
--	Offroad Hybrids
--	Olympic Caravans
--	On the Move Caravans
--	Opal Caravans
--	Option RV
--	Opus Camper
--	Orca Caravans
--	Pacific Caravans
--	Paradise Motorhomes
--	Paramount Caravans
--	Patriot Campers
--	Pedigree Caravans
--	Pioneer Campers
--	Platinum Campers
--	Prime Campers
--	Red Centre Caravans
--	Regal Caravans
--	Regent Caravans
--	Retreat Caravans
--	RhinoMax Campers
--	River Caravans
--	Roadstar Caravans
--	Roma Caravans
--	Royal Flair Caravans
--	Safari Caravans
--	Salute Caravans
--	Silversun Caravans
--	Snowy River Caravans
--	Spinifex Caravans
--	Star Vision Campers & Caravans
--	Stoney Creek Campers
--	Sunland Caravans
--	Sunliner RVs
--	Sunseeker Caravans
--	Supreme Caravans
--	Swag Off-road Campers
--	Swift RV
--	Tango Caravans
--	Titan Caravans
--	Titanium Caravans
--	Track Trailer
--	Trackvan
--	Trailblazers RV
--	Trakmaster
--	Travelhome
--	Traveller Caravans
--	Urban Caravans
--	Vacationer Caravans
--	Van Cruiser Off Road Caravans
--	Victory Caravans
--	Viscount Caravans
--	Vision RV
--	Wallaroo Caravans
--	Willow RV
--	Windsor Caravans
--	Wonderland RV
--	York Caravans
--	Zone RV
-
-
-
+- Adria Australia & New Zealand
+- Adventura Caravans
+- Altitude Campers
+- Atlantic Caravans
+- Aussie Fivestar Caravans
+- Aussie Wide Caravans
+- Austrack Campers
+- Austral Motorhomes
+- Australian Caravans Direct (ACD)
+- Australian Off Road Campers (AOR)
+- Australis Caravans
+- Avan
+- Avida RV
+- Billabong Caravans
+- Black Series Campers & Caravans
+- Blue Sky Caravans
+- Blue Tongue Campers
+- Bluewater Campers
+- Boss Adventure
+- BRS Offroad
+- Bruder
+- Bushmaster Off-road Caravans
+- Bushranger Campers
+- Bushtracker Australia
+- Canyon Caravans
+- Caraboat
+- Carrera Caravans
+- Cedar Caravans
+- Century Trailers
+- Concept Caravans
+- Condor Caravans
+- Coromal
+- Coronet RV
+- Crusader Caravans
+- CRZR Industries
+- Cub Campers
+- Design RV
+- Domain Caravans
+- Dreamseeker
+- Eagle Camper Trailers
+- Eco-Tourer
+- Eden Caravans
+- Edge Trailers & Caravans
+- Elite Caravans
+- Elross Caravans
+- Empire Caravans
+- Essential Caravans
+- Euro Caravans
+- Evernew Caravans
+- Evolution Caravans
+- Exodus Off Road Campers
+- Explorex
+- EzyTrail Campers
+- Fantasy Caravan
+- Far Horizon Campers
+- Fortitude Caravans
+- Franklin Caravans
+- Goldstar RV
+- Goldstream RV
+- Golf Caravans
+- GPJ Caravans
+- Grand Salute Caravans
+- Great Aussie Caravans
+- Halen Vans
+- Harvok
+- Highline Caravans
+- Hilltop Caravans
+- iDeal Caravans
+- Jawa Campers
+- Jayco
+- JB Caravans
+- K9 Vans
+- Kedron Caravans
+- Kimberley Kampers
+- Kokoda
+- La Vista Caravans
+- Lagoon Caravan
+- Latitude RV Caravans
+- Leader Caravans
+- Legend Caravans
+- Lifestyle Campers
+- Little Caravan Company
+- Lotus Caravans
+- Lumberjack Camper Trailers
+- Lyfe RV
+- Majestic Caravans
+- Malibu Caravans
+- Market Direct Campers (MDC)
+- Mars Campers
+- Marvel RV
+- Masterpiece Caravans
+- Maverick Campers
+- Millard Caravans
+- Modcon RV
+- Montana Caravans
+- Mountain Trail RV
+- Network RV Caravans
+- New Age Caravans
+- New Design Caravans
+- Newgen Caravans
+- Newlands Caravans
+- NextGen Caravans
+- Nova Caravans
+- Ocean Breeze Caravans
+- Offroad Hybrids
+- Olympic Caravans
+- On the Move Caravans
+- Opal Caravans
+- Option RV
+- Opus Camper
+- Orca Caravans
+- Pacific Caravans
+- Paradise Motorhomes
+- Paramount Caravans
+- Patriot Campers
+- Pedigree Caravans
+- Pioneer Campers
+- Platinum Campers
+- Prime Campers
+- Red Centre Caravans
+- Regal Caravans
+- Regent Caravans
+- Retreat Caravans
+- RhinoMax Campers
+- River Caravans
+- Roadstar Caravans
+- Roma Caravans
+- Royal Flair Caravans
+- Safari Caravans
+- Salute Caravans
+- Silversun Caravans
+- Snowy River Caravans
+- Spinifex Caravans
+- Star Vision Campers & Caravans
+- Stoney Creek Campers
+- Sunland Caravans
+- Sunliner RVs
+- Sunseeker Caravans
+- Supreme Caravans
+- Swag Off-road Campers
+- Swift RV
+- Tango Caravans
+- Titan Caravans
+- Titanium Caravans
+- Track Trailer
+- Trackvan
+- Trailblazers RV
+- Trakmaster
+- Travelhome
+- Traveller Caravans
+- Urban Caravans
+- Vacationer Caravans
+- Van Cruiser Off Road Caravans
+- Victory Caravans
+- Viscount Caravans
+- Vision RV
+- Wallaroo Caravans
+- Willow RV
+- Windsor Caravans
+- Wonderland RV
+- York Caravans
+- Zone RV
 
 ## What Are the Best Quality Caravans in Australia
 
@@ -446,7 +448,7 @@ All these shallow furnishing parts are great don't get me wrong, but they should
 
 There are many things to look out for when it comes to identifying a caravan that you shouldn't buy.
 
-First things first, if you a buying it new, do not buy it unless it comes with an extended warranty. This is a no brainer. 
+First things first, if you a buying it new, do not buy it unless it comes with an extended warranty. This is a no brainer.
 
 > It would be staggerring if your manufacturer or dealer did not include a warranty as part of the contract of sale.
 
@@ -457,11 +459,12 @@ On top of that, you want the caravan to be structural sound and to have retained
 ## Worst Caravans in Australia
 
 ## Best off Road Caravans in Australia
+
 ## Lightweight Caravans in Australia
 
 ## Other popular questions
 
-Below are some of the most asked questions from caravan seekers and browsers from accross the web. We thought it might be worthwhile answering these as well, even though they are quite hard to categorise.	
+Below are some of the most asked questions from caravan seekers and browsers from accross the web. We thought it might be worthwhile answering these as well, even though they are quite hard to categorise.
 
 ### Who Makes Armor Caravans
 
@@ -474,8 +477,3 @@ Alex Pi founded the JB Caravan brand in 2010. Back then, he was building one car
 ### Who Owns Jayco Caravans
 
 Established in 1975, Gerry Ryan built the company up with family and community centered values in mind. Located at Jayco Drive, Dandenong South, Victoria, Jayco is a well know Australian Caravan Manufacturer.
-
-
-
-
-

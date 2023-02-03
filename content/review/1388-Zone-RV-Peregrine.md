@@ -36,7 +36,7 @@ airCon: "Option"
 hybrid: ""
 roofType: "Full height"
 towHitch: "Cruisemaster DO35 Hitch"
-price: "119750"
+price: 119750
 priceRangeMin: "119750"
 priceRangeMax: "119750"
 urlLink: "https://www.zonerv.com.au/off-road-caravans/peregrine/"

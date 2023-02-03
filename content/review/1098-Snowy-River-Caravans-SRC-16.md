@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Full height"
 towHitch: ""
-price: "53490"
+price: 53490
 priceRangeMin: "53490"
 priceRangeMax: "53490"
 urlLink: "https://snowyrivercaravans.com.au/caravan/src-sixteen/"

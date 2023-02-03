@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Full height"
 towHitch: "D035 Tow Hitch"
-price: "Contact Seller"
+price: Contact Seller
 priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "https://salutecaravans.com.au/range/avalon/"

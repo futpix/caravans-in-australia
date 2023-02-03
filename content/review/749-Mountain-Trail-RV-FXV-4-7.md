@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: "Yes"
 roofType: "Full height"
 towHitch: "3500kg off road tow hitch with hand brake"
-price: "149990"
+price: 149990
 priceRangeMin: "149990"
 priceRangeMax: "149990"
 urlLink: "https://mountaintrailrv.com.au/fxv47"

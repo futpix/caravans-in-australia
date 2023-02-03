@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Full height"
 towHitch: "3500kg off road tow hitch with hand brake"
-price: "174990"
+price: 174990
 priceRangeMin: "174990"
 priceRangeMax: "174990"
 urlLink: "https://mountaintrailrv.com.au/lxv-58-tandem"

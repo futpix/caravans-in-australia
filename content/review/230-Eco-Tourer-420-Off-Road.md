@@ -36,7 +36,7 @@ airCon: ""
 hybrid: ""
 roofType: "Folding roof"
 towHitch: ""
-price: "Contact Seller"
+price: Contact Seller
 priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "http://www.ecotourer.com.au/420OffRoad.html"

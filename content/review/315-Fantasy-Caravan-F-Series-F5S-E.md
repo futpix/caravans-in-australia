@@ -37,7 +37,7 @@ airCon: "Yes"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "McHitch 3.5T Coupling"
-price: "53990"
+price: 53990
 priceRangeMin: "53990"
 priceRangeMax: "53990"
 urlLink: "https://fantasycaravan.com.au/models/f-series-f5s/"

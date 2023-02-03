@@ -37,7 +37,7 @@ hybrid: ""
 roofType: "Full height"
 towHitch: "3500kg ARK XO Extreme Off Road Hitch (360
 Degrees)"
-price: "71990"
+price: 71990
 priceRangeMin: "71990"
 priceRangeMax: "71990"
 urlLink: "https://www.sccampertrailers.com.au/toy-hauler-caravans/16ft-toy-hauler"

@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "Cruisemaster™ DO35 hitch"
-price: "89990"
+price: 89990
 priceRangeMin: "89990"
 priceRangeMax: "89990"
 urlLink: "https://www.marketdirect.com.au/product/xt17t-15yam/"

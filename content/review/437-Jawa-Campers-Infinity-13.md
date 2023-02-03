@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "DO35 Off-Road Coupling"
-price: "59000"
+price: 59000
 priceRangeMin: "59000"
 priceRangeMax: "59000"
 urlLink: "https://www.jawacampers.com.au/hybrids-camper-trailers/infinity-13/"

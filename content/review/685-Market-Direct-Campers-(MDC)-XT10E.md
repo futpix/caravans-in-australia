@@ -36,7 +36,7 @@ airCon: "Option"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "Cruisemaster™ DO35 hitch"
-price: "52490"
+price: 52490
 priceRangeMin: "52490"
 priceRangeMax: "52490"
 urlLink: "https://www.marketdirect.com.au/product/mdc-xt10e-hybrid-offroad-caravan/"

@@ -36,7 +36,7 @@ airCon: "Option"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "Cruisemaster™ DO35 hitch"
-price: "59990"
+price: 59990
 priceRangeMin: "59990"
 priceRangeMax: "59990"
 urlLink: "https://www.marketdirect.com.au/product/xt12e-15yr-edition/"

@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Full height"
 towHitch: ""
-price: "61990"
+price: 61990
 priceRangeMin: "61990"
 priceRangeMax: "61990"
 urlLink: "https://www.silversuncaravans.com.au/our-range/saturn/"

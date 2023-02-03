@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Pop top"
 towHitch: "DO-35 Offroad Pin Coupling"
-price: "72490"
+price: 72490
 priceRangeMin: "72490"
 priceRangeMax: "72490"
 urlLink: "https://www.jayco.com.au/range/pop-tops/all-terrain-pop-top"

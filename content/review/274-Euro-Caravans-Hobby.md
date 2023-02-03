@@ -36,7 +36,7 @@ airCon: "Option"
 hybrid: ""
 roofType: "Full height"
 towHitch: ""
-price: "35900"
+price: 35900
 priceRangeMin: "35900"
 priceRangeMax: "35900"
 urlLink: "https://www.euro-caravans.com.au/caravan/hobby-twin-single-beds-king-with-bathroom-caravan/"

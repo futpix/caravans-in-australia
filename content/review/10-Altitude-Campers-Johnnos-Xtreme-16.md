@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Pop top"
 towHitch: "DO35 off-road towing coupling"
-price: "69990"
+price: 69990
 priceRangeMin: "69990"
 priceRangeMax: "69990"
 urlLink: "https://altitudecampers.com.au/johnnos-campers/"

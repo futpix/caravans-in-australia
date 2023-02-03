@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "McHitch 3.5T Uniglide Offroad Coupling"
-price: "57990"
+price: 57990
 priceRangeMin: "57990"
 priceRangeMax: "57990"
 urlLink: "https://www.austrackcampers.com.au/product/tanami-x15l/"

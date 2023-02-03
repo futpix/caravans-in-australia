@@ -36,7 +36,7 @@ airCon: "Option"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "McHitch 3.5T auto hitch"
-price: "57390"
+price: 57390
 priceRangeMin: "57390"
 priceRangeMax: "57390"
 urlLink: "https://www.eaglecampertrailers.com.au/off-road-caravans/warrior-15-off-road-hybrid-caravan/#c12"

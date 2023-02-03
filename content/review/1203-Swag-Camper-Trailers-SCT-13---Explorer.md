@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "McHitch Uniglide Coupling"
-price: "57990"
+price: 57990
 priceRangeMin: "57990"
 priceRangeMax: "57990"
 urlLink: "https://www.swagcampertrailers.com.au/sct13-explorer-family-hybrid/"

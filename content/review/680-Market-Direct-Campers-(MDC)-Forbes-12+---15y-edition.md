@@ -36,7 +36,7 @@ airCon: "Option"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "Cruisemaster™ DO35 hitch"
-price: "65990"
+price: 65990
 priceRangeMin: "65990"
 priceRangeMax: "65990"
 urlLink: "https://www.marketdirect.com.au/product/forbes-12-15yr-edition/"

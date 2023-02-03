@@ -36,7 +36,7 @@ airCon: ""
 hybrid: ""
 roofType: "Full height"
 towHitch: ""
-price: "41990"
+price: 41990
 priceRangeMin: "41990"
 priceRangeMax: "41990"
 urlLink: "https://www.silversuncaravans.com.au/our-range/pluto/"

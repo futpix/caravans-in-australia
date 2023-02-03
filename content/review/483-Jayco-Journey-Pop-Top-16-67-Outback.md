@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Pop top"
 towHitch: ""
-price: "55490"
+price: 55490
 priceRangeMin: "55490"
 priceRangeMax: "55490"
 urlLink: "https://www.jayco.com.au/range/pop-tops/journey-pop-top/floor-plans/outback/journey-1667-4objy-my22"

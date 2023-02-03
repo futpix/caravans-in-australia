@@ -36,7 +36,7 @@ airCon: "Option"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "DO35 rated 3500kg"
-price: "127900"
+price: 127900
 priceRangeMin: "127900"
 priceRangeMax: "127900"
 urlLink: "https://australianoffroad.com.au/listings/matrix-pop-top/"

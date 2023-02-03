@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Full height"
 towHitch: "3.5 tonne Hitchmaster DO35"
-price: "69990"
+price: 69990
 priceRangeMin: "69990"
 priceRangeMax: "69990"
 urlLink: "https://marscampers.com.au/camper-trailers/mars-16/"

@@ -36,7 +36,7 @@ airCon: "Option"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "3T Off Road Poly Block Hitch"
-price: "51999"
+price: 51999
 priceRangeMin: "51999"
 priceRangeMax: "51999"
 urlLink: "https://maverickcampers.com.au/product/maverick-viper-16x-dl-hybrid-caravan/"

@@ -36,7 +36,7 @@ airCon: "Option"
 hybrid: "Yes"
 roofType: "Full height"
 towHitch: "DO35 3500kg off road coupling"
-price: "129990"
+price: 129990
 priceRangeMin: "129990"
 priceRangeMax: "129990"
 urlLink: "https://rhinomaxcampers.com.au/lost-trak-16ft-family-hybrid-tourer/"

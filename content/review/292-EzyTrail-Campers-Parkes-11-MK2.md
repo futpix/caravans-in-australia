@@ -36,7 +36,7 @@ airCon: "Option"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "3.5 Tonne Alko Off Road Hitch"
-price: "47990"
+price: 47990
 priceRangeMin: "47990"
 priceRangeMax: "47990"
 urlLink: "https://www.ezytrailcampertrailers.com.au/product/parkes-11-mk2/"

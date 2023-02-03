@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Full height"
 towHitch: "McHitch Uniglide Coupling"
-price: "68990"
+price: 68990
 priceRangeMin: "68990"
 priceRangeMax: "68990"
 urlLink: "https://www.swagcampertrailers.com.au/sct16-max-4-berth-off-road-hybrid-r-v/"

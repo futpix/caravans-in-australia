@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: "Yes"
 roofType: "Full height"
 towHitch: "McHitch 3.5T Uniglide Offroad Coupling"
-price: "77990"
+price: 77990
 priceRangeMin: "77990"
 priceRangeMax: "77990"
 urlLink: "https://www.austrackcampers.com.au/product/gibb-16-family/"

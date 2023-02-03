@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Full height"
 towHitch: "DO35"
-price: "169990"
+price: 169990
 priceRangeMin: "169990"
 priceRangeMax: "169990"
 urlLink: "https://sunlandcaravans.com.au/Longreach-Family-Off-Road-Caravan"

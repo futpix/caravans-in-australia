@@ -36,7 +36,7 @@ airCon: "Option"
 hybrid: ""
 roofType: "Full height"
 towHitch: ""
-price: "Contact Seller"
+price: Contact Seller
 priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "https://www.hilltopcaravans.com.au/h-14/"

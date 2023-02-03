@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Full height"
 towHitch: "AL-KO Off Rd or D035"
-price: "129990"
+price: 129990
 priceRangeMin: "129990"
 priceRangeMax: "129990"
 urlLink: "https://cubcampers.com.au/range/caravans/c16/"

@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "McHitch Uniglide Coupling"
-price: "58990"
+price: 58990
 priceRangeMin: "58990"
 priceRangeMax: "58990"
 urlLink: "https://www.swagcampertrailers.com.au/sct13-max-2-berth-compact-hybrid-camper/"

@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Full height"
 towHitch: "D045 Plus, Drop-On 4.5 tonne articulating, all-terrain pin coupling"
-price: "Contact Seller"
+price: Contact Seller
 priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "https://paradisemotorhomes.com.au/caravans/pinnacle-xb22hd/"

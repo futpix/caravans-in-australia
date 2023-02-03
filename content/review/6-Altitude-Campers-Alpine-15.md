@@ -36,7 +36,7 @@ airCon: "Option"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "DO35 Off-Road Coupling"
-price: "104990"
+price: 104990
 priceRangeMin: "104990"
 priceRangeMax: "104990"
 urlLink: "https://altitudecampers.com.au/alpine-15-camper-van/"

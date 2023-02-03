@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Full height"
 towHitch: ""
-price: "59990"
+price: 59990
 priceRangeMin: "59990"
 priceRangeMax: "59990"
 urlLink: "https://www.jayco.com.au/range/caravans/jayco-starcraft-caravan/floor-plans/touring/starcraft-1961-3sc-my22"

@@ -36,7 +36,7 @@ airCon: "Option"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "3T Off Road Poly Block Hitch"
-price: "45999"
+price: 45999
 priceRangeMin: "45999"
 priceRangeMax: "45999"
 urlLink: "https://maverickcampers.com.au/product/maverick-viper-13-caravan/"

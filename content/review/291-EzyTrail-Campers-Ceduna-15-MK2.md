@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Full height"
 towHitch: "3.5 Tonne Alko Off Road Hitch"
-price: "67990"
+price: 67990
 priceRangeMin: "67990"
 priceRangeMax: "67990"
 urlLink: "https://www.ezytrailcampertrailers.com.au/product/ceduna-15-mk2/"

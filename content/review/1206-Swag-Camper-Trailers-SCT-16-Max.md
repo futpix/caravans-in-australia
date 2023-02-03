@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "McHitch Uniglide Coupling"
-price: "65990"
+price: 65990
 priceRangeMin: "65990"
 priceRangeMax: "65990"
 urlLink: "https://www.swagcampertrailers.com.au/sct16-max-off-road-hybrid/"

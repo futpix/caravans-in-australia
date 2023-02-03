@@ -36,7 +36,7 @@ airCon: ""
 hybrid: "Yes"
 roofType: "Pop up"
 towHitch: ""
-price: "Contact Seller"
+price: Contact Seller
 priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "https://www.conqueroraustralia.com.au/uev-440-platinum/"

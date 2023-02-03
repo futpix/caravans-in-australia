@@ -37,7 +37,7 @@ airCon: "No"
 hybrid: "Yes"
 roofType: "Pop up"
 towHitch: "DO-35 Tow Hitch 3500kg rated"
-price: "Contact Seller"
+price: Contact Seller
 priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "https://www.vistarv.com.au/crossover-xli"

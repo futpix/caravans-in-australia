@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Pop top"
 towHitch: "McHitch coupling (3.5 tonne)"
-price: "49500"
+price: 49500
 priceRangeMin: "49500"
 priceRangeMax: "49500"
 urlLink: "https://starvision.com.au/campers/px2/"

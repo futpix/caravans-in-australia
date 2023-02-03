@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Full height"
 towHitch: ""
-price: "65990"
+price: 65990
 priceRangeMin: "65990"
 priceRangeMax: "65990"
 urlLink: "https://www.sccampertrailers.com.au/toy-hauler-caravans/14ft-toy-hauler-fixed-roof-caravan#"

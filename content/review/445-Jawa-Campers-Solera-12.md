@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "DO35 Off-Road Coupling"
-price: "54000"
+price: 54000
 priceRangeMin: "54000"
 priceRangeMax: "54000"
 urlLink: "https://www.jawacampers.com.au/hybrids-camper-trailers/solera-12/"

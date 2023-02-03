@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Full height"
 towHitch: "DO35"
-price: "199000"
+price: 199000
 priceRangeMin: "199000"
 priceRangeMax: "199000"
 urlLink: ""

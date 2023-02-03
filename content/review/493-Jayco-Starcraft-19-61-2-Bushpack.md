@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Full height"
 towHitch: ""
-price: "60990"
+price: 60990
 priceRangeMin: "60990"
 priceRangeMax: "60990"
 urlLink: "https://www.jayco.com.au/range/caravans/jayco-starcraft-caravan/floor-plans/bushpack/starcraft-1961-2bpsc-my22"

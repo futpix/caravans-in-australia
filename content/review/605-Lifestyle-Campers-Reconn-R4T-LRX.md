@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "DO35 Off-Road Hitch"
-price: "145990"
+price: 145990
 priceRangeMin: "145990"
 priceRangeMax: "145990"
 urlLink: "https://www.lifestylecampers.com.au/our-range/reconn-r4t-lrx/"

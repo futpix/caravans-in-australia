@@ -36,7 +36,7 @@ airCon: ""
 hybrid: ""
 roofType: "Full height"
 towHitch: ""
-price: "Contact Seller"
+price: Contact Seller
 priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "https://rivercaravans.com.au/caravan/dreamliner/"

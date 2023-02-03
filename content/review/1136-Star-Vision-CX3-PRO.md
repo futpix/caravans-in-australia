@@ -36,7 +36,7 @@ airCon: "No"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "McHitch coupling (3.5 tonne)"
-price: "56500"
+price: 56500
 priceRangeMin: "56500"
 priceRangeMax: "56500"
 urlLink: "https://starvision.com.au/campers/cx3/"

@@ -37,7 +37,7 @@ hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "Cruisemaster DO35V3
 articulating coupling"
-price: "Contact Seller"
+price: Contact Seller
 priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "https://visionrv.com.au/our-range/vh-hybrid-series/"

@@ -36,7 +36,7 @@ airCon: "Option"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "DO-35 Offroad Pin Coupling"
-price: "53750"
+price: 53750
 priceRangeMin: "53750"
 priceRangeMax: "53750"
 urlLink: "https://www.jayco.com.au/range/jayco-hybrids/jayco-hybrid-crosstrak"

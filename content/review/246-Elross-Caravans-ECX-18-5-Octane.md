@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Full height"
 towHitch: "Cruisemaster DO35 V3"
-price: "120990"
+price: 120990
 priceRangeMin: "120990"
 priceRangeMax: "120990"
 urlLink: "https://www.elross.com.au/toy-hauler"

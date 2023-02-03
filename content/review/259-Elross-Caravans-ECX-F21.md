@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Full height"
 towHitch: "Cruisemaster DO35 V3"
-price: "146990"
+price: 146990
 priceRangeMin: "146990"
 priceRangeMax: "146990"
 urlLink: "https://www.elross.com.au/off-road-family-vans"

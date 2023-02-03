@@ -36,7 +36,7 @@ airCon: "Option"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "DO35 rated 3500kg"
-price: "123900"
+price: 123900
 priceRangeMin: "123900"
 priceRangeMax: "123900"
 urlLink: "https://australianoffroad.com.au/listings/quantum-plus"

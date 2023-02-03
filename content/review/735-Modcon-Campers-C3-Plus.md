@@ -36,7 +36,7 @@ airCon: "Option"
 hybrid: "Yes"
 roofType: "Pop up"
 towHitch: "Alko off road ball coupling"
-price: "59990"
+price: 59990
 priceRangeMin: "59990"
 priceRangeMax: "59990"
 urlLink: "https://modcon.com.au/c3-plus-hybrid-off-road-camper-trailer"

@@ -36,7 +36,7 @@ airCon: ""
 hybrid: ""
 roofType: "Pop top"
 towHitch: ""
-price: "Contact Seller"
+price: Contact Seller
 priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "https://www.paramountcaravans.com.au/caravans-mini-micro-14/"

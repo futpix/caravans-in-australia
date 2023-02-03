@@ -36,7 +36,7 @@ airCon: "Option"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "McHitch 3500kg Rated Automatic Coupler"
-price: "54499"
+price: 54499
 priceRangeMin: "54499"
 priceRangeMax: "54499"
 urlLink: "https://primecampers.com.au/hybrid-caravan/mt14s/"

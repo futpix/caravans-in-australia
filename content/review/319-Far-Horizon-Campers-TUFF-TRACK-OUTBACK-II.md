@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "McHitch 3.5T drop-on tow hitch"
-price: "52499"
+price: 52499
 priceRangeMin: "52499"
 priceRangeMax: "52499"
 urlLink: "https://farhorizoncampers.com/trailers/tuff-track-outback#outback-3"

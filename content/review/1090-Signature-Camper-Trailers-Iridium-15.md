@@ -36,7 +36,7 @@ airCon: "Option"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "3.5T Uniglide McHitch Heavy Duty Off Road Hitch and Receiver"
-price: "52490"
+price: 52490
 priceRangeMin: "52490"
 priceRangeMax: "52490"
 urlLink: "https://signaturecampertrailers.com.au/iridium-15-hybrid-camper/"

@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Full height"
 towHitch: "Cruisemaster DO35 V3"
-price: "111990"
+price: 111990
 priceRangeMin: "111990"
 priceRangeMax: "111990"
 urlLink: "https://www.elross.com.au/ecx-full-off-road"

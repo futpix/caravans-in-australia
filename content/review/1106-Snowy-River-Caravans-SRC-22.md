@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Full height"
 towHitch: ""
-price: "66990"
+price: 66990
 priceRangeMin: "66990"
 priceRangeMax: "66990"
 urlLink: "https://snowyrivercaravans.com.au/caravan/src-twenty-two/"

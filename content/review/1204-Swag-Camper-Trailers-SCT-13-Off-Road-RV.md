@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Full height"
 towHitch: "McHitch Uniglide Coupling"
-price: "61990"
+price: 61990
 priceRangeMin: "61990"
 priceRangeMax: "61990"
 urlLink: "https://www.swagcampertrailers.com.au/sct13-max-2-berth-r-v-2/"

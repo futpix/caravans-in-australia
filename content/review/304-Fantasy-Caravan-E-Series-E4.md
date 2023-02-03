@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Full height"
 towHitch: ""
-price: "44990"
+price: 44990
 priceRangeMin: "44990"
 priceRangeMax: "44990"
 urlLink: "https://fantasycaravan.com.au/models/e-series-e4/"

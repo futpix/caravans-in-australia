@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Pop top"
 towHitch: ""
-price: "61990"
+price: 61990
 priceRangeMin: "61990"
 priceRangeMax: "61990"
 urlLink: "https://www.jayco.com.au/range/pop-tops/journey-pop-top/floor-plans/outback/journey-1755-8objy-my22"

@@ -36,7 +36,7 @@ airCon: "No"
 hybrid: "Yes"
 roofType: "Pop up"
 towHitch: "DO-35 Off-road coupling with handbrake."
-price: "107550"
+price: 107550
 priceRangeMin: "107550"
 priceRangeMax: "107550"
 urlLink: "https://www.completecampsite.com.au/hybrid-camper/exodus-11/"

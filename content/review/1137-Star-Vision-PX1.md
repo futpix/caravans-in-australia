@@ -36,7 +36,7 @@ airCon: "No"
 hybrid: ""
 roofType: "Pop top"
 towHitch: "McHitch Off-road Heavy-Duty coupling with double safety chains"
-price: "39990"
+price: 39990
 priceRangeMin: "39990"
 priceRangeMax: "39990"
 urlLink: "https://starvision.com.au/campers/px1/"

@@ -36,7 +36,7 @@ airCon: "No"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "Cruisemaster DO35 Off Road Hitch"
-price: "45950"
+price: 45950
 priceRangeMin: "45950"
 priceRangeMax: "45950"
 urlLink: "https://www.lifestylecampers.com.au/our-range/iconn-e2/"

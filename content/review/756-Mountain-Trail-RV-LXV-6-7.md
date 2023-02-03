@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Full height"
 towHitch: "3500kg off road tow hitch with hand brake"
-price: "199990"
+price: 199990
 priceRangeMin: "199990"
 priceRangeMax: "199990"
 urlLink: "https://mountaintrailrv.com.au/lxv-67-tandem"

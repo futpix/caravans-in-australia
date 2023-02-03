@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Full height"
 towHitch: ""
-price: "67990"
+price: 67990
 priceRangeMin: "67990"
 priceRangeMax: "67990"
 urlLink: "https://fantasycaravan.com.au/e-series-et-19b-luxury-semi-off-road-caravan-with-bunkand-ensuite/"

@@ -12,7 +12,7 @@
       <h5 class="articleHeader">Find <Strong>{{ len (where .Site.RegularPages "Section" "==" "review") }}+</Strong> Caravans</h3>
       <hr />
       
-      <div class="row">
+      <div class="">
 
         {{ $pages := where .Site.RegularPages "Section" "review" }}
          {{ $sorted := $pages.ByParam "featured" }}  

@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Full height"
 towHitch: ""
-price: "76990"
+price: 76990
 priceRangeMin: "76990"
 priceRangeMax: "76990"
 urlLink: "https://regentcaravans.com.au/caravan/rdc210/"

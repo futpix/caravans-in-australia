@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "3.5 tonne Hitchmaster DO35"
-price: "59990"
+price: 59990
 priceRangeMin: "59990"
 priceRangeMax: "59990"
 urlLink: "https://marscampers.com.au/camper-trailers/mars-15-deluxe/"

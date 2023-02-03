@@ -36,7 +36,7 @@ airCon: ""
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "Cruisemaster DO35 All Terrain(Pin)"
-price: "Contact Seller"
+price: Contact Seller
 priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "https://www.ttrv.com.au/hybrid-campers/stuart"

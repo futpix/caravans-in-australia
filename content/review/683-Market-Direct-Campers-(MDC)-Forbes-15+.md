@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "Cruisemaster™ DO35 hitch"
-price: "64990"
+price: 64990
 priceRangeMin: "64990"
 priceRangeMax: "64990"
 urlLink: "https://www.marketdirect.com.au/product/forbes-15-offroad-caravan/"

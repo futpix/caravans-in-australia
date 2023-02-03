@@ -36,7 +36,7 @@ airCon: "No"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "DO35 rated 3500kg"
-price: "81900"
+price: 81900
 priceRangeMin: "81900"
 priceRangeMax: "81900"
 urlLink: "https://australianoffroad.com.au/listings/odyssey/"

@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Full height"
 towHitch: "DO35 rated 3500kg"
-price: "173900"
+price: 173900
 priceRangeMin: "173900"
 priceRangeMax: "173900"
 urlLink: "https://australianoffroad.com.au/listings/aurora/"

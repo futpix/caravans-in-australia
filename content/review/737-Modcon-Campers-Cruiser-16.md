@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Full height"
 towHitch: "Cruismaster DO35 off road hitch"
-price: "75990"
+price: 75990
 priceRangeMin: "75990"
 priceRangeMax: "75990"
 urlLink: "https://modcon.com.au/cruiser-16-off-road-caravan"

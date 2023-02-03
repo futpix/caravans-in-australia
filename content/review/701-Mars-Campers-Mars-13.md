@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "3.5 tonne Hitchmaster DO35"
-price: "54990"
+price: 54990
 priceRangeMin: "54990"
 priceRangeMax: "54990"
 urlLink: "https://marscampers.com.au/camper-trailers/mars-13/"

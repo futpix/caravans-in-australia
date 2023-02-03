@@ -36,7 +36,7 @@ airCon: "Option"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "DO35 3500kg off road coupling"
-price: "109990"
+price: 109990
 priceRangeMin: "109990"
 priceRangeMax: "109990"
 urlLink: "https://rhinomaxcampers.com.au/defender/"

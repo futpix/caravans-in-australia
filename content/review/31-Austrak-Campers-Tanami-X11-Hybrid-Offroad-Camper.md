@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "McHitch 3.5T Uniglide Offroad Coupling"
-price: "46990"
+price: 46990
 priceRangeMin: "46990"
 priceRangeMax: "46990"
 urlLink: "https://www.austrackcampers.com.au/product/tanami-x11-hybrid-offroad-camper/"

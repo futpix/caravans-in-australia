@@ -36,7 +36,7 @@ airCon: "Option"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "3.5T"
-price: "46900"
+price: 46900
 priceRangeMin: "46900"
 priceRangeMax: "46900"
 urlLink: "https://capstonecaravans.com.au/hybrid-caravan-h3/"

@@ -36,7 +36,7 @@ airCon: "No"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "Mc Hitch 3.5 T Drop On"
-price: "36999"
+price: 36999
 priceRangeMin: "36999"
 priceRangeMax: "36999"
 urlLink: "https://farhorizoncampers.com/trailers/tuff-track-escape"

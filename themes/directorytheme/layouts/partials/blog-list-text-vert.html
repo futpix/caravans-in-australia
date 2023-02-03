@@ -1,4 +1,4 @@
-<h4 class="text-bold">Similar options?</h4>
+<h4 class="text-bold">Similar posts</h4>
 <div
   class="aos-item aos-init aos-animate"
   data-aos=""
@@ -19,9 +19,7 @@
       height="60"
       alt="Brand Icon"
     />
-    <h3 class="common-UppercaseText common-Link--arrow">
-      {{ range .Params.categories | first 1 }}{{.}}{{end}} {{ .Title }}
-    </h3>
+    <h3 class="common-UppercaseText common-Link--arrow">{{ .Title }}</h3>
   </a>
   {{ end }} {{ end }}
 </div>

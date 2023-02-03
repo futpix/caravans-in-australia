@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Full height"
 towHitch: "3500kg off road tow hitch with hand brake"
-price: "194990"
+price: 194990
 priceRangeMin: "194990"
 priceRangeMax: "194990"
 urlLink: "https://mountaintrailrv.com.au/fxv-65-family"

@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Full height"
 towHitch: ""
-price: "66990"
+price: 66990
 priceRangeMin: "66990"
 priceRangeMax: "66990"
 urlLink: "https://www.jayco.com.au/range/caravans/jayco-journey-caravan/floor-plans/touring/journey-1651-3jy-my22"

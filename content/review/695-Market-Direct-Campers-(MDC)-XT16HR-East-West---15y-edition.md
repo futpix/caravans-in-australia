@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: "Yes"
 roofType: "Full height"
 towHitch: "Cruisemaster™ DO35 hitch"
-price: "84990"
+price: 84990
 priceRangeMin: "84990"
 priceRangeMax: "84990"
 urlLink: "https://www.marketdirect.com.au/product/xt16hr-east-west-15yr-edition/"

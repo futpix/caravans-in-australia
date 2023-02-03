@@ -37,7 +37,7 @@ hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "3500kg ARK XO Extreme Off Road Hitch (360
 Degrees)"
-price: "57990"
+price: 57990
 priceRangeMin: "57990"
 priceRangeMax: "57990"
 urlLink: "https://www.sccampertrailers.com.au/hybrid-caravans/13ft-cruiser-off-road-hybrid"

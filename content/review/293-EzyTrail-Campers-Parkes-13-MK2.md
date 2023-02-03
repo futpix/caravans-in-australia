@@ -36,7 +36,7 @@ airCon: "Option"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "3.5Tonne Alko Off Road Hitch"
-price: "52990"
+price: 52990
 priceRangeMin: "52990"
 priceRangeMax: "52990"
 urlLink: "https://www.ezytrailcampertrailers.com.au/product/parkes-13-mk2/"

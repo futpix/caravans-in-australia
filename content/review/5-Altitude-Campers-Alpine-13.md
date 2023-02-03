@@ -36,7 +36,7 @@ airCon: "Option"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "DO35 Off-Road Coupling"
-price: "89990"
+price: 89990
 priceRangeMin: "89990"
 priceRangeMax: "89990"
 urlLink: "https://altitudecampers.com.au/alpine-13-camper-van/"

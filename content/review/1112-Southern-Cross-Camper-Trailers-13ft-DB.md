@@ -37,7 +37,7 @@ hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "3500kg ARK XO Extreme Off Road Hitch (360
 Degrees)"
-price: "59990"
+price: 59990
 priceRangeMin: "59990"
 priceRangeMax: "59990"
 urlLink: "https://www.sccampertrailers.com.au/hybrid-caravans/13ft-db-double-front-bunks-straight-ensuite"

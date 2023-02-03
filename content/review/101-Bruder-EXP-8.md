@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: "Yes"
 roofType: "Full height"
 towHitch: "Offroad coupling"
-price: "271818"
+price: 271818
 priceRangeMin: "271818"
 priceRangeMax: "271818"
 urlLink: "https://bruderx.com/exp-8/"

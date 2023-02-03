@@ -36,7 +36,7 @@ airCon: "Option"
 hybrid: ""
 roofType: "Full height"
 towHitch: "3.5T Australian casting coupler with hand brake"
-price: "31990"
+price: 31990
 priceRangeMin: "31990"
 priceRangeMax: "31990"
 urlLink: "https://www.ezytrailcampertrailers.com.au/product/winton-10/"

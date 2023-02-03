@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Full height"
 towHitch: ""
-price: "85490"
+price: 85490
 priceRangeMin: "85490"
 priceRangeMax: "85490"
 urlLink: "https://regentcaravans.com.au/caravan/rcc216/"

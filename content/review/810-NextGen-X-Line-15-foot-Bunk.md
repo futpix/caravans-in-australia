@@ -36,7 +36,7 @@ airCon: ""
 hybrid: ""
 roofType: "Full height"
 towHitch: "DO35 Hitchmaster coupling"
-price: "Contact Seller"
+price: Contact Seller
 priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "https://www.nextgencaravans.com.au/x-line/"

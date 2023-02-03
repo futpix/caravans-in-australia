@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Full height"
 towHitch: "360 McHitch offroad coupling"
-price: "69880"
+price: 69880
 priceRangeMin: "69880"
 priceRangeMax: "69880"
 urlLink: "https://www.eaglecampertrailers.com.au/off-road-caravans/eagle-warrior-190fx/"

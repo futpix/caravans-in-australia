@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Full height"
 towHitch: "360 offroad coupling"
-price: "75800"
+price: 75800
 priceRangeMin: "75800"
 priceRangeMax: "75800"
 urlLink: "https://www.eaglecampertrailers.com.au/off-road-caravans/eagle-wedgetail-18/"

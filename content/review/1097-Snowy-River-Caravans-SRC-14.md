@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Full height"
 towHitch: ""
-price: "49990"
+price: 49990
 priceRangeMin: "49990"
 priceRangeMax: "49990"
 urlLink: "https://snowyrivercaravans.com.au/caravan/src-fourteen/"

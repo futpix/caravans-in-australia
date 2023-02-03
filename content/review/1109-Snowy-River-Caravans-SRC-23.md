@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Full height"
 towHitch: ""
-price: "68490"
+price: 68490
 priceRangeMin: "68490"
 priceRangeMax: "68490"
 urlLink: "https://snowyrivercaravans.com.au/caravan/src-twenty-three/"

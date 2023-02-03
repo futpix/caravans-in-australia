@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Full height"
 towHitch: "McHitch Uniglide Coupling"
-price: "77990"
+price: 77990
 priceRangeMin: "77990"
 priceRangeMax: "77990"
 urlLink: "https://www.swagcampertrailers.com.au/sct18-double-or-triple-bunk-r-v/"

@@ -36,7 +36,7 @@ airCon: ""
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: ""
-price: "Contact Seller"
+price: Contact Seller
 priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "https://www.vanglassrv.com.au/hyrbrid-re-spec-page"

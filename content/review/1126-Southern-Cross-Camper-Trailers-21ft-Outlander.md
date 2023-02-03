@@ -37,7 +37,7 @@ hybrid: ""
 roofType: "Full height"
 towHitch: "3500kg ARK XO Extreme Off Road Hitch (360
 Degrees)"
-price: "89990"
+price: 89990
 priceRangeMin: "89990"
 priceRangeMax: "89990"
 urlLink: "https://www.sccampertrailers.com.au/fixed-roof-caravans/21ft-overlander-fixed-roof-dual-axle-plan-c#Section145"

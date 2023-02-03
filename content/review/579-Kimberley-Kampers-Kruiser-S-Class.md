@@ -36,7 +36,7 @@ airCon: "Option"
 hybrid: ""
 roofType: "Full height"
 towHitch: "TREG off-road coupling"
-price: "122890"
+price: 122890
 priceRangeMin: "122890"
 priceRangeMax: "122890"
 urlLink: "https://kimberleykampers.com.au/luxury-off-road-caravans/kruiser-s-class/"

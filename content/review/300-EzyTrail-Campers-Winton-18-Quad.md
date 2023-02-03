@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Full height"
 towHitch: ""
-price: "69990"
+price: 69990
 priceRangeMin: "69990"
 priceRangeMax: "69990"
 urlLink: "https://www.ezytrailcampertrailers.com.au/product/winton-18-quad/"

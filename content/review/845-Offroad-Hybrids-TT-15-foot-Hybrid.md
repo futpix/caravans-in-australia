@@ -36,7 +36,7 @@ airCon: "Option"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "McHitch offroad coupling"
-price: "49400"
+price: 49400
 priceRangeMin: "49400"
 priceRangeMax: "49400"
 urlLink: "https://www.offroadhybrids.com.au/15ft-hybrid/"

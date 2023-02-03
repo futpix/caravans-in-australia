@@ -36,7 +36,7 @@ airCon: "No"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "McHitch coupling (3.5 tonne)"
-price: "43990"
+price: 43990
 priceRangeMin: "43990"
 priceRangeMax: "43990"
 urlLink: "https://starvision.com.au/campers/cx2/"

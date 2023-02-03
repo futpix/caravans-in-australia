@@ -36,7 +36,7 @@ airCon: "Option"
 hybrid: ""
 roofType: "Full height"
 towHitch: "DO35 rated 3500kg"
-price: "152900"
+price: 152900
 priceRangeMin: "152900"
 priceRangeMax: "152900"
 urlLink: "https://australianoffroad.com.au/listings/sinergi/"

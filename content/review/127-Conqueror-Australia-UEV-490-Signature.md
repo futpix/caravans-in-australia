@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: "Yes"
 roofType: "Pop up"
 towHitch: "D035 V3 Off road hitch"
-price: "99990"
+price: 99990
 priceRangeMin: "99990"
 priceRangeMax: "99990"
 urlLink: "https://www.conqueroraustralia.com.au/uev-490-signature/"

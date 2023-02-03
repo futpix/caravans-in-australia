@@ -36,7 +36,7 @@ airCon: "Option"
 hybrid: ""
 roofType: "Full height"
 towHitch: ""
-price: "69750"
+price: 69750
 priceRangeMin: "69750"
 priceRangeMax: "69750"
 urlLink: "https://www.goldycaravans.com/"

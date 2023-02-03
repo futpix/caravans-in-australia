@@ -36,7 +36,7 @@ airCon: "Option"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "3.5T"
-price: "52500"
+price: 52500
 priceRangeMin: "52500"
 priceRangeMax: "52500"
 urlLink: "https://capstonecaravans.com.au/hybrid-caravan-h5/"

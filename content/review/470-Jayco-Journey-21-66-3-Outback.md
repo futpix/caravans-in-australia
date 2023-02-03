@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Full height"
 towHitch: ""
-price: "84990"
+price: 84990
 priceRangeMin: "84990"
 priceRangeMax: "84990"
 urlLink: "https://www.jayco.com.au/range/caravans/jayco-journey-caravan/floor-plans/outback/journey-2166-3objy-my22"

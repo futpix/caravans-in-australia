@@ -36,7 +36,7 @@ airCon: "Option"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "3T Off Road Poly Block Hitch"
-price: "47999"
+price: 47999
 priceRangeMin: "47999"
 priceRangeMax: "47999"
 urlLink: "https://maverickcampers.com.au/product/maverick-raptor-13x-caravan/"

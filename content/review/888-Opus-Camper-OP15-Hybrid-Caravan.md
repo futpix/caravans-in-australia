@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "Hitchmaster DO35 3.5T articulated hitch"
-price: "60999"
+price: 60999
 priceRangeMin: "60999"
 priceRangeMax: "60999"
 urlLink: "https://www.opuscamper.com.au/op15-hybrid-caravan/"

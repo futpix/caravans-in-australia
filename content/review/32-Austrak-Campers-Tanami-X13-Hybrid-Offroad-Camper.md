@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "McHitch 3.5T Uniglide Offroad Coupling"
-price: "50990"
+price: 50990
 priceRangeMin: "50990"
 priceRangeMax: "50990"
 urlLink: "https://www.austrackcampers.com.au/product/tanami-x-13-hybrid-offroad-camper/"

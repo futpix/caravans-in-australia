@@ -36,7 +36,7 @@ airCon: "No"
 hybrid: "Yes"
 roofType: "Pop up"
 towHitch: "D035 V3 Off road hitch"
-price: "61990"
+price: 61990
 priceRangeMin: "61990"
 priceRangeMax: "61990"
 urlLink: "https://www.conqueroraustralia.com.au/uev-490-st/"

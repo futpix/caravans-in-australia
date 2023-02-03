@@ -36,7 +36,7 @@ airCon: "Option"
 hybrid: ""
 roofType: "Full height"
 towHitch: ""
-price: "32990"
+price: 32990
 priceRangeMin: "32990"
 priceRangeMax: "32990"
 urlLink: "https://fantasycaravan.com.au/models/e-series-e2/"

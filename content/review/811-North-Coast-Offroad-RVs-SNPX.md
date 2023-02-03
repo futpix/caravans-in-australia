@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Pop top"
 towHitch: "McHitch 360 degree trailer coupling"
-price: "145000"
+price: 145000
 priceRangeMin: "145000"
 priceRangeMax: "145000"
 urlLink: "https://www.offroadrvs.com.au/snpx-offroad-camper-hybrid/"

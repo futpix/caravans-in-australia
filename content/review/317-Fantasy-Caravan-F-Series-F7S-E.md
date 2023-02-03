@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "McHitch 3.5T Coupling"
-price: "68990"
+price: 68990
 priceRangeMin: "68990"
 priceRangeMax: "68990"
 urlLink: "https://fantasycaravan.com.au/models/f-series-f7se/"

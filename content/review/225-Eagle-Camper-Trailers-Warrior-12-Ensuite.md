@@ -36,7 +36,7 @@ airCon: "Option"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "360 offroad coupling"
-price: "49800"
+price: 49800
 priceRangeMin: "49800"
 priceRangeMax: "49800"
 urlLink: "https://www.eaglecampertrailers.com.au/off-road-caravans/warrior-offroad-hybrid-caravan/"

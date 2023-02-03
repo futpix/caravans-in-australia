@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "3.5 tonne Hitchmaster DO35"
-price: "38990"
+price: 38990
 priceRangeMin: "38990"
 priceRangeMax: "38990"
 urlLink: "https://marscampers.com.au/camper-trailers/ranger-x/"

@@ -36,7 +36,7 @@ airCon: "Option"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "Cruisemaster™ DO35 hitch"
-price: "62990"
+price: 62990
 priceRangeMin: "62990"
 priceRangeMax: "62990"
 urlLink: "https://www.marketdirect.com.au/product/xt12-hybrid-offroad-caravan/"

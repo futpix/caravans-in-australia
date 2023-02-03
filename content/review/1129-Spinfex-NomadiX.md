@@ -37,7 +37,7 @@ hybrid: ""
 roofType: "Full height"
 towHitch: "Cruisemaster DO45 off road coupling with ratchet
 handbrake"
-price: "Contact Seller"
+price: Contact Seller
 priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "https://spinifexcaravans.com.au/range/nomadix/"

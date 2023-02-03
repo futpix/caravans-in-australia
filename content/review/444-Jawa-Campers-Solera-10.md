@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "DO35 Off-Road Coupling"
-price: "50500"
+price: 50500
 priceRangeMin: "50500"
 priceRangeMax: "50500"
 urlLink: "https://www.jawacampers.com.au/hybrids-camper-trailers/trax-10-solera/"

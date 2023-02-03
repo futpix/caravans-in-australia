@@ -36,7 +36,7 @@ airCon: "Option"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "3.5 tonne Uniglide McHitch"
-price: "45990"
+price: 45990
 priceRangeMin: "45990"
 priceRangeMax: "45990"
 urlLink: "https://marscampers.com.au/camper-trailers/saturn-13/"

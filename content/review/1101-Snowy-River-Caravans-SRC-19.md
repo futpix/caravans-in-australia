@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Full height"
 towHitch: ""
-price: "63490"
+price: 63490
 priceRangeMin: "63490"
 priceRangeMax: "63490"
 urlLink: "https://snowyrivercaravans.com.au/caravan/src-nineteen/"

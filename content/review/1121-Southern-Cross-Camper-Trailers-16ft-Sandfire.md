@@ -37,7 +37,7 @@ hybrid: ""
 roofType: "Full height"
 towHitch: "3500kg ARK XO Extreme Off Road Hitch (360
 Degrees)"
-price: "74990"
+price: 74990
 priceRangeMin: "74990"
 priceRangeMax: "74990"
 urlLink: "https://www.sccampertrailers.com.au/fixed-roof-caravans/16ft-sandfire-fixed-roof-off-road-caravan"

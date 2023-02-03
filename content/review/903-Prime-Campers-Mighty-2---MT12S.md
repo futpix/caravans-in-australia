@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "McHitch 3500kg Rated Automatic Coupler"
-price: "49999"
+price: 49999
 priceRangeMin: "49999"
 priceRangeMax: "49999"
 urlLink: "https://primecampers.com.au/hybrid-caravan/mt12s/"

@@ -36,7 +36,7 @@ airCon: "Option"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "McHitch 3500kg Rated Automatic Coupler"
-price: "56499"
+price: 56499
 priceRangeMin: "56499"
 priceRangeMax: "56499"
 urlLink: "https://primecampers.com.au/hybrid-caravan/mt15e/"

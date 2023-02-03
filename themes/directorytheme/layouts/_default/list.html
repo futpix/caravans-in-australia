@@ -26,7 +26,7 @@
  
 			 
 
- {{- $sortedPages := .Pages.ByParam "price" }}
+ {{- $sortedPages := .Pages.ByParam "price"}}
  {{ $paginator := .Paginate $sortedPages }}
  {{- range .Paginator.Pages }}
  {{- partial "listing-template-tags.html" . -}}

@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: "Yes"
 roofType: "Full height"
 towHitch: "DO35 3500kg off road coupling"
-price: "159990"
+price: 159990
 priceRangeMin: "159990"
 priceRangeMax: "159990"
 urlLink: "https://rhinomaxcampers.com.au/lost-trak-hybrid-caravan/"

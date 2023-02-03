@@ -37,7 +37,7 @@ hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "3500kg ARK XO Extreme Off Road Hitch (360
 Degrees)"
-price: "51990"
+price: 51990
 priceRangeMin: "51990"
 priceRangeMax: "51990"
 urlLink: "https://www.sccampertrailers.com.au/hybrid-caravans/11ft-cruiser-hybrid-off-road-caravan-espresso"

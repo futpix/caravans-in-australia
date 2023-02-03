@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "DO35 Off-Road Coupling"
-price: "67000"
+price: 67000
 priceRangeMin: "67000"
 priceRangeMax: "67000"
 urlLink: "https://www.jawacampers.com.au/hybrids-camper-trailers/sirocco/"

@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "Cruisemaster™ DO35 hitch"
-price: "74990"
+price: 74990
 priceRangeMin: "74990"
 priceRangeMax: "74990"
 urlLink: "https://www.marketdirect.com.au/product/ausrv-xl15-4e-mkii-offroad-caravan/"

@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "Cruisemaster DO35 Hitch 3.5T"
-price: "55990"
+price: 55990
 priceRangeMin: "55990"
 priceRangeMax: "55990"
 urlLink: "https://emucampers.com.au/cars/xpedition/"

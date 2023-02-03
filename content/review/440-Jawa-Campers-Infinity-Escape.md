@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "DO35 Off-Road Coupling"
-price: "65500"
+price: 65500
 priceRangeMin: "65500"
 priceRangeMax: "65500"
 urlLink: "https://www.jawacampers.com.au/hybrids-camper-trailers/infinity-escape/"

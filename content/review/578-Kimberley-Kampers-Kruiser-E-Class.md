@@ -36,7 +36,7 @@ airCon: "Option"
 hybrid: ""
 roofType: "Full height"
 towHitch: "TREG off-road coupling"
-price: "105550"
+price: 105550
 priceRangeMin: "105550"
 priceRangeMax: "105550"
 urlLink: "https://kimberleykampers.com.au/luxury-off-road-caravans/kruiser-e-class/"

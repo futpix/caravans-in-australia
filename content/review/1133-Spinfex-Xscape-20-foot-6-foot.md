@@ -37,7 +37,7 @@ hybrid: ""
 roofType: "Full height"
 towHitch: "Cruisemaster DO35 off road coupling with ratchet
 handbrake"
-price: "117000"
+price: 117000
 priceRangeMin: "117000"
 priceRangeMax: "117000"
 urlLink: "https://spinifexcaravans.com.au/range/xscape/"

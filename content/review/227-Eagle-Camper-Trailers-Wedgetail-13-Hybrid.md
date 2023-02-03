@@ -36,7 +36,7 @@ airCon: "No"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "360 offroad coupling"
-price: "57800"
+price: 57800
 priceRangeMin: "57800"
 priceRangeMax: "57800"
 urlLink: "https://www.eaglecampertrailers.com.au/off-road-caravans/eagle-wedgetail-13-hybrid-caravan/"

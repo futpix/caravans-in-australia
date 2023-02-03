@@ -36,7 +36,7 @@ airCon: "Option"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "360 offroad coupling with double Australian mark safety chain"
-price: "43750"
+price: 43750
 priceRangeMin: "43750"
 priceRangeMax: "43750"
 urlLink: "https://www.eaglecampertrailers.com.au/off-road-caravans/warrior-10-off-road-bunk-hybrid"

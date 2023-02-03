@@ -36,7 +36,7 @@ airCon: "Option"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "Cruisemaster™ DO35 hitch"
-price: "54990"
+price: 54990
 priceRangeMin: "54990"
 priceRangeMax: "54990"
 urlLink: "https://www.marketdirect.com.au/product/mdc-xt12e-electric-opening-offroad-caravan/"

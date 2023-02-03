@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Retractable roof"
 towHitch: ""
-price: "Contact Seller"
+price: Contact Seller
 priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "http://www.altocaravans.com.au/caravan_R1713"

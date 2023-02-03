@@ -36,7 +36,7 @@ airCon: ""
 hybrid: ""
 roofType: "Full height"
 towHitch: ""
-price: "45990"
+price: 45990
 priceRangeMin: "45990"
 priceRangeMax: "45990"
 urlLink: "https://www.silversuncaravans.com.au/our-range/neptune/"

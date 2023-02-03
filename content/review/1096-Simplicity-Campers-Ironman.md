@@ -36,7 +36,7 @@ airCon: "Option"
 hybrid: ""
 roofType: "Pop top"
 towHitch: "DO35"
-price: "Contact Seller"
+price: Contact Seller
 priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
 urlLink: "https://simplicitycampers.com.au/extreme-offroad-hybrid-camper/"

@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Full height"
 towHitch: "DO35"
-price: "144990"
+price: 144990
 priceRangeMin: "144990"
 priceRangeMax: "144990"
 urlLink: "https://sunlandcaravans.com.au/Blue-Heeler-MY19-Off-Road-Caravan"

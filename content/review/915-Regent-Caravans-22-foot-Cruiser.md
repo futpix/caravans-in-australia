@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Full height"
 towHitch: ""
-price: "87490"
+price: 87490
 priceRangeMin: "87490"
 priceRangeMax: "87490"
 urlLink: "https://regentcaravans.com.au/caravan/rcc220/"

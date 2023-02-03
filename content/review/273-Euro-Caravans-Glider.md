@@ -36,7 +36,7 @@ airCon: "Option"
 hybrid: ""
 roofType: "Full height"
 towHitch: ""
-price: "34900"
+price: 34900
 priceRangeMin: "34900"
 priceRangeMax: "34900"
 urlLink: "https://www.euro-caravans.com.au/caravan/glider-double-bed-with-bathroom-caravan/"

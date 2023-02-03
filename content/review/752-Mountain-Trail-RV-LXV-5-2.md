@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Full height"
 towHitch: "3500kg off road tow hitch with hand brake"
-price: "159990"
+price: 159990
 priceRangeMin: "159990"
 priceRangeMax: "159990"
 urlLink: "https://mountaintrailrv.com.au/lxv-52"

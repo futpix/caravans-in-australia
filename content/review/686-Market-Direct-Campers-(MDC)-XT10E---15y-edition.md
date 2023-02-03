@@ -36,7 +36,7 @@ airCon: "Option"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "Cruisemaster™ DO35 hitch"
-price: "57490"
+price: 57490
 priceRangeMin: "57490"
 priceRangeMax: "57490"
 urlLink: "https://www.marketdirect.com.au/product/xt10e-15yam/"

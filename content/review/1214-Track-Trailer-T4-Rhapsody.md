@@ -36,7 +36,7 @@ airCon: "No"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "Cruisemaster® DO35 – 3.5 tonne off road coupling"
-price: "161070"
+price: 161070
 priceRangeMin: "161070"
 priceRangeMax: "161070"
 urlLink: "https://www.tracktrailer.com.au/t4-hybrid/"

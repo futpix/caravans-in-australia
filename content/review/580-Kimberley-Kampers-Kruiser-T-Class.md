@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Full height"
 towHitch: "TREG off-road coupling"
-price: "206855"
+price: 206855
 priceRangeMin: "206855"
 priceRangeMax: "206855"
 urlLink: "https://kimberleykampers.com.au/luxury-off-road-caravans/kruiser-t-class/"

@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Full height"
 towHitch: ""
-price: "55490"
+price: 55490
 priceRangeMin: "55490"
 priceRangeMax: "55490"
 urlLink: "https://snowyrivercaravans.com.au/caravan/src-seventeen/"

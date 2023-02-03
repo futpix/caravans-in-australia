@@ -37,7 +37,7 @@ hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "3500kg ARK XO Extreme Off Road Hitch (360
 Degrees)"
-price: "65990"
+price: 65990
 priceRangeMin: "65990"
 priceRangeMax: "65990"
 urlLink: "https://www.sccampertrailers.com.au/hybrid-caravans/15ft-club-off-road-hybrid-caravan"

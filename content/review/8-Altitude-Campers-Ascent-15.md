@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "DO35 Off-Road Coupling"
-price: "58990"
+price: 58990
 priceRangeMin: "58990"
 priceRangeMax: "58990"
 urlLink: "https://altitudecampers.com.au/ascent-15-camper-van/"

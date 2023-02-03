@@ -36,7 +36,7 @@ airCon: "Option"
 hybrid: ""
 roofType: "Folding roof"
 towHitch: ""
-price: "63800"
+price: 63800
 priceRangeMin: "63800"
 priceRangeMax: "63800"
 urlLink: "http://www.ecotourer.com.au/510hybrid.html"

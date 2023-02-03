@@ -36,7 +36,7 @@ airCon: "Option"
 hybrid: ""
 roofType: "Full height"
 towHitch: "DO35 rated 3500kg"
-price: "133900"
+price: 133900
 priceRangeMin: "133900"
 priceRangeMax: "133900"
 urlLink: "https://australianoffroad.com.au/listings/matrix/"

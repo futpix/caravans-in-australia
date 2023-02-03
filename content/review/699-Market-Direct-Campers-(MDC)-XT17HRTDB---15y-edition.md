@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: "Yes"
 roofType: "Full height"
 towHitch: "Cruisemaster™ DO35 hitch"
-price: "89990"
+price: 89990
 priceRangeMin: "89990"
 priceRangeMax: "89990"
 urlLink: "https://www.marketdirect.com.au/product/xt17hrtdb-15yr-edition/"

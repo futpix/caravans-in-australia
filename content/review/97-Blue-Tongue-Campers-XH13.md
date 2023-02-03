@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "ALKO 3500kg off-road coupling"
-price: "49990"
+price: 49990
 priceRangeMin: "49990"
 priceRangeMax: "49990"
 urlLink: "https://bluetonguecampers.com.au/product/hybrid-caravan-xh13-2/"

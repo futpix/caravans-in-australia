@@ -36,7 +36,7 @@ airCon: "Option"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "TREG off-road coupling"
-price: "104250"
+price: 104250
 priceRangeMin: "104250"
 priceRangeMax: "104250"
 urlLink: "https://kimberleykampers.com.au/hybrid-caravans/"

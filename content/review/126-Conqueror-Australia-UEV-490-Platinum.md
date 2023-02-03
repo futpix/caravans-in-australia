@@ -36,7 +36,7 @@ airCon: "No"
 hybrid: "Yes"
 roofType: "Pop up"
 towHitch: "D035 V3 Off road hitch"
-price: "74990"
+price: 74990
 priceRangeMin: "74990"
 priceRangeMax: "74990"
 urlLink: "https://www.conqueroraustralia.com.au/uev-490-platinum/"

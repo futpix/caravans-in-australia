@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Full height"
 towHitch: "Cruismaster DO35 off road hitch"
-price: "89990"
+price: 89990
 priceRangeMin: "89990"
 priceRangeMax: "89990"
 urlLink: "https://modcon.com.au/cruiser-19-off-road-caravan"

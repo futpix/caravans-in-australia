@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Full height"
 towHitch: "DO35"
-price: "184990"
+price: 184990
 priceRangeMin: "184990"
 priceRangeMax: "184990"
 urlLink: "https://sunlandcaravans.com.au/Phoenix-MY19-Off-Road-Caravan"

@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: " Hitchmaster DO35 V2-1 with car attachment"
-price: "56990"
+price: 56990
 priceRangeMin: "56990"
 priceRangeMax: "56990"
 urlLink: "https://blackseriescampertrailers.com.au/hybrids/classic15.html"

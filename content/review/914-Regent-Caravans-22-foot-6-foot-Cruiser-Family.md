@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Full height"
 towHitch: ""
-price: "90490"
+price: 90490
 priceRangeMin: "90490"
 priceRangeMax: "90490"
 urlLink: "https://regentcaravans.com.au/models/226-cruiser-rcc226f/"

@@ -37,7 +37,7 @@ airCon: "Yes"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "DO35 Off-Road Coupling"
-price: "57000"
+price: 57000
 priceRangeMin: "57000"
 priceRangeMax: "57000"
 urlLink: "https://www.jawacampers.com.au/hybrids-camper-trailers/trax-15-solid-back-dinette/"

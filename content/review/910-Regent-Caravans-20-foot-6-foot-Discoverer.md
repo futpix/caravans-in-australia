@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Full height"
 towHitch: ""
-price: "74990"
+price: 74990
 priceRangeMin: "74990"
 priceRangeMax: "74990"
 urlLink: "https://regentcaravans.com.au/caravan/rdc206/"

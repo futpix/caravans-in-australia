@@ -36,7 +36,7 @@ airCon: "Option"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "McHitch 360 degree trailer coupling"
-price: "100000"
+price: 100000
 priceRangeMin: "100000"
 priceRangeMax: "100000"
 urlLink: "https://www.offroadrvs.com.au/x15-offroad-camper-hybrid/"

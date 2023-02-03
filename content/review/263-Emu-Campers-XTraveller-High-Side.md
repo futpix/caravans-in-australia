@@ -36,7 +36,7 @@ airCon: "Option"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "Cruisemaster DO35 Hitch 3.5T"
-price: "41990"
+price: 41990
 priceRangeMin: "41990"
 priceRangeMax: "41990"
 urlLink: "https://emucampers.com.au/cars/xtravellerhighside/"

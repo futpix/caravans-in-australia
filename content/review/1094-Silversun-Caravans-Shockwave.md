@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Full height"
 towHitch: "AL-KO off- road tow hitch"
-price: "74990"
+price: 74990
 priceRangeMin: "74990"
 priceRangeMax: "74990"
 urlLink: "https://www.silversuncaravans.com.au/our-range/shockwave/"

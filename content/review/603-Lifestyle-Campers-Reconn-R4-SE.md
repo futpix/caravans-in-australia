@@ -36,7 +36,7 @@ airCon: ""
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "DO35 Off-Road Hitch"
-price: "97450"
+price: 97450
 priceRangeMin: "97450"
 priceRangeMax: "97450"
 urlLink: "https://www.lifestylecampers.com.au/our-range/reconn-r4-se/"

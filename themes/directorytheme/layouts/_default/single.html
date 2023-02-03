@@ -22,15 +22,15 @@
  				<h2 class="articleHeader">{{ .Title }}</h2>
  				<div class="row">
  					<div class="col-sm-12">{{ range .Params.tags | first 1 }}
- 						<strong>  
- 						<a href="/tags/{{ . | urlize }}/" class="">{{ . }}</a> 
+ 						Topic: <strong>  
+ 						{{ . }}
  						</strong>
  						 {{ end }}
  					</div>
  					<div class="col-sm-12">
- 						<span class="blogAuthor">beachesinaustralia.com</a></span>
+ 						<span class="blogAuthor">Written by Caravans In Australia team</a></span>
  					</div>
- 					<div class="col-sm-12 tagsBlog">
+ 					<div class="col-sm-12 tagsBlog d-none">
  						{{ range .Params.tags }}
  						<a href="/tags/{{ . | urlize }}/" class="btn btn-outline-dark">#{{ . }}</a> 
  						{{ end }}

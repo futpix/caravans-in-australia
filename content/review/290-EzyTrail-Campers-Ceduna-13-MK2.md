@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Full height"
 towHitch: "3.5 Tonne Alko Off Road Hitch"
-price: "61990"
+price: 61990
 priceRangeMin: "61990"
 priceRangeMax: "61990"
 urlLink: "https://www.ezytrailcampertrailers.com.au/product/ceduna-13-mk2/"

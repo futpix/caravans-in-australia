@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Full height"
 towHitch: ""
-price: "71990"
+price: 71990
 priceRangeMin: "71990"
 priceRangeMax: "71990"
 urlLink: "https://snowyrivercaravans.com.au/caravan/src-twenty-one-s/"

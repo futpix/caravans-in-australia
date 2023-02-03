@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "ALKO 3500kg off-road coupling"
-price: "52990"
+price: 52990
 priceRangeMin: "52990"
 priceRangeMax: "52990"
 urlLink: "https://bluetonguecampers.com.au/product/hybrid-caravan-xh15/"

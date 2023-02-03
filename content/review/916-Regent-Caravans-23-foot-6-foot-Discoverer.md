@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Full height"
 towHitch: ""
-price: "80990"
+price: 80990
 priceRangeMin: "80990"
 priceRangeMax: "80990"
 urlLink: "https://regentcaravans.com.au/caravan/rdc236/"

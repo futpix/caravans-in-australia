@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Pop top"
 towHitch: ""
-price: "63490"
+price: 63490
 priceRangeMin: "63490"
 priceRangeMax: "63490"
 urlLink: "https://www.jayco.com.au/range/pop-tops/expanda-pop-top"

@@ -36,7 +36,7 @@ airCon: "Option"
 hybrid: "Yes"
 roofType: "Pop top"
 towHitch: "DO35 3500kg off road coupling"
-price: "99990"
+price: 99990
 priceRangeMin: "99990"
 priceRangeMax: "99990"
 urlLink: "https://rhinomaxcampers.com.au/discovery-mk2-hybrid/"

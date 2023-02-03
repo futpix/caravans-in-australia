@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: "Yes"
 roofType: "Full height"
 towHitch: "Offroad coupling"
-price: "209900"
+price: 209900
 priceRangeMin: "209900"
 priceRangeMax: "209900"
 urlLink: "https://bruderx.com/exp-6/"

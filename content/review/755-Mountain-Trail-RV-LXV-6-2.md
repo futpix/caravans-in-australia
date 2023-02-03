@@ -36,7 +36,7 @@ airCon: "Yes"
 hybrid: ""
 roofType: "Full height"
 towHitch: "3500kg off road tow hitch with hand brake"
-price: "184990"
+price: 184990
 priceRangeMin: "184990"
 priceRangeMax: "184990"
 urlLink: "https://mountaintrailrv.com.au/lxv-62-tandem"
