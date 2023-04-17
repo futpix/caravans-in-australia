@@ -28,8 +28,15 @@
  						 {{ end }}
  					</div>
  					<div class="col-sm-12">
- 						<span class="blogAuthor">Written by Caravans In Australia team</a></span>
+ 						<span class="blogAuthor">Recommended reading</a></span>
+						
  					</div>
+
+					 <div class="col-sm-12 tagsBlog">
+						<a href="/blog" class="btn btn-outline-dark">Back to Blog</a>
+					</div>
+
+					
  					<div class="col-sm-12 tagsBlog d-none">
  						{{ range .Params.tags }}
  						<a href="/tags/{{ . | urlize }}/" class="btn btn-outline-dark">#{{ . }}</a> 
@@ -48,6 +55,15 @@
  					<div class="articleFeatureImage">
  						<img src="/images/places/spinner ({{ .Params.id }}).jpg" class="img-fluid" height="800" width="800" alt="Article Image" />
  					</div>
+					<div class="col-sm-12">
+						{{ if .Params.tableOfContents }}
+						<div class="blogIntroIndex"> 
+						  <h5>In this section:</h5>
+						  {{ .TableOfContents }}
+						</div>
+						{{ end }}
+					</div>
+
  					{{ .Content }}
  						<!-- THIS PUTS A SEE ALSO LINK AFTER EVERY 2nd H2 IN POST-->
  					{{ $var := .Params.seealsolinks }}

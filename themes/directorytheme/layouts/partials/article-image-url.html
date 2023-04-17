@@ -1,0 +1,4 @@
+{{ $pagePermalink := .Permalink }} {{- range $index, $value := where
+.Site.RegularPages.ByDate "Section" "blog" -}} {{- if eq $value.Permalink
+$pagePermalink -}} /images/places/spinner {{ printf "%03d" (add $index 1) }}.jpg
+{{- end -}} {{- end -}}

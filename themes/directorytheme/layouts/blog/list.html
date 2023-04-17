@@ -1,38 +1,59 @@
- {{ define "main" }}
- {{- partial "navCategories.html" . -}}
-
- {{- partial "navFilter.html" . -}}
-
+{{ define "main" }} {{- partial "navCategories.html" . -}} {{- partial
+"navFilter.html" . -}}
 
 <div class="clearfix"></div>
 <div class="container">
-	<div class="" style="">
-		{{- partial "1-col-blog-image-feat" . -}}
-	</div>
+  <div class="d-none" style="">{{- partial "1-col-blog-image-feat" . -}}</div>
 
+  <div class="container-fluid mt-5">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8">
+          <div class="row">
+            <div class="col-sm-6">{{- partial "1-col-blog-thumb-hot" . -}}</div>
+            <div class="col-sm-6">
+              {{- partial "1-col-blog-thumb-pink" . -}}
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class="col-sm-12">
+            {{- partial "blog-list-text-vert-blog-home" . -}}
+          </div>
+        </div>
+      </div>
+    </div>
 
+    <div class="container threeBlogGrid">
+      <div class="row">
+        {{ range shuffle (where .Site.RegularPages "Section" "blog" | first 300
+        )}}
+        <div class="col-xs-12 col-lg-4">
+          <!-- IMAGE SVG TEXT ELEMENT -->
+          <div class="col-sm-12">
+            <div class="blockImageTextSvg">
+              <div class="blockImageSvgWrapID-White">
+                <span class="dateLineFeatured" style="display: none"
+                  >{{ .Date.Format "2" }}{{ if in (slice 1 21 31)
+                  .Date.Day}}st{{ else if in (slice 2 22) .Date.Day}}nd{{ else
+                  if in (slice 3 23) .Date.Day}}rd{{ else }}th{{ end }} {{
+                  .Date.Format "January, 2006" }}</span
+                >
+                <h5>
+                  <a href="{{ .RelPermalink }}" class="text-dark"
+                    >{{ .Title }}</a
+                  >
+                </h5>
+              </div>
+            </div>
+          </div>
+          <!-- IMAGE END -->
+        </div>
+        {{ end }}
+      </div>
+    </div>
 
-		<div class="row">
-			<div class="col-lg-8 offset-lg-2">
-				<div class="row">
-					<div class="col-sm-6">
-						{{- partial "1-col-blog-thumb-hot" . -}}
-					</div>
-					<div class="col-sm-6">
-						{{- partial "1-col-blog-thumb-pink" . -}}
-					</div>
-				</div> 
-			</div>
-			<div class="col-lg-4 d-none">
-				<div class="col-sm-12">
-					{{- partial "blog-list-text-vert-blog-home" . -}}
-				</div>
-			</div>
-		</div>
-			{{- partial "hp-tickboxes.html" . -}}
-	</div>
-
-
+    {{- partial "hp-tickboxes.html" . -}}
+  </div>
 </div>
 {{ end }}
-
