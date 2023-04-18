@@ -1,81 +1,1134 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Best Beaches In Australia</title>
-    <link>https://beachesinaustralia.com/categories/</link>
-    <description>Recent content in Categories on Best Beaches In Australia</description>
+    <title>Categories on Best Caravans In Australia</title>
+    <link>https://caravansinaustralia.com/categories/</link>
+    <description>Recent content in Categories on Best Caravans In Australia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://beachesinaustralia.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://caravansinaustralia.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Latest</title>
-      <link>https://beachesinaustralia.com/categories/latest/</link>
-      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+      <link>https://caravansinaustralia.com/categories/latest/</link>
+      <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://beachesinaustralia.com/categories/latest/</guid>
+      <guid>https://caravansinaustralia.com/categories/latest/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>NSW</title>
-      <link>https://beachesinaustralia.com/categories/nsw/</link>
-      <pubDate>Wed, 10 Nov 2021 22:00:09 +1100</pubDate>
+      <title>Adria</title>
+      <link>https://caravansinaustralia.com/categories/adria/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
       
-      <guid>https://beachesinaustralia.com/categories/nsw/</guid>
+      <guid>https://caravansinaustralia.com/categories/adria/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>NT</title>
-      <link>https://beachesinaustralia.com/categories/nt/</link>
-      <pubDate>Wed, 10 Nov 2021 22:00:09 +1100</pubDate>
+      <title>Adventura Caravans</title>
+      <link>https://caravansinaustralia.com/categories/adventura-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
       
-      <guid>https://beachesinaustralia.com/categories/nt/</guid>
+      <guid>https://caravansinaustralia.com/categories/adventura-caravans/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>QLD</title>
-      <link>https://beachesinaustralia.com/categories/qld/</link>
-      <pubDate>Wed, 10 Nov 2021 22:00:09 +1100</pubDate>
+      <title>Altitude Campers</title>
+      <link>https://caravansinaustralia.com/categories/altitude-campers/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
       
-      <guid>https://beachesinaustralia.com/categories/qld/</guid>
+      <guid>https://caravansinaustralia.com/categories/altitude-campers/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>SA</title>
-      <link>https://beachesinaustralia.com/categories/sa/</link>
-      <pubDate>Wed, 10 Nov 2021 22:00:09 +1100</pubDate>
+      <title>Alto Caravans</title>
+      <link>https://caravansinaustralia.com/categories/alto-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
       
-      <guid>https://beachesinaustralia.com/categories/sa/</guid>
+      <guid>https://caravansinaustralia.com/categories/alto-caravans/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>TAS</title>
-      <link>https://beachesinaustralia.com/categories/tas/</link>
-      <pubDate>Wed, 10 Nov 2021 22:00:09 +1100</pubDate>
+      <title>Atlantic Caravans</title>
+      <link>https://caravansinaustralia.com/categories/atlantic-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
       
-      <guid>https://beachesinaustralia.com/categories/tas/</guid>
+      <guid>https://caravansinaustralia.com/categories/atlantic-caravans/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>VIC</title>
-      <link>https://beachesinaustralia.com/categories/vic/</link>
-      <pubDate>Wed, 10 Nov 2021 22:00:09 +1100</pubDate>
+      <title>Aussie Wide Caravans</title>
+      <link>https://caravansinaustralia.com/categories/aussie-wide-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
       
-      <guid>https://beachesinaustralia.com/categories/vic/</guid>
+      <guid>https://caravansinaustralia.com/categories/aussie-wide-caravans/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>WA</title>
-      <link>https://beachesinaustralia.com/categories/wa/</link>
-      <pubDate>Wed, 10 Nov 2021 22:00:09 +1100</pubDate>
+      <title>Austrak Campers</title>
+      <link>https://caravansinaustralia.com/categories/austrak-campers/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
       
-      <guid>https://beachesinaustralia.com/categories/wa/</guid>
+      <guid>https://caravansinaustralia.com/categories/austrak-campers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Australian Off Road (AOR)</title>
+      <link>https://caravansinaustralia.com/categories/australian-off-road-aor/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/australian-off-road-aor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Avan</title>
+      <link>https://caravansinaustralia.com/categories/avan/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/avan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Avida RV</title>
+      <link>https://caravansinaustralia.com/categories/avida-rv/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/avida-rv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Black Series</title>
+      <link>https://caravansinaustralia.com/categories/black-series/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/black-series/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blue Sky Caravans</title>
+      <link>https://caravansinaustralia.com/categories/blue-sky-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/blue-sky-caravans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blue Tongue Campers</title>
+      <link>https://caravansinaustralia.com/categories/blue-tongue-campers/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/blue-tongue-campers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bruder</title>
+      <link>https://caravansinaustralia.com/categories/bruder/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/bruder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bushranger Campers</title>
+      <link>https://caravansinaustralia.com/categories/bushranger-campers/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/bushranger-campers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bushtracker</title>
+      <link>https://caravansinaustralia.com/categories/bushtracker/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/bushtracker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Capstone Caravans</title>
+      <link>https://caravansinaustralia.com/categories/capstone-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/capstone-caravans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Complete Campsite</title>
+      <link>https://caravansinaustralia.com/categories/complete-campsite/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/complete-campsite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concept Caravans</title>
+      <link>https://caravansinaustralia.com/categories/concept-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/concept-caravans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conqueror Australia</title>
+      <link>https://caravansinaustralia.com/categories/conqueror-australia/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/conqueror-australia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coromal</title>
+      <link>https://caravansinaustralia.com/categories/coromal/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/coromal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cosy Cab Caravans</title>
+      <link>https://caravansinaustralia.com/categories/cosy-cab-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/cosy-cab-caravans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crusader Caravans</title>
+      <link>https://caravansinaustralia.com/categories/crusader-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/crusader-caravans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cub Campers</title>
+      <link>https://caravansinaustralia.com/categories/cub-campers/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/cub-campers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design RV</title>
+      <link>https://caravansinaustralia.com/categories/design-rv/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/design-rv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Domain Caravans</title>
+      <link>https://caravansinaustralia.com/categories/domain-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/domain-caravans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eagle Camper Trailers</title>
+      <link>https://caravansinaustralia.com/categories/eagle-camper-trailers/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/eagle-camper-trailers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eco Tourer</title>
+      <link>https://caravansinaustralia.com/categories/eco-tourer/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/eco-tourer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elross Caravans</title>
+      <link>https://caravansinaustralia.com/categories/elross-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/elross-caravans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emu Campers</title>
+      <link>https://caravansinaustralia.com/categories/emu-campers/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/emu-campers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Essential Caravans</title>
+      <link>https://caravansinaustralia.com/categories/essential-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/essential-caravans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Euro Caravans</title>
+      <link>https://caravansinaustralia.com/categories/euro-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/euro-caravans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evernew Caravans</title>
+      <link>https://caravansinaustralia.com/categories/evernew-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/evernew-caravans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolution Caravans</title>
+      <link>https://caravansinaustralia.com/categories/evolution-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/evolution-caravans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EzyTrail Campers</title>
+      <link>https://caravansinaustralia.com/categories/ezytrail-campers/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/ezytrail-campers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fantasy Caravan</title>
+      <link>https://caravansinaustralia.com/categories/fantasy-caravan/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/fantasy-caravan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Far Horizon Campers</title>
+      <link>https://caravansinaustralia.com/categories/far-horizon-campers/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/far-horizon-campers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Franklin Caravans</title>
+      <link>https://caravansinaustralia.com/categories/franklin-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/franklin-caravans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Goldstream RV</title>
+      <link>https://caravansinaustralia.com/categories/goldstream-rv/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/goldstream-rv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Goldy Caravans</title>
+      <link>https://caravansinaustralia.com/categories/goldy-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/goldy-caravans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Golf Caravans</title>
+      <link>https://caravansinaustralia.com/categories/golf-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/golf-caravans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Great Aussie Caravans</title>
+      <link>https://caravansinaustralia.com/categories/great-aussie-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/great-aussie-caravans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Harvok</title>
+      <link>https://caravansinaustralia.com/categories/harvok/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/harvok/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Highline Caravans</title>
+      <link>https://caravansinaustralia.com/categories/highline-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/highline-caravans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hilltop Caravans</title>
+      <link>https://caravansinaustralia.com/categories/hilltop-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/hilltop-caravans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iDeal RV</title>
+      <link>https://caravansinaustralia.com/categories/ideal-rv/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/ideal-rv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jawa Campers</title>
+      <link>https://caravansinaustralia.com/categories/jawa-campers/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/jawa-campers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jayco</title>
+      <link>https://caravansinaustralia.com/categories/jayco/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/jayco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JB Caravans</title>
+      <link>https://caravansinaustralia.com/categories/jb-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/jb-caravans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kedron</title>
+      <link>https://caravansinaustralia.com/categories/kedron/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/kedron/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kimberley Kampers</title>
+      <link>https://caravansinaustralia.com/categories/kimberley-kampers/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/kimberley-kampers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>La Vista Caravans</title>
+      <link>https://caravansinaustralia.com/categories/la-vista-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/la-vista-caravans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lagoon Caravan</title>
+      <link>https://caravansinaustralia.com/categories/lagoon-caravan/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/lagoon-caravan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lifestyle Campers</title>
+      <link>https://caravansinaustralia.com/categories/lifestyle-campers/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/lifestyle-campers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Little Gems Caravans</title>
+      <link>https://caravansinaustralia.com/categories/little-gems-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/little-gems-caravans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lotus Caravans</title>
+      <link>https://caravansinaustralia.com/categories/lotus-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/lotus-caravans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lumberjack Camper Trailers</title>
+      <link>https://caravansinaustralia.com/categories/lumberjack-camper-trailers/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/lumberjack-camper-trailers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lyfe RV</title>
+      <link>https://caravansinaustralia.com/categories/lyfe-rv/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/lyfe-rv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Majestic Caravans</title>
+      <link>https://caravansinaustralia.com/categories/majestic-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/majestic-caravans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Malibu Caravans</title>
+      <link>https://caravansinaustralia.com/categories/malibu-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/malibu-caravans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Market Direct Campers (MDC)</title>
+      <link>https://caravansinaustralia.com/categories/market-direct-campers-mdc/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/market-direct-campers-mdc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mars Campers</title>
+      <link>https://caravansinaustralia.com/categories/mars-campers/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/mars-campers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Masterpiece Caravans</title>
+      <link>https://caravansinaustralia.com/categories/masterpiece-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/masterpiece-caravans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maverick Campers</title>
+      <link>https://caravansinaustralia.com/categories/maverick-campers/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/maverick-campers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Millard Caravans</title>
+      <link>https://caravansinaustralia.com/categories/millard-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/millard-caravans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modcon Campers</title>
+      <link>https://caravansinaustralia.com/categories/modcon-campers/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/modcon-campers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Montana Caravans</title>
+      <link>https://caravansinaustralia.com/categories/montana-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/montana-caravans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mountain Trail RV</title>
+      <link>https://caravansinaustralia.com/categories/mountain-trail-rv/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/mountain-trail-rv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network RV Caravans</title>
+      <link>https://caravansinaustralia.com/categories/network-rv-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/network-rv-caravans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Newlands Caravans</title>
+      <link>https://caravansinaustralia.com/categories/newlands-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/newlands-caravans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NextGen</title>
+      <link>https://caravansinaustralia.com/categories/nextgen/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/nextgen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>North Coast Offroad RVs</title>
+      <link>https://caravansinaustralia.com/categories/north-coast-offroad-rvs/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/north-coast-offroad-rvs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nova Caravans</title>
+      <link>https://caravansinaustralia.com/categories/nova-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/nova-caravans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Offroad Hybrids</title>
+      <link>https://caravansinaustralia.com/categories/offroad-hybrids/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/offroad-hybrids/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Offroad RVs</title>
+      <link>https://caravansinaustralia.com/categories/offroad-rvs/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/offroad-rvs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Olympic Caravans</title>
+      <link>https://caravansinaustralia.com/categories/olympic-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/olympic-caravans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Move Caravans</title>
+      <link>https://caravansinaustralia.com/categories/on-the-move-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/on-the-move-caravans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opal Caravans</title>
+      <link>https://caravansinaustralia.com/categories/opal-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/opal-caravans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Option RV</title>
+      <link>https://caravansinaustralia.com/categories/option-rv/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/option-rv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opus Camper</title>
+      <link>https://caravansinaustralia.com/categories/opus-camper/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/opus-camper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Orca RV</title>
+      <link>https://caravansinaustralia.com/categories/orca-rv/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/orca-rv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paradise Luxury Motorhomes</title>
+      <link>https://caravansinaustralia.com/categories/paradise-luxury-motorhomes/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/paradise-luxury-motorhomes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paramount Caravans</title>
+      <link>https://caravansinaustralia.com/categories/paramount-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/paramount-caravans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pioneer Campers</title>
+      <link>https://caravansinaustralia.com/categories/pioneer-campers/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/pioneer-campers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prime Campers</title>
+      <link>https://caravansinaustralia.com/categories/prime-campers/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/prime-campers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regal Caravans</title>
+      <link>https://caravansinaustralia.com/categories/regal-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/regal-caravans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regent Caravans</title>
+      <link>https://caravansinaustralia.com/categories/regent-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/regent-caravans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retreat Caravans</title>
+      <link>https://caravansinaustralia.com/categories/retreat-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/retreat-caravans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RhinoMax Campers</title>
+      <link>https://caravansinaustralia.com/categories/rhinomax-campers/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/rhinomax-campers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>River Caravans</title>
+      <link>https://caravansinaustralia.com/categories/river-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/river-caravans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roadstar Caravans</title>
+      <link>https://caravansinaustralia.com/categories/roadstar-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/roadstar-caravans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roma Caravans</title>
+      <link>https://caravansinaustralia.com/categories/roma-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/roma-caravans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Royal Flair Caravans</title>
+      <link>https://caravansinaustralia.com/categories/royal-flair-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/royal-flair-caravans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Safari Caravans</title>
+      <link>https://caravansinaustralia.com/categories/safari-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/safari-caravans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Salute Caravans</title>
+      <link>https://caravansinaustralia.com/categories/salute-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/salute-caravans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seascape Caravans</title>
+      <link>https://caravansinaustralia.com/categories/seascape-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/seascape-caravans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Signature Camper Trailers</title>
+      <link>https://caravansinaustralia.com/categories/signature-camper-trailers/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/signature-camper-trailers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Silversun Caravans</title>
+      <link>https://caravansinaustralia.com/categories/silversun-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/silversun-caravans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simplicity Campers</title>
+      <link>https://caravansinaustralia.com/categories/simplicity-campers/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/simplicity-campers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Snowy River Caravans</title>
+      <link>https://caravansinaustralia.com/categories/snowy-river-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/snowy-river-caravans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Southern Cross Camper Trailers</title>
+      <link>https://caravansinaustralia.com/categories/southern-cross-camper-trailers/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/southern-cross-camper-trailers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spinfex</title>
+      <link>https://caravansinaustralia.com/categories/spinfex/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/spinfex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Star Vision</title>
+      <link>https://caravansinaustralia.com/categories/star-vision/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/star-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stoney Creek Campers</title>
+      <link>https://caravansinaustralia.com/categories/stoney-creek-campers/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/stoney-creek-campers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sunland Caravans</title>
+      <link>https://caravansinaustralia.com/categories/sunland-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/sunland-caravans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sunseeker Caravans</title>
+      <link>https://caravansinaustralia.com/categories/sunseeker-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/sunseeker-caravans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supreme Caravans</title>
+      <link>https://caravansinaustralia.com/categories/supreme-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/supreme-caravans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swag Camper Trailers</title>
+      <link>https://caravansinaustralia.com/categories/swag-camper-trailers/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/swag-camper-trailers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Little Caravan Company</title>
+      <link>https://caravansinaustralia.com/categories/the-little-caravan-company/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/the-little-caravan-company/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Track Trailer</title>
+      <link>https://caravansinaustralia.com/categories/track-trailer/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/track-trailer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trailblazers RV</title>
+      <link>https://caravansinaustralia.com/categories/trailblazers-rv/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/trailblazers-rv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Traveller Caravans</title>
+      <link>https://caravansinaustralia.com/categories/traveller-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/traveller-caravans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urban Caravans</title>
+      <link>https://caravansinaustralia.com/categories/urban-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/urban-caravans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vacationer Caravans</title>
+      <link>https://caravansinaustralia.com/categories/vacationer-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/vacationer-caravans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VanCruiser Caravans</title>
+      <link>https://caravansinaustralia.com/categories/vancruiser-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/vancruiser-caravans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vanglass RV</title>
+      <link>https://caravansinaustralia.com/categories/vanglass-rv/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/vanglass-rv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Victory Caravans</title>
+      <link>https://caravansinaustralia.com/categories/victory-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/victory-caravans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Viscount Caravans</title>
+      <link>https://caravansinaustralia.com/categories/viscount-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/viscount-caravans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vision RV</title>
+      <link>https://caravansinaustralia.com/categories/vision-rv/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/vision-rv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vista RV</title>
+      <link>https://caravansinaustralia.com/categories/vista-rv/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/vista-rv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Willow RV</title>
+      <link>https://caravansinaustralia.com/categories/willow-rv/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/willow-rv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windsor Caravans</title>
+      <link>https://caravansinaustralia.com/categories/windsor-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/windsor-caravans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>York Caravans</title>
+      <link>https://caravansinaustralia.com/categories/york-caravans/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/york-caravans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zone RV</title>
+      <link>https://caravansinaustralia.com/categories/zone-rv/</link>
+      <pubDate>Mon, 10 Oct 2022 22:00:09 +1100</pubDate>
+      
+      <guid>https://caravansinaustralia.com/categories/zone-rv/</guid>
       <description></description>
     </item>
     
