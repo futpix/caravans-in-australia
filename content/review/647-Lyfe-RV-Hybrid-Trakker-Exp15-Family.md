@@ -1,19 +1,28 @@
 ---
 id: "647"
-title: "Hybrid Trakker Exp15 Family"
-slug: "Lyfe-RV-Hybrid-Trakker-Exp15-Family"
+title: "Lyfe RV15f Hybrid"
+slug: "Lyfe-RV15f-Hybrid"
 draft: "false"
 author: "Sean"
 seealsolinks: "1"
 section: "review"
 date: "2022-10-10T22:00:09+11:00"
 meta:
-  title: "Should I buy Hybrid Trakker Exp15 Family by Lyfe RV?"
-  description: "The Lyfe RV Hybrid Trakker Exp15 Family is classed as Off Road, and sleeps 4 people. It is Australian made and comes in at 15 ft. It generally has Combined shower & toilet."
-  ogtitle: "Should I buy Hybrid Trakker Exp15 Family by Lyfe RV?"
-  ogdescription: "The Lyfe RV Hybrid Trakker Exp15 Family is classed as Off Road, and sleeps 4 people. It is Australian made and comes in at 15 ft. It generally has Combined shower & toilet."
+  title: "Should I buy Lyfe RV15f Hybrid by Lyfe RV?"
+  description: "The Lyfe RV Lyfe RV15f Hybrid  is classed as Off Road, and sleeps 4 people. It is Australian made and comes in at 15 ft. It generally has Combined shower & toilet."
+  ogtitle: "Should I buy Lyfe RV15f Hybrid by Lyfe RV?"
+  ogdescription: "The Lyfe RV Lyfe RV15f Hybrid  is classed as Off Road, and sleeps 4 people. It is Australian made and comes in at 15 ft. It generally has Combined shower & toilet."
 categories: ["Lyfe RV"]
-tags: ["Sleeps 4", "15 ft", "Off Road", "Combined shower & toilet", "Pop top", "Price Unknown", "Australian made"]
+tags:
+  [
+    "Sleeps 4",
+    "15 ft",
+    "Off Road",
+    "Combined shower & toilet",
+    "Pop top",
+    "Price Unknown",
+    "Australian made",
+  ]
 totalLength: "7.095"
 bodyLength: "4.705"
 totalHeight: "2.572"
@@ -39,7 +48,7 @@ towHitch: "DO-35 Hitchmaster V3 articulating hitch"
 price: Contact Seller
 priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
-urlLink: "https://lyferv.com/our-range/hybrid-trakker-exp15-family/"
+urlLink: "https://lyferv.com/our-range/lyfe-rv15f-hybrid/"
 aussieMade: "Australian made"
 noImage: "r"
 featured: "no"

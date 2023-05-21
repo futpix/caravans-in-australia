@@ -1,19 +1,28 @@
 ---
 id: "648"
-title: "Hybrid Trakker Exp17"
-slug: "Lyfe-RV-Hybrid-Trakker-Exp17"
+title: "Lyfe RV17 Hybrid"
+slug: "Lyfe-RV17-Hybrid"
 draft: "false"
 author: "Sean"
 seealsolinks: "1"
 section: "review"
 date: "2022-10-10T22:00:09+11:00"
 meta:
-  title: "Should I buy Hybrid Trakker Exp17 by Lyfe RV?"
-  description: "The Lyfe RV Hybrid Trakker Exp17 is classed as Off Road, and sleeps 2 people. It is Australian made and comes in at 18 ft. It generally has Combined shower & toilet."
-  ogtitle: "Should I buy Hybrid Trakker Exp17 by Lyfe RV?"
-  ogdescription: "The Lyfe RV Hybrid Trakker Exp17 is classed as Off Road, and sleeps 2 people. It is Australian made and comes in at 18 ft. It generally has Combined shower & toilet."
+  title: "Should I buy Lyfe RV17 Hybrid by Lyfe RV?"
+  description: "The Lyfe RV Lyfe RV17 Hybrid is classed as Off Road, and sleeps 2 people. It is Australian made and comes in at 18 ft. It generally has Combined shower & toilet."
+  ogtitle: "Should I buy Lyfe RV17 Hybrid by Lyfe RV?"
+  ogdescription: "The Lyfe RV Lyfe RV17 Hybrid is classed as Off Road, and sleeps 2 people. It is Australian made and comes in at 18 ft. It generally has Combined shower & toilet."
 categories: ["Lyfe RV"]
-tags: ["Sleeps 2", "18 ft", "Off Road", "Combined shower & toilet", "Pop top", "Price Unknown", "Australian made"]
+tags:
+  [
+    "Sleeps 2",
+    "18 ft",
+    "Off Road",
+    "Combined shower & toilet",
+    "Pop top",
+    "Price Unknown",
+    "Australian made",
+  ]
 totalLength: "8.013"
 bodyLength: "5.483"
 totalHeight: "2.748"
@@ -39,7 +48,7 @@ towHitch: "DO-35 Hitchmaster V3 articulating hitch"
 price: Contact Seller
 priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
-urlLink: "https://lyferv.com/our-range/hybrid-trakker-exp17/"
+urlLink: "https://lyferv.com/our-range/lyfe-rv17-hybrid/"
 aussieMade: "Australian made"
 noImage: ""
 featured: "no"

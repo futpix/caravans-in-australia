@@ -1,19 +1,28 @@
 ---
 id: "649"
-title: "Supa Trakker Exp19"
-slug: "Lyfe-RV-Supa-Trakker-Exp19"
+title: "Lyfe RV19 Off-Road"
+slug: "Lyfe-RV19-Off-Road"
 draft: "false"
 author: "Sean"
 seealsolinks: "1"
 section: "review"
 date: "2022-10-10T22:00:09+11:00"
 meta:
-  title: "Should I buy Supa Trakker Exp19 by Lyfe RV?"
-  description: "The Lyfe RV Supa Trakker Exp19 is classed as Off Road, and sleeps 2 people. It is Australian made and comes in at 19 ft. It generally has Combined shower & toilet."
-  ogtitle: "Should I buy Supa Trakker Exp19 by Lyfe RV?"
-  ogdescription: "The Lyfe RV Supa Trakker Exp19 is classed as Off Road, and sleeps 2 people. It is Australian made and comes in at 19 ft. It generally has Combined shower & toilet."
+  title: "Should I buy Lyfe RV19 Off-Road by Lyfe RV?"
+  description: "The Lyfe RV Lyfe RV19 Off-Road is classed as Off Road, and sleeps 2 people. It is Australian made and comes in at 19 ft. It generally has Combined shower & toilet."
+  ogtitle: "Should I buy Lyfe RV19 Off-Road by Lyfe RV?"
+  ogdescription: "The Lyfe RV Lyfe RV19 Off-Road is classed as Off Road, and sleeps 2 people. It is Australian made and comes in at 19 ft. It generally has Combined shower & toilet."
 categories: ["Lyfe RV"]
-tags: ["Sleeps 2", "19 ft", "Off Road", "Combined shower & toilet", "Full height", "Price Unknown", "Australian made"]
+tags:
+  [
+    "Sleeps 2",
+    "19 ft",
+    "Off Road",
+    "Combined shower & toilet",
+    "Full height",
+    "Price Unknown",
+    "Australian made",
+  ]
 totalLength: "7.795"
 bodyLength: "5.755"
 totalHeight: "2.948"
@@ -39,7 +48,7 @@ towHitch: "DO-35 Hitchmaster V3 articulating hitch"
 price: Contact Seller
 priceRangeMin: "Contact Seller"
 priceRangeMax: "Contact Seller"
-urlLink: "https://lyferv.com/our-range/supa-trakker-exp19/"
+urlLink: "https://lyferv.com/our-range/lyfe-rv19-off-road/"
 aussieMade: "Australian made"
 noImage: ""
 featured: "no"
