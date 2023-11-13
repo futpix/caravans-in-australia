@@ -101,14 +101,7 @@
 </p></div>
 
 
-				<div class="col-lg-6 d-none">
-					<span class="spanThree b-1">Popular addon</span>
-					<p class="introPara">People like to add on a <Strong>{{ range $.Site.Data.templates.amazon }}
-						{{ range . | shuffle | first 1 }}
-						{{- partial "product-template-textlink.html" . -}}
-						{{ end }}
-						{{ end }}</Strong> to a caravan like {{ .Title }}</em>.
-</p></div>
+
 
 
 
