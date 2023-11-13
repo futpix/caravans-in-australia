@@ -90,7 +90,7 @@
 					<a href="/tags/{{ . | urlize }}/" class="">Off Road</a></strong>{{ end }} 
 					and can sleep at <em>least {{ .Params.sleeps }} people</em>.
 </p></div>
-				<div class="col-lg-6">
+				<div class="col-lg-6 d-none">
 					<span class="spanThree b-1">Popular addon</span>
 					<p class="introPara">People like to add on a <Strong>{{ range $.Site.Data.templates.amazon }}
 						{{ range . | shuffle | first 1 }}
@@ -98,6 +98,9 @@
 						{{ end }}
 						{{ end }}</Strong> to a caravan like {{ .Title }}</em>.
 </p></div>
+
+
+
 
 			</div>
 			<hr />
