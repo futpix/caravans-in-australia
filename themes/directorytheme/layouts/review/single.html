@@ -94,7 +94,7 @@
 <div class="col-lg-6">
 	<span class="spanThree b-1">Value</span>
 	<p class="introPara">
-		<a href='{{ .Params.urlLink }}?referrer=caravansinaustralia-com-au' target="_blank">Click here</a> to find the best price on the market for a {{ .Title }} by {{ range .Params.categories | first 1 }}.
+		<a href='{{ .Params.urlLink }}?referrer=caravansinaustralia-com-au' target="_blank">Click here</a> to find the best price on the market for a {{ .Title }} by {{ range .Params.categories | first 1 }}{{ . }}{{ end }}.
 
 	</p>
 
