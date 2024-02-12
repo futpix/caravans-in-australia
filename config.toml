@@ -13,7 +13,7 @@ paginate =  15
 
 	[[menu.main]]
 		identifier = "Guide"
-		name = "2023 Caravan Guide"
+		name = "2024 Caravan Guide"
 		url = "/ultimate-caravan-guide/"
 		weight = 5
 	[[menu.main]]

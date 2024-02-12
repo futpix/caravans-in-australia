@@ -49,10 +49,6 @@ Like all products, the price range can vary significantly depending on what your
 
 Don't let that deter you though. You can make a strong ase that a Caravan actually **saves you money**. Plus, there are options for buying an older caravan and renovating it if you are handy enough. This can save you a fortune.
 
-### **New caravans**
-
-### **Used caravans**
-
 ## How Wide Are Caravans
 
 Caravans generally are built to a specification width of between 2 - 2.5 metres. They can vary depending on what brand, type and model you are looking at.
@@ -455,12 +451,6 @@ First things first, if you a buying it new, do not buy it unless it comes with a
 The main thing to look for when avoiding a lemon is mainly in the parts you can't see. This means the wiring and the plumbing. Nothing will frustrate you more than leaky plumbing or dodgey electrical work. This is often hard to identify until you have taken your van for a shake down (i.e a short trip where you test it out for a couple of nights).
 
 On top of that, you want the caravan to be structural sound and to have retained it's integrity. Cracks, loose fittings and rattle bits are not a good sign.
-
-## Worst Caravans in Australia
-
-## Best off Road Caravans in Australia
-
-## Lightweight Caravans in Australia
 
 ## Other popular questions
 
