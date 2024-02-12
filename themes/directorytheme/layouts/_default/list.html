@@ -20,13 +20,9 @@
 
 			<div class="col-lg-12 mt-4">
 				<div class="alert alert-primary p-4">
-				<span class="spanThree b-1">Recommended Addons</span>
-				<p class="introPara">Don't forget to visit our list of <Strong>{{ range $.Site.Data.templates.amazon }}
-					{{ range . | shuffle | first 1 }}
-					{{- partial "product-template-card.html" . -}}
-					{{ end }}
-					{{ end }}</Strong> to improve your caravan life.</em>.</p>
-					<a class="btn btn-info">Get Prices on Amazon</a>
+				<span class="spanThree b-1">Recommended Reading</span>
+				<p class="introPara">Don't forget to visit our list of <Strong>Caravan Guide</Strong> to improve your caravan life.</em>.</p>
+					<a class="btn btn-info" href="/ultimate-caravan-guide/">See Guide</a>
 					
 			</p>
 		  </div>

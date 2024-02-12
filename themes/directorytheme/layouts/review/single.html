@@ -92,13 +92,22 @@
 </p></div>
 
 <div class="col-lg-6">
+	<span class="spanThree b-1">Value</span>
+	<p class="introPara">
+		<a href='{{ .Params.urlLink }}?referrer=caravansinaustralia-com-au' target="_blank">Click here</a> to find the best price on the market for a {{ .Title }} by {{ range .Params.categories | first 1 }}.
+
+	</p>
+
+	<!--
 	<span class="spanThree b-1">Popular addons</span>
 	<p class="introPara">People like to add these recommended <Strong>{{ range $.Site.Data.templates.amazon }}
 		{{ range . | shuffle | first 1 }}
 		{{- partial "product-template-textlink.html" . -}}
 		{{ end }}
 		{{ end }}</Strong> to a caravan like {{ .Title }}</em>.
-</p></div>
+</p>
+-->
+</div>
 
 
 
@@ -349,11 +358,10 @@ display: block;
 
 </style>
 
-
-<h4 class="mt-5 text-center">Recommended Accessories</h4>
-
+<!--
+<h4 class="mt-5 text-center d-none">Recommended Accessories</h4>
 {{- partial "productx2-horiz.html" . -}}
-
+-->
 <h3 class="mt-5 mb-3">Is {{.Title }} a top ranked Caravan in Australia?</h3>
 
 <p>So, when it comes to comparing {{ .Title }} with the rest, is it in the
