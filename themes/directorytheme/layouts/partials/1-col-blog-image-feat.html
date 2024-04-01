@@ -1,33 +1,57 @@
- {{ $all := ($.Site.GetPage "section" .Section).Pages.ByPublishDate.Reverse }} {{ range first 1 $all }}
- <div class="container">
-   <div class="row hpFeature blogFeature">
-     <div class="col-lg-6 aos-item" data-aos="fade-up">
+{{ $all := ($.Site.GetPage "section" .Section).Pages.ByPublishDate.Reverse }} {{
+range first 1 $all }}
+<div class="container">
+  <div class="row hpFeature blogFeature">
+    <div class="col-lg-6 aos-item" data-aos="fade-up">
       <div class="d-none d-md-block d-lg-block">
         <br /><br />
-       <img src="/images/brandIcon.svg" class="brandIcon" width="45" height="45" alt="Brand Icon"  /><span class="iconTitle">
-
-         {{ range .Params.categories }}
-         <a href="/categories/{{ . | urlize }}/">{{ . }}</a> </span>
-         {{ end }}
-         <br /><br />
+        <img
+          src="/images/brandIcon.svg"
+          class="brandIcon"
+          width="45"
+          height="45"
+          alt="Brand Icon"
+          loading="lazy"
+        /><span class="iconTitle">
+          {{ range .Params.categories }}
+          <a href="/categories/{{ . | urlize }}/">{{ . }}</a>
+        </span>
+        {{ end }}
+        <br /><br />
+      </div>
+      <span class="dateLineFeatured"
+        >{{ .Date.Format "2" }}{{ if in (slice 1 21 31) .Date.Day}}st{{ else if
+        in (slice 2 22) .Date.Day}}nd{{ else if in (slice 3 23) .Date.Day}}rd{{
+        else }}th{{ end }} {{ .Date.Format "January, 2006" }}</span
+      >
+      <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+      <br />
+      <a href="{{ .RelPermalink }}" class="btn btn-lg btn-outline-light"
+        >Read on</a
+      >
+    </div>
+    <div class="col-lg-6 aos-item blogFeatImage" data-aos="fade-up">
+      <span class="badge badge-brand">Latest</span>
+      <!-- IMAGE SVG TEXT ELEMENT -->
+      <a href="{{ .RelPermalink }}" style="text-indent: -9999px">
+        <div
+          class="blockImageTextSvg"
+          style="
+            margin-top: 40px;
+            box-shadow: -27.1px 62.5px 125px -25px rgba(50, 50, 93, 0.5),
+              -16.2px 37.5px 75px -37.5px rgba(0, 0, 0, 0.6);
+            border-bottom: 5px solid #007ee5;
+          "
+        >
+          <div
+            class="blockImageSvgSize blockImageSvgID-2"
+            style="background-image: url('/images/places/spinner ({{ .Params.id }}).jpg'); -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+          filter: grayscale(100%);  "
+          ></div>
         </div>
-         <span class="dateLineFeatured">{{ .Date.Format "2" }}{{ if in (slice 1 21 31) .Date.Day}}st{{ else if in (slice 2 22) .Date.Day}}nd{{ else if in (slice 3 23) .Date.Day}}rd{{ else }}th{{ end }} {{ .Date.Format "January, 2006" }}</span>
-         <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-         <br />
-         <a href="{{ .RelPermalink }}" class="btn btn-lg btn-outline-light">Read on</a>
-       </div>
-       <div class="col-lg-6 aos-item blogFeatImage" data-aos="fade-up">
-        <span class="badge badge-brand">Latest</span>
-        <!-- IMAGE SVG TEXT ELEMENT -->
-        <a href="{{ .RelPermalink }}" style="text-indent: -9999px;">
-          <div class="blockImageTextSvg"  style="margin-top: 40px;
-          box-shadow: -27.1px 62.5px 125px -25px rgba(50,50,93,.5), -16.2px 37.5px 75px -37.5px rgba(0,0,0,.6); border-bottom: 5px solid #007ee5;">
-          <div class="blockImageSvgSize blockImageSvgID-2"  style="background-image: url('/images/places/spinner ({{ .Params.id }}).jpg'); -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
-          filter: grayscale(100%);  "></div>
-        </div>
-        
       </a>
-      <!-- IMAGE END -->     </div>
+      <!-- IMAGE END -->
     </div>
   </div>
-  {{ end }}
+</div>
+{{ end }}

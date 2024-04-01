@@ -1,36 +1,55 @@
+{{ range where .Site.RegularPages "Section" "ratings" | shuffle | after 6 |
+first 1 }}
 
- {{ range where .Site.RegularPages "Section" "ratings" | shuffle | after 6 | first 1 }}
-
- <div class="container">
-   <div class="row hpFeature blogFeature">
-     <div class="col-lg-6 aos-item" data-aos="fade-up">
+<div class="container">
+  <div class="row hpFeature blogFeature">
+    <div class="col-lg-6 aos-item" data-aos="fade-up">
       <div class="d-none d-md-block d-lg-block">
         <br /><br />
-       <img src="/images/brandIcon.svg" class="brandIcon" width="45" height="45" alt="Brand Icon"  /><span class="iconTitle">
+        <img
+          src="/images/brandIcon.svg"
+          class="brandIcon"
+          width="45"
+          height="45"
+          alt="Brand Icon"
+          loading="lazy"
+        /><span class="iconTitle">
+          {{ range .Params.categories }}
+          <a href="/categories/{{ . | urlize }}/">{{ . }}</a>
+        </span>
+        {{ end }}
+        <br /><br />
+      </div>
 
-         {{ range .Params.categories }}
-         <a href="/categories/{{ . | urlize }}/">{{ . }}</a> </span>
-         {{ end }}
-         <br /><br />
+      <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+      <br />
+      <a href="{{ .RelPermalink }}" class="btn btn-lg btn-outline-light"
+        >Read on</a
+      >
+    </div>
+    <div class="col-lg-6 aos-item blogFeatImage" data-aos="fade-up">
+      <span class="badge badge-brand">Popular</span>
+      <!-- IMAGE SVG TEXT ELEMENT -->
+      <a href="{{ .RelPermalink }}" style="text-indent: -9999px">
+        <div
+          class="blockImageTextSvg"
+          style="
+            margin-top: 40px;
+            box-shadow: -27.1px 62.5px 125px -25px rgba(50, 50, 93, 0.5),
+              -16.2px 37.5px 75px -37.5px rgba(0, 0, 0, 0.6);
+            border-bottom: 5px solid #007ee5;
+          "
+        >
+          <div
+            class="blockImageSvgSize blockImageSvgID-2"
+            style="background-image: url('/images/posts/spinner ({{.Params.id }}).jpg'); -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+          filter: grayscale(100%);  "
+          ></div>
         </div>
-       
-         <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-         <br />
-         <a href="{{ .RelPermalink }}" class="btn btn-lg btn-outline-light">Read on</a>
-       </div>
-       <div class="col-lg-6 aos-item blogFeatImage" data-aos="fade-up">
-        <span class="badge badge-brand">Popular</span>
-        <!-- IMAGE SVG TEXT ELEMENT -->
-        <a href="{{ .RelPermalink }}" style="text-indent: -9999px;">
-          <div class="blockImageTextSvg"  style="margin-top: 40px;
-          box-shadow: -27.1px 62.5px 125px -25px rgba(50,50,93,.5), -16.2px 37.5px 75px -37.5px rgba(0,0,0,.6); border-bottom: 5px solid #007ee5;">
-          <div class="blockImageSvgSize blockImageSvgID-2"  style="background-image: url('/images/posts/spinner ({{.Params.id }}).jpg'); -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
-          filter: grayscale(100%);  "></div>
-        </div>
-        
       </a>
-      <!-- IMAGE END -->     </div>
+      <!-- IMAGE END -->
     </div>
   </div>
+</div>
 
 {{ end }}

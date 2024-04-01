@@ -1,10 +1,20 @@
-
-<div class="aos-item aos-init aos-animate " data-aos="">
-	{{ range shuffle (where .Site.RegularPages "Section" "ratings") | first 3 }}
-	<a class="common-Link blogListSmallCard blogListSmallCardTop" href="{{ .RelPermalink }}" data-analytics-action="subscriptions" data-analytics-source="card_link">
-		<img src="/images/brandIcon.svg" class="brandIcon" width="60" height="60" alt="Brand Icon"  />
-		<h3 class="common-UppercaseText common-Link--arrow">{{ .Title }}</h3>
-	</a>  
-	{{ end }}
+<div class="aos-item aos-init aos-animate" data-aos="">
+  {{ range shuffle (where .Site.RegularPages "Section" "ratings") | first 3 }}
+  <a
+    class="common-Link blogListSmallCard blogListSmallCardTop"
+    href="{{ .RelPermalink }}"
+    data-analytics-action="subscriptions"
+    data-analytics-source="card_link"
+    loading="lazy"
+  >
+    <img
+      src="/images/brandIcon.svg"
+      class="brandIcon"
+      width="60"
+      height="60"
+      alt="Brand Icon"
+    />
+    <h3 class="common-UppercaseText common-Link--arrow">{{ .Title }}</h3>
+  </a>
+  {{ end }}
 </div>
-

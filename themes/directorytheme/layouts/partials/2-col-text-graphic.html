@@ -1,16 +1,19 @@
- <div class="">
-   <div class="row hpFeature">
-     <div class="col-lg-6 aos-item" data-aos="fade-up">
-       <h3 class="featureHeader">{{ .Params.introHeader | safeHTML }}</h3>
-       <p class="introPara">{{ .Params.introPara | safeHTML }}
-       </p>
-       {{ .Params.introParaSmaller | safeHTML }}
-       <p>
-        <hr />
-        <p><a class="btn btn-lg btn-outline-primary" href="{{ .Params.introLink }}">{{ .Params.introLinkText | safeHTML }}</a></p>
-      </div>
-      <div class="col-lg-6 aos-item" data-aos="fade-up">
-        <img src="{{ .Params.introImage }}" class="img-fluid" />
-      </div>  
+<div class="">
+  <div class="row hpFeature">
+    <div class="col-lg-6 aos-item" data-aos="fade-up">
+      <h3 class="featureHeader">{{ .Params.introHeader | safeHTML }}</h3>
+      <p class="introPara">{{ .Params.introPara | safeHTML }}</p>
+      {{ .Params.introParaSmaller | safeHTML }}
+      <p></p>
+      <hr />
+      <p>
+        <a class="btn btn-lg btn-outline-primary" href="{{ .Params.introLink }}"
+          >{{ .Params.introLinkText | safeHTML }}</a
+        >
+      </p>
+    </div>
+    <div class="col-lg-6 aos-item" data-aos="fade-up">
+      <img src="{{ .Params.introImage }}" class="img-fluid" loading="lazy" />
     </div>
   </div>
+</div>

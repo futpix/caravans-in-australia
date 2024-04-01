@@ -8,10 +8,10 @@
              
 
 				{{if eq .Params.noimage "r" }}
-				<img class="card-img" src="/images/caravans/listPlace.jpg" alt="{{ .Title }} Picture">
+				<img class="card-img" src="/images/caravans/listPlace.jpg" alt="{{ .Title }} Picture" loading="lazy">
 				{{else}}
 		
-                <img src="/images/caravans-400x300/{{ .Params.id }}.jpg" class="card-img" alt="{{ .Title }} Picture" />
+                <img src="/images/caravans-400x300/{{ .Params.id }}.jpg" class="card-img" alt="{{ .Title }} Picture" loading="lazy" />
 				
 					
 				{{ end }}
