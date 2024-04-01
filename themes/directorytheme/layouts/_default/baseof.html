@@ -49,7 +49,7 @@ body {visibility: visible;}
 
 <meta name="google-site-verification" content="55zpRTY_QkrDhM-SDx8sEG2Ag9Kc1hxFOeZ7ZxnQEOQ" />
 </head>
-<body id="{{ .Title }}{{ with .File }}{{ .TranslationBaseName }}{{ end }}" {{ with .Type }} class="{{ . }}" {{ end }}>
+<body {{ with .Type }} class="{{ . }}" {{ end }}>
 
   {{- partial "nav.html" . -}}
   {{- partial "shapes.html" . -}}
