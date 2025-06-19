@@ -3,7 +3,9 @@ languageCode = "en-us"
 title = "Best Caravans In Australia"
 theme = "directorytheme"
 publishdir = "public"
-paginate =  15
+
+[pagination]
+  pagerSize = 15
 
 [taxonomies]
     tag = "tags"

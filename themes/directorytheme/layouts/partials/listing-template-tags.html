@@ -26,7 +26,7 @@
                          <h5 class="mt-4"> {{if eq .Params.price "Contact Seller" }}
                             <Strong>Price on request</Strong>
                             {{else}}
-                            Approx: <strong>${{int .Params.price | lang.NumFmt 0 }}</strong>
+                            Approx: <strong>${{int .Params.price | lang 0 }}</strong>
                             {{end}}</h5>  
                         <p class="card-text">{{ range .Params.tags }}<span class="badge badge-small text-dark badge-light" href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">- {{ title (replace . "" "" | strings.FirstUpper)  }}</a></span>{{end}}</p>
                           

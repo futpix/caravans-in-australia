@@ -26,7 +26,7 @@
 						{{else}}
 
 
-						Approx Price: <strong> ${{.Params.price | lang.NumFmt 0 }}
+						Approx Price: <strong> ${{.Params.price | lang 0 }}
 
 							{{end}}
 									
@@ -98,15 +98,7 @@
 
 	</p>
 
-	<!--
-	<span class="spanThree b-1">Popular addons</span>
-	<p class="introPara">People like to add these recommended <Strong>{{ range $.Site.Data.templates.amazon }}
-		{{ range . | shuffle | first 1 }}
-		{{- partial "product-template-textlink.html" . -}}
-		{{ end }}
-		{{ end }}</Strong> to a caravan like {{ .Title }}</em>.
-</p>
--->
+
 </div>
 
 
