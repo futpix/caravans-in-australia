@@ -36,9 +36,9 @@ airCon: "Option"
 hybrid: ""
 roofType: "Folding roof"
 towHitch: ""
-price: Contact Seller
-priceRangeMin: "Contact Seller"
-priceRangeMax: "Contact Seller"
+price: 51999
+priceRangeMin: "51001"
+priceRangeMax: "52999"
 urlLink: "https://www.avan.com.au/our-range/campers/display/6-cruiseliner"
 aussieMade: "Made Overseas"
 noImage: ""

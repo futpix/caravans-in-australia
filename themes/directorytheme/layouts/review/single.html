@@ -26,7 +26,7 @@
 						{{else}}
 
 
-						Approx Price: <strong> ${{.Params.price | lang 0 }}
+						Approx Price: <strong> ${{.Params.price | lang.FormatNumber "0" }}
 
 							{{end}}
 									
