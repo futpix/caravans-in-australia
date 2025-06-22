@@ -1,6 +1,6 @@
 ---
 title: "How to Clean the Bathroom of an Australian Caravan"
-date: 15/6/2025
+date: 2025-06-20
 slug: "cleaning-caravan-bathroom-australia"
 draft: false
 description: "Discover effective tips and tricks for cleaning the bathroom in your Australian caravan to maintain hygiene and enhance your travel comfort."
