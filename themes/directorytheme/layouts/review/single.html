@@ -11,9 +11,9 @@
  <div class="container">
 	<div class="row">
 		<div class="col-md-4">
-			<div class="">
+			<div>
 				<h2 class="mt-5">{{ range .Params.categories | first 1 }}{{.}}{{end}} {{ .Title }}</h2>
-				<div class="mt-5">
+				<div class="mt-5 pr-lg-5">
  				
 					{{ range .Params.tags }}
 					<a href="/tags/{{ . | urlize }}/" class="badge badge-sm badge-white">{{ . }}</a> 
@@ -33,19 +33,117 @@
 						</strong>
 					</h5>
 
-							{{ range .Params.categories | first 1 }}
-							<span class="badge badge-secondary text-white pl-4 pb-2 pt-2 pr-4 mb-4 mt-0" style="font-size: 100%; font-weight: normal;">   
-							<a href="/categories/{{ . | urlize }}/" class="text-white">{{ . }}</a> 
-							</span>
-							 {{ end }}
-							 <a href='{{ .Params.urlLink }}?referrer=caravansinaustralia-com-au' class="badge badge-brand pl-4 pb-2 pt-2 pr-4 mb-4 mt-0" target="_blank">Check Price</a>
+				
+							 <a  data-toggle="modal" data-target="#leadModal" href="#" class="btn btn-info btn-lg mb-4 mt-0 w-100 text-bold py-3" style="font-size: 1em;">Get Pricing & Availability</a>
 							 <br /><br />
 							 <span class="mt-5 text-muted"><A href="#" onclick="history.back()">← Back to results</A></span><br /><br />
 					
 				</div>
+				
+<!-- Modal -->
+<div class="modal fade" id="leadModal" tabindex="-1" aria-labelledby="leadModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content shadow">
+      <div class="modal-header">
+        <h5 class="modal-title" id="leadModalLabel">Get More Info on This Caravan</h5>
+        <button type="button" class="btn-close d-none" data-bs-dismiss="modal" aria-label="Close">CLOSE</button>
+      </div>
+
+  <form id="leadForm">
+        <div class="modal-body">
+          <!-- Hidden Field for Caravan Model -->
+          <input type="hidden" name="caravan_model" value="{{ .Title }}">
+
+          <div class="mb-3">
+            <label for="name" class="form-label">Your Name</label>
+            <input type="text" class="form-control"  id="name" name="name" required>
+          </div>
+
+          <div class="mb-3"> 
+            <label for="email" class="form-label">Email Address</label>
+            <input type="email" class="form-control" name="email" required>
+          </div>
+
+          <div class="mb-3">
+            <label for="phone" class="form-label">Phone Number (optional)</label>
+            <input type="tel" class="form-control" name="phone">
+          </div>
+
+          <div class="mb-3">
+            <label for="postcode" class="form-label">Postcode</label>
+            <input type="text" class="form-control" name="postcode" maxlength="4" required>
+          </div>
+
+          <div class="mb-3">
+            <label for="timeframe" class="form-label">When are you looking to buy?</label><br />
+            <select class="form-select form-control" name="timeframe" required>
+              <option value="">Select...</option>
+              <option>ASAP</option>
+              <option>1–3 months</option>
+              <option>3–6 months</option>
+              <option>Just researching</option>
+            </select>
+          </div>
+
+          <div class="mb-3">
+            <label for="musthaves" class="form-label">Must-Have Features (optional)</label>
+            <textarea class="form-control" name="musthaves" rows="2"></textarea>
+          </div>
+
+        </div>
+
+        <div class="modal-footer">
+          <button type="submit" class="btn btn-info btn-lg mb-4 mt-0 w-100 text-bold py-3" style="font-size: 1em;">Send My Details</button>
+          <small class="text-muted d-block mt-2">We’ll only send relevant info. No spam.</small>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+
+<script>
+document.getElementById('leadForm').addEventListener('submit', function (e) {
+  e.preventDefault();
+
+  const formData = new FormData(this);
+  const payload = {};
+  formData.forEach((value, key) => {
+    payload[key] = value;
+  });
+
+  fetch("https://hook.eu2.make.com/83gsv2quh8hvhf964ozlc5c7d55jjvmb", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+      "x-make-apikey": "Ct-Be-s_5uEESWP"
+    },
+    body: JSON.stringify(payload)
+  })
+  .then(response => {
+    if (response.ok) {
+       window.location.href = "/thank-you";
+    } else {
+      response.text().then(text => {
+        console.error("❌ Error:", response.status, text);
+        alert("❌ Submission failed. Check console.");
+      });
+    }
+  })
+  .catch(error => {
+    console.error("❌ Network Error:", error);
+    alert("❌ Could not submit form.");
+  });
+});
+</script>
+
+
+
+
 
 			</div>
 		</div>
+
+
 		
 		<div class="col-md-8 order-first order-md-last">
 			<div class="row">
@@ -94,7 +192,7 @@
 <div class="col-lg-6">
 	<span class="spanThree b-1">Value</span>
 	<p class="introPara">
-		<a href='{{ .Params.urlLink }}?referrer=caravansinaustralia-com-au' target="_blank">Click here</a> to find the best price on the market for a {{ .Title }} by {{ range .Params.categories | first 1 }}{{ . }}{{ end }}.
+		<a data-toggle="modal" data-target="#leadModal" href="#">Click here</a> to find the best price on the market for a {{ .Title }} by {{ range .Params.categories | first 1 }}{{ . }}{{ end }}.
 
 	</p>
 
@@ -363,7 +461,7 @@ Top 10 Caravans in Australia? Is it in the Top 20 Caravans in Australia? Well, t
 
 <h3 class="mt-5 mb-3">Ready to buy an {{ .Title }}?</h3>
 
-<p>Head over to <A style="text-decoration: underline;" href="{{ .Params.urlLink}}?referrer=caravansinaustralia-com-au">latest offers</A>.</p>
+<p><a data-toggle="modal" data-target="#leadModal" href="#">Register you interest now.</a></p>
  					
  			
  					{{ .Content }}
